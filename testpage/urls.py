@@ -4,4 +4,5 @@ from . import views
 
 urlpatterns = [
     url(r'^$', views.index, name='index'),
+    url(r'^(?P<poll_id>\d+)/$', views.detail, name='detail'),
 ]

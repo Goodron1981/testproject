@@ -1,4 +1,4 @@
-from django.shortcuts import render
+from django.shortcuts import get_object_or_404, render
 from  django.http import HttpResponse
 from django.shortcuts import render_to_response
 from django.http import HttpResponseRedirect
@@ -13,6 +13,8 @@ wendor = 'bus'
 def index(request):
     return render(request, 'testpage/mainpage.html', {wendor:stoper})
 
+def detail(request, poll_id):
+    return render(request, 'testpage/detail.html', {'topper': poll_id})
 
 def search_form(request):
     return render_to_response(request,'testpage/mainpage.html')
