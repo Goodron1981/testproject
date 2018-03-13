@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Стартовая страница</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+
+    <script>
+    function pub(foop){
+      console.log(foop);
+      $('.phone-filter').html('').load("{% url 'phone-filter' %}?phone=" + foop);
+    };
+    function fpub(){
+      console.log("Запуск");
+      $('.phone-filter').html('').load("{% url 'runner-filter' %}");
+    };
+</script>
+  </head>
+  <body>
+  <h2>Тут будет стартовая страница</h2>
+  <form action="" method="post" value="stop">
+      {% csrf_token %}
+    <button type="submit" name="but" value="start">Запуск скрипта</button>
+    <button type="submit" name="but" value="stop">Очистить</button>
+  </form>
+  <form>
+            <div>
+              <label>Номер:</label>
+              <input type="text" id="phone" formmethod="post" name="phone" onkeyup="pub(this.value)" placeholder="Введите номер телефона">
+            </div>
+  </form>
+  <button type="button" name="fbut" value="start" onclick="fpub()">Запуск</button>
+  <h4>{{ shuffl }}</h4>
+          <div class="phone-filter">
+            <!-- Подгружаю номера телефонов из фильтра -->
+            {% include 'runapp/phone-filter.html' %}
+          </div>
+
+  </body>
+</html>

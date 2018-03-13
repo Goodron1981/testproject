@@ -1,0 +1,14 @@
+{% if phonenumbers%}
+  <ul>
+  {% for phonenumber in phonenumbers %}
+    <li>
+      <!--<a href="{{ phonenumber.get_absolute_url }}">{{ phonenumber }}</a> -->
+      {{phonenumber.url}}
+      {{phonenumber.id}}
+      {{phonenumber.adddate}}
+    </li>
+  {% endfor %}
+  </ul>
+{% else %}
+  По вашему запросу ничего не найдено
+{% endif %}

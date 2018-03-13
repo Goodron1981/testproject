@@ -3,6 +3,14 @@ from  django.http import HttpResponse
 from django.shortcuts import render_to_response
 from django.http import HttpResponseRedirect
 from django import forms
+from testpage.models import Urls
+
+import urllib3
+from bs4 import BeautifulSoup
+import lxml
+import html5lib
+import re
+
 '''
 # Create your views here.
 def index(request):
@@ -13,8 +21,9 @@ wendor = 'bus'
 def index(request):
     return render(request, 'testpage/mainpage.html', {wendor:stoper})
 
-def detail(request, poll_id):
-    return render(request, 'testpage/detail.html', {'topper': poll_id})
+def detail(request):
+    pk=request.POST['choice']
+    return render(request, 'testpage/mainpage.html', {'topper': pk})
 
 def search_form(request):
     return render_to_response(request,'testpage/mainpage.html')
@@ -49,3 +58,62 @@ def get_name(request):
 
 class NameForm(forms.Form):
     your_name = forms.CharField(label='Your name', max_length=100)
+
+
+def get_parse(request):
+    pk=request.POST['choice']
+    c = Urls.objects.count()
+    #print(c)
+    b = Urls(num = c+1, url=pk)
+    #b.currently = "shift"
+    b.save()
+    urllib3.disable_warnings()
+    proxy = urllib3.ProxyManager('http://10.18.7.6:3128', maxsize=10)
+    page = proxy.request('GET', pk, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'})
+    trace = BeautifulSoup(page.data, "html5lib")
+    bots = trace.find_all('body')[0]
+    bebots = bots.get_text()
+    bush = bebots.lower()
+    startserch = bush.find('комментар')
+    bebots = bebots[:startserch]
+    pattern = re.compile(r'[А-Я].+[!.?]')
+    pattern2 = re.compile(r'\s{2}')
+    #sloer = re.search(r'\.', bots.get_text())
+    cholks = pattern2.split(bebots)
+    f = open('test.txt', 'w')
+    #str = "  "
+    mytext = ""
+    #print(cholks)
+    for cholk in cholks:
+        sloer = pattern.findall(cholk)
+        for mark in sloer:
+            for wen in mark:
+                if wen !='\u2192' and wen !='\xd7':
+                    mytext = mytext + wen
+            mytext = mytext + ' '
+        mytext = mytext + ' \n'
+    f.write(mytext)
+    f.close()
+    mytext = mytext.replace(".", ". ")
+    mytext = re.sub(" \d+\.", "", mytext)
+    #исправляем склеивание предложений в переносах
+    pattern3 = re.compile(r'[а-яё)][А-ЯЁ«]')
+    boki = pattern3.findall(mytext)
+    for bet in boki:
+        wix = bet[:1] + ". " + bet[1:]
+        mytext = mytext.replace(bet, wix)
+    #исправляем попадание неверных знаков
+    pattern4 = re.compile(r'[\w][^\s\w][\w]')
+    boki = pattern4.findall(mytext)
+    for bet in boki:
+        wix = bet[:2] + " " + bet[2:]
+        mytext = mytext.replace(bet, wix)
+
+    validtext = re.split(r'[.!?]', mytext)
+    pattern5 = re.compile(r'[а-яё]+')
+    group = ""
+    for peace in validtext:
+        testvalid = pattern5.findall(peace)
+        if len(testvalid)>4:
+            group = group + peace + '.'
+    return render(request, 'testpage/mainpage.html', {'topper': group, 'inval':pk})

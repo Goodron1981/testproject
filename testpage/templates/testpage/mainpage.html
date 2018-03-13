@@ -5,7 +5,11 @@
     <title>Mytestpage</title>
   </head>
   <body>
-    <h1>{{ bus }}</h1>
-    <input name="UserNameTextBox" type="text" id="UserNameTextBox" style="width:155px;">
+    <form action="testpage/vote" method="post">
+      {% csrf_token %}
+    <input type="text" name="choice" id="choice" value="{{ inval }}"/>
+<input type="submit" value="Vote" >
+</form>
+<h4>{{ topper }}</h4>
   </body>
 </html>

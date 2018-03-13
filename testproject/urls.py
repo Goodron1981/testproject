@@ -16,8 +16,15 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 from django.conf.urls import url, include
+from tutorial.views import people
+from tutorial.views import myurl
+from tutorial.views import myacaunts
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    url(r'', include('runapp.urls')),
     url(r'^testpage', include('testpage.urls')),
+    url(r'^people/', people),
+    url(r'^myurl/', myurl),
+    url(r'^testik/', myacaunts)
 ]
