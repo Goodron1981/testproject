@@ -8,7 +8,7 @@ from runapp.models import Isue
 from .tables import UrlsTable
 from .tables import AccountsTable
 from .tables import IsueTable
-#from runapp.sape.autorization import autorizen
+from runapp.rota.autorization import autorizen
 from runapp.sape.load_isue import load_isue_sape
 
 def people(request):
@@ -22,8 +22,8 @@ def myurl(request):
     return render(request, 'tutorial/people.html', {'table': table})
 
 def myacaunts(request):
-    #autorizen()
-    load_isue_sape()
+    autorizen()
+    #load_isue_sape()
     table = IsueTable(Isue.objects.all())
     RequestConfig(request).configure(table)
     return render(request, 'tutorial/people.html', {'table': table})

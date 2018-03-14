@@ -38,3 +38,17 @@ Function load_isue: 2018.03.14 17:52:37
 Нанопласт: 23722544: link: softik.net.ua: 2018-03-14 13:51:30: https://wallet.ua/c/f-suitcases/: чемоданы на колесах
 Нанопласт: 23718580: archive: mip-stroy.com.ua: 2018-03-13 15:21:23: http://tmelectro.ru/: Электропроект
 
+Function autorizen_rota: 2018.03.14 23:46:55
+Function autorizen_rota: 2018.03.14 23:47:51
+Function autorizen_rota: 2018.03.14 23:53:23
+Антон: true: 41b68ca0-4e65-4b93-9ff3-8d58fe2e8a2d
+Курко: true: 0cf7ec5f-2bc4-45de-b643-b7c5a987d6f2
+Максим: true: 4ca2ddf7-c816-4ddc-a5e7-f19ffbe9ce83
+Нанопласт: true: 811cb647-9ffb-41ac-9232-b2e2530da092
+
+Function autorizen_rota: 2018.03.15 00:02:12
+Антон: true: 41b68ca0-4e65-4b93-9ff3-8d58fe2e8a2d
+Курко: true: 0cf7ec5f-2bc4-45de-b643-b7c5a987d6f2
+Максим: true: 4ca2ddf7-c816-4ddc-a5e7-f19ffbe9ce83
+Нанопласт: true: 811cb647-9ffb-41ac-9232-b2e2530da092
+

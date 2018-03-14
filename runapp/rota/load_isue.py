@@ -10,8 +10,8 @@ def load_isue_sape():
     now = datetime.now()
     #param a дозапись
     f = open('runapp\logfile.txt', 'a')
-    f.write('Function load_isue: ' + datetime.strftime(datetime.now(), "%Y.%m.%d %H:%M:%S") + '\n')
-    url = "http://api.pr.sape.ru/xmlrpc/"
+    f.write('Function load_isue_rota: ' + datetime.strftime(datetime.now(), "%Y.%m.%d %H:%M:%S") + '\n')
+
 
     proxies = {
       'http': 'http://10.18.7.6:3128',
@@ -21,6 +21,8 @@ def load_isue_sape():
     acount_list = Accounts.objects.all()
     for user in acount_list:
         user_name = user.name
+        apikey = user.apikey_rota
+        url = "https://api.rotapost.ru/Task/Webmaster?Status=ToDo&ApiKey=" + apikey
         cookies = user.cookies_sape
         if cookies != 'None':
             #payload = "<?xml version=\"1.0\"?>\r\n<methodCall>\r\n  <methodName>sape_pr.login</methodName>\r\n  <params>\r\n    <param>\r\n        <value><string>" + token + "</string></value>\r\n    </param>\r\n  </params>\r\n</methodCall>"
