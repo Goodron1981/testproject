@@ -4,10 +4,12 @@ from .models import Person
 from .tables import PersonTable
 from testpage.models import Urls
 from testpage.models import Accounts
+from runapp.models import Isue
 from .tables import UrlsTable
 from .tables import AccountsTable
+from .tables import IsueTable
 #from runapp.sape.autorization import autorizen
-from runapp.sape.load_isue import load_isue
+from runapp.sape.load_isue import load_isue_sape
 
 def people(request):
     table = PersonTable(Person.objects.all())
@@ -21,7 +23,7 @@ def myurl(request):
 
 def myacaunts(request):
     #autorizen()
-    load_isue()
-    table = AccountsTable(Accounts.objects.all())
+    load_isue_sape()
+    table = IsueTable(Isue.objects.all())
     RequestConfig(request).configure(table)
     return render(request, 'tutorial/people.html', {'table': table})
