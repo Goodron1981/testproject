@@ -21,6 +21,7 @@ def load_isue_rota():
 
     for user in acount_list:
         user_name = user.name
+        print(user_name + '\n')
         apikey = user.apikey_rota
         if apikey != 'None':
             url = "https://api.rotapost.ru/Task/Webmaster?Status=ToDo&ApiKey=" + apikey
@@ -40,12 +41,27 @@ def load_isue_rota():
             if validate:
                 idisues = trace.find_all('id')
                 typeisues = trace.find_all('type')
+                textisues = trace.find_all('text')
                 siteisues = trace.find_all('site')
                 cuisues = trace.find_all('checkurl')
                 cdisues = trace.find_all('createdate')
                 print('\n')
-                for isue in idisue:
-                    print(isue.get_text())
+                cost = 0
+                for isue in idisues:
+                    idisue = idisues[cost].get_text()
+                    typeisue = typeisues[cost].get_text()
+                    textisue = textisues[cost].get_text()
+                    sitetisue = siteisues[cost].get_text()
+                    cuisue = cuisues[cost].get_text()
+                    cdisue = cdisues[cost].get_text()
+                    cost+=1
+
+                    print(idisue + '\n')
+                    print(typeisue + '\n')
+                    print(textisue + '\n')
+                    print(sitetisue)
+                    print(cuisue + '\n')
+                    print(cdisue + '\n\n')
                     #print(str(idisue), + '\n')
                     '''
                     isuenum = book.contents[0].find('value').get_text()
@@ -63,8 +79,5 @@ def load_isue_rota():
                     b.save()
                     f.write(user_name + ': ' + isuenum + ': ' + isuetype + ': ' + site_link + ': ' + createdate + ': ' + ancor_href + ': ' + ancor_text + '\n')
                     '''
-            else:
-                print(user_name + ': Error autorization')
-                f.write(user_name + ': Error autorization' + '\n')
     f.write('\n')
     f.close()

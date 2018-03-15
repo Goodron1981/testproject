@@ -19926,3 +19926,43 @@ django.template.base.VariableDoesNotExist: Failed lookup for key [non_field_erro
 (0.003) SELECT "django_session"."session_key", "django_session"."session_data", "django_session"."expire_date" FROM "django_session" WHERE ("django_session"."session_key" = '3imioerqtc5oa7wo9l4l98zeif08nrxa' AND "django_session"."expire_date" > '2018-03-15 18:00:24.145130'); args=('3imioerqtc5oa7wo9l4l98zeif08nrxa', '2018-03-15 18:00:24.145130')
 (0.000) SELECT "auth_user"."id", "auth_user"."password", "auth_user"."last_login", "auth_user"."is_superuser", "auth_user"."username", "auth_user"."first_name", "auth_user"."last_name", "auth_user"."email", "auth_user"."is_staff", "auth_user"."is_active", "auth_user"."date_joined" FROM "auth_user" WHERE "auth_user"."id" = 1; args=(1,)
 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+(0.000) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+(0.001) SELECT "testpage_accounts"."id", "testpage_accounts"."name", "testpage_accounts"."cookies_sape", "testpage_accounts"."token_sape", "testpage_accounts"."url_rota", "testpage_accounts"."apikey_rota", "testpage_accounts"."auth_blog", "testpage_accounts"."iduser_blog" FROM "testpage_accounts"; args=()
+(0.000) SELECT COUNT(*) AS "__count" FROM "runapp_isue"; args=()
+(0.000) SELECT "runapp_isue"."id", "runapp_isue"."num", "runapp_isue"."id_isue", "runapp_isue"."type_isue", "runapp_isue"."site_platform", "runapp_isue"."date_create", "runapp_isue"."anchor1", "runapp_isue"."anchor2", "runapp_isue"."anchor3", "runapp_isue"."anchor1_url", "runapp_isue"."anchor1_text", "runapp_isue"."check_url_rota", "runapp_isue"."blogun_isue_url", "runapp_isue"."id_campaign_blogun", "runapp_isue"."title_parse", "runapp_isue"."keywords_parse", "runapp_isue"."key_words", "runapp_isue"."img_url", "runapp_isue"."user_platform", "runapp_isue"."platform_name", "runapp_isue"."ubdate_date" FROM "runapp_isue" ORDER BY "runapp_isue"."site_platform" ASC LIMIT 7; args=()
+"GET /testik/?sort=site_platform HTTP/1.1" 200 20947
+(0.000) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+(0.000) SELECT "testpage_accounts"."id", "testpage_accounts"."name", "testpage_accounts"."cookies_sape", "testpage_accounts"."token_sape", "testpage_accounts"."url_rota", "testpage_accounts"."apikey_rota", "testpage_accounts"."auth_blog", "testpage_accounts"."iduser_blog" FROM "testpage_accounts"; args=()
+Internal Server Error: /testik/
+Traceback (most recent call last):
+  File "C:\Users\chernyahivskiy.v\AppData\Local\Programs\Python\Python36-32\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\Users\chernyahivskiy.v\AppData\Local\Programs\Python\Python36-32\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\chernyahivskiy.v\AppData\Local\Programs\Python\Python36-32\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\chernyahivskiy.v\Desktop\Тести\My_projects\testproject\tutorial\views.py", line 26, in myacaunts
+    load_isue_rota()
+  File "C:\Users\chernyahivskiy.v\Desktop\Тести\My_projects\testproject\runapp\rota\load_isue.py", line 62, in load_isue_rota
+    print(sitetisues)
+NameError: name 'sitetisues' is not defined
+(0.000) SELECT "django_session"."session_key", "django_session"."session_data", "django_session"."expire_date" FROM "django_session" WHERE ("django_session"."session_key" = '3imioerqtc5oa7wo9l4l98zeif08nrxa' AND "django_session"."expire_date" > '2018-03-15 23:50:58.610788'); args=('3imioerqtc5oa7wo9l4l98zeif08nrxa', '2018-03-15 23:50:58.610788')
+(0.000) SELECT "auth_user"."id", "auth_user"."password", "auth_user"."last_login", "auth_user"."is_superuser", "auth_user"."username", "auth_user"."first_name", "auth_user"."last_name", "auth_user"."email", "auth_user"."is_staff", "auth_user"."is_active", "auth_user"."date_joined" FROM "auth_user" WHERE "auth_user"."id" = 1; args=(1,)
+"GET /testik/?sort=site_platform HTTP/1.1" 500 78108
+(0.000) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+(0.001) SELECT "testpage_accounts"."id", "testpage_accounts"."name", "testpage_accounts"."cookies_sape", "testpage_accounts"."token_sape", "testpage_accounts"."url_rota", "testpage_accounts"."apikey_rota", "testpage_accounts"."auth_blog", "testpage_accounts"."iduser_blog" FROM "testpage_accounts"; args=()
+(0.000) SELECT COUNT(*) AS "__count" FROM "runapp_isue"; args=()
+(0.000) SELECT "runapp_isue"."id", "runapp_isue"."num", "runapp_isue"."id_isue", "runapp_isue"."type_isue", "runapp_isue"."site_platform", "runapp_isue"."date_create", "runapp_isue"."anchor1", "runapp_isue"."anchor2", "runapp_isue"."anchor3", "runapp_isue"."anchor1_url", "runapp_isue"."anchor1_text", "runapp_isue"."check_url_rota", "runapp_isue"."blogun_isue_url", "runapp_isue"."id_campaign_blogun", "runapp_isue"."title_parse", "runapp_isue"."keywords_parse", "runapp_isue"."key_words", "runapp_isue"."img_url", "runapp_isue"."user_platform", "runapp_isue"."platform_name", "runapp_isue"."ubdate_date" FROM "runapp_isue" ORDER BY "runapp_isue"."site_platform" ASC LIMIT 7; args=()
+"GET /testik/?sort=site_platform HTTP/1.1" 200 20947
