@@ -52,3 +52,124 @@ Function autorizen_rota: 2018.03.15 00:02:12
 Максим: true: 4ca2ddf7-c816-4ddc-a5e7-f19ffbe9ce83
 Нанопласт: true: 811cb647-9ffb-41ac-9232-b2e2530da092
 
+Function load_isue: 2018.03.15 10:59:17
+Максим: 23723948: link: browncat.net.ua: 2018-03-14 19:44:01: https://brain-project.online/?lang=ru: Советник форекс
+Максим: 23722972: link: fledur.org.ua: 2018-03-14 15:30:21: http://www.ochi.com.ua/silhouette: Silhouette очки
+Максим: 23722448: link: fledur.org.ua: 2018-03-14 13:31:26: http://blablabus.co.ua/category/napravleniya/kharkov-moscow: стоимость билета харьков москва
+Максим: 23722266: link: biscont.com.ua: 2018-03-14 12:47:13: http://otoplastica.com.ua/ctcat/accessory.html: отопластичні матеріали
+Максим: 23722229: link: fledur.org.ua: 2018-03-14 12:36:42: http://moneybox.kz/ru: онлайн займы алматы
+Максим: 23721534: link: fledur.org.ua: 2018-03-14 11:01:40: https://www.get-video.online/: youtube mp4 converter
+Нанопласт: 23725833: link: ekobil.com.ua: 2018-03-15 09:59:40: https://www.cqmi.fr/fr/recherche-femmes-russes: rencontre femme russe
+Нанопласт: 23725398: link: rielt.in.ua: 2018-03-15 05:01:58: http://v-obhod-blokirovki.biz/: роскомнадзора обход
+Нанопласт: 23724317: link: rielt.in.ua: 2018-03-14 22:01:37: https://seagull-plaza.net/reshetki/: решетки на окна
+Нанопласт: 23722620: link: salfetki.org.ua: 2018-03-14 14:04:50: https://marketsv.com.ua/kapelnyj-poliv/: капельный полив
+Нанопласт: 23722544: link: softik.net.ua: 2018-03-14 13:51:30: https://wallet.ua/c/f-suitcases/: чемоданы на колесах
+
+Function load_isue: 2018.03.15 10:59:44
+Максим: 23723948: link: browncat.net.ua: 2018-03-14 19:44:01: https://brain-project.online/?lang=ru: Советник форекс
+Максим: 23722972: link: fledur.org.ua: 2018-03-14 15:30:21: http://www.ochi.com.ua/silhouette: Silhouette очки
+Максим: 23722448: link: fledur.org.ua: 2018-03-14 13:31:26: http://blablabus.co.ua/category/napravleniya/kharkov-moscow: стоимость билета харьков москва
+Максим: 23722266: link: biscont.com.ua: 2018-03-14 12:47:13: http://otoplastica.com.ua/ctcat/accessory.html: отопластичні матеріали
+Максим: 23722229: link: fledur.org.ua: 2018-03-14 12:36:42: http://moneybox.kz/ru: онлайн займы алматы
+Максим: 23721534: link: fledur.org.ua: 2018-03-14 11:01:40: https://www.get-video.online/: youtube mp4 converter
+Нанопласт: 23725833: link: ekobil.com.ua: 2018-03-15 09:59:40: https://www.cqmi.fr/fr/recherche-femmes-russes: rencontre femme russe
+Нанопласт: 23725398: link: rielt.in.ua: 2018-03-15 05:01:58: http://v-obhod-blokirovki.biz/: роскомнадзора обход
+Нанопласт: 23724317: link: rielt.in.ua: 2018-03-14 22:01:37: https://seagull-plaza.net/reshetki/: решетки на окна
+Нанопласт: 23722620: link: salfetki.org.ua: 2018-03-14 14:04:50: https://marketsv.com.ua/kapelnyj-poliv/: капельный полив
+Нанопласт: 23722544: link: softik.net.ua: 2018-03-14 13:51:30: https://wallet.ua/c/f-suitcases/: чемоданы на колесах
+
+Function load_isue: 2018.03.15 11:02:05
+Максим: 23723948: link: browncat.net.ua: 2018-03-14 19:44:01: https://brain-project.online/?lang=ru: Советник форекс
+Максим: 23722972: link: fledur.org.ua: 2018-03-14 15:30:21: http://www.ochi.com.ua/silhouette: Silhouette очки
+Максим: 23722448: link: fledur.org.ua: 2018-03-14 13:31:26: http://blablabus.co.ua/category/napravleniya/kharkov-moscow: стоимость билета харьков москва
+Максим: 23722266: link: biscont.com.ua: 2018-03-14 12:47:13: http://otoplastica.com.ua/ctcat/accessory.html: отопластичні матеріали
+Максим: 23722229: link: fledur.org.ua: 2018-03-14 12:36:42: http://moneybox.kz/ru: онлайн займы алматы
+Максим: 23721534: link: fledur.org.ua: 2018-03-14 11:01:40: https://www.get-video.online/: youtube mp4 converter
+Нанопласт: 23725833: link: ekobil.com.ua: 2018-03-15 09:59:40: https://www.cqmi.fr/fr/recherche-femmes-russes: rencontre femme russe
+Нанопласт: 23725398: link: rielt.in.ua: 2018-03-15 05:01:58: http://v-obhod-blokirovki.biz/: роскомнадзора обход
+Нанопласт: 23724317: link: rielt.in.ua: 2018-03-14 22:01:37: https://seagull-plaza.net/reshetki/: решетки на окна
+Нанопласт: 23722620: link: salfetki.org.ua: 2018-03-14 14:04:50: https://marketsv.com.ua/kapelnyj-poliv/: капельный полив
+Нанопласт: 23722544: link: softik.net.ua: 2018-03-14 13:51:30: https://wallet.ua/c/f-suitcases/: чемоданы на колесах
+
+Function load_isue: 2018.03.15 11:02:15
+Максим: 23723948: link: browncat.net.ua: 2018-03-14 19:44:01: https://brain-project.online/?lang=ru: Советник форекс
+Максим: 23722972: link: fledur.org.ua: 2018-03-14 15:30:21: http://www.ochi.com.ua/silhouette: Silhouette очки
+Максим: 23722448: link: fledur.org.ua: 2018-03-14 13:31:26: http://blablabus.co.ua/category/napravleniya/kharkov-moscow: стоимость билета харьков москва
+Максим: 23722266: link: biscont.com.ua: 2018-03-14 12:47:13: http://otoplastica.com.ua/ctcat/accessory.html: отопластичні матеріали
+Максим: 23722229: link: fledur.org.ua: 2018-03-14 12:36:42: http://moneybox.kz/ru: онлайн займы алматы
+Максим: 23721534: link: fledur.org.ua: 2018-03-14 11:01:40: https://www.get-video.online/: youtube mp4 converter
+Нанопласт: 23725833: link: ekobil.com.ua: 2018-03-15 09:59:40: https://www.cqmi.fr/fr/recherche-femmes-russes: rencontre femme russe
+Нанопласт: 23725398: link: rielt.in.ua: 2018-03-15 05:01:58: http://v-obhod-blokirovki.biz/: роскомнадзора обход
+Нанопласт: 23724317: link: rielt.in.ua: 2018-03-14 22:01:37: https://seagull-plaza.net/reshetki/: решетки на окна
+Нанопласт: 23722620: link: salfetki.org.ua: 2018-03-14 14:04:50: https://marketsv.com.ua/kapelnyj-poliv/: капельный полив
+Нанопласт: 23722544: link: softik.net.ua: 2018-03-14 13:51:30: https://wallet.ua/c/f-suitcases/: чемоданы на колесах
+
+Function load_isue: 2018.03.15 12:00:01
+Нанопласт: 23726198: link: rielt.in.ua: 2018-03-15 11:42:59: https://www.mebel-vs.com.ua/product-category/шкафы-купе/: фабрика мебели шкафы купе
+Нанопласт: 23725833: link: ekobil.com.ua: 2018-03-15 09:59:40: https://www.cqmi.fr/fr/recherche-femmes-russes: rencontre femme russe
+
+Function load_isue_rota: 2018.03.15 15:02:19
+Function load_isue: 2018.03.15 15:02:25
+Курко: 23726470: link: ukravtomobil.if.ua: 2018-03-15 12:51:14: https://lainer.com.ua/catalog/instrument/elektroinstrument/shurupovyerty_setevye/: шуруповерт сетевой оптом
+Курко: 23726465: link: buyheavenlyspot.com.ua: 2018-03-15 12:49:34: https://lainer.com.ua/catalog/instrument/elektroinstrument/ugloshlifmashinki/: купить углошлифмашинку оптом
+Максим: 23726803: link: fledur.org.ua: 2018-03-15 14:21:53: http://www.fragola.com.ua/: подробнее
+Максим: 23726474: link: ve4e.com.ua: 2018-03-15 12:53:08: https://lainer.com.ua/catalog/instrument/elektroinstrument/dreli/: электродрель купить в украине недорого
+Максим: 23726472: link: druzhba-lux.com.ua: 2018-03-15 12:52:03: https://lainer.com.ua/catalog/instrument/elektroinstrument/shurupovyerty_setevye/: купить шуруповерт оптом
+Нанопласт: 23726198: link: rielt.in.ua: 2018-03-15 11:42:59: https://www.mebel-vs.com.ua/product-category/шкафы-купе/: фабрика мебели шкафы купе
+Нанопласт: 23725833: link: ekobil.com.ua: 2018-03-15 09:59:40: https://www.cqmi.fr/fr/recherche-femmes-russes: rencontre femme russe
+
+Function load_isue_rota: 2018.03.15 15:08:18
+Function load_isue_rota: 2018.03.15 15:49:45
+Function load_isue_rota: 2018.03.15 15:50:56
+Function load_isue_rota: 2018.03.15 15:54:37
+Function load_isue_rota: 2018.03.15 15:57:08
+Function load_isue_rota: 2018.03.15 15:57:59
+Function load_isue_rota: 2018.03.15 15:59:13
+Function load_isue_rota: 2018.03.15 15:59:42
+Function load_isue_rota: 2018.03.15 16:00:22
+
+Function load_isue_rota: 2018.03.15 16:25:19
+
+Function load_isue_rota: 2018.03.15 16:26:34
+
+Function load_isue_rota: 2018.03.15 16:27:55
+Function load_isue_rota: 2018.03.15 16:30:10
+Function load_isue_rota: 2018.03.15 16:33:33
+Function load_isue_rota: 2018.03.15 16:34:15
+Function load_isue_rota: 2018.03.15 16:35:12
+Function load_isue_rota: 2018.03.15 16:37:47
+Function load_isue_rota: 2018.03.15 16:38:32
+Function load_isue_rota: 2018.03.15 16:39:12
+
+Function load_isue_rota: 2018.03.15 16:43:55
+Function load_isue_rota: 2018.03.15 16:44:41
+Function load_isue_rota: 2018.03.15 16:45:12
+Function load_isue_rota: 2018.03.15 16:45:33
+Function load_isue_rota: 2018.03.15 16:45:55
+Function load_isue_rota: 2018.03.15 16:46:25
+Function load_isue_rota: 2018.03.15 16:47:02
+Function load_isue_rota: 2018.03.15 16:47:57
+
+Function load_isue_rota: 2018.03.15 16:50:14
+Function load_isue_rota: 2018.03.15 16:50:51
+Function load_isue_rota: 2018.03.15 16:51:28
+Function load_isue_rota: 2018.03.15 16:52:02
+Function load_isue_rota: 2018.03.15 16:52:28
+Function load_isue_rota: 2018.03.15 16:53:54
+Function load_isue_rota: 2018.03.15 16:54:36
+
+Function load_isue_rota: 2018.03.15 16:56:17
+
+Function load_isue_rota: 2018.03.15 16:57:53
+
+Function load_isue_rota: 2018.03.15 17:00:03
+Function load_isue_rota: 2018.03.15 17:09:05
+
+Function load_isue_rota: 2018.03.15 17:12:12
+
+Function load_isue_rota: 2018.03.15 17:12:46
+
+Function load_isue_rota: 2018.03.15 17:13:51
+
+Function load_isue_rota: 2018.03.15 17:14:47
+
