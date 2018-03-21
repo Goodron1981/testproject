@@ -23,8 +23,8 @@ def myurl(request):
 
 def myacaunts(request):
     #autorizen()
-    load_isue_rota()
-    #load_isue_sape()
+    #load_isue_rota()
+    load_isue_sape()
     table = IsueTable(Isue.objects.all())
     RequestConfig(request).configure(table)
     return render(request, 'tutorial/people.html', {'table': table})

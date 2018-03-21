@@ -54,30 +54,24 @@ def load_isue_rota():
                     sitetisue = siteisues[cost].get_text()
                     cuisue = cuisues[cost].get_text()
                     cdisue = cdisues[cost].get_text()
-                    cost+=1
+                    if typeisue == "Postovoi":
+                        starturl = textisue.find('href="') + 6
+                        finurl = textisue.find('"', starturl)
+                        ancor_href = textisue[starturl:finurl]
 
-                    print(idisue + '\n')
-                    print(typeisue + '\n')
-                    print(textisue + '\n')
-                    print(sitetisue)
-                    print(cuisue + '\n')
-                    print(cdisue + '\n\n')
-                    #print(str(idisue), + '\n')
-                    '''
-                    isuenum = book.contents[0].find('value').get_text()
-                    isuetype = book.contents[1].find('value').get_text()
-                    site_link = book.contents[3].find('value').get_text()
-                    createdate = book.contents[23].find('value').get_text()
-                    ancor_href = book.contents[5].find('struct').contents[1].find('value').get_text()
-                    ancor_text = book.contents[5].find('struct').contents[2].find('value').get_text()
-                    ancor_tag = '<a href="'+ ancor_href +'">' + ancor_text + '</a>'
+                        starttext = textisue.find('>') + 1
+                        fintext = textisue.find('</a>', starttext)
+                        ancor_text = textisue[starttext:fintext]
+                    else:
+                        ancor_href = "None"
+                        ancor_text = "None"
+                    if cdisue:
+                        cdisue = "None"
+                    cost+=1
                     c = Isue.objects.count()
-                    #print(c)
-                    #site_link = site_link.split('//')[1]
-                    b = Isue(num = c+1, id_isue = isuenum, type_isue = isuetype, site_platform = site_link, date_create = createdate, anchor1 = ancor_tag, anchor1_url = ancor_href, anchor1_text = ancor_text, user_platform = user_name, platform_name = 'Sape')
-                    #b.currently = "shift"
+                    b = Isue(num = c+1, id_isue = idisue, type_isue = typeisue, site_platform = sitetisue, date_create = cdisue, anchor1 = textisue, anchor1_url = ancor_href, anchor1_text = ancor_text, check_url_rota = cuisue, user_platform = user_name, platform_name = 'Rota')
+
                     b.save()
-                    f.write(user_name + ': ' + isuenum + ': ' + isuetype + ': ' + site_link + ': ' + createdate + ': ' + ancor_href + ': ' + ancor_text + '\n')
-                    '''
+                    f.write(user_name + ': ' + idisue + ': ' + typeisue + ': ' + sitetisue + ': ' + cdisue + ': ' + ancor_href + ': ' + ancor_text + '\n')
     f.write('\n')
     f.close()
