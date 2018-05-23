@@ -239,3 +239,18 @@ Function load_isue: 2018.03.21 16:31:56
 Максим: 23726503: link: fledur.org.ua: 2018-03-15 13:01:20: https://karapuzov.com.ua/: товары для детей
 Нанопласт: 23747242: link: hodos.kharkov.ua: 2018-03-21 11:19:26: https://toprope.com.ua/ua/: Top Rope
 
+Function autorizen: 2018.03.23 23:49:51
+Курко: 1425070: PR=79122c144dff5849ea48d4b1d447156b:34abec67799d3b822d62780c42819e17cbd895f0; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=4a3bfec9f19bc3057b094cb8bb4ddca7:f2836b10205f89804febfce07346ec1be60f9171; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=9fc8f8287e41e3cdc291856fd3f1fc0d:4c01da2a7a67f3545588ce2b35d0c7cdb20951c4; path=/; domain=api.pr.sape.ru
+
+Function load_isue: 2018.03.23 23:49:51
+
+Function load_isue: 2018.03.23 23:49:53
+Максим: 23756387: review: druzhba-lux.com.ua: 2018-03-23 16:20:03: http://scratch.ua/: http://scratch.ua/
+Нанопласт: 23748226: link: tellall.kiev.ua: 2018-03-21 14:30:38: https://www.granddoor.com.ua/: салон дверей львів
+
+Function load_isue: 2018.03.23 23:51:42
+Максим: 23756387: review: druzhba-lux.com.ua: 2018-03-23 16:20:03: http://scratch.ua/: http://scratch.ua/
+Нанопласт: 23748226: link: tellall.kiev.ua: 2018-03-21 14:30:38: https://www.granddoor.com.ua/: салон дверей львів
+

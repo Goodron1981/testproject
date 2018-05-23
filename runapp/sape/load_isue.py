@@ -12,12 +12,13 @@ def load_isue_sape():
     f = open('runapp\logfile.txt', 'a')
     f.write('Function load_isue: ' + datetime.strftime(datetime.now(), "%Y.%m.%d %H:%M:%S") + '\n')
     url = "http://api.pr.sape.ru/xmlrpc/"
-
+    '''''
     proxies = {
         'http': 'http://10.18.7.6:3128',
         'https': 'http://10.18.7.6:3128',
     }
-
+    '''''
+    proxies = {}
     acount_list = Accounts.objects.all()
     for user in acount_list:
         user_name = user.name
