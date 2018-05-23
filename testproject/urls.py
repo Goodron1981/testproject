@@ -18,7 +18,8 @@ from django.urls import path
 from django.conf.urls import url, include
 from tutorial.views import people
 from tutorial.views import myurl
-from tutorial.views import myacaunts
+from tutorial.views import load, getcotent, reloadkey
+from tutorial.views import closeisues
 
 urlpatterns = [
     path('admin/', admin.site.urls),
@@ -26,5 +27,8 @@ urlpatterns = [
     url(r'^testpage', include('testpage.urls')),
     url(r'^people/', people),
     url(r'^myurl/', myurl),
-    url(r'^testik/', myacaunts)
+    url(r'^loadisue/$', load),
+    url(r'^getcontent/$', getcotent),
+    url(r'^keyload/$', reloadkey),
+    url(r'^closed/$', closeisues)
 ]

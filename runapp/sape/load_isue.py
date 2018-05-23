@@ -18,10 +18,11 @@ def load_isue_sape():
         'https': 'http://10.18.7.6:3128',
     }
 
-    acount_list = Accounts.objects.all()
-    for user in acount_list:
+    account_list = Accounts.objects.all()
+    for user in account_list:
         user_name = user.name
-        cookies = user.cookies_sape
+        my_test = Accounts.objects.get(name=user_name)
+        cookies = my_test.cookies_sape
         if cookies != 'None':
             # payload = "<?xml version=\"1.0\"?>\r\n<methodCall>\r\n  <methodName>sape_pr.login</methodName>\r\n  <params>\r\n    <param>\r\n        <value><string>" + token + "</string></value>\r\n    </param>\r\n  </params>\r\n</methodCall>"
             payload = "<?xml version=\"1.0\"?>\r\n<methodCall>\r\n  <methodName>sape_pr.site.adverts</methodName>\r\n  <params>\r\n    <param>\r\n        <value><struct><member><name>status_codes</name><value><int>5</int></value>\r\n    </member></struct></value>\r\n  </param>\r\n  <param><value><int>1</int></value>\r\n  </param>\r\n  </params>\r\n</methodCall>"
@@ -41,9 +42,12 @@ def load_isue_sape():
             test = trace.find('fault')
             if test:
                 autorizen()
-                f.write('\n')
-                f.close()
-                load_isue_sape()
+                my_test = Accounts.objects.get(name=user_name)
+                cookies = my_test.cookies_sape
+                headers['Cookie'] = cookies
+                response = requests.post(url=url, data=payload, headers=headers, proxies=proxies)
+                trace = BeautifulSoup(response.text, "xml")
+
             root = trace.find_all('data')[0]
             isuecount = root.contents
             for isue in isuecount:
@@ -58,12 +62,16 @@ def load_isue_sape():
                 c = Isue.objects.count()
                 # print(c)
                 site_link = site_link.split('//')[1]
-                b = Isue(num=c + 1, id_isue=isuenum, type_isue=isuetype, site_platform=site_link,
-                         date_create=createdate, anchor1=ancor_tag, anchor1_url=ancor_href, anchor1_text=ancor_text,
-                         user_platform=user_name, platform_name='Sape')
-                # b.currently = "shift"
-                b.save()
-                f.write(
-                    user_name + ': ' + isuenum + ': ' + isuetype + ': ' + site_link + ': ' + createdate + ': ' + ancor_href + ': ' + ancor_text + '\n')
+                second_test = Isue.objects.filter(platform_name='Sape').filter(id_isue=isuenum)
+                if not second_test:
+                    b = Isue(num=c + 1, id_isue=isuenum, type_isue=isuetype, site_platform=site_link,
+                             date_create=createdate, anchor1=ancor_tag, anchor1_url=ancor_href, anchor1_text=ancor_text,
+                             user_platform=user_name, platform_name='Sape')
+                    if site_link == 'nanoplast.com.ua':
+                        b.status_isue = 'Reword'
+                    # b.currently = "shift"
+                    b.save()
+                    f.write(
+                        user_name + ': ' + isuenum + ': ' + isuetype + ': ' + site_link + ': ' + createdate + ': ' + ancor_href + ': ' + ancor_text + '\n')
     f.write('\n')
     f.close()

@@ -239,3 +239,1590 @@ Function load_isue: 2018.03.21 16:31:56
 Максим: 23726503: link: fledur.org.ua: 2018-03-15 13:01:20: https://karapuzov.com.ua/: товары для детей
 Нанопласт: 23747242: link: hodos.kharkov.ua: 2018-03-21 11:19:26: https://toprope.com.ua/ua/: Top Rope
 
+Function load_isue: 2018.03.22 14:27:17
+Function autorizen: 2018.03.22 15:15:55
+Курко: 1425070: PR=aaec5af43cbace2bba55bf04bb8accf7:6c9c9188e6ef2c1b71e3274850ab6971c3158539; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=7581d18ef4463d75152957d6d51337d9:0694eeca43447c6f7a0214509b3669b98846aa52; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=a8fe6d747ade1106e183d444a007e0e8:fbb411bbfb52500a82250c78a9848430fe7af134; path=/; domain=api.pr.sape.ru
+
+Function load_isue: 2018.03.22 15:15:05
+Курко: 23751927: link: patriarh.in.ua: 2018-03-22 13:12:24: https://bondarnya.com/kupeli-dlja-bani/: купель для бани
+Максим: 23751607: link: opalkova.com.ua: 2018-03-22 12:19:05: https://blossomshop.com.ua/: blossomshop.com.ua
+Максим: 23751367: link: fledur.org.ua: 2018-03-22 10:30:43: https://siivous-palvelut.fi/toimistosiivous.html: toimistosiivous
+Нанопласт: 23747242: link: hodos.kharkov.ua: 2018-03-21 11:19:26: https://toprope.com.ua/ua/: Top Rope
+
+Function load_isue_rota: 2018.03.22 16:43:44
+Function autorizen_rota: 2018.03.22 16:47:33
+Антон: true: 2db36b1c-afab-4fbe-93ef-ed62c83177dd
+Курко: true: 3d12756a-2106-4463-95d4-4f604bf9b202
+Максим: true: ae377ad5-07c9-4995-9bb1-90355751f2ab
+Нанопласт: true: 0ceb26a2-8c6a-48b7-ac54-ebdfa802278d
+
+Function load_isue_rota: 2018.03.22 16:47:08
+Function load_isue_rota: 2018.03.22 17:14:41
+Function load_isue_rota: 2018.03.22 17:21:52
+Function load_isue_rota: 2018.03.22 17:29:07
+Курко: 28635468: PressRelease: xn--90afsemmyc.com.ua: 2018-03-21T09:44:33: None: None
+Курко: 28636937: Postovoi: frontier.net.ua: 2018-03-22T11:46:46: https://erudyt.com.ua/ua/plakat-pol-s-kij-alfavit-pip.html: https://erudyt.com.ua/ua/plakat-pol-s-kij-alfavit-pip.html
+Курко: 28636897: Postovoi: patriarh.in.ua: 2018-03-22T11:33:25: http://profyparty.kiev.ua/master-klass/master-klass-pisanka.html: мастер класс на Пасху в Киеве
+Максим: 28629277: Post: fledur.org.ua: 2018-03-15T10:50:35: None: None
+Максим: 28633272: Post: fledur.org.ua: 2018-03-19T11:34:45: None: None
+Максим: 28633875: Post: fledur.org.ua: 2018-03-19T23:37:41: None: None
+Максим: 28634649: Post: 4da.org.ua: 2018-03-20T16:28:00: None: None
+Максим: 28634379: Post: dveroman.kiev.ua: 2018-03-20T12:48:18: None: None
+Максим: 28635543: PressRelease: ve4e.com.ua: 2018-03-21T10:48:19: None: None
+Максим: 28635504: PressRelease: upu.org.ua: 2018-03-21T09:44:38: None: None
+Нанопласт: 28635839: Postovoi: hodos.kharkov.ua: 2018-03-21T12:22:15: http://niki-wedding.com/ru/ceremonii/oficialnaya-ceremonia/region-veneto/svadba-v-venecii: свадьба в венеции
+Нанопласт: 28635890: Postovoi: mip-stroy.com.ua: 2018-03-21T12:22:21: http://www.eliteplast.ru/lodzhiibalkon: остекление лоджий тамбов
+Нанопласт: 28636481: Postovoi: mip-stroy.com.ua: 2018-03-21T19:35:22: http://www.high-voltage.com.ua/category/izmeritelnye-transformatory: трансформатор напряжения
+Нанопласт: 28636596: Postovoi: mip-stroy.com.ua: 2018-03-22T00:47:48: http://sun.zt.ua/: сонячні батареї для будинку ціна
+Нанопласт: 28636606: Postovoi: hodos.kharkov.ua: 2018-03-22T00:47:49: http://sun.zt.ua/sonyachna-stanciya-gotovi-objekty: готові сонячні станції
+Нанопласт: 28636938: Postovoi: ua-games.com.ua: 2018-03-22T11:46:46: https://erudyt.com.ua/ru/asadov-eduard.html: https://erudyt.com.ua/ru/asadov-eduard.html
+Нанопласт: 28636914: Postovoi: thetech.com.ua: 2018-03-22T11:43:51: https://1knq.com/seo-sem-optimizatsiya-i-poiskovoe-prodvizhenie-sajtov/: https://1knq.com/seo-sem-optimizatsiya-i-poiskovoe-prodvizhenie-sajtov/
+Нанопласт: 28636916: Postovoi: orangecat.net.ua: 2018-03-22T11:43:51: https://1knq.com/razrabotka-sajtov/: https://1knq.com/razrabotka-sajtov/
+Нанопласт: 28636910: Postovoi: programer.org.ua: 2018-03-22T11:40:43: https://1knq.com/razrabotka-sajtov/: https://1knq.com/razrabotka-sajtov/
+Нанопласт: 28636898: Postovoi: playman.com.ua: 2018-03-22T11:33:25: http://profyparty.kiev.ua/master-klass.html: Профи Пати
+Нанопласт: 28636899: Postovoi: tropic.od.ua: 2018-03-22T11:33:25: http://profyparty.kiev.ua/foto/fotograf-dla-detei.html: фотограф на детский праздник в Киеве
+Нанопласт: 28636901: Postovoi: hodos.kharkov.ua: 2018-03-22T11:33:25: http://profyparty.kiev.ua/master-klass.html: мастер классы по рукоделию на сайте Профи Пати
+Нанопласт: 28636871: Postovoi: mip-stroy.com.ua: 2018-03-22T10:56:44: http://dzpo.com.ua/ven-dum.html: дымососы Украина
+Нанопласт: 28636934: Postovoi: slonoff.net.ua: 2018-03-22T11:44:47: https://erudyt.com.ua/ru/russko-pol-skij-razgovornik-izd-arij.html: https://erudyt.com.ua/ru/russko-pol-skij-razgovornik-izd-arij.html
+Нанопласт: 28636912: Postovoi: mylink.org.ua: 2018-03-22T11:42:50: https://1knq.com/seo-sem-optimizatsiya-i-poiskovoe-prodvizhenie-sajtov/: https://1knq.com/seo-sem-optimizatsiya-i-poiskovoe-prodvizhenie-sajtov/
+Нанопласт: 28636896: Postovoi: oscar.donetsk.ua: 2018-03-22T11:33:25: http://profyparty.kiev.ua/master-klass.html: если интересуют мастер классы в Киеве
+Нанопласт: 28636915: Postovoi: softik.net.ua: 2018-03-22T11:43:51: https://1knq.com/: «K&Q» Creative Group
+Нанопласт: 28636902: Postovoi: zvonkov.net.ua: 2018-03-22T11:33:26: http://profyparty.kiev.ua/master-klass.html: на сайте от кампании Профи Пати
+Нанопласт: 28636900: Postovoi: shiva.net.ua: 2018-03-22T11:33:25: http://profyparty.kiev.ua/master-klass.html: мастер-класс для детей
+Нанопласт: 28637030: Post: ndua.org.ua: 2018-03-22T12:27:36: None: None
+Нанопласт: 28637034: Post: bigmoney.kiev.ua: 2018-03-22T12:27:36: None: None
+Нанопласт: 28637362: Postovoi: myiphone.net.ua: 2018-03-22T16:25:40: https://www.mobilife.com.ua: Мобилайф
+Нанопласт: 28637420: Postovoi: mip-stroy.com.ua: 2018-03-22T17:37:20: https://evrosto.net/: evrosto.net
+Нанопласт: 28637421: Postovoi: euro-m.kharkov.ua: 2018-03-22T17:37:20: https://evrosto.net/: шиномонтажное оборудование ЕвроСТО
+
+Function load_isue_rota: 2018.03.22 17:38:02
+Курко: 28635468: PressRelease: xn--90afsemmyc.com.ua: 2018-03-21T09:44:33: None: None
+Курко: 28636937: Postovoi: frontier.net.ua: 2018-03-22T11:46:46: https://erudyt.com.ua/ua/plakat-pol-s-kij-alfavit-pip.html: https://erudyt.com.ua/ua/plakat-pol-s-kij-alfavit-pip.html
+Курко: 28636897: Postovoi: patriarh.in.ua: 2018-03-22T11:33:25: http://profyparty.kiev.ua/master-klass/master-klass-pisanka.html: мастер класс на Пасху в Киеве
+Максим: 28629277: Post: fledur.org.ua: 2018-03-15T10:50:35: None: None
+Максим: 28633272: Post: fledur.org.ua: 2018-03-19T11:34:45: None: None
+Максим: 28633875: Post: fledur.org.ua: 2018-03-19T23:37:41: None: None
+Максим: 28634649: Post: 4da.org.ua: 2018-03-20T16:28:00: None: None
+Максим: 28634379: Post: dveroman.kiev.ua: 2018-03-20T12:48:18: None: None
+Максим: 28635543: PressRelease: ve4e.com.ua: 2018-03-21T10:48:19: None: None
+Максим: 28635504: PressRelease: upu.org.ua: 2018-03-21T09:44:38: None: None
+Нанопласт: 28635839: Postovoi: hodos.kharkov.ua: 2018-03-21T12:22:15: http://niki-wedding.com/ru/ceremonii/oficialnaya-ceremonia/region-veneto/svadba-v-venecii: свадьба в венеции
+Нанопласт: 28635890: Postovoi: mip-stroy.com.ua: 2018-03-21T12:22:21: http://www.eliteplast.ru/lodzhiibalkon: остекление лоджий тамбов
+Нанопласт: 28636481: Postovoi: mip-stroy.com.ua: 2018-03-21T19:35:22: http://www.high-voltage.com.ua/category/izmeritelnye-transformatory: трансформатор напряжения
+Нанопласт: 28636596: Postovoi: mip-stroy.com.ua: 2018-03-22T00:47:48: http://sun.zt.ua/: сонячні батареї для будинку ціна
+Нанопласт: 28636606: Postovoi: hodos.kharkov.ua: 2018-03-22T00:47:49: http://sun.zt.ua/sonyachna-stanciya-gotovi-objekty: готові сонячні станції
+Нанопласт: 28636938: Postovoi: ua-games.com.ua: 2018-03-22T11:46:46: https://erudyt.com.ua/ru/asadov-eduard.html: https://erudyt.com.ua/ru/asadov-eduard.html
+Нанопласт: 28636914: Postovoi: thetech.com.ua: 2018-03-22T11:43:51: https://1knq.com/seo-sem-optimizatsiya-i-poiskovoe-prodvizhenie-sajtov/: https://1knq.com/seo-sem-optimizatsiya-i-poiskovoe-prodvizhenie-sajtov/
+Нанопласт: 28636916: Postovoi: orangecat.net.ua: 2018-03-22T11:43:51: https://1knq.com/razrabotka-sajtov/: https://1knq.com/razrabotka-sajtov/
+Нанопласт: 28636910: Postovoi: programer.org.ua: 2018-03-22T11:40:43: https://1knq.com/razrabotka-sajtov/: https://1knq.com/razrabotka-sajtov/
+Нанопласт: 28636898: Postovoi: playman.com.ua: 2018-03-22T11:33:25: http://profyparty.kiev.ua/master-klass.html: Профи Пати
+Нанопласт: 28636899: Postovoi: tropic.od.ua: 2018-03-22T11:33:25: http://profyparty.kiev.ua/foto/fotograf-dla-detei.html: фотограф на детский праздник в Киеве
+Нанопласт: 28636901: Postovoi: hodos.kharkov.ua: 2018-03-22T11:33:25: http://profyparty.kiev.ua/master-klass.html: мастер классы по рукоделию на сайте Профи Пати
+Нанопласт: 28636871: Postovoi: mip-stroy.com.ua: 2018-03-22T10:56:44: http://dzpo.com.ua/ven-dum.html: дымососы Украина
+Нанопласт: 28636934: Postovoi: slonoff.net.ua: 2018-03-22T11:44:47: https://erudyt.com.ua/ru/russko-pol-skij-razgovornik-izd-arij.html: https://erudyt.com.ua/ru/russko-pol-skij-razgovornik-izd-arij.html
+Нанопласт: 28636912: Postovoi: mylink.org.ua: 2018-03-22T11:42:50: https://1knq.com/seo-sem-optimizatsiya-i-poiskovoe-prodvizhenie-sajtov/: https://1knq.com/seo-sem-optimizatsiya-i-poiskovoe-prodvizhenie-sajtov/
+Нанопласт: 28636896: Postovoi: oscar.donetsk.ua: 2018-03-22T11:33:25: http://profyparty.kiev.ua/master-klass.html: если интересуют мастер классы в Киеве
+Нанопласт: 28636915: Postovoi: softik.net.ua: 2018-03-22T11:43:51: https://1knq.com/: «K&Q» Creative Group
+Нанопласт: 28636902: Postovoi: zvonkov.net.ua: 2018-03-22T11:33:26: http://profyparty.kiev.ua/master-klass.html: на сайте от кампании Профи Пати
+Нанопласт: 28636900: Postovoi: shiva.net.ua: 2018-03-22T11:33:25: http://profyparty.kiev.ua/master-klass.html: мастер-класс для детей
+Нанопласт: 28637030: Post: ndua.org.ua: 2018-03-22T12:27:36: None: None
+Нанопласт: 28637034: Post: bigmoney.kiev.ua: 2018-03-22T12:27:36: None: None
+Нанопласт: 28637362: Postovoi: myiphone.net.ua: 2018-03-22T16:25:40: https://www.mobilife.com.ua: Мобилайф
+Нанопласт: 28637420: Postovoi: mip-stroy.com.ua: 2018-03-22T17:37:20: https://evrosto.net/: evrosto.net
+Нанопласт: 28637421: Postovoi: euro-m.kharkov.ua: 2018-03-22T17:37:20: https://evrosto.net/: шиномонтажное оборудование ЕвроСТО
+
+Function load_isue_rota: 2018.03.23 00:05:37
+
+Function load_isue_rota: 2018.03.23 00:13:24
+
+Function load_isue_rota: 2018.03.23 09:59:43
+
+Function load_isue_rota: 2018.03.23 10:02:45
+Курко: 28636937: Postovoi: frontier.net.ua: 2018-03-22T11:46:46: https://erudyt.com.ua/ua/plakat-pol-s-kij-alfavit-pip.html: https://erudyt.com.ua/ua/plakat-pol-s-kij-alfavit-pip.html
+Курко: 28636897: Postovoi: patriarh.in.ua: 2018-03-22T11:33:25: http://profyparty.kiev.ua/master-klass/master-klass-pisanka.html: мастер класс на Пасху в Киеве
+Максим: 28633272: Post: fledur.org.ua: 2018-03-19T11:34:45: None: None
+Максим: 28633875: Post: fledur.org.ua: 2018-03-19T23:37:41: None: None
+Максим: 28634649: Post: 4da.org.ua: 2018-03-20T16:28:00: None: None
+Максим: 28634379: Post: dveroman.kiev.ua: 2018-03-20T12:48:18: None: None
+Максим: 28635543: PressRelease: ve4e.com.ua: 2018-03-21T10:48:19: None: None
+Максим: 28635504: PressRelease: upu.org.ua: 2018-03-21T09:44:38: None: None
+Нанопласт: 28636938: Postovoi: ua-games.com.ua: 2018-03-22T11:46:46: https://erudyt.com.ua/ru/asadov-eduard.html: https://erudyt.com.ua/ru/asadov-eduard.html
+Нанопласт: 28636914: Postovoi: thetech.com.ua: 2018-03-22T11:43:51: https://1knq.com/seo-sem-optimizatsiya-i-poiskovoe-prodvizhenie-sajtov/: https://1knq.com/seo-sem-optimizatsiya-i-poiskovoe-prodvizhenie-sajtov/
+Нанопласт: 28636916: Postovoi: orangecat.net.ua: 2018-03-22T11:43:51: https://1knq.com/razrabotka-sajtov/: https://1knq.com/razrabotka-sajtov/
+Нанопласт: 28636910: Postovoi: programer.org.ua: 2018-03-22T11:40:43: https://1knq.com/razrabotka-sajtov/: https://1knq.com/razrabotka-sajtov/
+Нанопласт: 28636898: Postovoi: playman.com.ua: 2018-03-22T11:33:25: http://profyparty.kiev.ua/master-klass.html: Профи Пати
+Нанопласт: 28636899: Postovoi: tropic.od.ua: 2018-03-22T11:33:25: http://profyparty.kiev.ua/foto/fotograf-dla-detei.html: фотограф на детский праздник в Киеве
+Нанопласт: 28636901: Postovoi: hodos.kharkov.ua: 2018-03-22T11:33:25: http://profyparty.kiev.ua/master-klass.html: мастер классы по рукоделию на сайте Профи Пати
+Нанопласт: 28636871: Postovoi: mip-stroy.com.ua: 2018-03-22T10:56:44: http://dzpo.com.ua/ven-dum.html: дымососы Украина
+Нанопласт: 28636934: Postovoi: slonoff.net.ua: 2018-03-22T11:44:47: https://erudyt.com.ua/ru/russko-pol-skij-razgovornik-izd-arij.html: https://erudyt.com.ua/ru/russko-pol-skij-razgovornik-izd-arij.html
+Нанопласт: 28636912: Postovoi: mylink.org.ua: 2018-03-22T11:42:50: https://1knq.com/seo-sem-optimizatsiya-i-poiskovoe-prodvizhenie-sajtov/: https://1knq.com/seo-sem-optimizatsiya-i-poiskovoe-prodvizhenie-sajtov/
+Нанопласт: 28636896: Postovoi: oscar.donetsk.ua: 2018-03-22T11:33:25: http://profyparty.kiev.ua/master-klass.html: если интересуют мастер классы в Киеве
+Нанопласт: 28636915: Postovoi: softik.net.ua: 2018-03-22T11:43:51: https://1knq.com/: «K&Q» Creative Group
+Нанопласт: 28636902: Postovoi: zvonkov.net.ua: 2018-03-22T11:33:26: http://profyparty.kiev.ua/master-klass.html: на сайте от кампании Профи Пати
+Нанопласт: 28636900: Postovoi: shiva.net.ua: 2018-03-22T11:33:25: http://profyparty.kiev.ua/master-klass.html: мастер-класс для детей
+Нанопласт: 28637030: Post: ndua.org.ua: 2018-03-22T12:27:36: None: None
+Нанопласт: 28637034: Post: bigmoney.kiev.ua: 2018-03-22T12:27:36: None: None
+Нанопласт: 28637362: Postovoi: myiphone.net.ua: 2018-03-22T16:25:40: https://www.mobilife.com.ua: Мобилайф
+Нанопласт: 28637420: Postovoi: mip-stroy.com.ua: 2018-03-22T17:37:20: https://evrosto.net/: evrosto.net
+Нанопласт: 28637421: Postovoi: euro-m.kharkov.ua: 2018-03-22T17:37:20: https://evrosto.net/: шиномонтажное оборудование ЕвроСТО
+
+Function load_isue: 2018.03.23 10:23:01
+Курко: 23751927: link: patriarh.in.ua: 2018-03-22 13:12:24: https://bondarnya.com/kupeli-dlja-bani/: купель для бани
+Максим: 23754228: link: fledur.org.ua: 2018-03-23 02:38:20: https://ukrceny.com.ua/: доска объявлений
+Максим: 23753755: link: fledur.org.ua: 2018-03-22 21:33:37: https://athletic24.com.ua/vinstrol.html: Винстрол
+Максим: 23752587: link: fledur.org.ua: 2018-03-22 15:31:02: https://kafael.kz/: электротовары в алматы
+Максим: 23751607: link: opalkova.com.ua: 2018-03-22 12:19:05: https://blossomshop.com.ua/: blossomshop.com.ua
+Максим: 23751367: link: fledur.org.ua: 2018-03-22 10:30:43: https://siivous-palvelut.fi/toimistosiivous.html: toimistosiivous
+Нанопласт: 23754474: link: rielt.in.ua: 2018-03-23 05:07:39: http://varios.pw/index.php?/topic/45-продам-айфоны-и-ноутбуки-за-40-от-номинала/page__st__80#entry19249: майнинг ферма
+Нанопласт: 23754472: link: rielt.in.ua: 2018-03-23 05:07:38: http://varios.pw/: работа по обналу карт без предоплаты
+Нанопласт: 23754448: link: e-putivka.com.ua: 2018-03-23 05:06:46: http://www.cruiz.info/new.php?id=916: Круизы на пароме Принцесса Анастасия
+Нанопласт: 23754188: link: telopa.com.ua: 2018-03-23 01:50:52: http://varios.biz/index.php?/topic/729-подбор-кредитного-донора-для-вас/page__st__20__p__17295#entry17295: оформление кредита с плохой ки
+Нанопласт: 23754185: link: telopa.com.ua: 2018-03-23 01:50:51: http://varios.biz/index.php?/topic/600-продам-фальшивые-купюры-высокого-качества/page__p__2668#entry2668: купить пятитысячные фальшивки
+Нанопласт: 23754179: link: telopa.com.ua: 2018-03-23 01:50:48: http://varios.biz/: ввх форум кардинг
+Нанопласт: 23728983: link: softik.net.ua: 2018-03-16 01:02:24: http://articard.com.ua/: охранная фирма
+
+Function load_isue: 2018.03.23 10:24:27
+
+Function load_isue: 2018.03.23 10:25:41
+
+Function autorizen: 2018.03.26 11:44:54
+Курко: 1425070: PR=7d47d3311dce52cccc08504c3c22764d:5479026aeacdd6236415823ea99e2db834bf18a5; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=2677d80903a161edeec61c010fab0675:4ece3573f9d2f93a5c5ebedff4bfd589016da145; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=839dc6e29d90f973fcd380ab7b627f77:6568258bd7d2839f8a81f2b5e894ec65deb76007; path=/; domain=api.pr.sape.ru
+
+Function load_isue: 2018.03.26 11:44:54
+Курко: 23761578: review: linuxsam.org.ua: 2018-03-25 13:04:10: http://oknaeuro.kiev.ua/: окна пластиковые киев
+Максим: 23762474: link: fledur.org.ua: 2018-03-25 21:38:10: http://goldmedia.ee/: kodulehe valmistamine
+Максим: 23762250: link: fledur.org.ua: 2018-03-25 18:04:26: http://kaminy.by/: купить биокамин
+Максим: 23760173: link: smartx.kiev.ua: 2018-03-25 00:38:27: http://ohrana.net.ua/uslugi/pultovaya-oxrana: услуги по пультовой охране
+Максим: 23759909: archive: smartx.kiev.ua: 2018-03-24 22:32:34: https://памятники.укр/: памятники
+Максим: 23759113: link: fledur.org.ua: 2018-03-24 16:42:17: https://intersumka.ua/sumki-zhenskie: сумки купить
+Максим: 23756387: review: druzhba-lux.com.ua: 2018-03-23 16:20:03: http://scratch.ua/: http://scratch.ua/
+Нанопласт: 23762612: archive: mip-stroy.com.ua: 2018-03-25 23:18:07: http://www.safegates.ru/avtomaticheskie: Автоматические ворота
+Нанопласт: 23761027: link: rielt.in.ua: 2018-03-25 09:31:18: http://triymf.kz/: лучшие аниматоры алматы
+Нанопласт: 23760028: link: rielt.in.ua: 2018-03-24 23:21:03: http://www.linbo.ru/article/prodavaitie_v_krizis_vyghodnieie: сайт бесплатных объявлений
+Нанопласт: 23758090: link: rielt.in.ua: 2018-03-24 05:02:37: http://www.spetsmedpribor.net/#!lensmetr/cjyi: ДИОПТРИМЕТРЫ
+Нанопласт: 23758077: link: rielt.in.ua: 2018-03-24 05:01:46: http://www.merovedenie.org/sam_inter_445.html: НЛО сегодня
+Нанопласт: 23748226: link: tellall.kiev.ua: 2018-03-21 14:30:38: https://www.granddoor.com.ua/: салон дверей львів
+
+Function load_isue: 2018.03.26 11:47:14
+Курко: 23761578: review: linuxsam.org.ua: 2018-03-25 13:04:10: http://oknaeuro.kiev.ua/: окна пластиковые киев
+Максим: 23762474: link: fledur.org.ua: 2018-03-25 21:38:10: http://goldmedia.ee/: kodulehe valmistamine
+Максим: 23762250: link: fledur.org.ua: 2018-03-25 18:04:26: http://kaminy.by/: купить биокамин
+Максим: 23760173: link: smartx.kiev.ua: 2018-03-25 00:38:27: http://ohrana.net.ua/uslugi/pultovaya-oxrana: услуги по пультовой охране
+Максим: 23759909: archive: smartx.kiev.ua: 2018-03-24 22:32:34: https://памятники.укр/: памятники
+Максим: 23759113: link: fledur.org.ua: 2018-03-24 16:42:17: https://intersumka.ua/sumki-zhenskie: сумки купить
+Максим: 23756387: review: druzhba-lux.com.ua: 2018-03-23 16:20:03: http://scratch.ua/: http://scratch.ua/
+Нанопласт: 23762612: archive: mip-stroy.com.ua: 2018-03-25 23:18:07: http://www.safegates.ru/avtomaticheskie: Автоматические ворота
+Нанопласт: 23761027: link: rielt.in.ua: 2018-03-25 09:31:18: http://triymf.kz/: лучшие аниматоры алматы
+Нанопласт: 23760028: link: rielt.in.ua: 2018-03-24 23:21:03: http://www.linbo.ru/article/prodavaitie_v_krizis_vyghodnieie: сайт бесплатных объявлений
+Нанопласт: 23758090: link: rielt.in.ua: 2018-03-24 05:02:37: http://www.spetsmedpribor.net/#!lensmetr/cjyi: ДИОПТРИМЕТРЫ
+Нанопласт: 23758077: link: rielt.in.ua: 2018-03-24 05:01:46: http://www.merovedenie.org/sam_inter_445.html: НЛО сегодня
+Нанопласт: 23748226: link: tellall.kiev.ua: 2018-03-21 14:30:38: https://www.granddoor.com.ua/: салон дверей львів
+
+Function load_isue_rota: 2018.03.26 11:47:17
+Курко: 28636937: Postovoi: frontier.net.ua: 2018-03-22T11:46:46: https://erudyt.com.ua/ua/plakat-pol-s-kij-alfavit-pip.html: https://erudyt.com.ua/ua/plakat-pol-s-kij-alfavit-pip.html
+Курко: 28636897: Postovoi: patriarh.in.ua: 2018-03-22T11:33:25: http://profyparty.kiev.ua/master-klass/master-klass-pisanka.html: мастер класс на Пасху в Киеве
+Курко: 28639020: Postovoi: ypag.com.ua: 2018-03-24T17:21:45: http://lacreazione.ua/c17-jekskljuzivnaja-plitka/: эксклюзивная керамическая плитка
+Курко: 28639371: Postovoi: quickest.com.ua: 2018-03-25T11:29:21: http://erudyt.com.ua/ru/vurdalak-taras-shevchenko.html: http://erudyt.com.ua/ru/vurdalak-taras-shevchenko.html
+Курко: 28639482: Postovoi: ypag.com.ua: 2018-03-25T18:53:36: http://valiki.com.ua/niveliri-i-dalnomery/: нивелир недорого
+Максим: 28634649: Post: 4da.org.ua: 2018-03-20T16:28:00: None: None
+Максим: 28638289: Postovoi: ve4e.com.ua: 2018-03-23T15:35:21: https://arkos.ua/koshelki/: arkos.ua/koshelki/
+Максим: 28638441: Postovoi: ve4e.com.ua: 2018-03-23T18:16:44: http://krovlya-odessa.com/otlivy-otsinkovannye/: krovlya-odessa.com/otlivy-otsinkovannye/
+Максим: 28638894: Post: linq.kiev.ua: 2018-03-24T14:30:40: None: None
+Максим: 28638899: Post: ve4e.com.ua: 2018-03-24T14:30:40: None: None
+Максим: 28638879: Post: openlib.org.ua: 2018-03-24T13:56:12: None: None
+Нанопласт: 28636938: Postovoi: ua-games.com.ua: 2018-03-22T11:46:46: https://erudyt.com.ua/ru/asadov-eduard.html: https://erudyt.com.ua/ru/asadov-eduard.html
+Нанопласт: 28636914: Postovoi: thetech.com.ua: 2018-03-22T11:43:51: https://1knq.com/seo-sem-optimizatsiya-i-poiskovoe-prodvizhenie-sajtov/: https://1knq.com/seo-sem-optimizatsiya-i-poiskovoe-prodvizhenie-sajtov/
+Нанопласт: 28636916: Postovoi: orangecat.net.ua: 2018-03-22T11:43:51: https://1knq.com/razrabotka-sajtov/: https://1knq.com/razrabotka-sajtov/
+Нанопласт: 28636910: Postovoi: programer.org.ua: 2018-03-22T11:40:43: https://1knq.com/razrabotka-sajtov/: https://1knq.com/razrabotka-sajtov/
+Нанопласт: 28636898: Postovoi: playman.com.ua: 2018-03-22T11:33:25: http://profyparty.kiev.ua/master-klass.html: Профи Пати
+Нанопласт: 28636899: Postovoi: tropic.od.ua: 2018-03-22T11:33:25: http://profyparty.kiev.ua/foto/fotograf-dla-detei.html: фотограф на детский праздник в Киеве
+Нанопласт: 28636901: Postovoi: hodos.kharkov.ua: 2018-03-22T11:33:25: http://profyparty.kiev.ua/master-klass.html: мастер классы по рукоделию на сайте Профи Пати
+Нанопласт: 28636871: Postovoi: mip-stroy.com.ua: 2018-03-22T10:56:44: http://dzpo.com.ua/ven-dum.html: дымососы Украина
+Нанопласт: 28636934: Postovoi: slonoff.net.ua: 2018-03-22T11:44:47: https://erudyt.com.ua/ru/russko-pol-skij-razgovornik-izd-arij.html: https://erudyt.com.ua/ru/russko-pol-skij-razgovornik-izd-arij.html
+Нанопласт: 28636912: Postovoi: mylink.org.ua: 2018-03-22T11:42:50: https://1knq.com/seo-sem-optimizatsiya-i-poiskovoe-prodvizhenie-sajtov/: https://1knq.com/seo-sem-optimizatsiya-i-poiskovoe-prodvizhenie-sajtov/
+Нанопласт: 28636896: Postovoi: oscar.donetsk.ua: 2018-03-22T11:33:25: http://profyparty.kiev.ua/master-klass.html: если интересуют мастер классы в Киеве
+Нанопласт: 28636915: Postovoi: softik.net.ua: 2018-03-22T11:43:51: https://1knq.com/: «K&Q» Creative Group
+Нанопласт: 28636902: Postovoi: zvonkov.net.ua: 2018-03-22T11:33:26: http://profyparty.kiev.ua/master-klass.html: на сайте от кампании Профи Пати
+Нанопласт: 28636900: Postovoi: shiva.net.ua: 2018-03-22T11:33:25: http://profyparty.kiev.ua/master-klass.html: мастер-класс для детей
+Нанопласт: 28637362: Postovoi: myiphone.net.ua: 2018-03-22T16:25:40: https://www.mobilife.com.ua: Мобилайф
+Нанопласт: 28637420: Postovoi: mip-stroy.com.ua: 2018-03-22T17:37:20: https://evrosto.net/: evrosto.net
+Нанопласт: 28637421: Postovoi: euro-m.kharkov.ua: 2018-03-22T17:37:20: https://evrosto.net/: шиномонтажное оборудование ЕвроСТО
+Нанопласт: 28639013: Postovoi: euro-m.kharkov.ua: 2018-03-24T17:21:42: http://lacreazione.ua/: lacreazione.ua
+Нанопласт: 28639034: Postovoi: ekobil.com.ua: 2018-03-24T17:50:01: http://lacreazione.ua/: www.lacreazione.ua
+Нанопласт: 28639016: Postovoi: electrodom-l.com.ua: 2018-03-24T17:21:45: http://lacreazione.ua/c40-ljustry/: люстры
+Нанопласт: 28639174: Postovoi: sortis.com.ua: 2018-03-25T00:28:03: https://golovko.com.ua/komu-platit-banku-mihajlovskomu-ili-fagoru: фагор тут
+Нанопласт: 28639320: Postovoi: tren.com.ua: 2018-03-25T10:13:43: http://lestnitsy.com.ua/ru/shodi-na-gorishche/: купить лестницу на чердак в украине
+
+Function load_isue: 2018.03.26 11:48:16
+
+Function load_isue_rota: 2018.03.26 11:48:19
+
+Function autorizen: 2018.03.29 10:49:56
+Курко: 1425070: PR=452c1bbe055523a8dbdf1e4f9eb71509:c4026c53e9b117d46ad4cd7ec366ab7fa052001d; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=e3c717b6687b1d89502baa43a5ed317b:acd9a73979bfb8de9929fee808735b5354e7d8c3; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=544caf880ef9cb28c6bd6dccb427fe4f:3bcc003cbccc9217250338e6626a6ccc22f5db80; path=/; domain=api.pr.sape.ru
+
+Function load_isue: 2018.03.29 10:49:56
+Курко: 23773990: review: linuxsam.org.ua: 2018-03-28 12:38:12: https://www.videovolna.info/: инструкция к видеосервису
+Курко: 23773651: news: buyheavenlyspot.com.ua: 2018-03-28 11:22:28: http://guardmaster.com.ua/ip-camera-dahua: Technology
+Максим: 23750090: link: fledur.org.ua: 2018-03-21 21:30:36: https://china4biz.by/: доставка из китая в беларусь
+Максим: 23749576: link: biscont.com.ua: 2018-03-21 18:41:41: http://kodi.in.ua/: коди гель лаки
+Нанопласт: 23777297: link: rielt.in.ua: 2018-03-29 09:22:31: http://alkon-2000.ru/holodnyj-koridor-tsod: холодный коридор цод
+Нанопласт: 23777078: link: telopa.com.ua: 2018-03-29 05:21:30: http://varios.biz/index.php?/topic/9252-продам-antminer-s9-за-100-000р/: купить асик
+Нанопласт: 23775600: link: dlemoduli.org.ua: 2018-03-28 18:06:09: http://twinvir.ru: Twinvir купить
+Нанопласт: 23775591: link: e-putivka.com.ua: 2018-03-28 18:06:07: http://twinvir.ru: Софосбувир Ледипасвир купить
+Нанопласт: 23773734: link: rielt.in.ua: 2018-03-28 11:52:10: https://tehosmotr.ltd/: техосмотр машины
+Нанопласт: 23767858: review: mip-stroy.com.ua: 2018-03-27 00:39:11: http://veotab.ru/vorota-kovanye.html: купить ворота с калиткой из профнастила с элементами ковки цена
+
+Function autorizen: 2018.04.05 16:30:40
+Курко: 1425070: PR=ef5441fbb9ff8f8e98276d89dbae1c51:b36fa30b531a394f588047a019291870aecb62d1; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=c17386fd44ff9bdcf2c68181e354bdfe:ca6b66983d124eb5077ecb2e967f632e7bd3ef3f; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=e4f39e9cdd74384e4ca63a7dece4d641:3b8c8639d0d1f43f4f7ac159784087507989a36b; path=/; domain=api.pr.sape.ru
+
+Function load_isue: 2018.04.05 16:30:39
+Курко: 23801053: link: ukravtomobil.if.ua: 2018-04-05 13:51:01: http://avtomechta.com.ua/: авто коврики для
+Курко: 23800809: link: ypag.com.ua: 2018-04-05 12:37:31: http://канапешкин.рф: доставка еда в офис
+Курко: 23799789: link: ypag.com.ua: 2018-04-05 03:10:29: https://cqmi.com.ua/: международный сайт знакомств
+Курко: 23799407: review: buyheavenlyspot.com.ua: 2018-04-04 23:38:04: https://proyom.com.ua/tkanevye-rollety/otkrytogo-tipa/: https://proyom.com.ua/tkanevye-rollety/otkrytogo-tipa/
+Максим: 23800744: link: smartx.kiev.ua: 2018-04-05 12:36:54: https://billinsan.com/: грузоперевозки китай россия
+Максим: 23799921: link: download.openlib.org.ua: 2018-04-05 04:38:04: https://billinsan.com/: грузоперевозки с китая
+Максим: 23799288: link: browncat.net.ua: 2018-04-04 22:39:28: https://cqmi.com.ua/ru/acquaintance/melitopol: мелитополь знакомства
+Нанопласт: 23800042: link: telopa.com.ua: 2018-04-05 05:27:45: http://varios.biz/index.php?/topic/600-продам-фальшивые-купюры-высокого-качества/page__p__2668#entry2668: купить фальшивые гривны
+Нанопласт: 23799922: link: tellall.kiev.ua: 2018-04-05 04:38:04: https://billinsan.com/: грузоперевозки с китая
+Нанопласт: 23799545: link: rielt.in.ua: 2018-04-05 00:40:46: http://billinsan.com/: международные грузоперевозки из китая
+
+Function load_isue_rota: 2018.04.05 16:31:10
+Курко: 28648942: Post: ahumor.org.ua: 2018-04-04T18:37:09: None: None
+Курко: 28648542: Post: freya.kiev.ua: 2018-04-04T14:22:30: None: None
+Курко: 28649676: Postovoi: freya.kiev.ua: 2018-04-05T13:29:15: https://toytoyukraine.com/news/igrushki-schenyachij-patrul-podarite-rebenku-radost-obscheniya-s-lyubimym-geroem: щенячий патруль герои
+Максим: 28648953: Post: fledur.org.ua: 2018-04-04T18:37:10: None: None
+Максим: 28648320: Postovoi: nanoplast.com.ua: 2018-04-04T12:01:18: http://proektor-lamp.com.ua/lampy-k-proektoram-1/sharp/: лампа для проектора sharp
+Нанопласт: 28648943: Post: telopa.com.ua: 2018-04-04T18:37:09: None: None
+Нанопласт: 28649219: Postovoi: browncat.net.ua: 2018-04-05T02:31:41: https://expert-lviv.com/ua/ocinka_transorta.htm: Експертна Оцінка Транспортних Засобів
+
+Function load_isue: 2018.04.05 16:44:52
+Курко: 23801053: link: ukravtomobil.if.ua: 2018-04-05 13:51:01: http://avtomechta.com.ua/: авто коврики для
+Курко: 23800809: link: ypag.com.ua: 2018-04-05 12:37:31: http://канапешкин.рф: доставка еда в офис
+Курко: 23799789: link: ypag.com.ua: 2018-04-05 03:10:29: https://cqmi.com.ua/: международный сайт знакомств
+Курко: 23799407: review: buyheavenlyspot.com.ua: 2018-04-04 23:38:04: https://proyom.com.ua/tkanevye-rollety/otkrytogo-tipa/: https://proyom.com.ua/tkanevye-rollety/otkrytogo-tipa/
+Максим: 23800744: link: smartx.kiev.ua: 2018-04-05 12:36:54: https://billinsan.com/: грузоперевозки китай россия
+Максим: 23799921: link: download.openlib.org.ua: 2018-04-05 04:38:04: https://billinsan.com/: грузоперевозки с китая
+Максим: 23799288: link: browncat.net.ua: 2018-04-04 22:39:28: https://cqmi.com.ua/ru/acquaintance/melitopol: мелитополь знакомства
+Нанопласт: 23800042: link: telopa.com.ua: 2018-04-05 05:27:45: http://varios.biz/index.php?/topic/600-продам-фальшивые-купюры-высокого-качества/page__p__2668#entry2668: купить фальшивые гривны
+Нанопласт: 23799922: link: tellall.kiev.ua: 2018-04-05 04:38:04: https://billinsan.com/: грузоперевозки с китая
+Нанопласт: 23799545: link: rielt.in.ua: 2018-04-05 00:40:46: http://billinsan.com/: международные грузоперевозки из китая
+
+Function load_isue_rota: 2018.04.05 16:44:56
+Курко: 28648942: Post: ahumor.org.ua: 2018-04-04T18:37:09: None: None
+Курко: 28648542: Post: freya.kiev.ua: 2018-04-04T14:22:30: None: None
+Курко: 28649676: Postovoi: freya.kiev.ua: 2018-04-05T13:29:15: https://toytoyukraine.com/news/igrushki-schenyachij-patrul-podarite-rebenku-radost-obscheniya-s-lyubimym-geroem: щенячий патруль герои
+Максим: 28648953: Post: fledur.org.ua: 2018-04-04T18:37:10: None: None
+Максим: 28648320: Postovoi: nanoplast.com.ua: 2018-04-04T12:01:18: http://proektor-lamp.com.ua/lampy-k-proektoram-1/sharp/: лампа для проектора sharp
+Нанопласт: 28648943: Post: telopa.com.ua: 2018-04-04T18:37:09: None: None
+Нанопласт: 28649219: Postovoi: browncat.net.ua: 2018-04-05T02:31:41: https://expert-lviv.com/ua/ocinka_transorta.htm: Експертна Оцінка Транспортних Засобів
+
+Function load_isue: 2018.04.05 16:47:29
+Курко: 23801053: link: ukravtomobil.if.ua: 2018-04-05 13:51:01: http://avtomechta.com.ua/: авто коврики для
+Курко: 23800809: link: ypag.com.ua: 2018-04-05 12:37:31: http://канапешкин.рф: доставка еда в офис
+Курко: 23799789: link: ypag.com.ua: 2018-04-05 03:10:29: https://cqmi.com.ua/: международный сайт знакомств
+Курко: 23799407: review: buyheavenlyspot.com.ua: 2018-04-04 23:38:04: https://proyom.com.ua/tkanevye-rollety/otkrytogo-tipa/: https://proyom.com.ua/tkanevye-rollety/otkrytogo-tipa/
+Максим: 23800744: link: smartx.kiev.ua: 2018-04-05 12:36:54: https://billinsan.com/: грузоперевозки китай россия
+Максим: 23799921: link: download.openlib.org.ua: 2018-04-05 04:38:04: https://billinsan.com/: грузоперевозки с китая
+Максим: 23799288: link: browncat.net.ua: 2018-04-04 22:39:28: https://cqmi.com.ua/ru/acquaintance/melitopol: мелитополь знакомства
+Нанопласт: 23800042: link: telopa.com.ua: 2018-04-05 05:27:45: http://varios.biz/index.php?/topic/600-продам-фальшивые-купюры-высокого-качества/page__p__2668#entry2668: купить фальшивые гривны
+Нанопласт: 23799922: link: tellall.kiev.ua: 2018-04-05 04:38:04: https://billinsan.com/: грузоперевозки с китая
+Нанопласт: 23799545: link: rielt.in.ua: 2018-04-05 00:40:46: http://billinsan.com/: международные грузоперевозки из китая
+
+Function load_isue_rota: 2018.04.05 16:47:32
+Курко: 28648942: Post: ahumor.org.ua: 2018-04-04T18:37:09: None: None
+Курко: 28648542: Post: freya.kiev.ua: 2018-04-04T14:22:30: None: None
+Курко: 28649676: Postovoi: freya.kiev.ua: 2018-04-05T13:29:15: https://toytoyukraine.com/news/igrushki-schenyachij-patrul-podarite-rebenku-radost-obscheniya-s-lyubimym-geroem: щенячий патруль герои
+Максим: 28648953: Post: fledur.org.ua: 2018-04-04T18:37:10: None: None
+Максим: 28648320: Postovoi: nanoplast.com.ua: 2018-04-04T12:01:18: http://proektor-lamp.com.ua/lampy-k-proektoram-1/sharp/: лампа для проектора sharp
+Нанопласт: 28648943: Post: telopa.com.ua: 2018-04-04T18:37:09: None: None
+Нанопласт: 28649219: Postovoi: browncat.net.ua: 2018-04-05T02:31:41: https://expert-lviv.com/ua/ocinka_transorta.htm: Експертна Оцінка Транспортних Засобів
+Нанопласт: 28649888: Postovoi: gyrus.org.ua: 2018-04-05T16:19:48: https://jabra-shop.com/ru/pers_shop/jabraengage/: Jabra Engage Офисные гарнитуры
+Нанопласт: 28649889: Postovoi: miranda.org.ua: 2018-04-05T16:19:48: https://jabra-shop.com/ru/pers_shop/jabraevolve75e/: Jabra Evolve 75e  Офисные гарнитуры
+
+Function load_isue: 2018.04.05 17:25:21
+Курко: 23801053: link: ukravtomobil.if.ua: 2018-04-05 13:51:01: http://avtomechta.com.ua/: авто коврики для
+Курко: 23800809: link: ypag.com.ua: 2018-04-05 12:37:31: http://канапешкин.рф: доставка еда в офис
+Курко: 23799789: link: ypag.com.ua: 2018-04-05 03:10:29: https://cqmi.com.ua/: международный сайт знакомств
+Курко: 23799407: review: buyheavenlyspot.com.ua: 2018-04-04 23:38:04: https://proyom.com.ua/tkanevye-rollety/otkrytogo-tipa/: https://proyom.com.ua/tkanevye-rollety/otkrytogo-tipa/
+Максим: 23800744: link: smartx.kiev.ua: 2018-04-05 12:36:54: https://billinsan.com/: грузоперевозки китай россия
+Максим: 23799921: link: download.openlib.org.ua: 2018-04-05 04:38:04: https://billinsan.com/: грузоперевозки с китая
+Максим: 23799288: link: browncat.net.ua: 2018-04-04 22:39:28: https://cqmi.com.ua/ru/acquaintance/melitopol: мелитополь знакомства
+Нанопласт: 23800042: link: telopa.com.ua: 2018-04-05 05:27:45: http://varios.biz/index.php?/topic/600-продам-фальшивые-купюры-высокого-качества/page__p__2668#entry2668: купить фальшивые гривны
+Нанопласт: 23799922: link: tellall.kiev.ua: 2018-04-05 04:38:04: https://billinsan.com/: грузоперевозки с китая
+Нанопласт: 23799545: link: rielt.in.ua: 2018-04-05 00:40:46: http://billinsan.com/: международные грузоперевозки из китая
+
+Function autorizen_rota: 2018.04.05 17:25:27
+Антон: true: c6723e81-5584-4cc0-913c-8a3e55f79286
+Курко: true: 4b4e63f2-5787-466f-ba1b-d985c24fdad9
+Максим: true: 63b04e0c-edbf-43a6-9d59-8a8919e66646
+Нанопласт: true: 0802d27a-ec14-4870-876f-6f910212859d
+
+Function load_isue_rota: 2018.04.05 17:25:25
+Курко: 28648942: Post: ahumor.org.ua: 2018-04-04T18:37:09: None: None
+Курко: 28648542: Post: freya.kiev.ua: 2018-04-04T14:22:30: None: None
+Курко: 28649676: Postovoi: freya.kiev.ua: 2018-04-05T13:29:15: https://toytoyukraine.com/news/igrushki-schenyachij-patrul-podarite-rebenku-radost-obscheniya-s-lyubimym-geroem: щенячий патруль герои
+Максим: 28648953: Post: fledur.org.ua: 2018-04-04T18:37:10: None: None
+Максим: 28648320: Postovoi: nanoplast.com.ua: 2018-04-04T12:01:18: http://proektor-lamp.com.ua/lampy-k-proektoram-1/sharp/: лампа для проектора sharp
+Нанопласт: 28649983: Postovoi: slaidik.com.ua: 2018-04-05T16:52:10: http://dzpo.com.ua/ven.html: на этом сайте
+Нанопласт: 28649985: Postovoi: tren.com.ua: 2018-04-05T16:52:10: http://dzpo.com.ua/ven.html: dzpo.com.ua/ven.html
+Нанопласт: 28649989: Postovoi: thetech.com.ua: 2018-04-05T16:52:11: http://dzpo.com.ua/ven.html: осевые вентиляторы промышленные
+Нанопласт: 28649986: Postovoi: gyrus.org.ua: 2018-04-05T16:52:10: http://dzpo.com.ua/ven-dum.html: дымососы Украина
+Нанопласт: 28648943: Post: telopa.com.ua: 2018-04-04T18:37:09: None: None
+Нанопласт: 28649219: Postovoi: browncat.net.ua: 2018-04-05T02:31:41: https://expert-lviv.com/ua/ocinka_transorta.htm: Експертна Оцінка Транспортних Засобів
+Нанопласт: 28649888: Postovoi: gyrus.org.ua: 2018-04-05T16:19:48: https://jabra-shop.com/ru/pers_shop/jabraengage/: Jabra Engage Офисные гарнитуры
+Нанопласт: 28649889: Postovoi: miranda.org.ua: 2018-04-05T16:19:48: https://jabra-shop.com/ru/pers_shop/jabraevolve75e/: Jabra Evolve 75e  Офисные гарнитуры
+
+Function autorizen: 2018.04.17 22:58:25
+Курко: 1425070: PR=4ef72df393038c5e03e0b734c87b377e:da7a6a05cbe8c82ed7c2bb963414c8988a244c89; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=1f06c6a2ddb4cdf0c8bf6aca5914d672:2fccfeed40b462b0d048a02680e3e55b7ec5a31a; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=033ec5589ce92ce2167615d56a7151d3:25fb160d7b0ca792e19b6056149b1886c8d6ab8d; path=/; domain=api.pr.sape.ru
+
+Function load_isue: 2018.04.17 22:58:25
+Нанопласт: 23838642: link: hodos.kharkov.ua: 2018-04-17 11:18:15: http://marvarid.net/uzclip/: узбекские клипы скачать
+
+Function autorizen_rota: 2018.04.17 22:58:35
+Антон: true: 915b37c8-512e-4a40-b1d5-d17bdad713c8
+Курко: true: 50c93291-f2a9-40da-b3bc-114dceae2c59
+Максим: true: 881fcd8b-ac11-41ce-b51b-d2640232420d
+Нанопласт: true: cc2ed406-439b-48af-b42b-98b597242ce8
+
+Function load_isue_rota: 2018.04.17 22:58:27
+Курко: 28648942: Post: ahumor.org.ua: 2018-04-04T18:37:09: None: None
+Курко: 28653046: Postovoi: odissey.net.ua: 2018-04-10T11:43:02: http://hubs.ua/business/ekspert-sberezheniya-ukraintsev-ujdut-iz-bankov-na-ry-nok-nedvizhimosti-124263.html: Эксперт по недвижимости Юрий Мавродиев: сбережения украинцев уходят из банков на рынок недвижимости
+Курко: 28648542: Post: freya.kiev.ua: 2018-04-04T14:22:30: None: None
+Курко: 28657156: Post: ypag.com.ua: 2018-04-14T13:31:29: None: None
+Максим: 28659451: Postovoi: www.topcatalog.com.ua: 2018-04-17T16:16:16: http://www.nrc.com.ua/pohody: идем в поход
+Нанопласт: 28657139: PressRelease: playman.com.ua: 2018-04-14T13:01:40: None: None
+Нанопласт: 28655872: Postovoi: catalog-security.com.ua: 2018-04-13T07:47:38: http://www.po4em-bilet.ru/tag/плацкарт/: купить плацкартный билет
+Нанопласт: 28655373: Postovoi: softik.net.ua: 2018-04-12T16:54:37: http://www.po4em-bilet.ru/tag/плацкарт/: http://www.po4em-bilet.ru/tag/плацкарт/
+Нанопласт: 28655372: Postovoi: tropic.od.ua: 2018-04-12T16:54:35: http://www.po4em-bilet.ru/tag/плацкарт/: билет плацкарт
+Нанопласт: 28659235: Post: blackmetal.kiev.ua: 2018-04-17T12:35:08: None: None
+Нанопласт: 28659429: Postovoi: salfetki.org.ua: 2018-04-17T15:55:56: http://primavera-cream.com.ua/: как вылечить акне на лице
+Нанопласт: 28653520: Postovoi: savelink.org.ua: 2018-04-10T17:30:39: https://alvaprivacy.com.ua/ru/uslugi/civil/advocate-nasledstvo: адвокат по наследственным делам
+Нанопласт: 28659511: Postovoi: sortis.com.ua: 2018-04-17T17:17:43: https://mirpodarka.com.ua/: необычные подарки
+Нанопласт: 28659065: Postovoi: mip-stroy.com.ua: 2018-04-17T10:16:31: http://gidromax.kiev.ua/services.html: http://gidromax.kiev.ua/services.html
+
+Function autorizen: 2018.04.19 17:21:23
+Курко: 1425070: PR=512366c2129f4e42fe4a4e3a2df5a626:e4209f39453c375afed82b4596de90fde33fc8f2; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=58f185e904a243c1fffc88f7f107c0e5:bfd067dd6e866f6be8b696967328d8a6d3d377a0; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=b99e8c9e358dabfd8b5ab2f3ab2f0ef9:bfcde836b114090091258f74c1533b80333b0c7f; path=/; domain=api.pr.sape.ru
+
+Function load_isue: 2018.04.19 17:21:23
+Нанопласт: 23845622: link: e-putivka.com.ua: 2018-04-19 10:01:51: https://www.cqmi.ca/en/eastern-women/russian-women: beautiful russian brides
+Нанопласт: 23845326: link: telopa.com.ua: 2018-04-19 06:03:34: http://varios.biz/index.php?/topic/600-продам-фальшивые-купюры-высокого-качества/page__p__2668#entry2668: купить фальшивки деньги москва
+Нанопласт: 23842540: link: hodos.kharkov.ua: 2018-04-18 13:17:33: https://cqmi.com.ua/: сайт знакомств с иностранцами
+
+Function load_isue_rota: 2018.04.19 17:25:28
+Курко: 28661060: Post: ahumor.org.ua: 2018-04-19T10:45:44: None: None
+Нанопласт: 28661074: Postovoi: zvonkov.net.ua: 2018-04-19T10:55:35: https://mebeltov.com.ua/ru/komody-i-penaly/tipkomoda/komod-dlja-belja: https://mebeltov.com.ua/ru/komody-i-penaly/tipkomoda/komod-dlja-belja
+Нанопласт: 28661077: Postovoi: catalog-security.com.ua: 2018-04-19T10:57:44: https://sitepark.ua/: Sitepark
+Нанопласт: 28661079: Postovoi: savelink.org.ua: 2018-04-19T10:57:45: https://sitepark.ua/: sitepark.ua
+Нанопласт: 28661082: Postovoi: thetech.com.ua: 2018-04-19T10:57:45: https://sitepark.ua/: Sitepark
+Нанопласт: 28661153: Postovoi: fbk.org.ua: 2018-04-19T12:05:15: https://katalizator.net.ua/uslugi-nashe-sto/zamena-katalizatora/: замена катализатора киев
+Нанопласт: 28661344: Postovoi: slaidik.com.ua: 2018-04-19T14:37:21: http://jampo.com.ua/mix/vyplata-alimentov-na-rebenka-pri-razvode.htm: http://jampo.com.ua/mix/vyplata-alimentov-na-rebenka-pri-razvode.htm
+Нанопласт: 28660431: Postovoi: fbk.org.ua: 2018-04-18T15:19:16: https://www.avtorazborka.org.ua/mitsubishi/lancer-9-hatchback/
+https://www.avtorazborka.org.ua/mitsubishi/l200/
+https://www.avtorazborka.org.ua/toyota/land-cruiser-100/
+https://www.avtorazborka.org.ua/toyota/prado-2002-2009/
+https://www.avtorazborka.org.ua/chevrolet/cruze-2009-2015/: разборка Лансер 9
+Нанопласт: 28661349: Postovoi: umapalata.zp.ua: 2018-04-19T14:37:24: http://vodolazspas.org/info/2018/2011027932-podat-alimenty.php: http://vodolazspas.org/info/2018/2011027932-podat-alimenty.php
+
+Function autorizen: 2018.04.20 10:09:32
+Курко: 1425070: PR=15c825780b4e60155b718df78ba721a7:6499fe5016a3b576691b5ce8ec68b631d1650b57; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=3b225315afe3427380dd6f73894eab50:a5da4b3021a3c6c3b0fc285e269bd80397fec2ea; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=09d3464fc11f1947dd1a64e1af544adc:424b368265964fa59145e1dfea0f7d909e3cfaba; path=/; domain=api.pr.sape.ru
+
+Function autorizen: 2018.04.26 13:23:17
+Курко: 1425070: PR=0beb30ee22b8679d106c4245deeb4749:8a9531ee6e1a56807000125e240833f896724edb; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=f4d6adcb491484d6303333379064c7e3:014115b60616e44adf3a3f2c9771ce7eeb5856c6; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=df78dc9294dd7b1176ac4dd1b84cdec0:a129ec78826d0ed025c43abedeebe1b7681430c2; path=/; domain=api.pr.sape.ru
+
+Function load_isue: 2018.04.26 13:23:16
+Максим: 23864041: link: browncat.net.ua: 2018-04-25 05:22:11: http://varios.biz/index.php?/topic/600-продам-фальшивые-купюры-высокого-качества/page__p__2668#entry2668: купить фальшивые деньги
+
+Function load_isue_rota: 2018.04.26 13:23:34
+Курко: 28661573: Post: freya.kiev.ua: 2018-04-19T16:59:07: None: None
+Максим: 28655593: Postovoi: marsella.com.ua: 2018-04-12T21:21:53: https://alumarket.com.ua/alum-profil/truba-kruglaya/: алюминиевая труба
+Максим: 28663012: Post: books.openlib.org.ua: 2018-04-21T16:28:25: None: None
+Максим: 28664849: Post: elit-a-a.com.ua: 2018-04-23T16:30:01: None: None
+Максим: 28666310: Post: interline.net.ua: 2018-04-24T16:49:07: None: None
+Максим: 28664468: Postovoi: seovin.ru: 2018-04-23T13:45:22: http://olahola.ua/: как дать объявление в интернете вот этот
+Нанопласт: 28668019: Postovoi: hodos.kharkov.ua: 2018-04-26T07:46:01: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: билет на поезд самара москва цена
+Нанопласт: 28663802: Post: salfetki.org.ua: 2018-04-23T00:28:04: None: None
+Нанопласт: 28668219: Postovoi: europarfum.net.ua: 2018-04-26T12:39:30: https://tsvetniki.ru/catalog/639-dlya-rassady/: грунт для рассады купить в москве
+Нанопласт: 28665237: Postovoi: avtocentr.sumy.ua: 2018-04-23T22:33:27: https://grantavto.com.ua/trejjd-in-obmen-na-novoe-avto-v-odesse/: trade in
+Нанопласт: 28665195: Postovoi: www.schooler.org.ua: 2018-04-23T21:40:44: https://theacademicadvisor.com.ua/country/obrazovanie-v-shveytsarii/: Обучение в Швейцарии для украинцев
+Нанопласт: 28664081: Postovoi: valiza-tour.kiev.ua: 2018-04-23T09:18:17: http://gelena-tour.com/tury-v-odessu: gelena tour
+Нанопласт: 28664080: Postovoi: tropic.od.ua: 2018-04-23T09:16:24: http://gelena-tour.com/tury-v-odessu: Тур в Одессу
+Нанопласт: 28666607: Postovoi: playman.com.ua: 2018-04-24T21:02:02: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: цены на билеты ржд на 2015 год
+Нанопласт: 28666609: Postovoi: umapalata.zp.ua: 2018-04-24T21:02:04: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: стоимость билета владивосток хабаровск
+Нанопласт: 28666608: Postovoi: yavtanke.org.ua: 2018-04-24T21:02:04: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: цены на жд билеты в 2018 году
+Нанопласт: 28668119: Postovoi: e-putivka.com.ua: 2018-04-26T11:12:39: http://www.electric-as.kiev.ua/: вызвать электрика в Киеве
+Нанопласт: 28668117: Postovoi: zenit2.com.ua: 2018-04-26T11:12:39: http://www.electric-as.kiev.ua/вызвать-электрика-на-дом/: электрик Киев срочно
+Нанопласт: 28668116: Postovoi: yavtanke.org.ua: 2018-04-26T11:12:39: http://www.electric-as.kiev.ua/: услуги электрика недорого Киев
+
+Function load_isue: 2018.04.26 15:23:23
+Максим: 23864041: link: browncat.net.ua: 2018-04-25 05:22:11: http://varios.biz/index.php?/topic/600-продам-фальшивые-купюры-высокого-качества/page__p__2668#entry2668: купить фальшивые деньги
+
+Function load_isue_rota: 2018.04.26 15:23:25
+Курко: 28661573: Post: freya.kiev.ua: 2018-04-19T16:59:07: None: None
+Максим: 28655593: Postovoi: marsella.com.ua: 2018-04-12T21:21:53: https://alumarket.com.ua/alum-profil/truba-kruglaya/: алюминиевая труба
+Максим: 28663012: Post: books.openlib.org.ua: 2018-04-21T16:28:25: None: None
+Максим: 28664849: Post: elit-a-a.com.ua: 2018-04-23T16:30:01: None: None
+Максим: 28666310: Post: interline.net.ua: 2018-04-24T16:49:07: None: None
+Максим: 28664468: Postovoi: seovin.ru: 2018-04-23T13:45:22: http://olahola.ua/: как дать объявление в интернете вот этот
+Максим: 28667580: Postovoi: marsella.com.ua: 2018-04-25T17:59:18: https://krasnodar.xn--80ajgpcpbhkds4a4g.xn--p1ai/Selhozkultury-ovoshi-i-frukty-semena-i-rassada-plo/Yagody-plody-semena-i-sazhency/Klubnika-zemlyanika-rassada/: на СельхозПортале
+Максим: 28664328: Postovoi: download.openlib.org.ua: 2018-04-23T12:41:22: https://sek.com.ua/kabel-i-provod/mednyy-silovoy-kabel/kabel-vvg-3h15-066kv: кабель ввг 3х1,5 цена
+Максим: 28668410: Postovoi: 4da.org.ua: 2018-04-26T14:33:18: http://novyeteremki.com.ua/kak-kupit/: купить квартиру
+Нанопласт: 28668019: Postovoi: hodos.kharkov.ua: 2018-04-26T07:46:01: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: билет на поезд самара москва цена
+Нанопласт: 28663802: Post: salfetki.org.ua: 2018-04-23T00:28:04: None: None
+Нанопласт: 28668219: Postovoi: europarfum.net.ua: 2018-04-26T12:39:30: https://tsvetniki.ru/catalog/639-dlya-rassady/: грунт для рассады купить в москве
+Нанопласт: 28665237: Postovoi: avtocentr.sumy.ua: 2018-04-23T22:33:27: https://grantavto.com.ua/trejjd-in-obmen-na-novoe-avto-v-odesse/: trade in
+Нанопласт: 28665195: Postovoi: www.schooler.org.ua: 2018-04-23T21:40:44: https://theacademicadvisor.com.ua/country/obrazovanie-v-shveytsarii/: Обучение в Швейцарии для украинцев
+Нанопласт: 28664081: Postovoi: valiza-tour.kiev.ua: 2018-04-23T09:18:17: http://gelena-tour.com/tury-v-odessu: gelena tour
+Нанопласт: 28664080: Postovoi: tropic.od.ua: 2018-04-23T09:16:24: http://gelena-tour.com/tury-v-odessu: Тур в Одессу
+Нанопласт: 28666607: Postovoi: playman.com.ua: 2018-04-24T21:02:02: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: цены на билеты ржд на 2015 год
+Нанопласт: 28666609: Postovoi: umapalata.zp.ua: 2018-04-24T21:02:04: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: стоимость билета владивосток хабаровск
+Нанопласт: 28666608: Postovoi: yavtanke.org.ua: 2018-04-24T21:02:04: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: цены на жд билеты в 2018 году
+Нанопласт: 28668119: Postovoi: e-putivka.com.ua: 2018-04-26T11:12:39: http://www.electric-as.kiev.ua/: вызвать электрика в Киеве
+Нанопласт: 28668117: Postovoi: zenit2.com.ua: 2018-04-26T11:12:39: http://www.electric-as.kiev.ua/вызвать-электрика-на-дом/: электрик Киев срочно
+Нанопласт: 28668116: Postovoi: yavtanke.org.ua: 2018-04-26T11:12:39: http://www.electric-as.kiev.ua/: услуги электрика недорого Киев
+Нанопласт: 28668270: Postovoi: umapalata.zp.ua: 2018-04-26T13:55:39: http://e-news.com.ua/show/430337.html: источник
+Нанопласт: 28668349: Postovoi: slonoff.net.ua: 2018-04-26T14:22:47: https://depilation.com.ua/%D0%B1%D0%B8%D0%BE-%D0%B4%D0%B5%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B8-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F?qt-bio_depilation=1#tabs: восковая депиляция киев
+Нанопласт: 28668348: Postovoi: playman.com.ua: 2018-04-26T14:22:47: https://depilation.com.ua/%D0%B1%D0%B8%D0%BE-%D0%B4%D0%B5%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B8-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F?qt-bio_depilation=1#tabs: восковая депиляция киев
+Нанопласт: 28668352: Postovoi: zenit2.com.ua: 2018-04-26T14:22:48: https://depilation.com.ua/: глубокое бикини
+Нанопласт: 28668351: Postovoi: tropic.od.ua: 2018-04-26T14:22:48: https://depilation.com.ua/%D0%B1%D0%B8%D0%BE-%D0%B4%D0%B5%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B8-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F?qt-bio_depilation=1#tabs: восковая депиляция киев
+Нанопласт: 28668350: Postovoi: e-putivka.com.ua: 2018-04-26T14:22:48: https://depilation.com.ua/: глубокое бикини
+Нанопласт: 28668354: Postovoi: yavtanke.org.ua: 2018-04-26T14:22:50: https://depilation.com.ua/%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%B8%D0%BA%D0%B0%D0%BC-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D0%B8: курсы шугаринга киев
+Нанопласт: 28668357: Postovoi: shiva.net.ua: 2018-04-26T14:26:36: https://depilation.com.ua/%D0%B1%D0%B8%D0%BE-%D0%B4%D0%B5%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B8-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F?qt-bio_depilation=1#tabs: восковая депиляция киев
+
+Function load_isue: 2018.04.26 15:24:48
+
+Function load_isue_rota: 2018.04.26 15:24:49
+
+Function load_isue: 2018.04.26 16:33:48
+Максим: 23864041: link: browncat.net.ua: 2018-04-25 05:22:11: http://varios.biz/index.php?/topic/600-продам-фальшивые-купюры-высокого-качества/page__p__2668#entry2668: купить фальшивые деньги
+
+Function load_isue_rota: 2018.04.26 16:33:50
+Курко: 28661573: Post: freya.kiev.ua: 2018-04-19T16:59:07: None: None
+Максим: 28655593: Postovoi: marsella.com.ua: 2018-04-12T21:21:53: https://alumarket.com.ua/alum-profil/truba-kruglaya/: алюминиевая труба
+Максим: 28663012: Post: books.openlib.org.ua: 2018-04-21T16:28:25: None: None
+Максим: 28664849: Post: elit-a-a.com.ua: 2018-04-23T16:30:01: None: None
+Максим: 28666310: Post: interline.net.ua: 2018-04-24T16:49:07: None: None
+Максим: 28664468: Postovoi: seovin.ru: 2018-04-23T13:45:22: http://olahola.ua/: как дать объявление в интернете вот этот
+Максим: 28667580: Postovoi: marsella.com.ua: 2018-04-25T17:59:18: https://krasnodar.xn--80ajgpcpbhkds4a4g.xn--p1ai/Selhozkultury-ovoshi-i-frukty-semena-i-rassada-plo/Yagody-plody-semena-i-sazhency/Klubnika-zemlyanika-rassada/: на СельхозПортале
+Максим: 28664328: Postovoi: download.openlib.org.ua: 2018-04-23T12:41:22: https://sek.com.ua/kabel-i-provod/mednyy-silovoy-kabel/kabel-vvg-3h15-066kv: кабель ввг 3х1,5 цена
+Максим: 28668410: Postovoi: 4da.org.ua: 2018-04-26T14:33:18: http://novyeteremki.com.ua/kak-kupit/: купить квартиру
+Нанопласт: 28668019: Postovoi: hodos.kharkov.ua: 2018-04-26T07:46:01: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: билет на поезд самара москва цена
+Нанопласт: 28663802: Post: salfetki.org.ua: 2018-04-23T00:28:04: None: None
+Нанопласт: 28668219: Postovoi: europarfum.net.ua: 2018-04-26T12:39:30: https://tsvetniki.ru/catalog/639-dlya-rassady/: грунт для рассады купить в москве
+Нанопласт: 28665237: Postovoi: avtocentr.sumy.ua: 2018-04-23T22:33:27: https://grantavto.com.ua/trejjd-in-obmen-na-novoe-avto-v-odesse/: trade in
+Нанопласт: 28665195: Postovoi: www.schooler.org.ua: 2018-04-23T21:40:44: https://theacademicadvisor.com.ua/country/obrazovanie-v-shveytsarii/: Обучение в Швейцарии для украинцев
+Нанопласт: 28664081: Postovoi: valiza-tour.kiev.ua: 2018-04-23T09:18:17: http://gelena-tour.com/tury-v-odessu: gelena tour
+Нанопласт: 28664080: Postovoi: tropic.od.ua: 2018-04-23T09:16:24: http://gelena-tour.com/tury-v-odessu: Тур в Одессу
+Нанопласт: 28666607: Postovoi: playman.com.ua: 2018-04-24T21:02:02: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: цены на билеты ржд на 2015 год
+Нанопласт: 28666609: Postovoi: umapalata.zp.ua: 2018-04-24T21:02:04: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: стоимость билета владивосток хабаровск
+Нанопласт: 28666608: Postovoi: yavtanke.org.ua: 2018-04-24T21:02:04: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: цены на жд билеты в 2018 году
+Нанопласт: 28668119: Postovoi: e-putivka.com.ua: 2018-04-26T11:12:39: http://www.electric-as.kiev.ua/: вызвать электрика в Киеве
+Нанопласт: 28668117: Postovoi: zenit2.com.ua: 2018-04-26T11:12:39: http://www.electric-as.kiev.ua/вызвать-электрика-на-дом/: электрик Киев срочно
+Нанопласт: 28668116: Postovoi: yavtanke.org.ua: 2018-04-26T11:12:39: http://www.electric-as.kiev.ua/: услуги электрика недорого Киев
+Нанопласт: 28668270: Postovoi: umapalata.zp.ua: 2018-04-26T13:55:39: http://e-news.com.ua/show/430337.html: источник
+Нанопласт: 28668349: Postovoi: slonoff.net.ua: 2018-04-26T14:22:47: https://depilation.com.ua/%D0%B1%D0%B8%D0%BE-%D0%B4%D0%B5%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B8-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F?qt-bio_depilation=1#tabs: восковая депиляция киев
+Нанопласт: 28668348: Postovoi: playman.com.ua: 2018-04-26T14:22:47: https://depilation.com.ua/%D0%B1%D0%B8%D0%BE-%D0%B4%D0%B5%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B8-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F?qt-bio_depilation=1#tabs: восковая депиляция киев
+Нанопласт: 28668352: Postovoi: zenit2.com.ua: 2018-04-26T14:22:48: https://depilation.com.ua/: глубокое бикини
+Нанопласт: 28668351: Postovoi: tropic.od.ua: 2018-04-26T14:22:48: https://depilation.com.ua/%D0%B1%D0%B8%D0%BE-%D0%B4%D0%B5%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B8-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F?qt-bio_depilation=1#tabs: восковая депиляция киев
+Нанопласт: 28668350: Postovoi: e-putivka.com.ua: 2018-04-26T14:22:48: https://depilation.com.ua/: глубокое бикини
+Нанопласт: 28668354: Postovoi: yavtanke.org.ua: 2018-04-26T14:22:50: https://depilation.com.ua/%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%B8%D0%BA%D0%B0%D0%BC-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D0%B8: курсы шугаринга киев
+Нанопласт: 28668357: Postovoi: shiva.net.ua: 2018-04-26T14:26:36: https://depilation.com.ua/%D0%B1%D0%B8%D0%BE-%D0%B4%D0%B5%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B8-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F?qt-bio_depilation=1#tabs: восковая депиляция киев
+
+Function load_isue: 2018.04.26 16:54:26
+Максим: 23864041: link: browncat.net.ua: 2018-04-25 05:22:11: http://varios.biz/index.php?/topic/600-продам-фальшивые-купюры-высокого-качества/page__p__2668#entry2668: купить фальшивые деньги
+
+Function load_isue_rota: 2018.04.26 16:54:27
+Курко: 28661573: Post: freya.kiev.ua: 2018-04-19T16:59:07: None: None
+Максим: 28655593: Postovoi: marsella.com.ua: 2018-04-12T21:21:53: https://alumarket.com.ua/alum-profil/truba-kruglaya/: алюминиевая труба
+Максим: 28663012: Post: books.openlib.org.ua: 2018-04-21T16:28:25: None: None
+Максим: 28664849: Post: elit-a-a.com.ua: 2018-04-23T16:30:01: None: None
+Максим: 28666310: Post: interline.net.ua: 2018-04-24T16:49:07: None: None
+Максим: 28664468: Postovoi: seovin.ru: 2018-04-23T13:45:22: http://olahola.ua/: как дать объявление в интернете вот этот
+Максим: 28667580: Postovoi: marsella.com.ua: 2018-04-25T17:59:18: https://krasnodar.xn--80ajgpcpbhkds4a4g.xn--p1ai/Selhozkultury-ovoshi-i-frukty-semena-i-rassada-plo/Yagody-plody-semena-i-sazhency/Klubnika-zemlyanika-rassada/: на СельхозПортале
+Максим: 28664328: Postovoi: download.openlib.org.ua: 2018-04-23T12:41:22: https://sek.com.ua/kabel-i-provod/mednyy-silovoy-kabel/kabel-vvg-3h15-066kv: кабель ввг 3х1,5 цена
+Максим: 28668410: Postovoi: 4da.org.ua: 2018-04-26T14:33:18: http://novyeteremki.com.ua/kak-kupit/: купить квартиру
+Нанопласт: 28668019: Postovoi: hodos.kharkov.ua: 2018-04-26T07:46:01: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: билет на поезд самара москва цена
+Нанопласт: 28663802: Post: salfetki.org.ua: 2018-04-23T00:28:04: None: None
+Нанопласт: 28668219: Postovoi: europarfum.net.ua: 2018-04-26T12:39:30: https://tsvetniki.ru/catalog/639-dlya-rassady/: грунт для рассады купить в москве
+Нанопласт: 28665237: Postovoi: avtocentr.sumy.ua: 2018-04-23T22:33:27: https://grantavto.com.ua/trejjd-in-obmen-na-novoe-avto-v-odesse/: trade in
+Нанопласт: 28665195: Postovoi: www.schooler.org.ua: 2018-04-23T21:40:44: https://theacademicadvisor.com.ua/country/obrazovanie-v-shveytsarii/: Обучение в Швейцарии для украинцев
+Нанопласт: 28664081: Postovoi: valiza-tour.kiev.ua: 2018-04-23T09:18:17: http://gelena-tour.com/tury-v-odessu: gelena tour
+Нанопласт: 28664080: Postovoi: tropic.od.ua: 2018-04-23T09:16:24: http://gelena-tour.com/tury-v-odessu: Тур в Одессу
+Нанопласт: 28666607: Postovoi: playman.com.ua: 2018-04-24T21:02:02: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: цены на билеты ржд на 2015 год
+Нанопласт: 28666609: Postovoi: umapalata.zp.ua: 2018-04-24T21:02:04: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: стоимость билета владивосток хабаровск
+Нанопласт: 28666608: Postovoi: yavtanke.org.ua: 2018-04-24T21:02:04: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: цены на жд билеты в 2018 году
+Нанопласт: 28668119: Postovoi: e-putivka.com.ua: 2018-04-26T11:12:39: http://www.electric-as.kiev.ua/: вызвать электрика в Киеве
+Нанопласт: 28668117: Postovoi: zenit2.com.ua: 2018-04-26T11:12:39: http://www.electric-as.kiev.ua/вызвать-электрика-на-дом/: электрик Киев срочно
+Нанопласт: 28668116: Postovoi: yavtanke.org.ua: 2018-04-26T11:12:39: http://www.electric-as.kiev.ua/: услуги электрика недорого Киев
+Нанопласт: 28668270: Postovoi: umapalata.zp.ua: 2018-04-26T13:55:39: http://e-news.com.ua/show/430337.html: источник
+Нанопласт: 28668349: Postovoi: slonoff.net.ua: 2018-04-26T14:22:47: https://depilation.com.ua/%D0%B1%D0%B8%D0%BE-%D0%B4%D0%B5%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B8-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F?qt-bio_depilation=1#tabs: восковая депиляция киев
+Нанопласт: 28668348: Postovoi: playman.com.ua: 2018-04-26T14:22:47: https://depilation.com.ua/%D0%B1%D0%B8%D0%BE-%D0%B4%D0%B5%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B8-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F?qt-bio_depilation=1#tabs: восковая депиляция киев
+Нанопласт: 28668352: Postovoi: zenit2.com.ua: 2018-04-26T14:22:48: https://depilation.com.ua/: глубокое бикини
+Нанопласт: 28668351: Postovoi: tropic.od.ua: 2018-04-26T14:22:48: https://depilation.com.ua/%D0%B1%D0%B8%D0%BE-%D0%B4%D0%B5%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B8-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F?qt-bio_depilation=1#tabs: восковая депиляция киев
+Нанопласт: 28668350: Postovoi: e-putivka.com.ua: 2018-04-26T14:22:48: https://depilation.com.ua/: глубокое бикини
+Нанопласт: 28668354: Postovoi: yavtanke.org.ua: 2018-04-26T14:22:50: https://depilation.com.ua/%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%B8%D0%BA%D0%B0%D0%BC-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D0%B8: курсы шугаринга киев
+Нанопласт: 28668357: Postovoi: shiva.net.ua: 2018-04-26T14:26:36: https://depilation.com.ua/%D0%B1%D0%B8%D0%BE-%D0%B4%D0%B5%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B8-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F?qt-bio_depilation=1#tabs: восковая депиляция киев
+Нанопласт: 28668637: Postovoi: orangecat.net.ua: 2018-04-26T16:45:12: https://www.06277.com.ua/list/148724: Как проходит развод в Украине
+Нанопласт: 28668643: Postovoi: mylink.org.ua: 2018-04-26T16:45:16: https://www.056.ua/list/141311: https://www.056.ua/list/141311
+Нанопласт: 28668646: Postovoi: turtrans.net.ua: 2018-04-26T16:50:11: http://prozak.info/Vzyskanie-alimentov-s-inostranca.-S-chego-nachat-Kakovy-shansy: Взыскание алиментов с иностранца. С чего начать? Каковы шансы?
+Нанопласт: 28668649: Postovoi: shiva.net.ua: 2018-04-26T16:50:12: http://lifedon.com.ua/society/society_miscellaneous/40009-kak-razdelit-imushchestvo-pri-razvode.html: http://lifedon.com.ua/society/society_miscellaneous/40009-kak-razdelit-imushchestvo-pri-razvode.html
+Нанопласт: 28668648: Postovoi: dlemoduli.org.ua: 2018-04-26T16:50:12: http://www.0624.com.ua/advertising/october-2017/16561-alimenty-eto-ne-shutki-ili-kak-izmenilis-razmery-vzyskaniy: здесь
+Нанопласт: 28668647: Postovoi: web-city.org.ua: 2018-04-26T16:50:12: http://dnepr.info/news/razdel-imushhestva: Раздел имущества
+
+Function load_isue: 2018.04.26 17:08:15
+Максим: 23864041: link: browncat.net.ua: 2018-04-25 05:22:11: http://varios.biz/index.php?/topic/600-продам-фальшивые-купюры-высокого-качества/page__p__2668#entry2668: купить фальшивые деньги
+
+Function load_isue_rota: 2018.04.26 17:08:17
+Курко: 28661573: Post: freya.kiev.ua: 2018-04-19T16:59:07: None: None
+Максим: 28655593: Postovoi: marsella.com.ua: 2018-04-12T21:21:53: https://alumarket.com.ua/alum-profil/truba-kruglaya/: алюминиевая труба
+Максим: 28663012: Post: books.openlib.org.ua: 2018-04-21T16:28:25: None: None
+Максим: 28664849: Post: elit-a-a.com.ua: 2018-04-23T16:30:01: None: None
+Максим: 28666310: Post: interline.net.ua: 2018-04-24T16:49:07: None: None
+Максим: 28664468: Postovoi: seovin.ru: 2018-04-23T13:45:22: http://olahola.ua/: как дать объявление в интернете вот этот
+Максим: 28667580: Postovoi: marsella.com.ua: 2018-04-25T17:59:18: https://krasnodar.xn--80ajgpcpbhkds4a4g.xn--p1ai/Selhozkultury-ovoshi-i-frukty-semena-i-rassada-plo/Yagody-plody-semena-i-sazhency/Klubnika-zemlyanika-rassada/: на СельхозПортале
+Максим: 28664328: Postovoi: download.openlib.org.ua: 2018-04-23T12:41:22: https://sek.com.ua/kabel-i-provod/mednyy-silovoy-kabel/kabel-vvg-3h15-066kv: кабель ввг 3х1,5 цена
+Максим: 28668410: Postovoi: 4da.org.ua: 2018-04-26T14:33:18: http://novyeteremki.com.ua/kak-kupit/: купить квартиру
+Нанопласт: 28668019: Postovoi: hodos.kharkov.ua: 2018-04-26T07:46:01: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: билет на поезд самара москва цена
+Нанопласт: 28663802: Post: salfetki.org.ua: 2018-04-23T00:28:04: None: None
+Нанопласт: 28668219: Postovoi: europarfum.net.ua: 2018-04-26T12:39:30: https://tsvetniki.ru/catalog/639-dlya-rassady/: грунт для рассады купить в москве
+Нанопласт: 28665237: Postovoi: avtocentr.sumy.ua: 2018-04-23T22:33:27: https://grantavto.com.ua/trejjd-in-obmen-na-novoe-avto-v-odesse/: trade in
+Нанопласт: 28665195: Postovoi: www.schooler.org.ua: 2018-04-23T21:40:44: https://theacademicadvisor.com.ua/country/obrazovanie-v-shveytsarii/: Обучение в Швейцарии для украинцев
+Нанопласт: 28664081: Postovoi: valiza-tour.kiev.ua: 2018-04-23T09:18:17: http://gelena-tour.com/tury-v-odessu: gelena tour
+Нанопласт: 28664080: Postovoi: tropic.od.ua: 2018-04-23T09:16:24: http://gelena-tour.com/tury-v-odessu: Тур в Одессу
+Нанопласт: 28666607: Postovoi: playman.com.ua: 2018-04-24T21:02:02: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: цены на билеты ржд на 2015 год
+Нанопласт: 28666609: Postovoi: umapalata.zp.ua: 2018-04-24T21:02:04: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: стоимость билета владивосток хабаровск
+Нанопласт: 28666608: Postovoi: yavtanke.org.ua: 2018-04-24T21:02:04: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: цены на жд билеты в 2018 году
+Нанопласт: 28668119: Postovoi: e-putivka.com.ua: 2018-04-26T11:12:39: http://www.electric-as.kiev.ua/: вызвать электрика в Киеве
+Нанопласт: 28668117: Postovoi: zenit2.com.ua: 2018-04-26T11:12:39: http://www.electric-as.kiev.ua/вызвать-электрика-на-дом/: электрик Киев срочно
+Нанопласт: 28668116: Postovoi: yavtanke.org.ua: 2018-04-26T11:12:39: http://www.electric-as.kiev.ua/: услуги электрика недорого Киев
+Нанопласт: 28668270: Postovoi: umapalata.zp.ua: 2018-04-26T13:55:39: http://e-news.com.ua/show/430337.html: источник
+Нанопласт: 28668349: Postovoi: slonoff.net.ua: 2018-04-26T14:22:47: https://depilation.com.ua/%D0%B1%D0%B8%D0%BE-%D0%B4%D0%B5%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B8-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F?qt-bio_depilation=1#tabs: восковая депиляция киев
+Нанопласт: 28668348: Postovoi: playman.com.ua: 2018-04-26T14:22:47: https://depilation.com.ua/%D0%B1%D0%B8%D0%BE-%D0%B4%D0%B5%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B8-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F?qt-bio_depilation=1#tabs: восковая депиляция киев
+Нанопласт: 28668352: Postovoi: zenit2.com.ua: 2018-04-26T14:22:48: https://depilation.com.ua/: глубокое бикини
+Нанопласт: 28668351: Postovoi: tropic.od.ua: 2018-04-26T14:22:48: https://depilation.com.ua/%D0%B1%D0%B8%D0%BE-%D0%B4%D0%B5%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B8-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F?qt-bio_depilation=1#tabs: восковая депиляция киев
+Нанопласт: 28668350: Postovoi: e-putivka.com.ua: 2018-04-26T14:22:48: https://depilation.com.ua/: глубокое бикини
+Нанопласт: 28668354: Postovoi: yavtanke.org.ua: 2018-04-26T14:22:50: https://depilation.com.ua/%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%B8%D0%BA%D0%B0%D0%BC-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D0%B8: курсы шугаринга киев
+Нанопласт: 28668357: Postovoi: shiva.net.ua: 2018-04-26T14:26:36: https://depilation.com.ua/%D0%B1%D0%B8%D0%BE-%D0%B4%D0%B5%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B8-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F?qt-bio_depilation=1#tabs: восковая депиляция киев
+Нанопласт: 28668637: Postovoi: orangecat.net.ua: 2018-04-26T16:45:12: https://www.06277.com.ua/list/148724: Как проходит развод в Украине
+Нанопласт: 28668643: Postovoi: mylink.org.ua: 2018-04-26T16:45:16: https://www.056.ua/list/141311: https://www.056.ua/list/141311
+Нанопласт: 28668646: Postovoi: turtrans.net.ua: 2018-04-26T16:50:11: http://prozak.info/Vzyskanie-alimentov-s-inostranca.-S-chego-nachat-Kakovy-shansy: Взыскание алиментов с иностранца. С чего начать? Каковы шансы?
+Нанопласт: 28668649: Postovoi: shiva.net.ua: 2018-04-26T16:50:12: http://lifedon.com.ua/society/society_miscellaneous/40009-kak-razdelit-imushchestvo-pri-razvode.html: http://lifedon.com.ua/society/society_miscellaneous/40009-kak-razdelit-imushchestvo-pri-razvode.html
+Нанопласт: 28668648: Postovoi: dlemoduli.org.ua: 2018-04-26T16:50:12: http://www.0624.com.ua/advertising/october-2017/16561-alimenty-eto-ne-shutki-ili-kak-izmenilis-razmery-vzyskaniy: здесь
+Нанопласт: 28668647: Postovoi: web-city.org.ua: 2018-04-26T16:50:12: http://dnepr.info/news/razdel-imushhestva: Раздел имущества
+
+Function load_isue: 2018.04.26 17:44:40
+Максим: 23864041: link: browncat.net.ua: 2018-04-25 05:22:11: http://varios.biz/index.php?/topic/600-продам-фальшивые-купюры-высокого-качества/page__p__2668#entry2668: купить фальшивые деньги
+
+Function load_isue_rota: 2018.04.26 17:44:41
+Курко: 28661573: Post: freya.kiev.ua: 2018-04-19T16:59:07: None: None
+Максим: 28655593: Postovoi: marsella.com.ua: 2018-04-12T21:21:53: https://alumarket.com.ua/alum-profil/truba-kruglaya/: алюминиевая труба
+Максим: 28663012: Post: books.openlib.org.ua: 2018-04-21T16:28:25: None: None
+Максим: 28664849: Post: elit-a-a.com.ua: 2018-04-23T16:30:01: None: None
+Максим: 28666310: Post: interline.net.ua: 2018-04-24T16:49:07: None: None
+Максим: 28664468: Postovoi: seovin.ru: 2018-04-23T13:45:22: http://olahola.ua/: как дать объявление в интернете вот этот
+Максим: 28667580: Postovoi: marsella.com.ua: 2018-04-25T17:59:18: https://krasnodar.xn--80ajgpcpbhkds4a4g.xn--p1ai/Selhozkultury-ovoshi-i-frukty-semena-i-rassada-plo/Yagody-plody-semena-i-sazhency/Klubnika-zemlyanika-rassada/: на СельхозПортале
+Максим: 28664328: Postovoi: download.openlib.org.ua: 2018-04-23T12:41:22: https://sek.com.ua/kabel-i-provod/mednyy-silovoy-kabel/kabel-vvg-3h15-066kv: кабель ввг 3х1,5 цена
+Максим: 28668410: Postovoi: 4da.org.ua: 2018-04-26T14:33:18: http://novyeteremki.com.ua/kak-kupit/: купить квартиру
+Нанопласт: 28668019: Postovoi: hodos.kharkov.ua: 2018-04-26T07:46:01: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: билет на поезд самара москва цена
+Нанопласт: 28663802: Post: salfetki.org.ua: 2018-04-23T00:28:04: None: None
+Нанопласт: 28668219: Postovoi: europarfum.net.ua: 2018-04-26T12:39:30: https://tsvetniki.ru/catalog/639-dlya-rassady/: грунт для рассады купить в москве
+Нанопласт: 28665237: Postovoi: avtocentr.sumy.ua: 2018-04-23T22:33:27: https://grantavto.com.ua/trejjd-in-obmen-na-novoe-avto-v-odesse/: trade in
+Нанопласт: 28665195: Postovoi: www.schooler.org.ua: 2018-04-23T21:40:44: https://theacademicadvisor.com.ua/country/obrazovanie-v-shveytsarii/: Обучение в Швейцарии для украинцев
+Нанопласт: 28664081: Postovoi: valiza-tour.kiev.ua: 2018-04-23T09:18:17: http://gelena-tour.com/tury-v-odessu: gelena tour
+Нанопласт: 28664080: Postovoi: tropic.od.ua: 2018-04-23T09:16:24: http://gelena-tour.com/tury-v-odessu: Тур в Одессу
+Нанопласт: 28666607: Postovoi: playman.com.ua: 2018-04-24T21:02:02: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: цены на билеты ржд на 2015 год
+Нанопласт: 28666609: Postovoi: umapalata.zp.ua: 2018-04-24T21:02:04: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: стоимость билета владивосток хабаровск
+Нанопласт: 28666608: Postovoi: yavtanke.org.ua: 2018-04-24T21:02:04: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: цены на жд билеты в 2018 году
+Нанопласт: 28668119: Postovoi: e-putivka.com.ua: 2018-04-26T11:12:39: http://www.electric-as.kiev.ua/: вызвать электрика в Киеве
+Нанопласт: 28668117: Postovoi: zenit2.com.ua: 2018-04-26T11:12:39: http://www.electric-as.kiev.ua/вызвать-электрика-на-дом/: электрик Киев срочно
+Нанопласт: 28668116: Postovoi: yavtanke.org.ua: 2018-04-26T11:12:39: http://www.electric-as.kiev.ua/: услуги электрика недорого Киев
+Нанопласт: 28668270: Postovoi: umapalata.zp.ua: 2018-04-26T13:55:39: http://e-news.com.ua/show/430337.html: источник
+Нанопласт: 28668349: Postovoi: slonoff.net.ua: 2018-04-26T14:22:47: https://depilation.com.ua/%D0%B1%D0%B8%D0%BE-%D0%B4%D0%B5%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B8-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F?qt-bio_depilation=1#tabs: восковая депиляция киев
+Нанопласт: 28668348: Postovoi: playman.com.ua: 2018-04-26T14:22:47: https://depilation.com.ua/%D0%B1%D0%B8%D0%BE-%D0%B4%D0%B5%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B8-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F?qt-bio_depilation=1#tabs: восковая депиляция киев
+Нанопласт: 28668352: Postovoi: zenit2.com.ua: 2018-04-26T14:22:48: https://depilation.com.ua/: глубокое бикини
+Нанопласт: 28668351: Postovoi: tropic.od.ua: 2018-04-26T14:22:48: https://depilation.com.ua/%D0%B1%D0%B8%D0%BE-%D0%B4%D0%B5%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B8-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F?qt-bio_depilation=1#tabs: восковая депиляция киев
+Нанопласт: 28668350: Postovoi: e-putivka.com.ua: 2018-04-26T14:22:48: https://depilation.com.ua/: глубокое бикини
+Нанопласт: 28668354: Postovoi: yavtanke.org.ua: 2018-04-26T14:22:50: https://depilation.com.ua/%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%B8%D0%BA%D0%B0%D0%BC-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D0%B8: курсы шугаринга киев
+Нанопласт: 28668357: Postovoi: shiva.net.ua: 2018-04-26T14:26:36: https://depilation.com.ua/%D0%B1%D0%B8%D0%BE-%D0%B4%D0%B5%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B8-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F?qt-bio_depilation=1#tabs: восковая депиляция киев
+Нанопласт: 28668637: Postovoi: orangecat.net.ua: 2018-04-26T16:45:12: https://www.06277.com.ua/list/148724: Как проходит развод в Украине
+Нанопласт: 28668643: Postovoi: mylink.org.ua: 2018-04-26T16:45:16: https://www.056.ua/list/141311: https://www.056.ua/list/141311
+Нанопласт: 28668646: Postovoi: turtrans.net.ua: 2018-04-26T16:50:11: http://prozak.info/Vzyskanie-alimentov-s-inostranca.-S-chego-nachat-Kakovy-shansy: Взыскание алиментов с иностранца. С чего начать? Каковы шансы?
+Нанопласт: 28668649: Postovoi: shiva.net.ua: 2018-04-26T16:50:12: http://lifedon.com.ua/society/society_miscellaneous/40009-kak-razdelit-imushchestvo-pri-razvode.html: http://lifedon.com.ua/society/society_miscellaneous/40009-kak-razdelit-imushchestvo-pri-razvode.html
+Нанопласт: 28668648: Postovoi: dlemoduli.org.ua: 2018-04-26T16:50:12: http://www.0624.com.ua/advertising/october-2017/16561-alimenty-eto-ne-shutki-ili-kak-izmenilis-razmery-vzyskaniy: здесь
+Нанопласт: 28668647: Postovoi: web-city.org.ua: 2018-04-26T16:50:12: http://dnepr.info/news/razdel-imushhestva: Раздел имущества
+
+Function load_isue: 2018.04.26 18:02:34
+
+Function load_isue_rota: 2018.04.26 18:02:35
+
+Function load_isue: 2018.04.26 23:19:24
+Максим: 23864041: link: browncat.net.ua: 2018-04-25 05:22:11: http://varios.biz/index.php?/topic/600-продам-фальшивые-купюры-высокого-качества/page__p__2668#entry2668: купить фальшивые деньги
+
+Function load_isue_rota: 2018.04.26 23:19:25
+Курко: 28661573: Post: freya.kiev.ua: 2018-04-19T16:59:07: None: None
+Максим: 28655593: Postovoi: marsella.com.ua: 2018-04-12T21:21:53: https://alumarket.com.ua/alum-profil/truba-kruglaya/: алюминиевая труба
+Максим: 28663012: Post: books.openlib.org.ua: 2018-04-21T16:28:25: None: None
+Максим: 28664849: Post: elit-a-a.com.ua: 2018-04-23T16:30:01: None: None
+Максим: 28666310: Post: interline.net.ua: 2018-04-24T16:49:07: None: None
+Максим: 28664468: Postovoi: seovin.ru: 2018-04-23T13:45:22: http://olahola.ua/: как дать объявление в интернете вот этот
+Максим: 28667580: Postovoi: marsella.com.ua: 2018-04-25T17:59:18: https://krasnodar.xn--80ajgpcpbhkds4a4g.xn--p1ai/Selhozkultury-ovoshi-i-frukty-semena-i-rassada-plo/Yagody-plody-semena-i-sazhency/Klubnika-zemlyanika-rassada/: на СельхозПортале
+Максим: 28664328: Postovoi: download.openlib.org.ua: 2018-04-23T12:41:22: https://sek.com.ua/kabel-i-provod/mednyy-silovoy-kabel/kabel-vvg-3h15-066kv: кабель ввг 3х1,5 цена
+Максим: 28668410: Postovoi: 4da.org.ua: 2018-04-26T14:33:18: http://novyeteremki.com.ua/kak-kupit/: купить квартиру
+Нанопласт: 28668019: Postovoi: hodos.kharkov.ua: 2018-04-26T07:46:01: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: билет на поезд самара москва цена
+Нанопласт: 28663802: Post: salfetki.org.ua: 2018-04-23T00:28:04: None: None
+Нанопласт: 28668219: Postovoi: europarfum.net.ua: 2018-04-26T12:39:30: https://tsvetniki.ru/catalog/639-dlya-rassady/: грунт для рассады купить в москве
+Нанопласт: 28665237: Postovoi: avtocentr.sumy.ua: 2018-04-23T22:33:27: https://grantavto.com.ua/trejjd-in-obmen-na-novoe-avto-v-odesse/: trade in
+Нанопласт: 28665195: Postovoi: www.schooler.org.ua: 2018-04-23T21:40:44: https://theacademicadvisor.com.ua/country/obrazovanie-v-shveytsarii/: Обучение в Швейцарии для украинцев
+Нанопласт: 28664081: Postovoi: valiza-tour.kiev.ua: 2018-04-23T09:18:17: http://gelena-tour.com/tury-v-odessu: gelena tour
+Нанопласт: 28664080: Postovoi: tropic.od.ua: 2018-04-23T09:16:24: http://gelena-tour.com/tury-v-odessu: Тур в Одессу
+Нанопласт: 28666607: Postovoi: playman.com.ua: 2018-04-24T21:02:02: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: цены на билеты ржд на 2015 год
+Нанопласт: 28666609: Postovoi: umapalata.zp.ua: 2018-04-24T21:02:04: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: стоимость билета владивосток хабаровск
+Нанопласт: 28666608: Postovoi: yavtanke.org.ua: 2018-04-24T21:02:04: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: цены на жд билеты в 2018 году
+Нанопласт: 28668119: Postovoi: e-putivka.com.ua: 2018-04-26T11:12:39: http://www.electric-as.kiev.ua/: вызвать электрика в Киеве
+Нанопласт: 28668117: Postovoi: zenit2.com.ua: 2018-04-26T11:12:39: http://www.electric-as.kiev.ua/вызвать-электрика-на-дом/: электрик Киев срочно
+Нанопласт: 28668116: Postovoi: yavtanke.org.ua: 2018-04-26T11:12:39: http://www.electric-as.kiev.ua/: услуги электрика недорого Киев
+Нанопласт: 28668270: Postovoi: umapalata.zp.ua: 2018-04-26T13:55:39: http://e-news.com.ua/show/430337.html: источник
+Нанопласт: 28668349: Postovoi: slonoff.net.ua: 2018-04-26T14:22:47: https://depilation.com.ua/%D0%B1%D0%B8%D0%BE-%D0%B4%D0%B5%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B8-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F?qt-bio_depilation=1#tabs: восковая депиляция киев
+Нанопласт: 28668348: Postovoi: playman.com.ua: 2018-04-26T14:22:47: https://depilation.com.ua/%D0%B1%D0%B8%D0%BE-%D0%B4%D0%B5%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B8-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F?qt-bio_depilation=1#tabs: восковая депиляция киев
+Нанопласт: 28668352: Postovoi: zenit2.com.ua: 2018-04-26T14:22:48: https://depilation.com.ua/: глубокое бикини
+Нанопласт: 28668351: Postovoi: tropic.od.ua: 2018-04-26T14:22:48: https://depilation.com.ua/%D0%B1%D0%B8%D0%BE-%D0%B4%D0%B5%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B8-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F?qt-bio_depilation=1#tabs: восковая депиляция киев
+Нанопласт: 28668350: Postovoi: e-putivka.com.ua: 2018-04-26T14:22:48: https://depilation.com.ua/: глубокое бикини
+Нанопласт: 28668354: Postovoi: yavtanke.org.ua: 2018-04-26T14:22:50: https://depilation.com.ua/%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%B8%D0%BA%D0%B0%D0%BC-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D0%B8: курсы шугаринга киев
+Нанопласт: 28668357: Postovoi: shiva.net.ua: 2018-04-26T14:26:36: https://depilation.com.ua/%D0%B1%D0%B8%D0%BE-%D0%B4%D0%B5%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B8-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F?qt-bio_depilation=1#tabs: восковая депиляция киев
+Нанопласт: 28668637: Postovoi: orangecat.net.ua: 2018-04-26T16:45:12: https://www.06277.com.ua/list/148724: Как проходит развод в Украине
+Нанопласт: 28668643: Postovoi: mylink.org.ua: 2018-04-26T16:45:16: https://www.056.ua/list/141311: https://www.056.ua/list/141311
+Нанопласт: 28668646: Postovoi: turtrans.net.ua: 2018-04-26T16:50:11: http://prozak.info/Vzyskanie-alimentov-s-inostranca.-S-chego-nachat-Kakovy-shansy: Взыскание алиментов с иностранца. С чего начать? Каковы шансы?
+Нанопласт: 28668649: Postovoi: shiva.net.ua: 2018-04-26T16:50:12: http://lifedon.com.ua/society/society_miscellaneous/40009-kak-razdelit-imushchestvo-pri-razvode.html: http://lifedon.com.ua/society/society_miscellaneous/40009-kak-razdelit-imushchestvo-pri-razvode.html
+Нанопласт: 28668648: Postovoi: dlemoduli.org.ua: 2018-04-26T16:50:12: http://www.0624.com.ua/advertising/october-2017/16561-alimenty-eto-ne-shutki-ili-kak-izmenilis-razmery-vzyskaniy: здесь
+Нанопласт: 28668647: Postovoi: web-city.org.ua: 2018-04-26T16:50:12: http://dnepr.info/news/razdel-imushhestva: Раздел имущества
+Нанопласт: 28668020: Postovoi: turtrans.net.ua: 2018-04-26T07:46:06: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: жд билеты самара бишкек цена
+Нанопласт: 28668841: Postovoi: ndua.org.ua: 2018-04-26T18:27:40: http://wwwomen.com.ua/viznannya-shlyubu-nedijsnim/: http://wwwomen.com.ua/viznannya-shlyubu-nedijsnim/
+Нанопласт: 28668843: Postovoi: thetech.com.ua: 2018-04-26T18:27:41: http://pomichnyk.org/dlya-fizychnyh-osib/stoyt-ly-doveryat-analyzu-dnk-na-ustanovlenye-ottsovstva.html: http://pomichnyk.org/dlya-fizychnyh-osib/stoyt-ly-doveryat-analyzu-dnk-na-ustanovlenye-ottsovstva.html
+Нанопласт: 28668850: Postovoi: miranda.org.ua: 2018-04-26T18:31:17: http://prozak.info/Novini-partneriv/Razvod-bez-svidetel-stva-o-brake-Al-yans-semejnyh-advokatov: http://prozak.info/Novini-partneriv/Razvod-bez-svidetel-stva-o-brake-Al-yans-semejnyh-advokatov
+Нанопласт: 28668854: Postovoi: bigmoney.kiev.ua: 2018-04-26T18:39:04: http://www.048.ua/list/127877: Алименты с иностранца, проживающего за границей: реально ли такое
+Нанопласт: 28668864: Postovoi: myiphone.net.ua: 2018-04-26T18:43:17: https://bin.ua/partners/218549-kak-uvelichit-ili-umenshit-razmer-alimentov-v.html: Как увеличить или уменьшить размер алиментов в Украине?
+
+Function load_isue: 2018.04.26 23:50:10
+Максим: 23864041: link: browncat.net.ua: 2018-04-25 05:22:11: http://varios.biz/index.php?/topic/600-продам-фальшивые-купюры-высокого-качества/page__p__2668#entry2668: купить фальшивые деньги
+
+Function load_isue_rota: 2018.04.26 23:50:11
+Курко: 28661573: Post: freya.kiev.ua: 2018-04-19T16:59:07: None: None
+Максим: 28655593: Postovoi: marsella.com.ua: 2018-04-12T21:21:53: https://alumarket.com.ua/alum-profil/truba-kruglaya/: алюминиевая труба
+Максим: 28663012: Post: books.openlib.org.ua: 2018-04-21T16:28:25: None: None
+Максим: 28664849: Post: elit-a-a.com.ua: 2018-04-23T16:30:01: None: None
+Максим: 28666310: Post: interline.net.ua: 2018-04-24T16:49:07: None: None
+Максим: 28664468: Postovoi: seovin.ru: 2018-04-23T13:45:22: http://olahola.ua/: как дать объявление в интернете вот этот
+Максим: 28667580: Postovoi: marsella.com.ua: 2018-04-25T17:59:18: https://krasnodar.xn--80ajgpcpbhkds4a4g.xn--p1ai/Selhozkultury-ovoshi-i-frukty-semena-i-rassada-plo/Yagody-plody-semena-i-sazhency/Klubnika-zemlyanika-rassada/: на СельхозПортале
+Максим: 28664328: Postovoi: download.openlib.org.ua: 2018-04-23T12:41:22: https://sek.com.ua/kabel-i-provod/mednyy-silovoy-kabel/kabel-vvg-3h15-066kv: кабель ввг 3х1,5 цена
+Максим: 28668410: Postovoi: 4da.org.ua: 2018-04-26T14:33:18: http://novyeteremki.com.ua/kak-kupit/: купить квартиру
+Нанопласт: 28668019: Postovoi: hodos.kharkov.ua: 2018-04-26T07:46:01: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: билет на поезд самара москва цена
+Нанопласт: 28663802: Post: salfetki.org.ua: 2018-04-23T00:28:04: None: None
+Нанопласт: 28668219: Postovoi: europarfum.net.ua: 2018-04-26T12:39:30: https://tsvetniki.ru/catalog/639-dlya-rassady/: грунт для рассады купить в москве
+Нанопласт: 28665237: Postovoi: avtocentr.sumy.ua: 2018-04-23T22:33:27: https://grantavto.com.ua/trejjd-in-obmen-na-novoe-avto-v-odesse/: trade in
+Нанопласт: 28665195: Postovoi: www.schooler.org.ua: 2018-04-23T21:40:44: https://theacademicadvisor.com.ua/country/obrazovanie-v-shveytsarii/: Обучение в Швейцарии для украинцев
+Нанопласт: 28664081: Postovoi: valiza-tour.kiev.ua: 2018-04-23T09:18:17: http://gelena-tour.com/tury-v-odessu: gelena tour
+Нанопласт: 28664080: Postovoi: tropic.od.ua: 2018-04-23T09:16:24: http://gelena-tour.com/tury-v-odessu: Тур в Одессу
+Нанопласт: 28666607: Postovoi: playman.com.ua: 2018-04-24T21:02:02: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: цены на билеты ржд на 2015 год
+Нанопласт: 28666609: Postovoi: umapalata.zp.ua: 2018-04-24T21:02:04: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: стоимость билета владивосток хабаровск
+Нанопласт: 28666608: Postovoi: yavtanke.org.ua: 2018-04-24T21:02:04: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: цены на жд билеты в 2018 году
+Нанопласт: 28668119: Postovoi: e-putivka.com.ua: 2018-04-26T11:12:39: http://www.electric-as.kiev.ua/: вызвать электрика в Киеве
+Нанопласт: 28668117: Postovoi: zenit2.com.ua: 2018-04-26T11:12:39: http://www.electric-as.kiev.ua/вызвать-электрика-на-дом/: электрик Киев срочно
+Нанопласт: 28668116: Postovoi: yavtanke.org.ua: 2018-04-26T11:12:39: http://www.electric-as.kiev.ua/: услуги электрика недорого Киев
+Нанопласт: 28668270: Postovoi: umapalata.zp.ua: 2018-04-26T13:55:39: http://e-news.com.ua/show/430337.html: источник
+Нанопласт: 28668349: Postovoi: slonoff.net.ua: 2018-04-26T14:22:47: https://depilation.com.ua/%D0%B1%D0%B8%D0%BE-%D0%B4%D0%B5%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B8-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F?qt-bio_depilation=1#tabs: восковая депиляция киев
+Нанопласт: 28668348: Postovoi: playman.com.ua: 2018-04-26T14:22:47: https://depilation.com.ua/%D0%B1%D0%B8%D0%BE-%D0%B4%D0%B5%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B8-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F?qt-bio_depilation=1#tabs: восковая депиляция киев
+Нанопласт: 28668352: Postovoi: zenit2.com.ua: 2018-04-26T14:22:48: https://depilation.com.ua/: глубокое бикини
+Нанопласт: 28668351: Postovoi: tropic.od.ua: 2018-04-26T14:22:48: https://depilation.com.ua/%D0%B1%D0%B8%D0%BE-%D0%B4%D0%B5%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B8-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F?qt-bio_depilation=1#tabs: восковая депиляция киев
+Нанопласт: 28668350: Postovoi: e-putivka.com.ua: 2018-04-26T14:22:48: https://depilation.com.ua/: глубокое бикини
+Нанопласт: 28668354: Postovoi: yavtanke.org.ua: 2018-04-26T14:22:50: https://depilation.com.ua/%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%B8%D0%BA%D0%B0%D0%BC-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D0%B8: курсы шугаринга киев
+Нанопласт: 28668357: Postovoi: shiva.net.ua: 2018-04-26T14:26:36: https://depilation.com.ua/%D0%B1%D0%B8%D0%BE-%D0%B4%D0%B5%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B8-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F?qt-bio_depilation=1#tabs: восковая депиляция киев
+Нанопласт: 28668637: Postovoi: orangecat.net.ua: 2018-04-26T16:45:12: https://www.06277.com.ua/list/148724: Как проходит развод в Украине
+Нанопласт: 28668643: Postovoi: mylink.org.ua: 2018-04-26T16:45:16: https://www.056.ua/list/141311: https://www.056.ua/list/141311
+Нанопласт: 28668646: Postovoi: turtrans.net.ua: 2018-04-26T16:50:11: http://prozak.info/Vzyskanie-alimentov-s-inostranca.-S-chego-nachat-Kakovy-shansy: Взыскание алиментов с иностранца. С чего начать? Каковы шансы?
+Нанопласт: 28668649: Postovoi: shiva.net.ua: 2018-04-26T16:50:12: http://lifedon.com.ua/society/society_miscellaneous/40009-kak-razdelit-imushchestvo-pri-razvode.html: http://lifedon.com.ua/society/society_miscellaneous/40009-kak-razdelit-imushchestvo-pri-razvode.html
+Нанопласт: 28668648: Postovoi: dlemoduli.org.ua: 2018-04-26T16:50:12: http://www.0624.com.ua/advertising/october-2017/16561-alimenty-eto-ne-shutki-ili-kak-izmenilis-razmery-vzyskaniy: здесь
+Нанопласт: 28668647: Postovoi: web-city.org.ua: 2018-04-26T16:50:12: http://dnepr.info/news/razdel-imushhestva: Раздел имущества
+Нанопласт: 28668020: Postovoi: turtrans.net.ua: 2018-04-26T07:46:06: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: жд билеты самара бишкек цена
+Нанопласт: 28668841: Postovoi: ndua.org.ua: 2018-04-26T18:27:40: http://wwwomen.com.ua/viznannya-shlyubu-nedijsnim/: http://wwwomen.com.ua/viznannya-shlyubu-nedijsnim/
+Нанопласт: 28668843: Postovoi: thetech.com.ua: 2018-04-26T18:27:41: http://pomichnyk.org/dlya-fizychnyh-osib/stoyt-ly-doveryat-analyzu-dnk-na-ustanovlenye-ottsovstva.html: http://pomichnyk.org/dlya-fizychnyh-osib/stoyt-ly-doveryat-analyzu-dnk-na-ustanovlenye-ottsovstva.html
+Нанопласт: 28668850: Postovoi: miranda.org.ua: 2018-04-26T18:31:17: http://prozak.info/Novini-partneriv/Razvod-bez-svidetel-stva-o-brake-Al-yans-semejnyh-advokatov: http://prozak.info/Novini-partneriv/Razvod-bez-svidetel-stva-o-brake-Al-yans-semejnyh-advokatov
+Нанопласт: 28668854: Postovoi: bigmoney.kiev.ua: 2018-04-26T18:39:04: http://www.048.ua/list/127877: Алименты с иностранца, проживающего за границей: реально ли такое
+Нанопласт: 28668864: Postovoi: myiphone.net.ua: 2018-04-26T18:43:17: https://bin.ua/partners/218549-kak-uvelichit-ili-umenshit-razmer-alimentov-v.html: Как увеличить или уменьшить размер алиментов в Украине?
+
+Function load_isue: 2018.04.27 11:13:53
+Максим: 23871498: link: elit-a-a.com.ua: 2018-04-27 09:25:12: http://marvarid.net/clubmusic: Клубная музыка
+
+Function autorizen_rota: 2018.04.27 11:13:56
+Антон: true: 49d1a991-36bf-496c-b4e7-5c099e2ff69b
+Курко: true: db54c695-1630-4cf4-bb22-195e48955e1a
+Максим: true: e033163c-9f33-4645-91fc-4f5cb020cd1a
+Нанопласт: true: bc9233f1-6e55-46f6-8c2f-25abf825fd1a
+
+Function load_isue_rota: 2018.04.27 11:13:55
+Курко: 28661573: Post: freya.kiev.ua: 2018-04-19T16:59:07: None: None
+Курко: 28659730: Postovoi: frontier.net.ua: 2018-04-17T22:00:42: https://alumarket.com.ua/alum-profil/: профиль алюминиевый
+Курко: 28667729: Postovoi: buyheavenlyspot.com.ua: 2018-04-25T20:20:57: http://nitochki.com.ua/product-category/moxer-i-angora/: http://nitochki.com.ua/product-category/moxer-i-angora/
+Курко: 28668108: Postovoi: buyheavenlyspot.com.ua: 2018-04-26T11:12:37: http://www.electric-as.kiev.ua/: замена проводки
+Курко: 28668271: Postovoi: patriarh.in.ua: 2018-04-26T13:55:40: http://prozak.info/Novini-partneriv/Razvod-bez-svidetel-stva-o-brake-Al-yans-semejnyh-advokatov: источник
+Курко: 28668408: Postovoi: e-knigka.org.ua: 2018-04-26T14:32:15: https://depilation.com.ua/%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%B8%D0%BA%D0%B0%D0%BC-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D0%B8: шугаринг обучение
+Курко: 28668533: Postovoi: freya.kiev.ua: 2018-04-26T15:34:46: https://rostov.xn--80ajgpcpbhkds4a4g.xn--p1ai/Zhivotnye-pticy-ryby-korm-tovary-dlya-zhivotnyh/Zhivotnye/Koshki/: Сельхозпортал.рф
+Курко: 28668642: Postovoi: lightdesign.od.ua: 2018-04-26T16:45:16: http://job-sbu.org/izmenit-razmer-alimentov-ili-zamenit-ih-17463.html: http://job-sbu.org/izmenit-razmer-alimentov-ili-zamenit-ih-17463.html
+Курко: 28668654: Postovoi: buyheavenlyspot.com.ua: 2018-04-26T16:57:50: http://www.mv.org.ua/news/174370-zachem_nuzhen_advokat_v_processe_rastorzhenija_braka.html: тут
+Курко: 28668825: Postovoi: medical-beauty.org.ua: 2018-04-26T18:09:34: https://lawyer-family.ru/lishenie-roditelskix-prav-shansy-na-uspex/: в статье
+Курко: 28668824: Postovoi: medical-beauty.org.ua: 2018-04-26T18:09:34: https://www.0522.ua/list/149255: https://www.0522.ua/list/149255
+Курко: 28669255: Postovoi: freya.kiev.ua: 2018-04-27T10:28:45: http://helpo-hemor.com.ua/ru: helpo-hemor.com.ua
+Курко: 28669289: Postovoi: buyheavenlyspot.com.ua: 2018-04-27T10:42:34: https://promebli.ua: ProMebli
+Максим: 28655593: Postovoi: marsella.com.ua: 2018-04-12T21:21:53: https://alumarket.com.ua/alum-profil/truba-kruglaya/: алюминиевая труба
+Максим: 28663012: Post: books.openlib.org.ua: 2018-04-21T16:28:25: None: None
+Максим: 28664849: Post: elit-a-a.com.ua: 2018-04-23T16:30:01: None: None
+Максим: 28666310: Post: interline.net.ua: 2018-04-24T16:49:07: None: None
+Максим: 28664468: Postovoi: seovin.ru: 2018-04-23T13:45:22: http://olahola.ua/: как дать объявление в интернете вот этот
+Максим: 28667580: Postovoi: marsella.com.ua: 2018-04-25T17:59:18: https://krasnodar.xn--80ajgpcpbhkds4a4g.xn--p1ai/Selhozkultury-ovoshi-i-frukty-semena-i-rassada-plo/Yagody-plody-semena-i-sazhency/Klubnika-zemlyanika-rassada/: на СельхозПортале
+Максим: 28664328: Postovoi: download.openlib.org.ua: 2018-04-23T12:41:22: https://sek.com.ua/kabel-i-provod/mednyy-silovoy-kabel/kabel-vvg-3h15-066kv: кабель ввг 3х1,5 цена
+Максим: 28668410: Postovoi: 4da.org.ua: 2018-04-26T14:33:18: http://novyeteremki.com.ua/kak-kupit/: купить квартиру
+Максим: 28668914: Postovoi: animan.kiev.ua: 2018-04-26T21:45:25: http://kommetagroup.ru: Стальной прокат
+Максим: 28669294: Postovoi: amidi.com.ua: 2018-04-27T10:42:35: https://promebli.ua: https://promebli.ua
+Максим: 28669293: Postovoi: marsella.com.ua: 2018-04-27T10:42:35: https://promebli.ua: промебли.юа
+Максим: 28669292: Postovoi: dveroman.kiev.ua: 2018-04-27T10:42:35: https://promebli.ua: promebli.ua
+Нанопласт: 28668019: Postovoi: hodos.kharkov.ua: 2018-04-26T07:46:01: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: билет на поезд самара москва цена
+Нанопласт: 28663802: Post: salfetki.org.ua: 2018-04-23T00:28:04: None: None
+Нанопласт: 28668219: Postovoi: europarfum.net.ua: 2018-04-26T12:39:30: https://tsvetniki.ru/catalog/639-dlya-rassady/: грунт для рассады купить в москве
+Нанопласт: 28665237: Postovoi: avtocentr.sumy.ua: 2018-04-23T22:33:27: https://grantavto.com.ua/trejjd-in-obmen-na-novoe-avto-v-odesse/: trade in
+Нанопласт: 28665195: Postovoi: www.schooler.org.ua: 2018-04-23T21:40:44: https://theacademicadvisor.com.ua/country/obrazovanie-v-shveytsarii/: Обучение в Швейцарии для украинцев
+Нанопласт: 28664081: Postovoi: valiza-tour.kiev.ua: 2018-04-23T09:18:17: http://gelena-tour.com/tury-v-odessu: gelena tour
+Нанопласт: 28664080: Postovoi: tropic.od.ua: 2018-04-23T09:16:24: http://gelena-tour.com/tury-v-odessu: Тур в Одессу
+Нанопласт: 28666607: Postovoi: playman.com.ua: 2018-04-24T21:02:02: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: цены на билеты ржд на 2015 год
+Нанопласт: 28666609: Postovoi: umapalata.zp.ua: 2018-04-24T21:02:04: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: стоимость билета владивосток хабаровск
+Нанопласт: 28666608: Postovoi: yavtanke.org.ua: 2018-04-24T21:02:04: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: цены на жд билеты в 2018 году
+Нанопласт: 28668119: Postovoi: e-putivka.com.ua: 2018-04-26T11:12:39: http://www.electric-as.kiev.ua/: вызвать электрика в Киеве
+Нанопласт: 28668117: Postovoi: zenit2.com.ua: 2018-04-26T11:12:39: http://www.electric-as.kiev.ua/вызвать-электрика-на-дом/: электрик Киев срочно
+Нанопласт: 28668116: Postovoi: yavtanke.org.ua: 2018-04-26T11:12:39: http://www.electric-as.kiev.ua/: услуги электрика недорого Киев
+Нанопласт: 28668270: Postovoi: umapalata.zp.ua: 2018-04-26T13:55:39: http://e-news.com.ua/show/430337.html: источник
+Нанопласт: 28668349: Postovoi: slonoff.net.ua: 2018-04-26T14:22:47: https://depilation.com.ua/%D0%B1%D0%B8%D0%BE-%D0%B4%D0%B5%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B8-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F?qt-bio_depilation=1#tabs: восковая депиляция киев
+Нанопласт: 28668348: Postovoi: playman.com.ua: 2018-04-26T14:22:47: https://depilation.com.ua/%D0%B1%D0%B8%D0%BE-%D0%B4%D0%B5%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B8-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F?qt-bio_depilation=1#tabs: восковая депиляция киев
+Нанопласт: 28668352: Postovoi: zenit2.com.ua: 2018-04-26T14:22:48: https://depilation.com.ua/: глубокое бикини
+Нанопласт: 28668351: Postovoi: tropic.od.ua: 2018-04-26T14:22:48: https://depilation.com.ua/%D0%B1%D0%B8%D0%BE-%D0%B4%D0%B5%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B8-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F?qt-bio_depilation=1#tabs: восковая депиляция киев
+Нанопласт: 28668350: Postovoi: e-putivka.com.ua: 2018-04-26T14:22:48: https://depilation.com.ua/: глубокое бикини
+Нанопласт: 28668354: Postovoi: yavtanke.org.ua: 2018-04-26T14:22:50: https://depilation.com.ua/%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%B8%D0%BA%D0%B0%D0%BC-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D0%B8: курсы шугаринга киев
+Нанопласт: 28668357: Postovoi: shiva.net.ua: 2018-04-26T14:26:36: https://depilation.com.ua/%D0%B1%D0%B8%D0%BE-%D0%B4%D0%B5%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B8-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F?qt-bio_depilation=1#tabs: восковая депиляция киев
+Нанопласт: 28668637: Postovoi: orangecat.net.ua: 2018-04-26T16:45:12: https://www.06277.com.ua/list/148724: Как проходит развод в Украине
+Нанопласт: 28668643: Postovoi: mylink.org.ua: 2018-04-26T16:45:16: https://www.056.ua/list/141311: https://www.056.ua/list/141311
+Нанопласт: 28668646: Postovoi: turtrans.net.ua: 2018-04-26T16:50:11: http://prozak.info/Vzyskanie-alimentov-s-inostranca.-S-chego-nachat-Kakovy-shansy: Взыскание алиментов с иностранца. С чего начать? Каковы шансы?
+Нанопласт: 28668649: Postovoi: shiva.net.ua: 2018-04-26T16:50:12: http://lifedon.com.ua/society/society_miscellaneous/40009-kak-razdelit-imushchestvo-pri-razvode.html: http://lifedon.com.ua/society/society_miscellaneous/40009-kak-razdelit-imushchestvo-pri-razvode.html
+Нанопласт: 28668648: Postovoi: dlemoduli.org.ua: 2018-04-26T16:50:12: http://www.0624.com.ua/advertising/october-2017/16561-alimenty-eto-ne-shutki-ili-kak-izmenilis-razmery-vzyskaniy: здесь
+Нанопласт: 28668647: Postovoi: web-city.org.ua: 2018-04-26T16:50:12: http://dnepr.info/news/razdel-imushhestva: Раздел имущества
+Нанопласт: 28668020: Postovoi: turtrans.net.ua: 2018-04-26T07:46:06: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: жд билеты самара бишкек цена
+Нанопласт: 28668841: Postovoi: ndua.org.ua: 2018-04-26T18:27:40: http://wwwomen.com.ua/viznannya-shlyubu-nedijsnim/: http://wwwomen.com.ua/viznannya-shlyubu-nedijsnim/
+Нанопласт: 28668843: Postovoi: thetech.com.ua: 2018-04-26T18:27:41: http://pomichnyk.org/dlya-fizychnyh-osib/stoyt-ly-doveryat-analyzu-dnk-na-ustanovlenye-ottsovstva.html: http://pomichnyk.org/dlya-fizychnyh-osib/stoyt-ly-doveryat-analyzu-dnk-na-ustanovlenye-ottsovstva.html
+Нанопласт: 28668850: Postovoi: miranda.org.ua: 2018-04-26T18:31:17: http://prozak.info/Novini-partneriv/Razvod-bez-svidetel-stva-o-brake-Al-yans-semejnyh-advokatov: http://prozak.info/Novini-partneriv/Razvod-bez-svidetel-stva-o-brake-Al-yans-semejnyh-advokatov
+Нанопласт: 28668854: Postovoi: bigmoney.kiev.ua: 2018-04-26T18:39:04: http://www.048.ua/list/127877: Алименты с иностранца, проживающего за границей: реально ли такое
+Нанопласт: 28668864: Postovoi: myiphone.net.ua: 2018-04-26T18:43:17: https://bin.ua/partners/218549-kak-uvelichit-ili-umenshit-razmer-alimentov-v.html: Как увеличить или уменьшить размер алиментов в Украине?
+Нанопласт: 28669282: Postovoi: da100let.dn.ua: 2018-04-27T10:28:48: http://helpo-hemor.com.ua/ru: http://helpo-hemor.com.ua
+Нанопласт: 28669291: Postovoi: yavtanke.org.ua: 2018-04-27T10:42:34: https://promebli.ua: ProMebli.ua
+Нанопласт: 28669290: Postovoi: zenit2.com.ua: 2018-04-27T10:42:34: https://promebli.ua: ProMebli.ua
+
+Function load_isue: 2018.04.27 12:53:50
+Курко: 23871813: link: ypag.com.ua: 2018-04-27 11:46:08: http://zlatovlaska.com.ua/sergi/sergi-vechernie-koroleva.html: Серьги вечерние Королева
+Максим: 23871811: link: druzhba-lux.com.ua: 2018-04-27 11:45:35: http://zlatovlaska.com.ua/detskie-rezinochki/: Детские резиночки
+Максим: 23871498: link: elit-a-a.com.ua: 2018-04-27 09:25:12: http://marvarid.net/clubmusic: Клубная музыка
+
+Function load_isue_rota: 2018.04.27 12:53:53
+Курко: 28661573: Post: freya.kiev.ua: 2018-04-19T16:59:07: None: None
+Курко: 28659730: Postovoi: frontier.net.ua: 2018-04-17T22:00:42: https://alumarket.com.ua/alum-profil/: профиль алюминиевый
+Курко: 28667729: Postovoi: buyheavenlyspot.com.ua: 2018-04-25T20:20:57: http://nitochki.com.ua/product-category/moxer-i-angora/: http://nitochki.com.ua/product-category/moxer-i-angora/
+Курко: 28668108: Postovoi: buyheavenlyspot.com.ua: 2018-04-26T11:12:37: http://www.electric-as.kiev.ua/: замена проводки
+Курко: 28668271: Postovoi: patriarh.in.ua: 2018-04-26T13:55:40: http://prozak.info/Novini-partneriv/Razvod-bez-svidetel-stva-o-brake-Al-yans-semejnyh-advokatov: источник
+Курко: 28668408: Postovoi: e-knigka.org.ua: 2018-04-26T14:32:15: https://depilation.com.ua/%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%B8%D0%BA%D0%B0%D0%BC-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D0%B8: шугаринг обучение
+Курко: 28668533: Postovoi: freya.kiev.ua: 2018-04-26T15:34:46: https://rostov.xn--80ajgpcpbhkds4a4g.xn--p1ai/Zhivotnye-pticy-ryby-korm-tovary-dlya-zhivotnyh/Zhivotnye/Koshki/: Сельхозпортал.рф
+Курко: 28668642: Postovoi: lightdesign.od.ua: 2018-04-26T16:45:16: http://job-sbu.org/izmenit-razmer-alimentov-ili-zamenit-ih-17463.html: http://job-sbu.org/izmenit-razmer-alimentov-ili-zamenit-ih-17463.html
+Курко: 28668654: Postovoi: buyheavenlyspot.com.ua: 2018-04-26T16:57:50: http://www.mv.org.ua/news/174370-zachem_nuzhen_advokat_v_processe_rastorzhenija_braka.html: тут
+Курко: 28668825: Postovoi: medical-beauty.org.ua: 2018-04-26T18:09:34: https://lawyer-family.ru/lishenie-roditelskix-prav-shansy-na-uspex/: в статье
+Курко: 28668824: Postovoi: medical-beauty.org.ua: 2018-04-26T18:09:34: https://www.0522.ua/list/149255: https://www.0522.ua/list/149255
+Курко: 28669255: Postovoi: freya.kiev.ua: 2018-04-27T10:28:45: http://helpo-hemor.com.ua/ru: helpo-hemor.com.ua
+Курко: 28669289: Postovoi: buyheavenlyspot.com.ua: 2018-04-27T10:42:34: https://promebli.ua: ProMebli
+Максим: 28655593: Postovoi: marsella.com.ua: 2018-04-12T21:21:53: https://alumarket.com.ua/alum-profil/truba-kruglaya/: алюминиевая труба
+Максим: 28663012: Post: books.openlib.org.ua: 2018-04-21T16:28:25: None: None
+Максим: 28664849: Post: elit-a-a.com.ua: 2018-04-23T16:30:01: None: None
+Максим: 28666310: Post: interline.net.ua: 2018-04-24T16:49:07: None: None
+Максим: 28664468: Postovoi: seovin.ru: 2018-04-23T13:45:22: http://olahola.ua/: как дать объявление в интернете вот этот
+Максим: 28667580: Postovoi: marsella.com.ua: 2018-04-25T17:59:18: https://krasnodar.xn--80ajgpcpbhkds4a4g.xn--p1ai/Selhozkultury-ovoshi-i-frukty-semena-i-rassada-plo/Yagody-plody-semena-i-sazhency/Klubnika-zemlyanika-rassada/: на СельхозПортале
+Максим: 28664328: Postovoi: download.openlib.org.ua: 2018-04-23T12:41:22: https://sek.com.ua/kabel-i-provod/mednyy-silovoy-kabel/kabel-vvg-3h15-066kv: кабель ввг 3х1,5 цена
+Максим: 28668410: Postovoi: 4da.org.ua: 2018-04-26T14:33:18: http://novyeteremki.com.ua/kak-kupit/: купить квартиру
+Максим: 28668914: Postovoi: animan.kiev.ua: 2018-04-26T21:45:25: http://kommetagroup.ru: Стальной прокат
+Максим: 28669294: Postovoi: amidi.com.ua: 2018-04-27T10:42:35: https://promebli.ua: https://promebli.ua
+Максим: 28669293: Postovoi: marsella.com.ua: 2018-04-27T10:42:35: https://promebli.ua: промебли.юа
+Максим: 28669292: Postovoi: dveroman.kiev.ua: 2018-04-27T10:42:35: https://promebli.ua: promebli.ua
+Нанопласт: 28668019: Postovoi: hodos.kharkov.ua: 2018-04-26T07:46:01: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: билет на поезд самара москва цена
+Нанопласт: 28663802: Post: salfetki.org.ua: 2018-04-23T00:28:04: None: None
+Нанопласт: 28668219: Postovoi: europarfum.net.ua: 2018-04-26T12:39:30: https://tsvetniki.ru/catalog/639-dlya-rassady/: грунт для рассады купить в москве
+Нанопласт: 28665237: Postovoi: avtocentr.sumy.ua: 2018-04-23T22:33:27: https://grantavto.com.ua/trejjd-in-obmen-na-novoe-avto-v-odesse/: trade in
+Нанопласт: 28665195: Postovoi: www.schooler.org.ua: 2018-04-23T21:40:44: https://theacademicadvisor.com.ua/country/obrazovanie-v-shveytsarii/: Обучение в Швейцарии для украинцев
+Нанопласт: 28664081: Postovoi: valiza-tour.kiev.ua: 2018-04-23T09:18:17: http://gelena-tour.com/tury-v-odessu: gelena tour
+Нанопласт: 28664080: Postovoi: tropic.od.ua: 2018-04-23T09:16:24: http://gelena-tour.com/tury-v-odessu: Тур в Одессу
+Нанопласт: 28666607: Postovoi: playman.com.ua: 2018-04-24T21:02:02: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: цены на билеты ржд на 2015 год
+Нанопласт: 28666609: Postovoi: umapalata.zp.ua: 2018-04-24T21:02:04: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: стоимость билета владивосток хабаровск
+Нанопласт: 28666608: Postovoi: yavtanke.org.ua: 2018-04-24T21:02:04: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: цены на жд билеты в 2018 году
+Нанопласт: 28668119: Postovoi: e-putivka.com.ua: 2018-04-26T11:12:39: http://www.electric-as.kiev.ua/: вызвать электрика в Киеве
+Нанопласт: 28668117: Postovoi: zenit2.com.ua: 2018-04-26T11:12:39: http://www.electric-as.kiev.ua/вызвать-электрика-на-дом/: электрик Киев срочно
+Нанопласт: 28668116: Postovoi: yavtanke.org.ua: 2018-04-26T11:12:39: http://www.electric-as.kiev.ua/: услуги электрика недорого Киев
+Нанопласт: 28668270: Postovoi: umapalata.zp.ua: 2018-04-26T13:55:39: http://e-news.com.ua/show/430337.html: источник
+Нанопласт: 28668349: Postovoi: slonoff.net.ua: 2018-04-26T14:22:47: https://depilation.com.ua/%D0%B1%D0%B8%D0%BE-%D0%B4%D0%B5%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B8-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F?qt-bio_depilation=1#tabs: восковая депиляция киев
+Нанопласт: 28668348: Postovoi: playman.com.ua: 2018-04-26T14:22:47: https://depilation.com.ua/%D0%B1%D0%B8%D0%BE-%D0%B4%D0%B5%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B8-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F?qt-bio_depilation=1#tabs: восковая депиляция киев
+Нанопласт: 28668352: Postovoi: zenit2.com.ua: 2018-04-26T14:22:48: https://depilation.com.ua/: глубокое бикини
+Нанопласт: 28668351: Postovoi: tropic.od.ua: 2018-04-26T14:22:48: https://depilation.com.ua/%D0%B1%D0%B8%D0%BE-%D0%B4%D0%B5%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B8-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F?qt-bio_depilation=1#tabs: восковая депиляция киев
+Нанопласт: 28668350: Postovoi: e-putivka.com.ua: 2018-04-26T14:22:48: https://depilation.com.ua/: глубокое бикини
+Нанопласт: 28668354: Postovoi: yavtanke.org.ua: 2018-04-26T14:22:50: https://depilation.com.ua/%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%B8%D0%BA%D0%B0%D0%BC-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D0%B8: курсы шугаринга киев
+Нанопласт: 28668357: Postovoi: shiva.net.ua: 2018-04-26T14:26:36: https://depilation.com.ua/%D0%B1%D0%B8%D0%BE-%D0%B4%D0%B5%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B8-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F?qt-bio_depilation=1#tabs: восковая депиляция киев
+Нанопласт: 28668637: Postovoi: orangecat.net.ua: 2018-04-26T16:45:12: https://www.06277.com.ua/list/148724: Как проходит развод в Украине
+Нанопласт: 28668643: Postovoi: mylink.org.ua: 2018-04-26T16:45:16: https://www.056.ua/list/141311: https://www.056.ua/list/141311
+Нанопласт: 28668646: Postovoi: turtrans.net.ua: 2018-04-26T16:50:11: http://prozak.info/Vzyskanie-alimentov-s-inostranca.-S-chego-nachat-Kakovy-shansy: Взыскание алиментов с иностранца. С чего начать? Каковы шансы?
+Нанопласт: 28668649: Postovoi: shiva.net.ua: 2018-04-26T16:50:12: http://lifedon.com.ua/society/society_miscellaneous/40009-kak-razdelit-imushchestvo-pri-razvode.html: http://lifedon.com.ua/society/society_miscellaneous/40009-kak-razdelit-imushchestvo-pri-razvode.html
+Нанопласт: 28668648: Postovoi: dlemoduli.org.ua: 2018-04-26T16:50:12: http://www.0624.com.ua/advertising/october-2017/16561-alimenty-eto-ne-shutki-ili-kak-izmenilis-razmery-vzyskaniy: здесь
+Нанопласт: 28668647: Postovoi: web-city.org.ua: 2018-04-26T16:50:12: http://dnepr.info/news/razdel-imushhestva: Раздел имущества
+Нанопласт: 28668020: Postovoi: turtrans.net.ua: 2018-04-26T07:46:06: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: жд билеты самара бишкек цена
+Нанопласт: 28668841: Postovoi: ndua.org.ua: 2018-04-26T18:27:40: http://wwwomen.com.ua/viznannya-shlyubu-nedijsnim/: http://wwwomen.com.ua/viznannya-shlyubu-nedijsnim/
+Нанопласт: 28668843: Postovoi: thetech.com.ua: 2018-04-26T18:27:41: http://pomichnyk.org/dlya-fizychnyh-osib/stoyt-ly-doveryat-analyzu-dnk-na-ustanovlenye-ottsovstva.html: http://pomichnyk.org/dlya-fizychnyh-osib/stoyt-ly-doveryat-analyzu-dnk-na-ustanovlenye-ottsovstva.html
+Нанопласт: 28668850: Postovoi: miranda.org.ua: 2018-04-26T18:31:17: http://prozak.info/Novini-partneriv/Razvod-bez-svidetel-stva-o-brake-Al-yans-semejnyh-advokatov: http://prozak.info/Novini-partneriv/Razvod-bez-svidetel-stva-o-brake-Al-yans-semejnyh-advokatov
+Нанопласт: 28668854: Postovoi: bigmoney.kiev.ua: 2018-04-26T18:39:04: http://www.048.ua/list/127877: Алименты с иностранца, проживающего за границей: реально ли такое
+Нанопласт: 28668864: Postovoi: myiphone.net.ua: 2018-04-26T18:43:17: https://bin.ua/partners/218549-kak-uvelichit-ili-umenshit-razmer-alimentov-v.html: Как увеличить или уменьшить размер алиментов в Украине?
+Нанопласт: 28669282: Postovoi: da100let.dn.ua: 2018-04-27T10:28:48: http://helpo-hemor.com.ua/ru: http://helpo-hemor.com.ua
+Нанопласт: 28669291: Postovoi: yavtanke.org.ua: 2018-04-27T10:42:34: https://promebli.ua: ProMebli.ua
+Нанопласт: 28669290: Postovoi: zenit2.com.ua: 2018-04-27T10:42:34: https://promebli.ua: ProMebli.ua
+
+Function load_isue: 2018.04.27 12:56:01
+Курко: 23871813: link: ypag.com.ua: 2018-04-27 11:46:08: http://zlatovlaska.com.ua/sergi/sergi-vechernie-koroleva.html: Серьги вечерние Королева
+Максим: 23871811: link: druzhba-lux.com.ua: 2018-04-27 11:45:35: http://zlatovlaska.com.ua/detskie-rezinochki/: Детские резиночки
+Максим: 23871498: link: elit-a-a.com.ua: 2018-04-27 09:25:12: http://marvarid.net/clubmusic: Клубная музыка
+
+Function load_isue_rota: 2018.04.27 12:56:03
+Курко: 28661573: Post: freya.kiev.ua: 2018-04-19T16:59:07: None: None
+Курко: 28659730: Postovoi: frontier.net.ua: 2018-04-17T22:00:42: https://alumarket.com.ua/alum-profil/: профиль алюминиевый
+Курко: 28667729: Postovoi: buyheavenlyspot.com.ua: 2018-04-25T20:20:57: http://nitochki.com.ua/product-category/moxer-i-angora/: http://nitochki.com.ua/product-category/moxer-i-angora/
+Курко: 28668108: Postovoi: buyheavenlyspot.com.ua: 2018-04-26T11:12:37: http://www.electric-as.kiev.ua/: замена проводки
+Курко: 28668271: Postovoi: patriarh.in.ua: 2018-04-26T13:55:40: http://prozak.info/Novini-partneriv/Razvod-bez-svidetel-stva-o-brake-Al-yans-semejnyh-advokatov: источник
+Курко: 28668408: Postovoi: e-knigka.org.ua: 2018-04-26T14:32:15: https://depilation.com.ua/%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%B8%D0%BA%D0%B0%D0%BC-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D0%B8: шугаринг обучение
+Курко: 28668533: Postovoi: freya.kiev.ua: 2018-04-26T15:34:46: https://rostov.xn--80ajgpcpbhkds4a4g.xn--p1ai/Zhivotnye-pticy-ryby-korm-tovary-dlya-zhivotnyh/Zhivotnye/Koshki/: Сельхозпортал.рф
+Курко: 28668642: Postovoi: lightdesign.od.ua: 2018-04-26T16:45:16: http://job-sbu.org/izmenit-razmer-alimentov-ili-zamenit-ih-17463.html: http://job-sbu.org/izmenit-razmer-alimentov-ili-zamenit-ih-17463.html
+Курко: 28668654: Postovoi: buyheavenlyspot.com.ua: 2018-04-26T16:57:50: http://www.mv.org.ua/news/174370-zachem_nuzhen_advokat_v_processe_rastorzhenija_braka.html: тут
+Курко: 28668825: Postovoi: medical-beauty.org.ua: 2018-04-26T18:09:34: https://lawyer-family.ru/lishenie-roditelskix-prav-shansy-na-uspex/: в статье
+Курко: 28668824: Postovoi: medical-beauty.org.ua: 2018-04-26T18:09:34: https://www.0522.ua/list/149255: https://www.0522.ua/list/149255
+Курко: 28669255: Postovoi: freya.kiev.ua: 2018-04-27T10:28:45: http://helpo-hemor.com.ua/ru: helpo-hemor.com.ua
+Курко: 28669289: Postovoi: buyheavenlyspot.com.ua: 2018-04-27T10:42:34: https://promebli.ua: ProMebli
+Максим: 28655593: Postovoi: marsella.com.ua: 2018-04-12T21:21:53: https://alumarket.com.ua/alum-profil/truba-kruglaya/: алюминиевая труба
+Максим: 28663012: Post: books.openlib.org.ua: 2018-04-21T16:28:25: None: None
+Максим: 28664849: Post: elit-a-a.com.ua: 2018-04-23T16:30:01: None: None
+Максим: 28666310: Post: interline.net.ua: 2018-04-24T16:49:07: None: None
+Максим: 28664468: Postovoi: seovin.ru: 2018-04-23T13:45:22: http://olahola.ua/: как дать объявление в интернете вот этот
+Максим: 28667580: Postovoi: marsella.com.ua: 2018-04-25T17:59:18: https://krasnodar.xn--80ajgpcpbhkds4a4g.xn--p1ai/Selhozkultury-ovoshi-i-frukty-semena-i-rassada-plo/Yagody-plody-semena-i-sazhency/Klubnika-zemlyanika-rassada/: на СельхозПортале
+Максим: 28664328: Postovoi: download.openlib.org.ua: 2018-04-23T12:41:22: https://sek.com.ua/kabel-i-provod/mednyy-silovoy-kabel/kabel-vvg-3h15-066kv: кабель ввг 3х1,5 цена
+Максим: 28668410: Postovoi: 4da.org.ua: 2018-04-26T14:33:18: http://novyeteremki.com.ua/kak-kupit/: купить квартиру
+Максим: 28668914: Postovoi: animan.kiev.ua: 2018-04-26T21:45:25: http://kommetagroup.ru: Стальной прокат
+Максим: 28669294: Postovoi: amidi.com.ua: 2018-04-27T10:42:35: https://promebli.ua: https://promebli.ua
+Максим: 28669293: Postovoi: marsella.com.ua: 2018-04-27T10:42:35: https://promebli.ua: промебли.юа
+Максим: 28669292: Postovoi: dveroman.kiev.ua: 2018-04-27T10:42:35: https://promebli.ua: promebli.ua
+Нанопласт: 28668019: Postovoi: hodos.kharkov.ua: 2018-04-26T07:46:01: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: билет на поезд самара москва цена
+Нанопласт: 28663802: Post: salfetki.org.ua: 2018-04-23T00:28:04: None: None
+Нанопласт: 28668219: Postovoi: europarfum.net.ua: 2018-04-26T12:39:30: https://tsvetniki.ru/catalog/639-dlya-rassady/: грунт для рассады купить в москве
+Нанопласт: 28665237: Postovoi: avtocentr.sumy.ua: 2018-04-23T22:33:27: https://grantavto.com.ua/trejjd-in-obmen-na-novoe-avto-v-odesse/: trade in
+Нанопласт: 28665195: Postovoi: www.schooler.org.ua: 2018-04-23T21:40:44: https://theacademicadvisor.com.ua/country/obrazovanie-v-shveytsarii/: Обучение в Швейцарии для украинцев
+Нанопласт: 28664081: Postovoi: valiza-tour.kiev.ua: 2018-04-23T09:18:17: http://gelena-tour.com/tury-v-odessu: gelena tour
+Нанопласт: 28664080: Postovoi: tropic.od.ua: 2018-04-23T09:16:24: http://gelena-tour.com/tury-v-odessu: Тур в Одессу
+Нанопласт: 28666607: Postovoi: playman.com.ua: 2018-04-24T21:02:02: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: цены на билеты ржд на 2015 год
+Нанопласт: 28666609: Postovoi: umapalata.zp.ua: 2018-04-24T21:02:04: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: стоимость билета владивосток хабаровск
+Нанопласт: 28666608: Postovoi: yavtanke.org.ua: 2018-04-24T21:02:04: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: цены на жд билеты в 2018 году
+Нанопласт: 28668119: Postovoi: e-putivka.com.ua: 2018-04-26T11:12:39: http://www.electric-as.kiev.ua/: вызвать электрика в Киеве
+Нанопласт: 28668117: Postovoi: zenit2.com.ua: 2018-04-26T11:12:39: http://www.electric-as.kiev.ua/вызвать-электрика-на-дом/: электрик Киев срочно
+Нанопласт: 28668116: Postovoi: yavtanke.org.ua: 2018-04-26T11:12:39: http://www.electric-as.kiev.ua/: услуги электрика недорого Киев
+Нанопласт: 28668270: Postovoi: umapalata.zp.ua: 2018-04-26T13:55:39: http://e-news.com.ua/show/430337.html: источник
+Нанопласт: 28668349: Postovoi: slonoff.net.ua: 2018-04-26T14:22:47: https://depilation.com.ua/%D0%B1%D0%B8%D0%BE-%D0%B4%D0%B5%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B8-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F?qt-bio_depilation=1#tabs: восковая депиляция киев
+Нанопласт: 28668348: Postovoi: playman.com.ua: 2018-04-26T14:22:47: https://depilation.com.ua/%D0%B1%D0%B8%D0%BE-%D0%B4%D0%B5%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B8-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F?qt-bio_depilation=1#tabs: восковая депиляция киев
+Нанопласт: 28668352: Postovoi: zenit2.com.ua: 2018-04-26T14:22:48: https://depilation.com.ua/: глубокое бикини
+Нанопласт: 28668351: Postovoi: tropic.od.ua: 2018-04-26T14:22:48: https://depilation.com.ua/%D0%B1%D0%B8%D0%BE-%D0%B4%D0%B5%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B8-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F?qt-bio_depilation=1#tabs: восковая депиляция киев
+Нанопласт: 28668350: Postovoi: e-putivka.com.ua: 2018-04-26T14:22:48: https://depilation.com.ua/: глубокое бикини
+Нанопласт: 28668354: Postovoi: yavtanke.org.ua: 2018-04-26T14:22:50: https://depilation.com.ua/%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%B8%D0%BA%D0%B0%D0%BC-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D0%B8: курсы шугаринга киев
+Нанопласт: 28668357: Postovoi: shiva.net.ua: 2018-04-26T14:26:36: https://depilation.com.ua/%D0%B1%D0%B8%D0%BE-%D0%B4%D0%B5%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B8-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F?qt-bio_depilation=1#tabs: восковая депиляция киев
+Нанопласт: 28668637: Postovoi: orangecat.net.ua: 2018-04-26T16:45:12: https://www.06277.com.ua/list/148724: Как проходит развод в Украине
+Нанопласт: 28668643: Postovoi: mylink.org.ua: 2018-04-26T16:45:16: https://www.056.ua/list/141311: https://www.056.ua/list/141311
+Нанопласт: 28668646: Postovoi: turtrans.net.ua: 2018-04-26T16:50:11: http://prozak.info/Vzyskanie-alimentov-s-inostranca.-S-chego-nachat-Kakovy-shansy: Взыскание алиментов с иностранца. С чего начать? Каковы шансы?
+Нанопласт: 28668649: Postovoi: shiva.net.ua: 2018-04-26T16:50:12: http://lifedon.com.ua/society/society_miscellaneous/40009-kak-razdelit-imushchestvo-pri-razvode.html: http://lifedon.com.ua/society/society_miscellaneous/40009-kak-razdelit-imushchestvo-pri-razvode.html
+Нанопласт: 28668648: Postovoi: dlemoduli.org.ua: 2018-04-26T16:50:12: http://www.0624.com.ua/advertising/october-2017/16561-alimenty-eto-ne-shutki-ili-kak-izmenilis-razmery-vzyskaniy: здесь
+Нанопласт: 28668647: Postovoi: web-city.org.ua: 2018-04-26T16:50:12: http://dnepr.info/news/razdel-imushhestva: Раздел имущества
+Нанопласт: 28668020: Postovoi: turtrans.net.ua: 2018-04-26T07:46:06: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: жд билеты самара бишкек цена
+Нанопласт: 28668841: Postovoi: ndua.org.ua: 2018-04-26T18:27:40: http://wwwomen.com.ua/viznannya-shlyubu-nedijsnim/: http://wwwomen.com.ua/viznannya-shlyubu-nedijsnim/
+Нанопласт: 28668843: Postovoi: thetech.com.ua: 2018-04-26T18:27:41: http://pomichnyk.org/dlya-fizychnyh-osib/stoyt-ly-doveryat-analyzu-dnk-na-ustanovlenye-ottsovstva.html: http://pomichnyk.org/dlya-fizychnyh-osib/stoyt-ly-doveryat-analyzu-dnk-na-ustanovlenye-ottsovstva.html
+Нанопласт: 28668850: Postovoi: miranda.org.ua: 2018-04-26T18:31:17: http://prozak.info/Novini-partneriv/Razvod-bez-svidetel-stva-o-brake-Al-yans-semejnyh-advokatov: http://prozak.info/Novini-partneriv/Razvod-bez-svidetel-stva-o-brake-Al-yans-semejnyh-advokatov
+Нанопласт: 28668854: Postovoi: bigmoney.kiev.ua: 2018-04-26T18:39:04: http://www.048.ua/list/127877: Алименты с иностранца, проживающего за границей: реально ли такое
+Нанопласт: 28668864: Postovoi: myiphone.net.ua: 2018-04-26T18:43:17: https://bin.ua/partners/218549-kak-uvelichit-ili-umenshit-razmer-alimentov-v.html: Как увеличить или уменьшить размер алиментов в Украине?
+Нанопласт: 28669282: Postovoi: da100let.dn.ua: 2018-04-27T10:28:48: http://helpo-hemor.com.ua/ru: http://helpo-hemor.com.ua
+Нанопласт: 28669291: Postovoi: yavtanke.org.ua: 2018-04-27T10:42:34: https://promebli.ua: ProMebli.ua
+Нанопласт: 28669290: Postovoi: zenit2.com.ua: 2018-04-27T10:42:34: https://promebli.ua: ProMebli.ua
+
+Function load_isue: 2018.04.27 13:00:11
+Курко: 23871813: link: ypag.com.ua: 2018-04-27 11:46:08: http://zlatovlaska.com.ua/sergi/sergi-vechernie-koroleva.html: Серьги вечерние Королева
+Максим: 23871811: link: druzhba-lux.com.ua: 2018-04-27 11:45:35: http://zlatovlaska.com.ua/detskie-rezinochki/: Детские резиночки
+Максим: 23871498: link: elit-a-a.com.ua: 2018-04-27 09:25:12: http://marvarid.net/clubmusic: Клубная музыка
+
+Function load_isue_rota: 2018.04.27 13:00:13
+Курко: 28661573: Post: freya.kiev.ua: 2018-04-19T16:59:07: None: None
+Курко: 28659730: Postovoi: frontier.net.ua: 2018-04-17T22:00:42: https://alumarket.com.ua/alum-profil/: профиль алюминиевый
+Курко: 28667729: Postovoi: buyheavenlyspot.com.ua: 2018-04-25T20:20:57: http://nitochki.com.ua/product-category/moxer-i-angora/: http://nitochki.com.ua/product-category/moxer-i-angora/
+Курко: 28668108: Postovoi: buyheavenlyspot.com.ua: 2018-04-26T11:12:37: http://www.electric-as.kiev.ua/: замена проводки
+Курко: 28668271: Postovoi: patriarh.in.ua: 2018-04-26T13:55:40: http://prozak.info/Novini-partneriv/Razvod-bez-svidetel-stva-o-brake-Al-yans-semejnyh-advokatov: источник
+Курко: 28668408: Postovoi: e-knigka.org.ua: 2018-04-26T14:32:15: https://depilation.com.ua/%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%B8%D0%BA%D0%B0%D0%BC-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D0%B8: шугаринг обучение
+Курко: 28668533: Postovoi: freya.kiev.ua: 2018-04-26T15:34:46: https://rostov.xn--80ajgpcpbhkds4a4g.xn--p1ai/Zhivotnye-pticy-ryby-korm-tovary-dlya-zhivotnyh/Zhivotnye/Koshki/: Сельхозпортал.рф
+Курко: 28668642: Postovoi: lightdesign.od.ua: 2018-04-26T16:45:16: http://job-sbu.org/izmenit-razmer-alimentov-ili-zamenit-ih-17463.html: http://job-sbu.org/izmenit-razmer-alimentov-ili-zamenit-ih-17463.html
+Курко: 28668654: Postovoi: buyheavenlyspot.com.ua: 2018-04-26T16:57:50: http://www.mv.org.ua/news/174370-zachem_nuzhen_advokat_v_processe_rastorzhenija_braka.html: тут
+Курко: 28668825: Postovoi: medical-beauty.org.ua: 2018-04-26T18:09:34: https://lawyer-family.ru/lishenie-roditelskix-prav-shansy-na-uspex/: в статье
+Курко: 28668824: Postovoi: medical-beauty.org.ua: 2018-04-26T18:09:34: https://www.0522.ua/list/149255: https://www.0522.ua/list/149255
+Курко: 28669255: Postovoi: freya.kiev.ua: 2018-04-27T10:28:45: http://helpo-hemor.com.ua/ru: helpo-hemor.com.ua
+Курко: 28669289: Postovoi: buyheavenlyspot.com.ua: 2018-04-27T10:42:34: https://promebli.ua: ProMebli
+Максим: 28655593: Postovoi: marsella.com.ua: 2018-04-12T21:21:53: https://alumarket.com.ua/alum-profil/truba-kruglaya/: алюминиевая труба
+Максим: 28663012: Post: books.openlib.org.ua: 2018-04-21T16:28:25: None: None
+Максим: 28664849: Post: elit-a-a.com.ua: 2018-04-23T16:30:01: None: None
+Максим: 28666310: Post: interline.net.ua: 2018-04-24T16:49:07: None: None
+Максим: 28664468: Postovoi: seovin.ru: 2018-04-23T13:45:22: http://olahola.ua/: как дать объявление в интернете вот этот
+Максим: 28667580: Postovoi: marsella.com.ua: 2018-04-25T17:59:18: https://krasnodar.xn--80ajgpcpbhkds4a4g.xn--p1ai/Selhozkultury-ovoshi-i-frukty-semena-i-rassada-plo/Yagody-plody-semena-i-sazhency/Klubnika-zemlyanika-rassada/: на СельхозПортале
+Максим: 28664328: Postovoi: download.openlib.org.ua: 2018-04-23T12:41:22: https://sek.com.ua/kabel-i-provod/mednyy-silovoy-kabel/kabel-vvg-3h15-066kv: кабель ввг 3х1,5 цена
+Максим: 28668410: Postovoi: 4da.org.ua: 2018-04-26T14:33:18: http://novyeteremki.com.ua/kak-kupit/: купить квартиру
+Максим: 28668914: Postovoi: animan.kiev.ua: 2018-04-26T21:45:25: http://kommetagroup.ru: Стальной прокат
+Максим: 28669294: Postovoi: amidi.com.ua: 2018-04-27T10:42:35: https://promebli.ua: https://promebli.ua
+Максим: 28669293: Postovoi: marsella.com.ua: 2018-04-27T10:42:35: https://promebli.ua: промебли.юа
+Максим: 28669292: Postovoi: dveroman.kiev.ua: 2018-04-27T10:42:35: https://promebli.ua: promebli.ua
+Нанопласт: 28668019: Postovoi: hodos.kharkov.ua: 2018-04-26T07:46:01: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: билет на поезд самара москва цена
+Нанопласт: 28663802: Post: salfetki.org.ua: 2018-04-23T00:28:04: None: None
+Нанопласт: 28668219: Postovoi: europarfum.net.ua: 2018-04-26T12:39:30: https://tsvetniki.ru/catalog/639-dlya-rassady/: грунт для рассады купить в москве
+Нанопласт: 28665237: Postovoi: avtocentr.sumy.ua: 2018-04-23T22:33:27: https://grantavto.com.ua/trejjd-in-obmen-na-novoe-avto-v-odesse/: trade in
+Нанопласт: 28665195: Postovoi: www.schooler.org.ua: 2018-04-23T21:40:44: https://theacademicadvisor.com.ua/country/obrazovanie-v-shveytsarii/: Обучение в Швейцарии для украинцев
+Нанопласт: 28664081: Postovoi: valiza-tour.kiev.ua: 2018-04-23T09:18:17: http://gelena-tour.com/tury-v-odessu: gelena tour
+Нанопласт: 28664080: Postovoi: tropic.od.ua: 2018-04-23T09:16:24: http://gelena-tour.com/tury-v-odessu: Тур в Одессу
+Нанопласт: 28666607: Postovoi: playman.com.ua: 2018-04-24T21:02:02: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: цены на билеты ржд на 2015 год
+Нанопласт: 28666609: Postovoi: umapalata.zp.ua: 2018-04-24T21:02:04: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: стоимость билета владивосток хабаровск
+Нанопласт: 28666608: Postovoi: yavtanke.org.ua: 2018-04-24T21:02:04: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: цены на жд билеты в 2018 году
+Нанопласт: 28668119: Postovoi: e-putivka.com.ua: 2018-04-26T11:12:39: http://www.electric-as.kiev.ua/: вызвать электрика в Киеве
+Нанопласт: 28668117: Postovoi: zenit2.com.ua: 2018-04-26T11:12:39: http://www.electric-as.kiev.ua/вызвать-электрика-на-дом/: электрик Киев срочно
+Нанопласт: 28668116: Postovoi: yavtanke.org.ua: 2018-04-26T11:12:39: http://www.electric-as.kiev.ua/: услуги электрика недорого Киев
+Нанопласт: 28668270: Postovoi: umapalata.zp.ua: 2018-04-26T13:55:39: http://e-news.com.ua/show/430337.html: источник
+Нанопласт: 28668349: Postovoi: slonoff.net.ua: 2018-04-26T14:22:47: https://depilation.com.ua/%D0%B1%D0%B8%D0%BE-%D0%B4%D0%B5%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B8-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F?qt-bio_depilation=1#tabs: восковая депиляция киев
+Нанопласт: 28668348: Postovoi: playman.com.ua: 2018-04-26T14:22:47: https://depilation.com.ua/%D0%B1%D0%B8%D0%BE-%D0%B4%D0%B5%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B8-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F?qt-bio_depilation=1#tabs: восковая депиляция киев
+Нанопласт: 28668352: Postovoi: zenit2.com.ua: 2018-04-26T14:22:48: https://depilation.com.ua/: глубокое бикини
+Нанопласт: 28668351: Postovoi: tropic.od.ua: 2018-04-26T14:22:48: https://depilation.com.ua/%D0%B1%D0%B8%D0%BE-%D0%B4%D0%B5%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B8-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F?qt-bio_depilation=1#tabs: восковая депиляция киев
+Нанопласт: 28668350: Postovoi: e-putivka.com.ua: 2018-04-26T14:22:48: https://depilation.com.ua/: глубокое бикини
+Нанопласт: 28668354: Postovoi: yavtanke.org.ua: 2018-04-26T14:22:50: https://depilation.com.ua/%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%B8%D0%BA%D0%B0%D0%BC-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D0%B8: курсы шугаринга киев
+Нанопласт: 28668357: Postovoi: shiva.net.ua: 2018-04-26T14:26:36: https://depilation.com.ua/%D0%B1%D0%B8%D0%BE-%D0%B4%D0%B5%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B8-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F?qt-bio_depilation=1#tabs: восковая депиляция киев
+Нанопласт: 28668637: Postovoi: orangecat.net.ua: 2018-04-26T16:45:12: https://www.06277.com.ua/list/148724: Как проходит развод в Украине
+Нанопласт: 28668643: Postovoi: mylink.org.ua: 2018-04-26T16:45:16: https://www.056.ua/list/141311: https://www.056.ua/list/141311
+Нанопласт: 28668646: Postovoi: turtrans.net.ua: 2018-04-26T16:50:11: http://prozak.info/Vzyskanie-alimentov-s-inostranca.-S-chego-nachat-Kakovy-shansy: Взыскание алиментов с иностранца. С чего начать? Каковы шансы?
+Нанопласт: 28668649: Postovoi: shiva.net.ua: 2018-04-26T16:50:12: http://lifedon.com.ua/society/society_miscellaneous/40009-kak-razdelit-imushchestvo-pri-razvode.html: http://lifedon.com.ua/society/society_miscellaneous/40009-kak-razdelit-imushchestvo-pri-razvode.html
+Нанопласт: 28668648: Postovoi: dlemoduli.org.ua: 2018-04-26T16:50:12: http://www.0624.com.ua/advertising/october-2017/16561-alimenty-eto-ne-shutki-ili-kak-izmenilis-razmery-vzyskaniy: здесь
+Нанопласт: 28668647: Postovoi: web-city.org.ua: 2018-04-26T16:50:12: http://dnepr.info/news/razdel-imushhestva: Раздел имущества
+Нанопласт: 28668020: Postovoi: turtrans.net.ua: 2018-04-26T07:46:06: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: жд билеты самара бишкек цена
+Нанопласт: 28668841: Postovoi: ndua.org.ua: 2018-04-26T18:27:40: http://wwwomen.com.ua/viznannya-shlyubu-nedijsnim/: http://wwwomen.com.ua/viznannya-shlyubu-nedijsnim/
+Нанопласт: 28668843: Postovoi: thetech.com.ua: 2018-04-26T18:27:41: http://pomichnyk.org/dlya-fizychnyh-osib/stoyt-ly-doveryat-analyzu-dnk-na-ustanovlenye-ottsovstva.html: http://pomichnyk.org/dlya-fizychnyh-osib/stoyt-ly-doveryat-analyzu-dnk-na-ustanovlenye-ottsovstva.html
+Нанопласт: 28668850: Postovoi: miranda.org.ua: 2018-04-26T18:31:17: http://prozak.info/Novini-partneriv/Razvod-bez-svidetel-stva-o-brake-Al-yans-semejnyh-advokatov: http://prozak.info/Novini-partneriv/Razvod-bez-svidetel-stva-o-brake-Al-yans-semejnyh-advokatov
+Нанопласт: 28668854: Postovoi: bigmoney.kiev.ua: 2018-04-26T18:39:04: http://www.048.ua/list/127877: Алименты с иностранца, проживающего за границей: реально ли такое
+Нанопласт: 28668864: Postovoi: myiphone.net.ua: 2018-04-26T18:43:17: https://bin.ua/partners/218549-kak-uvelichit-ili-umenshit-razmer-alimentov-v.html: Как увеличить или уменьшить размер алиментов в Украине?
+Нанопласт: 28669282: Postovoi: da100let.dn.ua: 2018-04-27T10:28:48: http://helpo-hemor.com.ua/ru: http://helpo-hemor.com.ua
+Нанопласт: 28669291: Postovoi: yavtanke.org.ua: 2018-04-27T10:42:34: https://promebli.ua: ProMebli.ua
+Нанопласт: 28669290: Postovoi: zenit2.com.ua: 2018-04-27T10:42:34: https://promebli.ua: ProMebli.ua
+
+Function autorizen: 2018.05.02 22:49:37
+Курко: 1425070: PR=c1bd80136f5133f2c718259f2afdb2d0:7ff897614c6d6e8aaa2a60029ef5616e7b616fbb; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=63040c89dfc96e5ca9ad2fc0a8a7b676:d3ad7fe8005dc7ed3c4dbbd9612d91626c6161ce; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=24c91e216c37262b0335b478232fd33a:313d147948b5a348e43334ac839457e7bc23b7af; path=/; domain=api.pr.sape.ru
+
+Function load_isue: 2018.05.02 22:49:37
+Максим: 23884008: link: kpln.com.ua: 2018-05-02 14:26:18: https://www.usb-card.com.ua: usb карточки
+Максим: 23883799: link: elit-a-a.com.ua: 2018-05-02 13:28:01: http://autoprestige.com.ua/: авто из сша в украине
+
+Function load_isue_rota: 2018.05.02 22:49:41
+Курко: 28672700: Postovoi: nublog.ru: 2018-05-02T14:28:54: http://body-massage.kiev.ua/: ссылка
+Курко: 28672852: Postovoi: xn--90afsemmyc.com.ua: 2018-05-02T17:35:35: https://evrosto.net/: Evrosto (Киев)
+Курко: 28672787: Post: ahumor.org.ua: 2018-05-02T16:15:35: None: None
+Курко: 28672840: PressRelease: buyheavenlyspot.com.ua: 2018-05-02T17:04:14: None: None
+Максим: 28670055: Postovoi: 4da.org.ua: 2018-04-27T17:39:14: http://krkv.com.ua/nasha-istoriya/: http://krkv.com.ua/nasha-istoriya/
+Максим: 28668410: Postovoi: 4da.org.ua: 2018-04-26T14:33:18: http://novyeteremki.com.ua/kak-kupit/: купить квартиру
+Максим: 28672815: Postovoi: marsella.com.ua: 2018-05-02T16:35:11: http://kiev.permanent-make-ap.com.ua/: Перманентные макияж-татуаж  в Киеве
+Максим: 28672814: Postovoi: interline.net.ua: 2018-05-02T16:35:08: http://permanent-make-ap.com.ua/archives/services/%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%B9%D0%B4%D0%B8%D0%BD%D0%B3: http://permanent-make-ap.com.ua/archives/services/%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%B9%D0%B4%D0%B8%D0%BD%D0%B3
+Нанопласт: 28672702: Postovoi: allsearch.com.ua: 2018-05-02T14:28:58: http://body-massage.kiev.ua/: Массаж
+Нанопласт: 28672860: Postovoi: euro-m.kharkov.ua: 2018-05-02T17:35:40: http://senior-pomidor.com.ua/: Senior-pomidor.com.ua
+Нанопласт: 28672850: Postovoi: ekobil.com.ua: 2018-05-02T17:35:35: https://g-shop.com.ua/poliv/nasosy-i-stancii/pogruzhnye-nasosy/: https://g-shop.com.ua/
+Нанопласт: 28672838: PressRelease: belosnet.dn.ua: 2018-05-02T17:04:14: None: None
+Нанопласт: 28672756: Postovoi: electrodom-l.com.ua: 2018-05-02T16:11:24: https://g-shop.com.ua/poliv/nasosy-i-stancii/nasosnye-stancii/: https://g-shop.com.ua/
+Нанопласт: 28672954: Postovoi: zenit2.com.ua: 2018-05-02T20:32:02: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: сколько стоит билет до владивостока на поезде
+Нанопласт: 28672953: Postovoi: linkomania.com.ua: 2018-05-02T20:31:23: http://www.po4em-bilet.ru/tag/официальный-сайт-жд-билетов/: билеты ржд официальный сайт купить онлайн
+
+Function autorizen: 2018.05.08 16:48:12
+Курко: 1425070: PR=a52770012066a57b3bf56a455b5eaa60:dc7f942fd2108827bb0190ace064b98e3111c92f; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=943ebf58852ef74aaaf05a827c7a06a9:9cc41f4f45a9adaacc302908b2285785f9c35663; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=9e793e6c809c06314116748c66a19c53:a7928b000130c815e777386721fd07e0f4950f8b; path=/; domain=api.pr.sape.ru
+
+Function load_isue: 2018.05.08 16:48:11
+Максим: 23901691: review: betar.org.ua: 2018-05-08 11:14:01: https://sevenmart.com.ua/g15614925-gerbitsidy-sornyakov: https://sevenmart.com.ua/g15614925-gerbitsidy-sornyakov
+
+Function autorizen_rota: 2018.05.08 16:48:17
+Антон: true: e4b40313-2d23-4257-9f57-9689cf3d002d
+Курко: true: 4b8ecee4-c13c-4e36-a0cc-7f5b32ea40e0
+Максим: true: 565c515a-3d54-4072-8a80-c09eb0aff451
+Нанопласт: true: f06fbb2d-8970-4593-aee5-658ba3943831
+
+Function load_isue_rota: 2018.05.08 16:48:15
+Курко: 28672787: Post: ahumor.org.ua: 2018-05-02T16:15:35: None: None
+Курко: 28671884: Postovoi: quickest.com.ua: 2018-04-30T22:38:15: https://avaloninvest.com.ua/metalloobrabotka/lazernaya-rezka: Лазерная резка листа
+Курко: 28671878: Postovoi: frontier.net.ua: 2018-04-30T22:38:15: https://avaloninvest.com.ua/gibka-metalla/gibka-listovogo-metalla: Гибка листового металла
+Максим: 28670055: Postovoi: 4da.org.ua: 2018-04-27T17:39:14: http://krkv.com.ua/nasha-istoriya/: http://krkv.com.ua/nasha-istoriya/
+Максим: 28668410: Postovoi: 4da.org.ua: 2018-04-26T14:33:18: http://novyeteremki.com.ua/kak-kupit/: купить квартиру
+Максим: 28673896: Post: fledur.org.ua: 2018-05-03T22:01:30: None: None
+Максим: 28676124: Postovoi: nanoplast.com.ua: 2018-05-07T15:26:47: http://triatek.com.ua/tovary/kanalnye: канальный кондиционер
+Нанопласт: 28668357: Postovoi: shiva.net.ua: 2018-04-26T14:26:36: https://depilation.com.ua/%D0%B1%D0%B8%D0%BE-%D0%B4%D0%B5%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B8-%D1%8D%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F?qt-bio_depilation=1#tabs: восковая депиляция киев
+Нанопласт: 28677313: Postovoi: programer.org.ua: 2018-05-08T14:30:09: http://print-media-group.com.ua/: широкоформатная печать в Киеве
+Нанопласт: 28677314: Postovoi: web-city.org.ua: 2018-05-08T14:30:11: http://print-media-group.com.ua/: широкоформатная печать в Киеве
+Нанопласт: 28672953: Postovoi: linkomania.com.ua: 2018-05-02T20:31:23: http://www.po4em-bilet.ru/tag/официальный-сайт-жд-билетов/: билеты ржд официальный сайт купить онлайн
+Нанопласт: 28672954: Postovoi: zenit2.com.ua: 2018-05-02T20:32:02: http://www.po4em-bilet.ru/tag/цены-на-жд-билеты/: сколько стоит билет до владивостока на поезде
+Нанопласт: 28671882: Postovoi: blackmetal.kiev.ua: 2018-04-30T22:38:15: https://avaloninvest.com.ua/metalloobrabotka/lazernaya-rezka: Лазерная резка листа
+Нанопласт: 28677092: Postovoi: tropic.od.ua: 2018-05-08T11:47:58: https://tsvetniki.ru/catalog/645-peter-peat/: грунт peter peat купить
+Нанопласт: 28677095: Postovoi: da100let.dn.ua: 2018-05-08T11:49:22: https://heaco.ua/catalog/electrocardiograph/: https://heaco.ua/catalog/electrocardiograph/
+Нанопласт: 28677162: Postovoi: slonoff.net.ua: 2018-05-08T12:34:11: http://print-media-group.com.ua/: широкоформатная печать в Киеве
+Нанопласт: 28677165: Postovoi: hodos.kharkov.ua: 2018-05-08T12:34:12: http://print-media-group.com.ua/: широкоформатная печать Киев
+Нанопласт: 28677163: Postovoi: zvonkov.net.ua: 2018-05-08T12:34:12: http://print-media-group.com.ua/: широкоформатная печать Киев
+Нанопласт: 28677166: Postovoi: orangecat.net.ua: 2018-05-08T12:34:13: http://print-media-group.com.ua/pechat-bannerov-ili-bannera-kiev/: баннер киев
+Нанопласт: 28677173: Postovoi: www.schooler.org.ua: 2018-05-08T12:53:10: https://goodzon.com.ua/kursy-anglijskogo-v-ssha/: узнать больше
+
+Function load_isue: 2018.05.08 23:02:29
+
+Function load_isue_rota: 2018.05.08 23:02:30
+Курко: 28677472: Postovoi: e-knigka.org.ua: 2018-05-08T17:23:29: http://print-media-group.com.ua/pechat-bannerov-ili-bannera-kiev/: печать баннера киев
+Максим: 28676124: Postovoi: nanoplast.com.ua: 2018-05-07T15:26:47: http://triatek.com.ua/tovary/kanalnye: канальный кондиционер
+Нанопласт: 28677314: Postovoi: web-city.org.ua: 2018-05-08T14:30:11: http://print-media-group.com.ua/: широкоформатная печать в Киеве
+Нанопласт: 28677162: Postovoi: slonoff.net.ua: 2018-05-08T12:34:11: http://print-media-group.com.ua/: широкоформатная печать в Киеве
+Нанопласт: 28677165: Postovoi: hodos.kharkov.ua: 2018-05-08T12:34:12: http://print-media-group.com.ua/: широкоформатная печать Киев
+Нанопласт: 28677163: Postovoi: zvonkov.net.ua: 2018-05-08T12:34:12: http://print-media-group.com.ua/: широкоформатная печать Киев
+Нанопласт: 28677166: Postovoi: orangecat.net.ua: 2018-05-08T12:34:13: http://print-media-group.com.ua/pechat-bannerov-ili-bannera-kiev/: баннер киев
+Нанопласт: 28677173: Postovoi: www.schooler.org.ua: 2018-05-08T12:53:10: https://goodzon.com.ua/kursy-anglijskogo-v-ssha/: узнать больше
+Нанопласт: 28677468: Postovoi: tropic.od.ua: 2018-05-08T17:22:44: http://print-media-group.com.ua/pechat-bannerov-ili-bannera-kiev/: печать баннера киев
+Нанопласт: 28677467: Postovoi: oscar.donetsk.ua: 2018-05-08T17:22:44: http://print-media-group.com.ua/: широкоформатная печать
+Нанопласт: 28677470: Postovoi: turtrans.net.ua: 2018-05-08T17:22:46: http://print-media-group.com.ua/: печать широкоформатная
+Нанопласт: 28677469: Postovoi: slaidik.com.ua: 2018-05-08T17:22:46: http://print-media-group.com.ua/: печать широкоформатная
+Нанопласт: 28677475: Postovoi: www.schooler.org.ua: 2018-05-08T17:23:30: http://print-media-group.com.ua/pechat-bannerov-ili-bannera-kiev/: печать баннеров
+Нанопласт: 28677474: Postovoi: bigmoney.kiev.ua: 2018-05-08T17:23:30: http://print-media-group.com.ua/pechat-bannerov-ili-bannera-kiev/: печать баннеров
+Нанопласт: 28677473: Postovoi: thetech.com.ua: 2018-05-08T17:23:30: http://print-media-group.com.ua/pechat-bannerov-ili-bannera-kiev/: баннер киев
+Нанопласт: 28677476: Postovoi: catalog-security.com.ua: 2018-05-08T17:32:12: http://print-media-group.com.ua/: широкоформатная печать в киеве
+Нанопласт: 28677480: Postovoi: miranda.org.ua: 2018-05-08T17:35:39: http://print-media-group.com.ua/uf-pechat/: ультрафиолетовая печать
+Нанопласт: 28675989: Postovoi: savelink.org.ua: 2018-05-07T13:11:33: https://joomlok.com/brands/virtuemart: Плагины для Virtuemart 3
+
+Function autorizen: 2018.05.15 16:22:52
+Курко: 1425070: PR=43f80760098868ddc13eb60b27e23bc2:0c6352303241af18e6bf1e960fc54047a57d5b8b; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=1f4c1fca96e2d35c8008dc15ce23b275:6485955bfaf2ba37795d7bd6b49fd613540a32b1; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=fc66254978e0282c4b6fce0e0957d909:dae7a1af81eb888f72ac4bc45a4b3b70f3f70b60; path=/; domain=api.pr.sape.ru
+
+Function load_isue: 2018.05.15 16:22:52
+Максим: 23921742: link: druzhba-lux.com.ua: 2018-05-15 13:56:41: https://strelka.ua/: https://strelka.ua/
+Нанопласт: 23921881: link: telopa.com.ua: 2018-05-15 14:16:22: http://siso.com.ua/ctcat/stalnyye-radiatory.html: купить радиаторы стальные
+
+Function load_isue: 2018.05.15 16:23:01
+
+Function load_isue_rota: 2018.05.15 16:23:02
+Нанопласт: 28675989: Postovoi: savelink.org.ua: 2018-05-07T13:11:33: https://joomlok.com/brands/virtuemart: Плагины для Virtuemart 3
+Нанопласт: 28681608: Postovoi: ekobil.com.ua: 2018-05-14T17:32:17: http://senior-pomidor.com.ua/1/32/semena_cvetov.html: http://senior-pomidor.com.ua/1/32/semena_cvetov.html
+
+Function load_isue_rota: 2018.05.15 16:23:01
+Курко: 28672787: Post: ahumor.org.ua: 2018-05-02T16:15:35: None: None
+Курко: 28682522: Postovoi: ahumor.org.ua: 2018-05-15T12:54:46: https://mirpodarka.com.ua/: Mirpodarka.com.ua
+Максим: 28676124: Postovoi: nanoplast.com.ua: 2018-05-07T15:26:47: http://triatek.com.ua/tovary/kanalnye: канальный кондиционер
+Максим: 28678600: Postovoi: 4da.org.ua: 2018-05-10T11:59:55: https://minfin.com.ua/2018/04/27/33359593/: Эксперт Юрий Мавродиев: застройщики ближайшие конкуренты банкиров за сбережения украинцев
+Максим: 28673896: Post: fledur.org.ua: 2018-05-03T22:01:30: None: None
+Максим: 28679477: Postovoi: elit-a-a.com.ua: 2018-05-11T09:43:22: http://verrocchio.kh.ua/programmy/kurs-risovanie-dlya-nachinayushhih/: курсы рисования для начинающих
+Нанопласт: 28675989: Postovoi: savelink.org.ua: 2018-05-07T13:11:33: https://joomlok.com/brands/virtuemart: Плагины для Virtuemart 3
+Function load_isue: 2018.05.15 17:52:42
+Нанопласт: 23922343: link: sortis.com.ua: 2018-05-15 16:20:17: http://siso.com.ua/ctcat/dizajn-radiatory.html: дизайн радиаторы
+Нанопласт: 23921881: link: telopa.com.ua: 2018-05-15 14:16:22: http://siso.com.ua/ctcat/stalnyye-radiatory.html: купить радиаторы стальные
+
+Function load_isue: 2018.05.15 17:52:47
+
+Function load_isue_rota: 2018.05.15 17:52:48
+Нанопласт: 28681608: Postovoi: ekobil.com.ua: 2018-05-14T17:32:17: http://senior-pomidor.com.ua/1/32/semena_cvetov.html: http://senior-pomidor.com.ua/1/32/semena_cvetov.html
+
+Function load_isue_rota: 2018.05.15 17:52:44
+Курко: 28682522: Postovoi: ahumor.org.ua: 2018-05-15T12:54:46: https://mirpodarka.com.ua/: Mirpodarka.com.ua
+Максим: 28676124: Postovoi: nanoplast.com.ua: 2018-05-07T15:26:47: http://triatek.com.ua/tovary/kanalnye: канальный кондиционер
+Максим: 28678600: Postovoi: 4da.org.ua: 2018-05-10T11:59:55: https://minfin.com.ua/2018/04/27/33359593/: Эксперт Юрий Мавродиев: застройщики ближайшие конкуренты банкиров за сбережения украинцев
+Максим: 28673896: Post: fledur.org.ua: 2018-05-03T22:01:30: None: None
+Максим: 28679477: Postovoi: elit-a-a.com.ua: 2018-05-11T09:43:22: http://verrocchio.kh.ua/programmy/kurs-risovanie-dlya-nachinayushhih/: курсы рисования для начинающих
+Function autorizen: 2018.05.17 17:18:32
+Курко: 1425070: PR=d43e3a45bee50ff3d4b6c6412cd1b8cd:24d88251c32d720d0c332434413a47b889c0b068; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=8c985ded5c5a078be29c8a3171f98291:15b1216a466ea2aa8bac093326505d0f2c786312; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=034da9cf54586d7ceaf155f68cd53d24:28372adf87f011e3b864c575124dda10671a9a6b; path=/; domain=api.pr.sape.ru
+
+Function load_isue: 2018.05.17 17:18:31
+Курко: 23916758: link: freya.kiev.ua: 2018-05-14 01:02:13: http://www.tablichki.firm.in/ofis.html: табличка на дверь
+Максим: 23928055: news: books.openlib.org.ua: 2018-05-17 14:57:12: https://diplomu-s.com: Купить дилпом о высшем образовании
+Нанопласт: 23928164: news: www.schooler.org.ua: 2018-05-17 15:23:57: https://diplomu-s.com/diplom-instituta/: Купить диплом института
+Нанопласт: 23928078: link: linq.kiev.ua: 2018-05-17 15:02:29: https://twinvir.ro: Twinvir
+
+Function load_isue_rota: 2018.05.17 17:18:37
+Курко: 28672787: Post: ahumor.org.ua: 2018-05-02T16:15:35: None: None
+Максим: 28676124: Postovoi: nanoplast.com.ua: 2018-05-07T15:26:47: http://triatek.com.ua/tovary/kanalnye: канальный кондиционер
+Максим: 28678600: Postovoi: 4da.org.ua: 2018-05-10T11:59:55: https://minfin.com.ua/2018/04/27/33359593/: Эксперт Юрий Мавродиев: застройщики ближайшие конкуренты банкиров за сбережения украинцев
+Максим: 28673896: Post: fledur.org.ua: 2018-05-03T22:01:30: None: None
+Максим: 28679477: Postovoi: elit-a-a.com.ua: 2018-05-11T09:43:22: http://verrocchio.kh.ua/programmy/kurs-risovanie-dlya-nachinayushhih/: курсы рисования для начинающих
+Нанопласт: 28681608: Postovoi: ekobil.com.ua: 2018-05-14T17:32:17: http://senior-pomidor.com.ua/1/32/semena_cvetov.html: http://senior-pomidor.com.ua/1/32/semena_cvetov.html
+Нанопласт: 28683723: Postovoi: fuck-hack.com: 2018-05-16T16:15:59: http://olahola.ua/: такой.
+Нанопласт: 28680822: Postovoi: europarfum.net.ua: 2018-05-14T10:35:08: http://pk.kiev.ua/technology/medicina/5760-zhenskaya-viagra-shirokie-vozmozhnosti-dlya-raskrytiya-seksualnosti-zhenschiny.html: усиление влечения
+Нанопласт: 28682727: Postovoi: zvonkov.net.ua: 2018-05-15T16:19:19: http://hibox.com.ua/komnatnye-rasteniya/crassula-tolstyanka-denezhnoye-derevo-.html: http://hibox.com.ua/komnatnye-rasteniya/crassula-tolstyanka-denezhnoye-derevo-.html
+
+Function load_isue: 2018.05.17 18:03:22
+Курко: 23916758: link: freya.kiev.ua: 2018-05-14 01:02:13: http://www.tablichki.firm.in/ofis.html: табличка на дверь
+Максим: 23928055: news: books.openlib.org.ua: 2018-05-17 14:57:12: https://diplomu-s.com: Купить дилпом о высшем образовании
+Нанопласт: 23928164: news: www.schooler.org.ua: 2018-05-17 15:23:57: https://diplomu-s.com/diplom-instituta/: Купить диплом института
+Нанопласт: 23928078: link: linq.kiev.ua: 2018-05-17 15:02:29: https://twinvir.ro: Twinvir
+
+Function load_isue_rota: 2018.05.17 18:03:24
+Курко: 28672787: Post: ahumor.org.ua: 2018-05-02T16:15:35: None: None
+Максим: 28676124: Postovoi: nanoplast.com.ua: 2018-05-07T15:26:47: http://triatek.com.ua/tovary/kanalnye: канальный кондиционер
+Максим: 28678600: Postovoi: 4da.org.ua: 2018-05-10T11:59:55: https://minfin.com.ua/2018/04/27/33359593/: Эксперт Юрий Мавродиев: застройщики ближайшие конкуренты банкиров за сбережения украинцев
+Максим: 28673896: Post: fledur.org.ua: 2018-05-03T22:01:30: None: None
+Максим: 28679477: Postovoi: elit-a-a.com.ua: 2018-05-11T09:43:22: http://verrocchio.kh.ua/programmy/kurs-risovanie-dlya-nachinayushhih/: курсы рисования для начинающих
+Нанопласт: 28681608: Postovoi: ekobil.com.ua: 2018-05-14T17:32:17: http://senior-pomidor.com.ua/1/32/semena_cvetov.html: http://senior-pomidor.com.ua/1/32/semena_cvetov.html
+Нанопласт: 28683723: Postovoi: fuck-hack.com: 2018-05-16T16:15:59: http://olahola.ua/: такой.
+Нанопласт: 28680822: Postovoi: europarfum.net.ua: 2018-05-14T10:35:08: http://pk.kiev.ua/technology/medicina/5760-zhenskaya-viagra-shirokie-vozmozhnosti-dlya-raskrytiya-seksualnosti-zhenschiny.html: усиление влечения
+Нанопласт: 28682727: Postovoi: zvonkov.net.ua: 2018-05-15T16:19:19: http://hibox.com.ua/komnatnye-rasteniya/crassula-tolstyanka-denezhnoye-derevo-.html: http://hibox.com.ua/komnatnye-rasteniya/crassula-tolstyanka-denezhnoye-derevo-.html
+
+Function load_isue: 2018.05.17 23:18:12
+Курко: 23916758: link: freya.kiev.ua: 2018-05-14 01:02:13: http://www.tablichki.firm.in/ofis.html: табличка на дверь
+Максим: 23928873: link: forex-sd.ru: 2018-05-17 18:42:40: http://kreditmadrid.ru/: заказать кредитную карту
+Максим: 23928842: review: betar.org.ua: 2018-05-17 18:32:27: http://regeneraciya.com.ua/services/lechenie-cyrroza-pecheni/: http://regeneraciya.com.ua/services/lechenie-cyrroza-pecheni/
+Максим: 23928055: news: books.openlib.org.ua: 2018-05-17 14:57:12: https://diplomu-s.com: Купить дилпом о высшем образовании
+Нанопласт: 23929085: link: orangecat.net.ua: 2018-05-17 20:57:32: https://cqmi.com.ua/ru/acquaintance/melitopol: мелитополь знакомства
+Нанопласт: 23928677: link: linq.kiev.ua: 2018-05-17 17:46:55: http://siso.com.ua/ctcat/chugunnyye-radiatory.html: чугунные радиаторы
+Нанопласт: 23928164: news: www.schooler.org.ua: 2018-05-17 15:23:57: https://diplomu-s.com/diplom-instituta/: Купить диплом института
+Нанопласт: 23928078: link: linq.kiev.ua: 2018-05-17 15:02:29: https://twinvir.ro: Twinvir
+
+Function load_isue_rota: 2018.05.17 23:18:14
+Курко: 28672787: Post: ahumor.org.ua: 2018-05-02T16:15:35: None: None
+Максим: 28676124: Postovoi: nanoplast.com.ua: 2018-05-07T15:26:47: http://triatek.com.ua/tovary/kanalnye: канальный кондиционер
+Максим: 28678600: Postovoi: 4da.org.ua: 2018-05-10T11:59:55: https://minfin.com.ua/2018/04/27/33359593/: Эксперт Юрий Мавродиев: застройщики ближайшие конкуренты банкиров за сбережения украинцев
+Максим: 28673896: Post: fledur.org.ua: 2018-05-03T22:01:30: None: None
+Максим: 28679477: Postovoi: elit-a-a.com.ua: 2018-05-11T09:43:22: http://verrocchio.kh.ua/programmy/kurs-risovanie-dlya-nachinayushhih/: курсы рисования для начинающих
+Нанопласт: 28680822: Postovoi: europarfum.net.ua: 2018-05-14T10:35:08: http://pk.kiev.ua/technology/medicina/5760-zhenskaya-viagra-shirokie-vozmozhnosti-dlya-raskrytiya-seksualnosti-zhenschiny.html: усиление влечения
+Нанопласт: 28682727: Postovoi: zvonkov.net.ua: 2018-05-15T16:19:19: http://hibox.com.ua/komnatnye-rasteniya/crassula-tolstyanka-denezhnoye-derevo-.html: http://hibox.com.ua/komnatnye-rasteniya/crassula-tolstyanka-denezhnoye-derevo-.html
+
+Function load_isue: 2018.05.17 23:27:21
+Курко: 23916758: link: freya.kiev.ua: 2018-05-14 01:02:13: http://www.tablichki.firm.in/ofis.html: табличка на дверь
+Максим: 23928873: link: forex-sd.ru: 2018-05-17 18:42:40: http://kreditmadrid.ru/: заказать кредитную карту
+Максим: 23928842: review: betar.org.ua: 2018-05-17 18:32:27: http://regeneraciya.com.ua/services/lechenie-cyrroza-pecheni/: http://regeneraciya.com.ua/services/lechenie-cyrroza-pecheni/
+Максим: 23928055: news: books.openlib.org.ua: 2018-05-17 14:57:12: https://diplomu-s.com: Купить дилпом о высшем образовании
+Нанопласт: 23929085: link: orangecat.net.ua: 2018-05-17 20:57:32: https://cqmi.com.ua/ru/acquaintance/melitopol: мелитополь знакомства
+Нанопласт: 23928677: link: linq.kiev.ua: 2018-05-17 17:46:55: http://siso.com.ua/ctcat/chugunnyye-radiatory.html: чугунные радиаторы
+Нанопласт: 23928164: news: www.schooler.org.ua: 2018-05-17 15:23:57: https://diplomu-s.com/diplom-instituta/: Купить диплом института
+Нанопласт: 23928078: link: linq.kiev.ua: 2018-05-17 15:02:29: https://twinvir.ro: Twinvir
+
+Function load_isue_rota: 2018.05.17 23:27:23
+Курко: 28672787: Post: ahumor.org.ua: 2018-05-02T16:15:35: None: None
+Максим: 28676124: Postovoi: nanoplast.com.ua: 2018-05-07T15:26:47: http://triatek.com.ua/tovary/kanalnye: канальный кондиционер
+Максим: 28678600: Postovoi: 4da.org.ua: 2018-05-10T11:59:55: https://minfin.com.ua/2018/04/27/33359593/: Эксперт Юрий Мавродиев: застройщики ближайшие конкуренты банкиров за сбережения украинцев
+Максим: 28673896: Post: fledur.org.ua: 2018-05-03T22:01:30: None: None
+Максим: 28679477: Postovoi: elit-a-a.com.ua: 2018-05-11T09:43:22: http://verrocchio.kh.ua/programmy/kurs-risovanie-dlya-nachinayushhih/: курсы рисования для начинающих
+Нанопласт: 28680822: Postovoi: europarfum.net.ua: 2018-05-14T10:35:08: http://pk.kiev.ua/technology/medicina/5760-zhenskaya-viagra-shirokie-vozmozhnosti-dlya-raskrytiya-seksualnosti-zhenschiny.html: усиление влечения
+Нанопласт: 28682727: Postovoi: zvonkov.net.ua: 2018-05-15T16:19:19: http://hibox.com.ua/komnatnye-rasteniya/crassula-tolstyanka-denezhnoye-derevo-.html: http://hibox.com.ua/komnatnye-rasteniya/crassula-tolstyanka-denezhnoye-derevo-.html
+
+Function load_isue: 2018.05.18 09:21:10
+Курко: 23916758: link: freya.kiev.ua: 2018-05-14 01:02:13: http://www.tablichki.firm.in/ofis.html: табличка на дверь
+Максим: 23928873: link: forex-sd.ru: 2018-05-17 18:42:40: http://kreditmadrid.ru/: заказать кредитную карту
+Максим: 23928842: review: betar.org.ua: 2018-05-17 18:32:27: http://regeneraciya.com.ua/services/lechenie-cyrroza-pecheni/: http://regeneraciya.com.ua/services/lechenie-cyrroza-pecheni/
+Максим: 23928055: news: books.openlib.org.ua: 2018-05-17 14:57:12: https://diplomu-s.com: Купить дилпом о высшем образовании
+Нанопласт: 23929566: link: orangecat.net.ua: 2018-05-18 03:44:12: https://www.cqmi.ca/fr: agence de rencontre Montreal
+Нанопласт: 23929085: link: orangecat.net.ua: 2018-05-17 20:57:32: https://cqmi.com.ua/ru/acquaintance/melitopol: мелитополь знакомства
+Нанопласт: 23928677: link: linq.kiev.ua: 2018-05-17 17:46:55: http://siso.com.ua/ctcat/chugunnyye-radiatory.html: чугунные радиаторы
+Нанопласт: 23928164: news: www.schooler.org.ua: 2018-05-17 15:23:57: https://diplomu-s.com/diplom-instituta/: Купить диплом института
+Нанопласт: 23928078: link: linq.kiev.ua: 2018-05-17 15:02:29: https://twinvir.ro: Twinvir
+Нанопласт: 23907204: link: ppsls.org.ua: 2018-05-10 12:35:14: http://www.otpusk.com/: горящие туры
+
+Function load_isue: 2018.05.18 09:21:16
+
+Function load_isue_rota: 2018.05.18 09:21:13
+Курко: 28672787: Post: ahumor.org.ua: 2018-05-02T16:15:35: None: None
+Курко: 28684579: Postovoi: cugp.com.ua: 2018-05-17T12:28:03: http://www.high-voltage.com.ua/category/izmeritelnye-transformatory/transformatory-toka: высоковольтные трансформаторы тока
+Максим: 28676124: Postovoi: nanoplast.com.ua: 2018-05-07T15:26:47: http://triatek.com.ua/tovary/kanalnye: канальный кондиционер
+Максим: 28678600: Postovoi: 4da.org.ua: 2018-05-10T11:59:55: https://minfin.com.ua/2018/04/27/33359593/: Эксперт Юрий Мавродиев: застройщики ближайшие конкуренты банкиров за сбережения украинцев
+Максим: 28673896: Post: fledur.org.ua: 2018-05-03T22:01:30: None: None
+Максим: 28679477: Postovoi: elit-a-a.com.ua: 2018-05-11T09:43:22: http://verrocchio.kh.ua/programmy/kurs-risovanie-dlya-nachinayushhih/: курсы рисования для начинающих
+Максим: 28685083: Postovoi: gv.org.ua: 2018-05-18T02:28:03: https://golovko.com.ua/kak-primenit-srok-iskovoj-davnosti-v-sude-v-ukraine: сроки по здоровью
+Нанопласт: 28680822: Postovoi: europarfum.net.ua: 2018-05-14T10:35:08: http://pk.kiev.ua/technology/medicina/5760-zhenskaya-viagra-shirokie-vozmozhnosti-dlya-raskrytiya-seksualnosti-zhenschiny.html: усиление влечения
+Нанопласт: 28682727: Postovoi: zvonkov.net.ua: 2018-05-15T16:19:19: http://hibox.com.ua/komnatnye-rasteniya/crassula-tolstyanka-denezhnoye-derevo-.html: http://hibox.com.ua/komnatnye-rasteniya/crassula-tolstyanka-denezhnoye-derevo-.html
+Нанопласт: 28685043: Postovoi: valiza-tour.kiev.ua: 2018-05-17T22:41:57: http://ticketsmilano.com/ru: итальянский театр ла скала
+Нанопласт: 28685040: Postovoi: redcat.net.ua: 2018-05-17T22:41:57: http://ticketsmilano.com/ru: миланский оперный театр ла скала
+Нанопласт: 28685067: Postovoi: electrodom-l.com.ua: 2018-05-18T00:28:03: http://www.high-voltage.com.ua/category/izmeritelnye-transformatory/transformatory-napryazheniya: трансформатор напряжения измерительный
+
+Function load_isue_rota: 2018.05.18 09:21:19
+
+Function load_isue: 2018.05.18 10:21:25
+Курко: 23916758: link: freya.kiev.ua: 2018-05-14 01:02:13: http://www.tablichki.firm.in/ofis.html: табличка на дверь
+Максим: 23928873: link: forex-sd.ru: 2018-05-17 18:42:40: http://kreditmadrid.ru/: заказать кредитную карту
+Максим: 23928842: review: betar.org.ua: 2018-05-17 18:32:27: http://regeneraciya.com.ua/services/lechenie-cyrroza-pecheni/: http://regeneraciya.com.ua/services/lechenie-cyrroza-pecheni/
+Максим: 23928055: news: books.openlib.org.ua: 2018-05-17 14:57:12: https://diplomu-s.com: Купить дилпом о высшем образовании
+Нанопласт: 23929566: link: orangecat.net.ua: 2018-05-18 03:44:12: https://www.cqmi.ca/fr: agence de rencontre Montreal
+Нанопласт: 23929085: link: orangecat.net.ua: 2018-05-17 20:57:32: https://cqmi.com.ua/ru/acquaintance/melitopol: мелитополь знакомства
+Нанопласт: 23928677: link: linq.kiev.ua: 2018-05-17 17:46:55: http://siso.com.ua/ctcat/chugunnyye-radiatory.html: чугунные радиаторы
+Нанопласт: 23928164: news: www.schooler.org.ua: 2018-05-17 15:23:57: https://diplomu-s.com/diplom-instituta/: Купить диплом института
+Нанопласт: 23928078: link: linq.kiev.ua: 2018-05-17 15:02:29: https://twinvir.ro: Twinvir
+Нанопласт: 23907204: link: ppsls.org.ua: 2018-05-10 12:35:14: http://www.otpusk.com/: горящие туры
+
+Function load_isue: 2018.05.18 10:21:30
+
+Function load_isue_rota: 2018.05.18 10:21:29
+Курко: 28672787: Post: ahumor.org.ua: 2018-05-02T16:15:35: None: None
+Курко: 28684579: Postovoi: cugp.com.ua: 2018-05-17T12:28:03: http://www.high-voltage.com.ua/category/izmeritelnye-transformatory/transformatory-toka: высоковольтные трансформаторы тока
+Максим: 28676124: Postovoi: nanoplast.com.ua: 2018-05-07T15:26:47: http://triatek.com.ua/tovary/kanalnye: канальный кондиционер
+Максим: 28678600: Postovoi: 4da.org.ua: 2018-05-10T11:59:55: https://minfin.com.ua/2018/04/27/33359593/: Эксперт Юрий Мавродиев: застройщики ближайшие конкуренты банкиров за сбережения украинцев
+Максим: 28673896: Post: fledur.org.ua: 2018-05-03T22:01:30: None: None
+Максим: 28679477: Postovoi: elit-a-a.com.ua: 2018-05-11T09:43:22: http://verrocchio.kh.ua/programmy/kurs-risovanie-dlya-nachinayushhih/: курсы рисования для начинающих
+Максим: 28685083: Postovoi: gv.org.ua: 2018-05-18T02:28:03: https://golovko.com.ua/kak-primenit-srok-iskovoj-davnosti-v-sude-v-ukraine: сроки по здоровью
+Нанопласт: 28680822: Postovoi: europarfum.net.ua: 2018-05-14T10:35:08: http://pk.kiev.ua/technology/medicina/5760-zhenskaya-viagra-shirokie-vozmozhnosti-dlya-raskrytiya-seksualnosti-zhenschiny.html: усиление влечения
+Нанопласт: 28682727: Postovoi: zvonkov.net.ua: 2018-05-15T16:19:19: http://hibox.com.ua/komnatnye-rasteniya/crassula-tolstyanka-denezhnoye-derevo-.html: http://hibox.com.ua/komnatnye-rasteniya/crassula-tolstyanka-denezhnoye-derevo-.html
+Нанопласт: 28685043: Postovoi: valiza-tour.kiev.ua: 2018-05-17T22:41:57: http://ticketsmilano.com/ru: итальянский театр ла скала
+Нанопласт: 28685040: Postovoi: redcat.net.ua: 2018-05-17T22:41:57: http://ticketsmilano.com/ru: миланский оперный театр ла скала
+Нанопласт: 28685067: Postovoi: electrodom-l.com.ua: 2018-05-18T00:28:03: http://www.high-voltage.com.ua/category/izmeritelnye-transformatory/transformatory-napryazheniya: трансформатор напряжения измерительный
+
+Function load_isue_rota: 2018.05.18 10:21:34
+
+Function load_isue: 2018.05.18 10:27:44
+Курко: 23916758: link: freya.kiev.ua: 2018-05-14 01:02:13: http://www.tablichki.firm.in/ofis.html: табличка на дверь
+Максим: 23928873: link: forex-sd.ru: 2018-05-17 18:42:40: http://kreditmadrid.ru/: заказать кредитную карту
+Максим: 23928842: review: betar.org.ua: 2018-05-17 18:32:27: http://regeneraciya.com.ua/services/lechenie-cyrroza-pecheni/: http://regeneraciya.com.ua/services/lechenie-cyrroza-pecheni/
+Максим: 23928055: news: books.openlib.org.ua: 2018-05-17 14:57:12: https://diplomu-s.com: Купить дилпом о высшем образовании
+Нанопласт: 23929566: link: orangecat.net.ua: 2018-05-18 03:44:12: https://www.cqmi.ca/fr: agence de rencontre Montreal
+Нанопласт: 23929085: link: orangecat.net.ua: 2018-05-17 20:57:32: https://cqmi.com.ua/ru/acquaintance/melitopol: мелитополь знакомства
+Нанопласт: 23928677: link: linq.kiev.ua: 2018-05-17 17:46:55: http://siso.com.ua/ctcat/chugunnyye-radiatory.html: чугунные радиаторы
+Нанопласт: 23928164: news: www.schooler.org.ua: 2018-05-17 15:23:57: https://diplomu-s.com/diplom-instituta/: Купить диплом института
+Нанопласт: 23928078: link: linq.kiev.ua: 2018-05-17 15:02:29: https://twinvir.ro: Twinvir
+Нанопласт: 23907204: link: ppsls.org.ua: 2018-05-10 12:35:14: http://www.otpusk.com/: горящие туры
+
+Function load_isue_rota: 2018.05.18 10:27:47
+Курко: 28672787: Post: ahumor.org.ua: 2018-05-02T16:15:35: None: None
+Курко: 28684579: Postovoi: cugp.com.ua: 2018-05-17T12:28:03: http://www.high-voltage.com.ua/category/izmeritelnye-transformatory/transformatory-toka: высоковольтные трансформаторы тока
+Максим: 28676124: Postovoi: nanoplast.com.ua: 2018-05-07T15:26:47: http://triatek.com.ua/tovary/kanalnye: канальный кондиционер
+Максим: 28678600: Postovoi: 4da.org.ua: 2018-05-10T11:59:55: https://minfin.com.ua/2018/04/27/33359593/: Эксперт Юрий Мавродиев: застройщики ближайшие конкуренты банкиров за сбережения украинцев
+Максим: 28673896: Post: fledur.org.ua: 2018-05-03T22:01:30: None: None
+Максим: 28679477: Postovoi: elit-a-a.com.ua: 2018-05-11T09:43:22: http://verrocchio.kh.ua/programmy/kurs-risovanie-dlya-nachinayushhih/: курсы рисования для начинающих
+Максим: 28685083: Postovoi: gv.org.ua: 2018-05-18T02:28:03: https://golovko.com.ua/kak-primenit-srok-iskovoj-davnosti-v-sude-v-ukraine: сроки по здоровью
+Нанопласт: 28680822: Postovoi: europarfum.net.ua: 2018-05-14T10:35:08: http://pk.kiev.ua/technology/medicina/5760-zhenskaya-viagra-shirokie-vozmozhnosti-dlya-raskrytiya-seksualnosti-zhenschiny.html: усиление влечения
+Нанопласт: 28682727: Postovoi: zvonkov.net.ua: 2018-05-15T16:19:19: http://hibox.com.ua/komnatnye-rasteniya/crassula-tolstyanka-denezhnoye-derevo-.html: http://hibox.com.ua/komnatnye-rasteniya/crassula-tolstyanka-denezhnoye-derevo-.html
+Нанопласт: 28685043: Postovoi: valiza-tour.kiev.ua: 2018-05-17T22:41:57: http://ticketsmilano.com/ru: итальянский театр ла скала
+Нанопласт: 28685040: Postovoi: redcat.net.ua: 2018-05-17T22:41:57: http://ticketsmilano.com/ru: миланский оперный театр ла скала
+Нанопласт: 28685067: Postovoi: electrodom-l.com.ua: 2018-05-18T00:28:03: http://www.high-voltage.com.ua/category/izmeritelnye-transformatory/transformatory-napryazheniya: трансформатор напряжения измерительный
+
+Function load_isue: 2018.05.18 10:37:13
+Курко: 23916758: link: freya.kiev.ua: 2018-05-14 01:02:13: http://www.tablichki.firm.in/ofis.html: табличка на дверь
+Максим: 23928873: link: forex-sd.ru: 2018-05-17 18:42:40: http://kreditmadrid.ru/: заказать кредитную карту
+Максим: 23928842: review: betar.org.ua: 2018-05-17 18:32:27: http://regeneraciya.com.ua/services/lechenie-cyrroza-pecheni/: http://regeneraciya.com.ua/services/lechenie-cyrroza-pecheni/
+Максим: 23928055: news: books.openlib.org.ua: 2018-05-17 14:57:12: https://diplomu-s.com: Купить дилпом о высшем образовании
+Нанопласт: 23929566: link: orangecat.net.ua: 2018-05-18 03:44:12: https://www.cqmi.ca/fr: agence de rencontre Montreal
+Нанопласт: 23929085: link: orangecat.net.ua: 2018-05-17 20:57:32: https://cqmi.com.ua/ru/acquaintance/melitopol: мелитополь знакомства
+Нанопласт: 23928677: link: linq.kiev.ua: 2018-05-17 17:46:55: http://siso.com.ua/ctcat/chugunnyye-radiatory.html: чугунные радиаторы
+Нанопласт: 23928164: news: www.schooler.org.ua: 2018-05-17 15:23:57: https://diplomu-s.com/diplom-instituta/: Купить диплом института
+Нанопласт: 23928078: link: linq.kiev.ua: 2018-05-17 15:02:29: https://twinvir.ro: Twinvir
+Нанопласт: 23907204: link: ppsls.org.ua: 2018-05-10 12:35:14: http://www.otpusk.com/: горящие туры
+
+Function load_isue_rota: 2018.05.18 10:37:16
+Курко: 28672787: Post: ahumor.org.ua: 2018-05-02T16:15:35: None: None
+Курко: 28684579: Postovoi: cugp.com.ua: 2018-05-17T12:28:03: http://www.high-voltage.com.ua/category/izmeritelnye-transformatory/transformatory-toka: высоковольтные трансформаторы тока
+Максим: 28676124: Postovoi: nanoplast.com.ua: 2018-05-07T15:26:47: http://triatek.com.ua/tovary/kanalnye: канальный кондиционер
+Максим: 28678600: Postovoi: 4da.org.ua: 2018-05-10T11:59:55: https://minfin.com.ua/2018/04/27/33359593/: Эксперт Юрий Мавродиев: застройщики ближайшие конкуренты банкиров за сбережения украинцев
+Максим: 28673896: Post: fledur.org.ua: 2018-05-03T22:01:30: None: None
+Максим: 28679477: Postovoi: elit-a-a.com.ua: 2018-05-11T09:43:22: http://verrocchio.kh.ua/programmy/kurs-risovanie-dlya-nachinayushhih/: курсы рисования для начинающих
+Максим: 28685083: Postovoi: gv.org.ua: 2018-05-18T02:28:03: https://golovko.com.ua/kak-primenit-srok-iskovoj-davnosti-v-sude-v-ukraine: сроки по здоровью
+Нанопласт: 28680822: Postovoi: europarfum.net.ua: 2018-05-14T10:35:08: http://pk.kiev.ua/technology/medicina/5760-zhenskaya-viagra-shirokie-vozmozhnosti-dlya-raskrytiya-seksualnosti-zhenschiny.html: усиление влечения
+Нанопласт: 28682727: Postovoi: zvonkov.net.ua: 2018-05-15T16:19:19: http://hibox.com.ua/komnatnye-rasteniya/crassula-tolstyanka-denezhnoye-derevo-.html: http://hibox.com.ua/komnatnye-rasteniya/crassula-tolstyanka-denezhnoye-derevo-.html
+Нанопласт: 28685043: Postovoi: valiza-tour.kiev.ua: 2018-05-17T22:41:57: http://ticketsmilano.com/ru: итальянский театр ла скала
+Нанопласт: 28685040: Postovoi: redcat.net.ua: 2018-05-17T22:41:57: http://ticketsmilano.com/ru: миланский оперный театр ла скала
+Нанопласт: 28685067: Postovoi: electrodom-l.com.ua: 2018-05-18T00:28:03: http://www.high-voltage.com.ua/category/izmeritelnye-transformatory/transformatory-napryazheniya: трансформатор напряжения измерительный
+
+Function load_isue: 2018.05.18 11:32:28
+Курко: 23916758: link: freya.kiev.ua: 2018-05-14 01:02:13: http://www.tablichki.firm.in/ofis.html: табличка на дверь
+Максим: 23928873: link: forex-sd.ru: 2018-05-17 18:42:40: http://kreditmadrid.ru/: заказать кредитную карту
+Максим: 23928842: review: betar.org.ua: 2018-05-17 18:32:27: http://regeneraciya.com.ua/services/lechenie-cyrroza-pecheni/: http://regeneraciya.com.ua/services/lechenie-cyrroza-pecheni/
+Максим: 23928055: news: books.openlib.org.ua: 2018-05-17 14:57:12: https://diplomu-s.com: Купить дилпом о высшем образовании
+Нанопласт: 23929566: link: orangecat.net.ua: 2018-05-18 03:44:12: https://www.cqmi.ca/fr: agence de rencontre Montreal
+Нанопласт: 23929085: link: orangecat.net.ua: 2018-05-17 20:57:32: https://cqmi.com.ua/ru/acquaintance/melitopol: мелитополь знакомства
+Нанопласт: 23928677: link: linq.kiev.ua: 2018-05-17 17:46:55: http://siso.com.ua/ctcat/chugunnyye-radiatory.html: чугунные радиаторы
+Нанопласт: 23928164: news: www.schooler.org.ua: 2018-05-17 15:23:57: https://diplomu-s.com/diplom-instituta/: Купить диплом института
+Нанопласт: 23928078: link: linq.kiev.ua: 2018-05-17 15:02:29: https://twinvir.ro: Twinvir
+Нанопласт: 23907204: link: ppsls.org.ua: 2018-05-10 12:35:14: http://www.otpusk.com/: горящие туры
+
+Function load_isue_rota: 2018.05.18 11:32:31
+Курко: 28672787: Post: ahumor.org.ua: 2018-05-02T16:15:35: None: None
+Курко: 28684579: Postovoi: cugp.com.ua: 2018-05-17T12:28:03: http://www.high-voltage.com.ua/category/izmeritelnye-transformatory/transformatory-toka: высоковольтные трансформаторы тока
+Максим: 28676124: Postovoi: nanoplast.com.ua: 2018-05-07T15:26:47: http://triatek.com.ua/tovary/kanalnye: канальный кондиционер
+Максим: 28678600: Postovoi: 4da.org.ua: 2018-05-10T11:59:55: https://minfin.com.ua/2018/04/27/33359593/: Эксперт Юрий Мавродиев: застройщики ближайшие конкуренты банкиров за сбережения украинцев
+Максим: 28673896: Post: fledur.org.ua: 2018-05-03T22:01:30: None: None
+Максим: 28679477: Postovoi: elit-a-a.com.ua: 2018-05-11T09:43:22: http://verrocchio.kh.ua/programmy/kurs-risovanie-dlya-nachinayushhih/: курсы рисования для начинающих
+Максим: 28685083: Postovoi: gv.org.ua: 2018-05-18T02:28:03: https://golovko.com.ua/kak-primenit-srok-iskovoj-davnosti-v-sude-v-ukraine: сроки по здоровью
+Нанопласт: 28680822: Postovoi: europarfum.net.ua: 2018-05-14T10:35:08: http://pk.kiev.ua/technology/medicina/5760-zhenskaya-viagra-shirokie-vozmozhnosti-dlya-raskrytiya-seksualnosti-zhenschiny.html: усиление влечения
+Нанопласт: 28682727: Postovoi: zvonkov.net.ua: 2018-05-15T16:19:19: http://hibox.com.ua/komnatnye-rasteniya/crassula-tolstyanka-denezhnoye-derevo-.html: http://hibox.com.ua/komnatnye-rasteniya/crassula-tolstyanka-denezhnoye-derevo-.html
+Нанопласт: 28685043: Postovoi: valiza-tour.kiev.ua: 2018-05-17T22:41:57: http://ticketsmilano.com/ru: итальянский театр ла скала
+Нанопласт: 28685040: Postovoi: redcat.net.ua: 2018-05-17T22:41:57: http://ticketsmilano.com/ru: миланский оперный театр ла скала
+Нанопласт: 28685067: Postovoi: electrodom-l.com.ua: 2018-05-18T00:28:03: http://www.high-voltage.com.ua/category/izmeritelnye-transformatory/transformatory-napryazheniya: трансформатор напряжения измерительный
+
+Function load_isue: 2018.05.18 11:40:48
+Курко: 23916758: link: freya.kiev.ua: 2018-05-14 01:02:13: http://www.tablichki.firm.in/ofis.html: табличка на дверь
+Максим: 23928873: link: forex-sd.ru: 2018-05-17 18:42:40: http://kreditmadrid.ru/: заказать кредитную карту
+Максим: 23928842: review: betar.org.ua: 2018-05-17 18:32:27: http://regeneraciya.com.ua/services/lechenie-cyrroza-pecheni/: http://regeneraciya.com.ua/services/lechenie-cyrroza-pecheni/
+Максим: 23928055: news: books.openlib.org.ua: 2018-05-17 14:57:12: https://diplomu-s.com: Купить дилпом о высшем образовании
+Нанопласт: 23929566: link: orangecat.net.ua: 2018-05-18 03:44:12: https://www.cqmi.ca/fr: agence de rencontre Montreal
+Нанопласт: 23929085: link: orangecat.net.ua: 2018-05-17 20:57:32: https://cqmi.com.ua/ru/acquaintance/melitopol: мелитополь знакомства
+Нанопласт: 23928677: link: linq.kiev.ua: 2018-05-17 17:46:55: http://siso.com.ua/ctcat/chugunnyye-radiatory.html: чугунные радиаторы
+Нанопласт: 23928164: news: www.schooler.org.ua: 2018-05-17 15:23:57: https://diplomu-s.com/diplom-instituta/: Купить диплом института
+Нанопласт: 23928078: link: linq.kiev.ua: 2018-05-17 15:02:29: https://twinvir.ro: Twinvir
+Нанопласт: 23907204: link: ppsls.org.ua: 2018-05-10 12:35:14: http://www.otpusk.com/: горящие туры
+
+Function load_isue_rota: 2018.05.18 11:40:51
+Курко: 28672787: Post: ahumor.org.ua: 2018-05-02T16:15:35: None: None
+Курко: 28684579: Postovoi: cugp.com.ua: 2018-05-17T12:28:03: http://www.high-voltage.com.ua/category/izmeritelnye-transformatory/transformatory-toka: высоковольтные трансформаторы тока
+Максим: 28676124: Postovoi: nanoplast.com.ua: 2018-05-07T15:26:47: http://triatek.com.ua/tovary/kanalnye: канальный кондиционер
+Максим: 28678600: Postovoi: 4da.org.ua: 2018-05-10T11:59:55: https://minfin.com.ua/2018/04/27/33359593/: Эксперт Юрий Мавродиев: застройщики ближайшие конкуренты банкиров за сбережения украинцев
+Максим: 28673896: Post: fledur.org.ua: 2018-05-03T22:01:30: None: None
+Максим: 28679477: Postovoi: elit-a-a.com.ua: 2018-05-11T09:43:22: http://verrocchio.kh.ua/programmy/kurs-risovanie-dlya-nachinayushhih/: курсы рисования для начинающих
+Максим: 28685083: Postovoi: gv.org.ua: 2018-05-18T02:28:03: https://golovko.com.ua/kak-primenit-srok-iskovoj-davnosti-v-sude-v-ukraine: сроки по здоровью
+Нанопласт: 28680822: Postovoi: europarfum.net.ua: 2018-05-14T10:35:08: http://pk.kiev.ua/technology/medicina/5760-zhenskaya-viagra-shirokie-vozmozhnosti-dlya-raskrytiya-seksualnosti-zhenschiny.html: усиление влечения
+Нанопласт: 28682727: Postovoi: zvonkov.net.ua: 2018-05-15T16:19:19: http://hibox.com.ua/komnatnye-rasteniya/crassula-tolstyanka-denezhnoye-derevo-.html: http://hibox.com.ua/komnatnye-rasteniya/crassula-tolstyanka-denezhnoye-derevo-.html
+Нанопласт: 28685043: Postovoi: valiza-tour.kiev.ua: 2018-05-17T22:41:57: http://ticketsmilano.com/ru: итальянский театр ла скала
+Нанопласт: 28685040: Postovoi: redcat.net.ua: 2018-05-17T22:41:57: http://ticketsmilano.com/ru: миланский оперный театр ла скала
+Нанопласт: 28685067: Postovoi: electrodom-l.com.ua: 2018-05-18T00:28:03: http://www.high-voltage.com.ua/category/izmeritelnye-transformatory/transformatory-napryazheniya: трансформатор напряжения измерительный
+
+Function load_isue: 2018.05.18 12:48:12
+Курко: 23916758: link: freya.kiev.ua: 2018-05-14 01:02:13: http://www.tablichki.firm.in/ofis.html: табличка на дверь
+Максим: 23928873: link: forex-sd.ru: 2018-05-17 18:42:40: http://kreditmadrid.ru/: заказать кредитную карту
+Максим: 23928842: review: betar.org.ua: 2018-05-17 18:32:27: http://regeneraciya.com.ua/services/lechenie-cyrroza-pecheni/: http://regeneraciya.com.ua/services/lechenie-cyrroza-pecheni/
+Максим: 23928055: news: books.openlib.org.ua: 2018-05-17 14:57:12: https://diplomu-s.com: Купить дилпом о высшем образовании
+Нанопласт: 23929566: link: orangecat.net.ua: 2018-05-18 03:44:12: https://www.cqmi.ca/fr: agence de rencontre Montreal
+Нанопласт: 23929085: link: orangecat.net.ua: 2018-05-17 20:57:32: https://cqmi.com.ua/ru/acquaintance/melitopol: мелитополь знакомства
+Нанопласт: 23928677: link: linq.kiev.ua: 2018-05-17 17:46:55: http://siso.com.ua/ctcat/chugunnyye-radiatory.html: чугунные радиаторы
+Нанопласт: 23928164: news: www.schooler.org.ua: 2018-05-17 15:23:57: https://diplomu-s.com/diplom-instituta/: Купить диплом института
+Нанопласт: 23928078: link: linq.kiev.ua: 2018-05-17 15:02:29: https://twinvir.ro: Twinvir
+Нанопласт: 23907204: link: ppsls.org.ua: 2018-05-10 12:35:14: http://www.otpusk.com/: горящие туры
+
+Function load_isue_rota: 2018.05.18 12:48:18
+Курко: 28672787: Post: ahumor.org.ua: 2018-05-02T16:15:35: None: None
+Курко: 28684579: Postovoi: cugp.com.ua: 2018-05-17T12:28:03: http://www.high-voltage.com.ua/category/izmeritelnye-transformatory/transformatory-toka: высоковольтные трансформаторы тока
+Максим: 28676124: Postovoi: nanoplast.com.ua: 2018-05-07T15:26:47: http://triatek.com.ua/tovary/kanalnye: канальный кондиционер
+Максим: 28678600: Postovoi: 4da.org.ua: 2018-05-10T11:59:55: https://minfin.com.ua/2018/04/27/33359593/: Эксперт Юрий Мавродиев: застройщики ближайшие конкуренты банкиров за сбережения украинцев
+Максим: 28673896: Post: fledur.org.ua: 2018-05-03T22:01:30: None: None
+Максим: 28679477: Postovoi: elit-a-a.com.ua: 2018-05-11T09:43:22: http://verrocchio.kh.ua/programmy/kurs-risovanie-dlya-nachinayushhih/: курсы рисования для начинающих
+Максим: 28685083: Postovoi: gv.org.ua: 2018-05-18T02:28:03: https://golovko.com.ua/kak-primenit-srok-iskovoj-davnosti-v-sude-v-ukraine: сроки по здоровью
+Нанопласт: 28680822: Postovoi: europarfum.net.ua: 2018-05-14T10:35:08: http://pk.kiev.ua/technology/medicina/5760-zhenskaya-viagra-shirokie-vozmozhnosti-dlya-raskrytiya-seksualnosti-zhenschiny.html: усиление влечения
+Нанопласт: 28682727: Postovoi: zvonkov.net.ua: 2018-05-15T16:19:19: http://hibox.com.ua/komnatnye-rasteniya/crassula-tolstyanka-denezhnoye-derevo-.html: http://hibox.com.ua/komnatnye-rasteniya/crassula-tolstyanka-denezhnoye-derevo-.html
+Нанопласт: 28685043: Postovoi: valiza-tour.kiev.ua: 2018-05-17T22:41:57: http://ticketsmilano.com/ru: итальянский театр ла скала
+Нанопласт: 28685040: Postovoi: redcat.net.ua: 2018-05-17T22:41:57: http://ticketsmilano.com/ru: миланский оперный театр ла скала
+Нанопласт: 28685067: Postovoi: electrodom-l.com.ua: 2018-05-18T00:28:03: http://www.high-voltage.com.ua/category/izmeritelnye-transformatory/transformatory-napryazheniya: трансформатор напряжения измерительный
+
+Function load_isue: 2018.05.18 16:06:46
+Курко: 23916758: link: freya.kiev.ua: 2018-05-14 01:02:13: http://www.tablichki.firm.in/ofis.html: табличка на дверь
+Максим: 23928873: link: forex-sd.ru: 2018-05-17 18:42:40: http://kreditmadrid.ru/: заказать кредитную карту
+Максим: 23928842: review: betar.org.ua: 2018-05-17 18:32:27: http://regeneraciya.com.ua/services/lechenie-cyrroza-pecheni/: http://regeneraciya.com.ua/services/lechenie-cyrroza-pecheni/
+Максим: 23928055: news: books.openlib.org.ua: 2018-05-17 14:57:12: https://diplomu-s.com: Купить дилпом о высшем образовании
+Нанопласт: 23929566: link: orangecat.net.ua: 2018-05-18 03:44:12: https://www.cqmi.ca/fr: agence de rencontre Montreal
+Нанопласт: 23929085: link: orangecat.net.ua: 2018-05-17 20:57:32: https://cqmi.com.ua/ru/acquaintance/melitopol: мелитополь знакомства
+Нанопласт: 23928677: link: linq.kiev.ua: 2018-05-17 17:46:55: http://siso.com.ua/ctcat/chugunnyye-radiatory.html: чугунные радиаторы
+Нанопласт: 23928164: news: www.schooler.org.ua: 2018-05-17 15:23:57: https://diplomu-s.com/diplom-instituta/: Купить диплом института
+Нанопласт: 23928078: link: linq.kiev.ua: 2018-05-17 15:02:29: https://twinvir.ro: Twinvir
+Нанопласт: 23907204: link: ppsls.org.ua: 2018-05-10 12:35:14: http://www.otpusk.com/: горящие туры
+
+Function load_isue_rota: 2018.05.18 16:06:49
+Курко: 28672787: Post: ahumor.org.ua: 2018-05-02T16:15:35: None: None
+Курко: 28684579: Postovoi: cugp.com.ua: 2018-05-17T12:28:03: http://www.high-voltage.com.ua/category/izmeritelnye-transformatory/transformatory-toka: высоковольтные трансформаторы тока
+Максим: 28676124: Postovoi: nanoplast.com.ua: 2018-05-07T15:26:47: http://triatek.com.ua/tovary/kanalnye: канальный кондиционер
+Максим: 28678600: Postovoi: 4da.org.ua: 2018-05-10T11:59:55: https://minfin.com.ua/2018/04/27/33359593/: Эксперт Юрий Мавродиев: застройщики ближайшие конкуренты банкиров за сбережения украинцев
+Максим: 28673896: Post: fledur.org.ua: 2018-05-03T22:01:30: None: None
+Максим: 28679477: Postovoi: elit-a-a.com.ua: 2018-05-11T09:43:22: http://verrocchio.kh.ua/programmy/kurs-risovanie-dlya-nachinayushhih/: курсы рисования для начинающих
+Максим: 28685083: Postovoi: gv.org.ua: 2018-05-18T02:28:03: https://golovko.com.ua/kak-primenit-srok-iskovoj-davnosti-v-sude-v-ukraine: сроки по здоровью
+Нанопласт: 28680822: Postovoi: europarfum.net.ua: 2018-05-14T10:35:08: http://pk.kiev.ua/technology/medicina/5760-zhenskaya-viagra-shirokie-vozmozhnosti-dlya-raskrytiya-seksualnosti-zhenschiny.html: усиление влечения
+Нанопласт: 28682727: Postovoi: zvonkov.net.ua: 2018-05-15T16:19:19: http://hibox.com.ua/komnatnye-rasteniya/crassula-tolstyanka-denezhnoye-derevo-.html: http://hibox.com.ua/komnatnye-rasteniya/crassula-tolstyanka-denezhnoye-derevo-.html
+Нанопласт: 28685043: Postovoi: valiza-tour.kiev.ua: 2018-05-17T22:41:57: http://ticketsmilano.com/ru: итальянский театр ла скала
+Нанопласт: 28685040: Postovoi: redcat.net.ua: 2018-05-17T22:41:57: http://ticketsmilano.com/ru: миланский оперный театр ла скала
+Нанопласт: 28685067: Postovoi: electrodom-l.com.ua: 2018-05-18T00:28:03: http://www.high-voltage.com.ua/category/izmeritelnye-transformatory/transformatory-napryazheniya: трансформатор напряжения измерительный
+
+Function load_isue: 2018.05.18 16:06:54
+
+Function load_isue_rota: 2018.05.18 16:06:58
+
+Function load_isue: 2018.05.18 16:40:09
+
+Function load_isue_rota: 2018.05.18 16:40:12
+Нанопласт: 28685685: Postovoi: browncat.net.ua: 2018-05-18T15:34:15: http://tvto.ru/vidy-plintusov-iz-kakih-materialov-ih-delayut: http://tvto.ru/vidy-plintusov-iz-kakih-materialov-ih-delayut
+Нанопласт: 28685647: Postovoi: allsearch.com.ua: 2018-05-18T14:49:57: http://kirkat.com.ua/stati/stroitelstvo/osobjennosti-vybora-plintusa-mdf-profi.html: http://kirkat.com.ua/stati/stroitelstvo/osobjennosti-vybora-plintusa-mdf-profi.html
+
+Function autorizen: 2018.05.21 11:54:30
+Курко: 1425070: PR=cffedff7de056eb850fddd39d1ac06af:18b72c21ed8d6f585ed749af94d8fcb073526b62; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=fe5e916855b3d9dacce929598008f66b:efc16d3987abb3507a2e51eff4ac4a8253666aa4; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=821ff4e72cfbeca03a8d3551a37df0ec:d7c0202af134d867c4e206ab8f8a240d89ba1922; path=/; domain=api.pr.sape.ru
+
+Function load_isue: 2018.05.21 12:17:04
+Курко: 23934484: link: cugp.com.ua: 2018-05-20 12:32:55: https://rautagroup.com/product/cor-ten/: кортеновская сталь
+Максим: 23936042: review: gv.org.ua: 2018-05-21 10:48:24: https://www.dobrobut.com/library/c-osnovnye-priznaki-multifollikularnyh-aicnikov-mfa-informacia-dla-pacientov: лечение мультифолликулярных яичников
+Максим: 23928842: review: betar.org.ua: 2018-05-17 18:32:27: http://regeneraciya.com.ua/services/lechenie-cyrroza-pecheni/: http://regeneraciya.com.ua/services/lechenie-cyrroza-pecheni/
+Максим: 23928055: news: books.openlib.org.ua: 2018-05-17 14:57:12: https://diplomu-s.com: Купить дилпом о высшем образовании
+Нанопласт: 23935750: link: orangecat.net.ua: 2018-05-21 07:26:05: http://mope.kiev.ua/: разработка логотипа
+Нанопласт: 23935689: link: orangecat.net.ua: 2018-05-21 05:30:57: http://siso.com.ua/ctcat/chugunnyye-radiatory.html: радиатор отопления чугунный
+Нанопласт: 23935688: link: orangecat.net.ua: 2018-05-21 05:29:31: https://obmen.cc/: обмен денег вебмани
+Нанопласт: 23935435: link: orangecat.net.ua: 2018-05-21 02:04:12: http://maikasoft.com.ua/chashki: печать на чашках Киев
+Нанопласт: 23935258: review: avtocentr.sumy.ua: 2018-05-20 23:24:24: https://safegas.com.ua/: https://safegas.com.ua/
+Нанопласт: 23934901: link: orangecat.net.ua: 2018-05-20 17:54:38: http://edp.by/shop/producers/lancome/page-2/: духи купить
+Нанопласт: 23933155: link: orangecat.net.ua: 2018-05-19 16:10:37: http://barabashovo.ck.ua/index.php?categoryID=898: Купить полуавтомат Эдон 280
+Нанопласт: 23929566: link: orangecat.net.ua: 2018-05-18 03:44:12: https://www.cqmi.ca/fr: agence de rencontre Montreal
+Нанопласт: 23929085: link: orangecat.net.ua: 2018-05-17 20:57:32: https://cqmi.com.ua/ru/acquaintance/melitopol: мелитополь знакомства
+Нанопласт: 23928677: link: linq.kiev.ua: 2018-05-17 17:46:55: http://siso.com.ua/ctcat/chugunnyye-radiatory.html: чугунные радиаторы
+Нанопласт: 23928164: news: www.schooler.org.ua: 2018-05-17 15:23:57: https://diplomu-s.com/diplom-instituta/: Купить диплом института
+Нанопласт: 23928078: link: linq.kiev.ua: 2018-05-17 15:02:29: https://twinvir.ro: Twinvir
+Нанопласт: 23907204: link: ppsls.org.ua: 2018-05-10 12:35:14: http://www.otpusk.com/: горящие туры
+
+Function load_isue: 2018.05.21 12:17:09
+
+Function load_isue_rota: 2018.05.21 12:17:14
+Курко: 28685643: Postovoi: ypag.com.ua: 2018-05-18T14:48:09: http://adem.kiev.ua/uslugi.html: ремонт душевых кабин от «ADEM»
+Максим: 28678600: Postovoi: 4da.org.ua: 2018-05-10T11:59:55: https://minfin.com.ua/2018/04/27/33359593/: Эксперт Юрий Мавродиев: застройщики ближайшие конкуренты банкиров за сбережения украинцев
+Максим: 28673896: Post: fledur.org.ua: 2018-05-03T22:01:30: None: None
+Максим: 28679477: Postovoi: elit-a-a.com.ua: 2018-05-11T09:43:22: http://verrocchio.kh.ua/programmy/kurs-risovanie-dlya-nachinayushhih/: курсы рисования для начинающих
+Максим: 28685475: Postovoi: fledur.org.ua: 2018-05-18T12:54:11: https://duo.in.ua/znakomstva/hmelnickiy: Знакомства в Хмельницком
+Нанопласт: 28680822: Postovoi: europarfum.net.ua: 2018-05-14T10:35:08: http://pk.kiev.ua/technology/medicina/5760-zhenskaya-viagra-shirokie-vozmozhnosti-dlya-raskrytiya-seksualnosti-zhenschiny.html: усиление влечения
+Нанопласт: 28682727: Postovoi: zvonkov.net.ua: 2018-05-15T16:19:19: http://hibox.com.ua/komnatnye-rasteniya/crassula-tolstyanka-denezhnoye-derevo-.html: http://hibox.com.ua/komnatnye-rasteniya/crassula-tolstyanka-denezhnoye-derevo-.html
+Нанопласт: 28686502: Postovoi: e-putivka.com.ua: 2018-05-20T08:28:05: http://kamadhoomaldives.me/blog: здесь
+Нанопласт: 28686565: Postovoi: europarfum.net.ua: 2018-05-20T12:28:04: http://kamadhoomaldives.me/responses: отзывы
+Нанопласт: 28685043: Postovoi: valiza-tour.kiev.ua: 2018-05-17T22:41:57: http://ticketsmilano.com/ru: итальянский театр ла скала
+Нанопласт: 28685040: Postovoi: redcat.net.ua: 2018-05-17T22:41:57: http://ticketsmilano.com/ru: миланский оперный театр ла скала
+Нанопласт: 28685067: Postovoi: electrodom-l.com.ua: 2018-05-18T00:28:03: http://www.high-voltage.com.ua/category/izmeritelnye-transformatory/transformatory-napryazheniya: трансформатор напряжения измерительный
+Нанопласт: 28685685: Postovoi: browncat.net.ua: 2018-05-18T15:34:15: http://tvto.ru/vidy-plintusov-iz-kakih-materialov-ih-delayut: http://tvto.ru/vidy-plintusov-iz-kakih-materialov-ih-delayut
+Нанопласт: 28685647: Postovoi: allsearch.com.ua: 2018-05-18T14:49:57: http://kirkat.com.ua/stati/stroitelstvo/osobjennosti-vybora-plintusa-mdf-profi.html: http://kirkat.com.ua/stati/stroitelstvo/osobjennosti-vybora-plintusa-mdf-profi.html
+Нанопласт: 28686680: Postovoi: hodos.kharkov.ua: 2018-05-20T20:28:04: http://kamadhoomaldives.me/fun: развлечение на Мальдивах
+
+Function load_isue_rota: 2018.05.21 12:17:18
+
+Function autorizen: 2018.05.22 00:39:37
+Курко: 1425070: PR=7cdd0d12464d172936e09f3af5ea26ae:f614140ed4163ed244147e501feeefaead0cb158; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=ef66779df3ec2d09967a8a60e6c5ab37:4a19daa5b3faeab9cd4a945795de277e88eaf613; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=7249256a083746471016274ed206c6df:1f344b03f1ccbae287164700959368d7be8f516a; path=/; domain=api.pr.sape.ru
+
+Function autorizen: 2018.05.22 09:22:34
+Курко: 1425070: PR=40969884c0c18fa5eedb365ec5bf0652:2c171cabd6f3590e76285830a9905495a9ac48fc; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=94ebbb0ed46d963db6f8e4564c6f8d00:d01ef88a8f9c51456bf12bbb07b301e47f163f4c; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=bb7434f84e9f8f978d21c94985112411:8cb226fdd9ec3ffdf353858ab3e735c238c34fa7; path=/; domain=api.pr.sape.ru
+
+Function autorizen: 2018.05.22 09:24:25
+Курко: 1425070: PR=628f23cf57475e4a3d63b7b148aa8f62:981850e48457438683fb2e3655054ea2e4ebf4fd; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=157a1aaa2d70ecff6f8dd2a2574facee:1d9263094471f396c7e9017ec3089f8d5a138511; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=68685e0394fad7690410e7f9ecb0d75b:c3bf6f3653d607103cc2fc794f1fbaac578ac68f; path=/; domain=api.pr.sape.ru
+
+Function autorizen_rota: 2018.05.22 09:48:18
+Антон: true: 17fdbd9b-b15d-41bb-abc9-7be978fc2380
+Курко: true: 8c469677-7cd4-452f-bcf5-8cca6666328b
+Максим: true: 16aa8037-0d6f-448f-8912-4291be595464
+Нанопласт: true: 228ddadd-73bf-44ff-82f3-10654753661b
+
+Function load_isue: 2018.05.22 17:08:12
+Курко: 23933312: link: medical-beauty.org.ua: 2018-05-19 16:38:26: http://mmkstyle.ru/: Мягкая мебель и диваны для ресторанов
+Максим: 23909040: link: poser.kiev.ua: 2018-05-10 20:31:58: http://barabashovo.ck.ua/index.php?categoryID=1066: Купить сварочный инвертор Эдон
+Максим: 23909037: link: animan.kiev.ua: 2018-05-10 20:31:57: http://barabashovo.ck.ua/index.php?categoryID=1066: купить инвертор сварочный edon
+Максим: 23909029: link: biscont.com.ua: 2018-05-10 20:31:55: http://barabashovo.ck.ua/index.php?categoryID=1066: Сварочный инвертор Edon
+Нанопласт: 23940372: link: tellall.kiev.ua: 2018-05-22 15:50:08: http://litpolmebel.com/ru/30-metallicheskie-stellazhi: купить стеллаж
+Нанопласт: 23938627: link: telopa.com.ua: 2018-05-22 05:01:31: http://varios.biz/index.php?/forum/3-авторские-схемы-заработка/: серые схемы заработка
+Нанопласт: 23938167: link: e-putivka.com.ua: 2018-05-21 21:16:42: http://siso.com.ua/ctcat/stalnyye-radiatory.html: стальной радиатор отопления
+Нанопласт: 23936365: link: tellall.kiev.ua: 2018-05-21 12:40:28: http://argo.net.ua/ru/naruzhnaya-reklama/fasadnye-vyveski/: заказать световую вывеску
+
+Function load_isue_rota: 2018.05.22 17:08:18
+Курко: 28686192: Postovoi: medical-beauty.org.ua: 2018-05-19T14:26:20: http://nugabest.ua/: Тут
+Курко: 28686790: Postovoi: ypag.com.ua: 2018-05-21T00:28:04: http://www.high-voltage.com.ua/category/izmeritelnye-transformatory/transformatory-napryazheniya: измерительные трансформаторы напряжения
+Курко: 28687923: Postovoi: patriarh.in.ua: 2018-05-21T17:48:48: http://krestik.in.ua/po-motivam-gapchinskoj-c462.html?sort=name&direction=asc: гапчинская вышивка бисером
+Курко: 28687492: Postovoi: lightdesign.od.ua: 2018-05-21T14:35:28: http://gau.org.ua/2018/04/obzor-laminata-ot-luchshih-proizvoditelej-napolnyh-pokrytij/: http://gau.org.ua/2018/04/obzor-laminata-ot-luchshih-proizvoditelej-napolnyh-pokrytij/
+Курко: 28687297: Postovoi: medical-beauty.org.ua: 2018-05-21T12:25:54: http://nikator.com.ua/catalog/gibkaya-endoskopiya: Эндоскопическое оборудование
+Курко: 28686313: Postovoi: ahumor.org.ua: 2018-05-20T00:20:05: https://carvex.ee: autoremont
+Максим: 28676124: Postovoi: nanoplast.com.ua: 2018-05-07T15:26:47: http://triatek.com.ua/tovary/kanalnye: канальный кондиционер
+Максим: 28678600: Postovoi: 4da.org.ua: 2018-05-10T11:59:55: https://minfin.com.ua/2018/04/27/33359593/: Эксперт Юрий Мавродиев: застройщики ближайшие конкуренты банкиров за сбережения украинцев
+Максим: 28673896: Post: fledur.org.ua: 2018-05-03T22:01:30: None: None
+Максим: 28679477: Postovoi: elit-a-a.com.ua: 2018-05-11T09:43:22: http://verrocchio.kh.ua/programmy/kurs-risovanie-dlya-nachinayushhih/: курсы рисования для начинающих
+Максим: 28687295: Postovoi: gv.org.ua: 2018-05-21T12:25:53: http://nikator.com.ua/: медицинское оборудование
+Максим: 28687256: PressRelease: 4da.org.ua: 2018-05-21T12:06:00: None: None
+Максим: 28687165: PressRelease: 4da.org.ua: 2018-05-21T11:43:06: None: None
+Максим: 28687102: PressRelease: 4da.org.ua: 2018-05-21T11:08:37: None: None
+Максим: 28687296: Postovoi: interline.net.ua: 2018-05-21T12:25:54: http://nikator.com.ua/catalog/mebel-medicinskaya: Медицинская мебель
+Максим: 28688467: Postovoi: seovin.ru: 2018-05-22T09:37:56: http://olahola.ua/: вот
+Нанопласт: 28680822: Postovoi: europarfum.net.ua: 2018-05-14T10:35:08: http://pk.kiev.ua/technology/medicina/5760-zhenskaya-viagra-shirokie-vozmozhnosti-dlya-raskrytiya-seksualnosti-zhenschiny.html: усиление влечения
+Нанопласт: 28682727: Postovoi: zvonkov.net.ua: 2018-05-15T16:19:19: http://hibox.com.ua/komnatnye-rasteniya/crassula-tolstyanka-denezhnoye-derevo-.html: http://hibox.com.ua/komnatnye-rasteniya/crassula-tolstyanka-denezhnoye-derevo-.html
+Нанопласт: 28686954: Post: valiza-tour.kiev.ua: 2018-05-21T08:42:39: None: None
+Нанопласт: 28687442: Postovoi: shiva.net.ua: 2018-05-21T13:41:38: http://embawood.kiev.ua/2018/05/zamena-steklopaketa/: http://embawood.kiev.ua/2018/05/zamena-steklopaketa/
+Нанопласт: 28687493: Postovoi: playman.com.ua: 2018-05-21T14:36:31: http://manorsgroup.com.ua/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/kak-vybrat-mezhkomnatnye-dveri.html: http://manorsgroup.com.ua/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/kak-vybrat-mezhkomnatnye-dveri.html
+Нанопласт: 28687485: Postovoi: oscar.donetsk.ua: 2018-05-21T14:28:05: http://kamadhoomaldives.me: мой йога тур
+Нанопласт: 28689080: Postovoi: turtrans.net.ua: 2018-05-22T14:28:05: http://kamadhoomaldives.me: смотрите
+Нанопласт: 28687730: Postovoi: redcat.net.ua: 2018-05-21T16:44:48: http://print-media-group.com.ua/pechat-bannerov-ili-bannera-kiev/: печать баннера цена
+Нанопласт: 28687733: Postovoi: da100let.dn.ua: 2018-05-21T16:44:49: http://print-media-group.com.ua/pechat-bannerov-ili-bannera-kiev/: изготовление баннеров киев
+Нанопласт: 28687732: Postovoi: valiza-tour.kiev.ua: 2018-05-21T16:44:49: http://print-media-group.com.ua/pechat-bannerov-ili-bannera-kiev/: печать баннера киев
+Нанопласт: 28687753: Postovoi: bf3.com.ua: 2018-05-21T17:09:55: https://viber-pro.com.ua/: рассылка в вайбер
+Нанопласт: 28687751: Postovoi: mylink.org.ua: 2018-05-21T17:09:55: https://viber-pro.com.ua/: рассылка в вайбер
+Нанопласт: 28687860: Postovoi: mip-stroy.com.ua: 2018-05-21T17:34:47: https://viber-pro.com.ua/: рассылка по вайберу
+Нанопласт: 28687859: Postovoi: turtrans.net.ua: 2018-05-21T17:34:46: https://viber-pro.com.ua/: рассылка по вайберу
+Нанопласт: 28687858: Postovoi: tropic.od.ua: 2018-05-21T17:34:44: https://viber-pro.com.ua/: рассылки через viber официально
+Нанопласт: 28687857: Postovoi: gyrus.org.ua: 2018-05-21T17:34:43: https://viber-pro.com.ua/: viber рассылка
+Нанопласт: 28687856: Postovoi: e-putivka.com.ua: 2018-05-21T17:34:41: https://viber-pro.com.ua/: рассылка viber
+Нанопласт: 28687851: Postovoi: shiva.net.ua: 2018-05-21T17:32:49: https://viber-pro.com.ua/: viber рассылка сообщений
+Нанопласт: 28687852: Postovoi: tren.com.ua: 2018-05-21T17:32:49: https://viber-pro.com.ua/: рассылка в вайбере
+Нанопласт: 28687845: Postovoi: slaidik.com.ua: 2018-05-21T17:32:47: https://viber-pro.com.ua/: рассылка в вайбер
+Нанопласт: 28687847: Postovoi: zenit2.com.ua: 2018-05-21T17:32:47: https://viber-pro.com.ua/: viber рассылка
+Нанопласт: 28687848: Postovoi: fbk.org.ua: 2018-05-21T17:32:47: https://viber-pro.com.ua/: viber рассылка
+Нанопласт: 28687849: Postovoi: web-city.org.ua: 2018-05-21T17:32:47: https://viber-pro.com.ua/: viber рассылка сообщений
+Нанопласт: 28687843: Postovoi: oscar.donetsk.ua: 2018-05-21T17:32:46: https://viber-pro.com.ua/: рассылка viber
+Нанопласт: 28687844: Postovoi: linkomania.com.ua: 2018-05-21T17:32:46: https://viber-pro.com.ua/: viber рассылка сообщений
+Нанопласт: 28687761: Postovoi: savelink.org.ua: 2018-05-21T17:09:59: https://viber-pro.com.ua/: рассылка в вайбере
+Нанопласт: 28687757: Postovoi: softik.net.ua: 2018-05-21T17:09:58: https://viber-pro.com.ua/: рассылки через viber официально
+Нанопласт: 28687758: Postovoi: zvonkov.net.ua: 2018-05-21T17:09:58: https://viber-pro.com.ua/: рассылки через viber официально
+Нанопласт: 28687759: Postovoi: orangecat.net.ua: 2018-05-21T17:09:58: https://viber-pro.com.ua/: рассылка в вайбере
+Нанопласт: 28687756: Postovoi: hodos.kharkov.ua: 2018-05-21T17:09:57: https://viber-pro.com.ua/: рассылка через вайбер
+Нанопласт: 28687754: Postovoi: umapalata.zp.ua: 2018-05-21T17:09:56: https://viber-pro.com.ua/: viber рассылки
+Нанопласт: 28687752: Postovoi: programer.org.ua: 2018-05-21T17:09:55: https://viber-pro.com.ua/: рассылка через вайбер
+Нанопласт: 28687915: Postovoi: softik.net.ua: 2018-05-21T17:48:06: http://krestik.in.ua/sumochki-klatchi-c274.html?sort=date_added&direction=desc: клатч под вышивку бисером
+Нанопласт: 28687914: Postovoi: tropic.od.ua: 2018-05-21T17:48:06: http://krestik.in.ua/po-motivam-gapchinskoj-c462.html?sort=name&direction=asc: гапчинская вышивка бисером
+Нанопласт: 28687916: Postovoi: blackmetal.kiev.ua: 2018-05-21T17:48:07: http://krestik.in.ua/Optovym_pokupatelyam.html: закупка товара для вышивки
+Нанопласт: 28687919: Postovoi: mip-stroy.com.ua: 2018-05-21T17:48:08: http://krestik.in.ua/advanced_search_result.php?keywords=%D0%BF%D0%BE%D0%BB%D0%BD%D0%B0%D1%8F%20%D0%B7%D0%B0%D1%88%D0%B8%D0%B2%D0%BA%D0%B0&sort=date_added&direction=desc: вышивка бисером полная зашивка
+Нанопласт: 28687918: Postovoi: tren.com.ua: 2018-05-21T17:48:08: http://krestik.in.ua/Optovym_pokupatelyam.html: опт вышивки бисером Украина
+Нанопласт: 28687917: Postovoi: zvonkov.net.ua: 2018-05-21T17:48:08: http://krestik.in.ua/nabory-dlja-vyshivki-biserom-c13.html: наборы для вышивки бисером
+Нанопласт: 28687920: Postovoi: mylink.org.ua: 2018-05-21T17:48:44: http://krestik.in.ua/cvety-c128.html?sort=price&direction=desc: вышивка бисером триптих цветы
+Нанопласт: 28687921: Postovoi: programer.org.ua: 2018-05-21T17:48:45: http://krestik.in.ua/kanva-s-risunkom-c1.html: купить канву с рисунком для вышивания крестиком
+Нанопласт: 28687922: Postovoi: fbk.org.ua: 2018-05-21T17:48:46: http://krestik.in.ua/kanva-s-risunkom-c1.html: рисунок на канве для вышивки крестом
+Нанопласт: 28687925: Postovoi: umapalata.zp.ua: 2018-05-21T17:48:48: http://krestik.in.ua/cvety-c128.html?sort=price&direction=desc: вышивка бисером триптих цветы
+Нанопласт: 28687924: Postovoi: bf3.com.ua: 2018-05-21T17:48:48: http://krestik.in.ua/cvety-c128.html?sort=price&direction=desc: вышивка бисером триптих цветы
+Нанопласт: 28687927: Postovoi: yavtanke.org.ua: 2018-05-21T17:48:49: http://krestik.in.ua/biser-c507.html: купить чешский бисер
+Нанопласт: 28687926: Postovoi: slaidik.com.ua: 2018-05-21T17:48:49: http://krestik.in.ua/advanced_search_result.php?keywords=%D0%B1%D0%B8%D1%81%D0%B5%D1%80%D0%BE%D0%BC%20%D0%B4%D0%BE%D0%BC&sort=date_added&direction=desc: вышивка домик
+Нанопласт: 28687928: Postovoi: e-putivka.com.ua: 2018-05-21T17:48:50: http://krestik.in.ua/biser-c507.html: бисер купить недорого
+Нанопласт: 28687930: Postovoi: gyrus.org.ua: 2018-05-21T17:49:26: http://krestik.in.ua/biser-c507.html: купить чешский бисер недорого в украине
+Нанопласт: 28687929: Postovoi: slonoff.net.ua: 2018-05-21T17:49:26: http://krestik.in.ua/biser-c507.html: купить чешский бисер недорого в украине
+Нанопласт: 28687931: Postovoi: playman.com.ua: 2018-05-21T17:49:28: http://krestik.in.ua/advanced_search_result.php?keywords=%D0%B1%D0%B8%D1%81%D0%B5%D1%80%D0%BE%D0%BC%20%D0%B4%D0%BE%D0%BC&sort=date_added&direction=desc: вышивка домик
+
+Function load_isue: 2018.05.22 17:14:07
+
+Function load_isue_rota: 2018.05.22 17:14:11
+
+Function load_isue: 2018.05.22 17:45:56
+
+Function load_isue_rota: 2018.05.22 17:46:05
+
+Function load_isue: 2018.05.22 17:50:44
+
+Function load_isue_rota: 2018.05.22 17:50:50
+
+Function autorizen: 2018.05.23 17:36:55
+Курко: 1425070: PR=caed57c61e87d2a41fda60c8b81c0edf:ac3b3fe392068ea4e2bfe4e8df6fac5e61e5da43; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=6b2d6bf3c45cbadc43d5af50ed3d4940:9f862a3f26b5e46a2ca79b7a6ecc3b429439eed2; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=168d016586c65867c3e872022ae4e2ac:1801a99107534d1a19eb9e1deff0792a4fd9389b; path=/; domain=api.pr.sape.ru
+

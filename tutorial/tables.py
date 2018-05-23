@@ -4,6 +4,7 @@ from .models import Person
 from testpage.models import Urls
 from testpage.models import Accounts
 from runapp.models import Isue
+from runapp.models import Keys_List
 
 class PersonTable(tables.Table):
     class Meta:
@@ -23,4 +24,9 @@ class AccountsTable(tables.Table):
 class IsueTable(tables.Table):
     class Meta:
         model = Isue
+        template_name = 'django_tables2/bootstrap.html'
+
+class Keys_ListTable(tables.Table):
+    class Meta:
+        model = Keys_List
         template_name = 'django_tables2/bootstrap.html'
