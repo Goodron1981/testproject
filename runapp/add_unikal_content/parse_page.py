@@ -8,29 +8,27 @@ import time
 def getcontent(searchurl):
     urllib3.disable_warnings()
     proxy = urllib3.ProxyManager('http://10.18.7.6:3128', maxsize=10)
-    page = ''
-    while page == '':
-        try:
-            page = proxy.request('GET', searchurl, headers={
-                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'})
-            break
-        except:
-            print("Connection refused by the server..")
-            print("Let me sleep for 5 seconds")
-            print("ZZzzzz...")
-            time.sleep(5)
-            print("Was a nice sleep, now let me continue...")
-            trace = '<body>Bad request</body>'
-        else:
-            trace = BeautifulSoup(page.data, "html5lib")
-        finally:
-            if trace != '<body>Bad request</body>':
-                trace = BeautifulSoup(page.data, "html5lib")
+    try:
+        page = proxy.request('GET', searchurl, headers={
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'})
+
+    except:
+        print("Connection refused by the server..")
+        bebots = 'Bad request'
+
+    else:
+        trace = BeautifulSoup(page.data, "html5lib")
+        bots = trace.find_all('body')[0]
+        bebots = bots.get_text()
+
+
+
+
 
 
     # trace = BeautifulSoup(page.data, "html5lib")
-    bots = trace.find_all('body')[0]
-    bebots = bots.get_text()
+    # bots = trace.find_all('body')[0]
+    # bebots = bots.get_text()
     bush = bebots.lower()
     # сюда добавить проверку на исключающие страницу слова( те что указівают на явнонеуникальный или неподходящий текст)
     exwordlist = Excludespage.objects.all()

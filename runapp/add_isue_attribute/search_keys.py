@@ -25,16 +25,17 @@ def add_keys_img():
             if result:
                 result2 = re.search(r'\b(' + serchword + '|' + key.extra_word + '\w*)\s*(' + key.extra_word + '\w*|' + serchword + ')', all_data)
                 # result = re.search(r'\b(окна\w*|пластик\w*)\s*(пластик\w*|окна\w*)', str)
-                if result2:
+                if result2 and key.extra_key_words != 'None':
                     isue.key_words = key.extra_key_words
                     # Еще не верно так как должен быть еще поиск урла
                     isue.img_url = geturlimg(key.extra_image_text)
                     isue.status_isue = "AddKey"
                     isue.save()
+                    break
                 else:
                     isue.key_words = key.key_word
                     # Еще не верно так как должен быть еще поиск урла
                     isue.img_url = geturlimg(key.image_text)
                     isue.status_isue = "AddKey"
                     isue.save()
-                break
+                    break

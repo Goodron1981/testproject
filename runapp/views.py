@@ -1,3 +1,5 @@
+import traceback
+
 from django.shortcuts import render
 from datetime import datetime
 from django.http import HttpResponseRedirect
@@ -8,6 +10,7 @@ import time
 from runapp.mainapp.starter import startfirst
 from runapp.mainapp.finisher import finish
 from runapp.mainapp.compliter import complete
+from runapp.add_isue_attribute.search_keys import add_keys_img
 
 # Create your views here.
 
@@ -60,12 +63,28 @@ def startpage(request):
         return render(request, 'runapp/startpage.html')
 
 def startinfo(request):
-    response = HttpResponse("<h3>1. Начало ...!</h3>")
     if request.method == 'GET':
-        res = request.GET.get('but')
+        res = request.GET.get('status')
+        method = request.GET.get('name')
         if res == 'start':
-            # time.sleep(3)
-            complete()
-            response =  HttpResponse("<h3>1. Начало ...!</h3><h3>2.Окончание</h3>")
+
+            # complete()
+            response =  HttpResponse("<h3>1. Начало " + method + " !</h3>")
+
+        else:
+            try:
+                if method == 'Load':
+                    startfirst()
+                elif method == 'Key':
+                    add_keys_img()
+                elif method == 'Add':
+                    complete()
+                elif method == 'Close':
+                    finish()
+                response = HttpResponse("<h3>2.Окончание " + method + " </h3>")
+            except BaseException as error:
+                response = HttpResponse("<h3>2.Ошибка " + method + " </h3>")
+                full_traceback = traceback.format_exc()
+                print(full_traceback)
             # response = render(request,'runapp/phone-filter.html', {'phonenumbers':queryset})
     return response

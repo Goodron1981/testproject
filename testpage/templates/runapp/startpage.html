@@ -5,15 +5,25 @@
     <title>Начальная страница</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
     <script>
-    function pub(){
-      $('.result-block').html('').load("{% url 'startinfo' %}?but=start");
-      $('.result-block').append('').load("{% url 'startinfo' %}?but=finish");
-    };
+    function sape(param,name){
+$.ajax({ type: "GET",
+     url: "startinfo/?status=" + param + "&name=" + name,
+     async: true,
+     success : function(text)
+     {
+         $('.result-block').append('<div>'+text+'</div>');
+if (param == 'start') {sape('finish',name)}
+     }
+});
+}
     </script>
 </head>
 <body>
     <div></div>
-        <button onclick="pub()">Отправить</button>
+        <button onclick="sape('start','Load')">Загрузить заявки</button>
+         <button onclick="sape('start','Key')">Подгрузить ключи</button>
+        <button onclick="sape('start','Add')">Найти контент</button>
+        <button onclick="sape('start','Close')">Закрыть заявки</button>
     </div>
 
     <div class="result-block">

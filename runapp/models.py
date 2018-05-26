@@ -1,6 +1,14 @@
 from django.db import models
 from django.contrib import admin
 
+STATUS_CHOICES = (
+    ("Reword", "REWORD"),
+    ("Closed", "CLOSED"),
+    ("AddUnikal", "ADDUNIKAL"),
+    ("AddKey", "ADDKEY"),
+    ("New", "NEW"),
+)
+
 # verbose_name='full name'
 class Isue(models.Model):
     num = models.IntegerField(default = 1, verbose_name='№')
@@ -8,7 +16,7 @@ class Isue(models.Model):
     type_isue = models.CharField(max_length=10, default = 'None', verbose_name='Тип заявки')
     site_platform = models.CharField(max_length=40, default = 'None', verbose_name= 'Домен площадки')
     date_create = models.DateTimeField(verbose_name= 'Дата создания')
-    anchor1 = models.CharField(max_length=250, default = 'None', verbose_name= 'Анкор1')
+    anchor1 = models.CharField(max_length=300, default = 'None', verbose_name= 'Анкор1')
     anchor2 = models.CharField(max_length=100, default = 'None', verbose_name= 'Анкор2')
     anchor3 = models.CharField(max_length=100, default = 'None', verbose_name= 'Анкор3')
     anchor1_url = models.CharField(max_length=200, default = 'None', verbose_name= 'Ссылка анкора')
@@ -25,14 +33,15 @@ class Isue(models.Model):
     ubdate_date = models.DateTimeField(auto_now=True, verbose_name='Обновлено')
     public_content = models.TextField(default = 'None', verbose_name= 'Контент')
     public_url = models.CharField(max_length=200, default = 'None', verbose_name='Урл результата')
-    status_isue = models.CharField(max_length=100, default = 'New', verbose_name='Статус заявки')
+    status_isue = models.CharField(max_length=100, default = 'New', choices=STATUS_CHOICES, verbose_name='Статус заявки')
+    # choices=STATUS_CHOICES
 
     def __str__(self):              # __unicode__ on Python 2
         return str(self.num)
 
 
 class IsueAdmin(admin.ModelAdmin):
-    list_display = ('num', 'id_isue', 'site_platform', 'user_platform', 'platform_name', 'public_url', 'ubdate_date', 'status_isue')
+    list_display = ('num', 'id_isue', 'site_platform', 'user_platform', 'platform_name', 'public_url', 'ubdate_date', 'status_isue','key_words')
     ordering = ('num',)
 
 class Keys_List(models.Model):

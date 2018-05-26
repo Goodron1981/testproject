@@ -33,4 +33,7 @@ def format_cut_content(textcont, lencont, serchurl):
     # 4 возвращаем варифицированый кусок
     # print(len(resulttext))
     finaltext = re.sub('\s*["«][А-ЯA-Z]\w+["»]', '', resulttext)
+    foop = finaltext.endswith('.')
+    if not foop:
+        finaltext = finaltext + '.'
     return finaltext
