@@ -18,7 +18,7 @@ def closerota(isue):
         'https': 'http://10.18.7.6:3128',
     }
     if not isproxy:
-        proxies = 'None'
+        proxies = None
     headers = {
             'Content-Type': "text/xml",
             'Accept-Charset': "utf-8",

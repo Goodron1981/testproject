@@ -2275,3 +2275,52 @@ Function load_isue: 2018.06.01 17:23:07
 
 Function load_isue_rota: 2018.06.01 17:23:10
 
+Function load_isue: 2018.06.03 16:39:58
+Function autorizen: 2018.06.03 16:48:58
+Курко: 1425070: PR=d385a2d01d6a29d2c7142aaaf9b4726a:7ff47ba5e2e9318d9714e031325b85c39d439277; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=ab3cd06b7c38bfa4c9870b1ee733b7d6:0275c214ae3ae15868c56bfb48dc1722dc9e623e; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=e007438458a1cd6c9459ab16b7c3715a:8b2220d48708cfbb3327ece5a7b51849630f6a1b; path=/; domain=api.pr.sape.ru
+
+Function load_isue: 2018.06.03 16:48:33
+Курко: 23966356: link: ypag.com.ua: 2018-06-01 18:47:37: https://www.ecoalt.km.ua/product-category/vyrobnyky/toshiba/: Кондиціонери Toshiba
+
+Function autorizen_rota: 2018.06.03 23:11:00
+Антон: true: be2a21cc-6bc4-40a6-87d1-02afa140bf34
+Курко: true: 5a12d392-1894-44d8-8894-2746bc2c94ec
+Максим: true: 721a26ff-3cb6-4970-9a84-9ef66bf4db5b
+Нанопласт: true: 833586d3-9d46-4465-b75a-1bd281f3932d
+Йотобайк: true: 0d62a9b9-510b-4cb4-ae3e-6082e20d5202
+
+Function autorizen_rota: 2018.06.03 23:14:20
+Антон: true: be2a21cc-6bc4-40a6-87d1-02afa140bf34
+Курко: true: 5a12d392-1894-44d8-8894-2746bc2c94ec
+Максим: true: 721a26ff-3cb6-4970-9a84-9ef66bf4db5b
+Нанопласт: true: 833586d3-9d46-4465-b75a-1bd281f3932d
+Йотобайк: true: 0d62a9b9-510b-4cb4-ae3e-6082e20d5202
+
+Function autorizen_rota: 2018.06.03 23:14:53
+Антон: true: be2a21cc-6bc4-40a6-87d1-02afa140bf34
+Курко: true: 5a12d392-1894-44d8-8894-2746bc2c94ec
+Максим: true: 721a26ff-3cb6-4970-9a84-9ef66bf4db5b
+Нанопласт: true: 833586d3-9d46-4465-b75a-1bd281f3932d
+Йотобайк: true: 0d62a9b9-510b-4cb4-ae3e-6082e20d5202
+
+Function autorizen_rota: 2018.06.03 23:15:06
+Антон: true: be2a21cc-6bc4-40a6-87d1-02afa140bf34
+Курко: true: 5a12d392-1894-44d8-8894-2746bc2c94ec
+Максим: true: 721a26ff-3cb6-4970-9a84-9ef66bf4db5b
+Нанопласт: true: 833586d3-9d46-4465-b75a-1bd281f3932d
+Йотобайк: true: 0d62a9b9-510b-4cb4-ae3e-6082e20d5202
+
+Function autorizen: 2018.06.03 23:16:19
+Курко: 1425070: PR=bcd31abdd92529527a794531246d5e2a:27c75c700097257be60be4212e1bfe02d4dbafc8; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=fe076f2ecbc3cea3bfb0daf62aad326d:d6b4eed62a3e862f146a4cb3b2dc1d020d340f37; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=19adb4e97afc5166846e5baf46e634ab:7c8a051f47c3488c471d92cf37b1263b6b5d21c1; path=/; domain=api.pr.sape.ru
+
+Function autorizen_rota: 2018.06.03 23:19:13
+Антон: true: be2a21cc-6bc4-40a6-87d1-02afa140bf34
+Курко: true: 5a12d392-1894-44d8-8894-2746bc2c94ec
+Максим: true: 721a26ff-3cb6-4970-9a84-9ef66bf4db5b
+Нанопласт: true: 833586d3-9d46-4465-b75a-1bd281f3932d
+Йотобайк: true: 0d62a9b9-510b-4cb4-ae3e-6082e20d5202
+

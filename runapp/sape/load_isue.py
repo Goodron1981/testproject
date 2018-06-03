@@ -20,7 +20,7 @@ def load_isue_sape():
         'https': 'http://10.18.7.6:3128',
     }
     if not isproxy:
-        proxies = 'None'
+        proxies = None
 
     account_list = Accounts.objects.all()
     for user in account_list:

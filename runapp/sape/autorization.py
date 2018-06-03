@@ -18,7 +18,7 @@ def autorizen():
       'https': 'http://10.18.7.6:3128',
     }
     if not isproxy:
-        proxies = 'None'
+        proxies = None
 
     acount_list = Accounts.objects.all()
     for user in acount_list:

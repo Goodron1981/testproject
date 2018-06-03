@@ -18,7 +18,7 @@ def closesape(isue):
         'https': 'http://10.18.7.6:3128',
     }
     if not isproxy:
-        proxies = 'None'
+        proxies = None
     if cookies != 'None':
         payload = "<?xml version=\"1.0\"?>\r\n<methodCall>\r\n  <methodName>sape_pr.advert.place</methodName>\r\n  <params>\r\n    <param>\r\n        <value><int>" + idisue + "</int></value>\r\n    </param>\r\n    <param>\r\n        <value><string>" + urlresult + "</string></value>\r\n    </param>\r\n  </params>\r\n</methodCall>"
         headers = {

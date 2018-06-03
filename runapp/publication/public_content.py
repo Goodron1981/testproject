@@ -67,7 +67,7 @@ def publilconent(content, isue_num):
         'https': 'http://10.18.7.6:3128',
     }
     if not isproxy:
-        proxies = 'None'
+        proxies = None
 
     response = requests.post(url=url, data=body, headers=headers, proxies=proxies)
     if response.status_code == 201:

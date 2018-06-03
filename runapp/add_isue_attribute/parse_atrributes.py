@@ -28,7 +28,7 @@ def parser_attr():
             'https': 'http://10.18.7.6:3128',
         }
         if not isproxy:
-            proxies = 'None'
+            proxies = None
 
         headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'}
