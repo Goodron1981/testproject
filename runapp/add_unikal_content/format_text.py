@@ -34,6 +34,8 @@ def format_cut_content(textcont, lencont, serchurl):
     # print(len(resulttext))
     finaltext = re.sub('\s*["«][А-ЯA-Z]\w+["»]', '', resulttext)
     foop = finaltext.endswith('.')
-    if not foop:
+    foop2 = finaltext.endswith('. ')
+    print(len(finaltext))
+    if not foop and not foop2:
         finaltext = finaltext + '.'
     return finaltext

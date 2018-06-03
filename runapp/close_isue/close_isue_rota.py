@@ -3,8 +3,10 @@ import requests
 from bs4 import BeautifulSoup
 from testpage.models import Accounts
 from runapp.rota.autorization import autorizen
+from runapp.models import Fromproxy
 
 def closerota(isue):
+    isproxy = Fromproxy.objects.get(pk=1).proxy_val
     username = isue.user_platform
     acount = Accounts.objects.get(name=username)
     apikey = acount.apikey_rota
@@ -15,6 +17,8 @@ def closerota(isue):
         'http': 'http://10.18.7.6:3128',
         'https': 'http://10.18.7.6:3128',
     }
+    if not isproxy:
+        proxies = 'None'
     headers = {
             'Content-Type': "text/xml",
             'Accept-Charset': "utf-8",

@@ -3,9 +3,11 @@ from bs4 import BeautifulSoup
 import lxml
 from testpage.models import Accounts
 from datetime import datetime
+from runapp.models import Fromproxy
 
 
 def autorizen():
+    isproxy = Fromproxy.objects.get(pk=1).proxy_val
     now = datetime.now()
     #param a дозапись
     f = open('runapp\logfile.txt', 'a')
@@ -16,6 +18,8 @@ def autorizen():
       'http': 'http://10.18.7.6:3128',
       'https': 'http://10.18.7.6:3128',
     }
+    if not isproxy:
+        proxies = 'None'
 
     acount_list = Accounts.objects.all()
     for user in acount_list:

@@ -8,8 +8,10 @@ import requests
 import lxml
 import html5lib
 import re
+from runapp.models import Fromproxy
 
 def parser_attr():
+    isproxy = Fromproxy.objects.get(pk=1).proxy_val
     isue_list = Isue.objects.filter(status_isue='New').order_by('num')
     # isue_list = Isue.objects.all()
     for isue in isue_list:
@@ -25,16 +27,22 @@ def parser_attr():
             'http': 'http://10.18.7.6:3128',
             'https': 'http://10.18.7.6:3128',
         }
+        if not isproxy:
+            proxies = 'None'
 
         headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'}
-
-        response = requests.get(url=search_url,  headers=headers, proxies=proxies, verify=False)
-        goop = response.encoding
-        mytext = response.text
+# requests.exceptions.ProxyError
+        try:
+            response = requests.get(url=search_url, headers=headers, proxies=proxies, verify=False)
+        except:
+            mytext = "Bad request"
+        else:
+            goop = response.encoding
+            mytext = response.text
         # response = requests.post(url=url, data=payload, headers=headers)
         # print('Текст ответа: ', response.text)
-        if goop.lower() != 'utf-8':
+        if goop and goop.lower() != 'utf-8':
             try:
                 mytext = mytext.encode(goop).decode('windows-1251')
             except UnicodeDecodeError:

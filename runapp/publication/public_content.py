@@ -1,6 +1,6 @@
 # Тут будет публикация и получение результата (урл картинки) и статус публикации
 from json import JSONDecodeError
-
+from runapp.models import Fromproxy
 from runapp.models import Isue
 import requests
 from runapp.add_unikal_content.translate import translatecont
@@ -8,6 +8,7 @@ import json
 
 
 def publilconent(content, isue_num):
+    isproxy = Fromproxy.objects.get(pk=1).proxy_val
     isue = Isue.objects.get(num=isue_num)
     # print(isue.num)
     ank1 = isue.anchor1
@@ -65,6 +66,8 @@ def publilconent(content, isue_num):
         'http': 'http://10.18.7.6:3128',
         'https': 'http://10.18.7.6:3128',
     }
+    if not isproxy:
+        proxies = 'None'
 
     response = requests.post(url=url, data=body, headers=headers, proxies=proxies)
     if response.status_code == 201:

@@ -5,9 +5,11 @@ from testpage.models import Accounts
 from runapp.models import Isue
 from datetime import datetime
 from .autorization import autorizen
+from runapp.models import Fromproxy
 
 
 def load_isue_sape():
+    isproxy = Fromproxy.objects.get(pk=1).proxy_val
     # param a дозапись
     f = open('runapp\logfile.txt', 'a')
     f.write('Function load_isue: ' + datetime.strftime(datetime.now(), "%Y.%m.%d %H:%M:%S") + '\n')
@@ -17,6 +19,8 @@ def load_isue_sape():
         'http': 'http://10.18.7.6:3128',
         'https': 'http://10.18.7.6:3128',
     }
+    if not isproxy:
+        proxies = 'None'
 
     account_list = Accounts.objects.all()
     for user in account_list:

@@ -4,6 +4,7 @@ from django.shortcuts import render_to_response
 from django.http import HttpResponseRedirect
 from django import forms
 from testpage.models import Urls
+from runapp.models import Fromproxy
 
 import urllib3
 from bs4 import BeautifulSoup
@@ -61,6 +62,7 @@ class NameForm(forms.Form):
 
 
 def get_parse(request):
+    isproxy = Fromproxy.objects.get(pk=1).proxy_val
     pk=request.POST['choice']
     c = Urls.objects.count()
     #print(c)
@@ -68,7 +70,11 @@ def get_parse(request):
     #b.currently = "shift"
     b.save()
     urllib3.disable_warnings()
-    proxy = urllib3.ProxyManager('http://10.18.7.6:3128', maxsize=10)
+    if isproxy:
+        proxy = urllib3.ProxyManager('http://10.18.7.6:3128', maxsize=10)
+    else:
+        proxy = urllib3.PoolManager(maxsize=10)
+    # proxy = urllib3.ProxyManager('http://10.18.7.6:3128', maxsize=10)
     page = proxy.request('GET', pk, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'})
     trace = BeautifulSoup(page.data, "html5lib")
     bots = trace.find_all('body')[0]

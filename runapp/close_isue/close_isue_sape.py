@@ -3,8 +3,10 @@ import requests
 from bs4 import BeautifulSoup
 from testpage.models import Accounts
 from runapp.sape.autorization import autorizen
+from runapp.models import Fromproxy
 
 def closesape(isue):
+    isproxy = Fromproxy.objects.get(pk=1).proxy_val
     username = isue.user_platform
     acount = Accounts.objects.get(name=username)
     cookies = acount.cookies_sape
@@ -15,6 +17,8 @@ def closesape(isue):
         'http': 'http://10.18.7.6:3128',
         'https': 'http://10.18.7.6:3128',
     }
+    if not isproxy:
+        proxies = 'None'
     if cookies != 'None':
         payload = "<?xml version=\"1.0\"?>\r\n<methodCall>\r\n  <methodName>sape_pr.advert.place</methodName>\r\n  <params>\r\n    <param>\r\n        <value><int>" + idisue + "</int></value>\r\n    </param>\r\n    <param>\r\n        <value><string>" + urlresult + "</string></value>\r\n    </param>\r\n  </params>\r\n</methodCall>"
         headers = {

@@ -82,3 +82,8 @@ class Excludestate(models.Model):
 class ExcludestateAdmin(admin.ModelAdmin):
     list_display = ('ex_state', 'create_date')
     ordering = ('id',)
+
+class Fromproxy(models.Model):
+    proxy_val= models.BooleanField(verbose_name= 'Использовать прокси')
+
+

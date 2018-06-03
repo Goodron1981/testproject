@@ -4,9 +4,11 @@ from .autorization import autorizen
 from testpage.models import Accounts
 from runapp.models import Isue
 from datetime import datetime
+from runapp.models import Fromproxy
 
 
 def load_isue_rota():
+    isproxy = Fromproxy.objects.get(pk=1).proxy_val
     now = datetime.now()
     #param a дозапись
     f = open('runapp\logfile.txt', 'a')
@@ -16,6 +18,8 @@ def load_isue_rota():
       'http': 'http://10.18.7.6:3128',
       'https': 'http://10.18.7.6:3128',
     }
+    if not isproxy:
+        proxies = 'None'
 
     acount_list = Accounts.objects.all()
 

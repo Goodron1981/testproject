@@ -3,9 +3,16 @@ import urllib3
 from bs4 import BeautifulSoup
 import html5lib
 from urllib.parse import quote
+from runapp.models import Fromproxy
+
 def geturls(serchtext, page):
+    isproxy = Fromproxy.objects.get(pk=1).proxy_val
     urllib3.disable_warnings()
-    proxy = urllib3.ProxyManager('http://10.18.7.6:3128', maxsize=10)
+    if isproxy:
+        proxy = urllib3.ProxyManager('http://10.18.7.6:3128', maxsize=10)
+    else:
+        proxy = urllib3.PoolManager(maxsize=10)
+    # proxy = urllib3.ProxyManager('http://10.18.7.6:3128', maxsize=10)
     # http = urllib3.PoolManager()
     keyword = serchtext
     kw = quote(keyword)

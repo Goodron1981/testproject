@@ -4,10 +4,16 @@ from bs4 import BeautifulSoup
 import re
 from runapp.models import Excludespage
 import time
+from runapp.models import Fromproxy
 
 def getcontent(searchurl):
+    isproxy = Fromproxy.objects.get(pk=1).proxy_val
     urllib3.disable_warnings()
-    proxy = urllib3.ProxyManager('http://10.18.7.6:3128', maxsize=10)
+    if isproxy:
+        proxy = urllib3.ProxyManager('http://10.18.7.6:3128', maxsize=10)
+    else:
+        proxy = urllib3.PoolManager(maxsize=10)
+    # proxy = urllib3.ProxyManager('http://10.18.7.6:3128', maxsize=10)
     try:
         page = proxy.request('GET', searchurl, headers={
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'})
