@@ -19,7 +19,12 @@ def getunikal(content):
         'Accept-Charset': "utf-8",
         'Cache-Control': "no-cache",
     }
-    time.sleep(3)
+    # time.sleep(3)
+    if len(url)<39:
+        print("Проверяем: " + url)
+        cutcontent = content[:1477]
+        url = "http://ahumor.org.ua/textapi.php?text=" + cutcontent
+        print("Снова Проверяем: " + url)
     response = requests.get(url=url, headers=headers, proxies=proxies)
     time.sleep(2)
     trace = BeautifulSoup(response.text, "lxml")
