@@ -2336,3 +2336,142 @@ Function autorizen_rota: 2018.06.04 15:22:08
 Нанопласт: true: 833586d3-9d46-4465-b75a-1bd281f3932d
 Йотобайк: true: 0d62a9b9-510b-4cb4-ae3e-6082e20d5202
 
+Function autorizen: 2018.06.04 22:35:28
+Курко: 1425070: PR=4ecd88aeb366641287aac999d322d457:aee6a78a8ae06c6fc54ddda39f6547e5a1cb2b05; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=9ec6318e42dc815cae3b26c4c3934a96:071bbe788fc25ac43b8bddf58b67af14c1ff6128; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=defb54ddf7e7d5ffb4941b6923dbb7d3:265f31f7511f03559af294740249bbdbf3af05bc; path=/; domain=api.pr.sape.ru
+
+Function load_isue: 2018.06.04 22:35:05
+Курко: 23971327: link: linuxsam.org.ua: 2018-06-04 04:37:31: https://billinsan.com/: грузоперевозки с китая
+Курко: 23970947: link: buyheavenlyspot.com.ua: 2018-06-03 23:08:28: http://ritual-plus.com.ua/ritual-ru.html: здесь
+Курко: 23970539: link: web-stroy.kharkov.ua: 2018-06-03 19:23:13: http://десертсити.рф: торты на заказ недорого
+Курко: 23970537: link: linuxsam.org.ua: 2018-06-03 19:23:12: http://десертсити.рф: торт на заказ
+Курко: 23970534: link: cugp.com.ua: 2018-06-03 19:23:11: http://десертсити.рф/torty-na-zakaz.html: торт на заказ на день рождения
+Курко: 23970529: link: buyheavenlyspot.com.ua: 2018-06-03 19:22:32: http://десертсити.рф: торт на заказ
+Курко: 23970527: link: patriarh.in.ua: 2018-06-03 19:22:32: http://десертсити.рф: заказать торт
+Курко: 23966356: link: ypag.com.ua: 2018-06-01 18:47:37: https://www.ecoalt.km.ua/product-category/vyrobnyky/toshiba/: Кондиціонери Toshiba
+Максим: 23973526: link: smartx.kiev.ua: 2018-06-04 17:02:30: https://avicennamed.com.ua/poliklinika/urologiya/: уролог Киев
+Максим: 23973081: review: druzhba-lux.com.ua: 2018-06-04 15:12:15: https://vulkan-casino777.com/: https://vulkan-casino777.com/
+Максим: 23973004: news: druzhba-lux.com.ua: 2018-06-04 15:04:30: http://maxbet-slots.net/: http://maxbet-slots.net/
+Максим: 23972777: link: druzhba-lux.com.ua: 2018-06-04 13:58:22: http://furshetnedorogo.ru/katalog/category/view/103.html: канапе спб заказать
+Максим: 23972774: link: betar.org.ua: 2018-06-04 13:58:21: http://furshetnedorogo.ru/katalog/category/view/103.html: канапе фуршет
+Максим: 23971904: link: opalkova.com.ua: 2018-06-04 11:13:35: http://szu.com.ua/uplotnitelnye-koltsa: завод СЗУ
+Максим: 23970521: link: betar.org.ua: 2018-06-03 19:22:30: http://десертсити.рф: торт на заказ
+Максим: 23970507: link: druzhba-lux.com.ua: 2018-06-03 19:21:50: http://десертсити.рф: торты на заказ недорого
+Максим: 23970505: link: hdtv.net.ua: 2018-06-03 19:21:49: http://десертсити.рф: торт на заказ
+Максим: 23970502: link: opalkova.com.ua: 2018-06-03 19:21:48: http://десертсити.рф/torty-na-zakaz.html: торт на заказ на день рождения
+Максим: 23970492: link: biscont.com.ua: 2018-06-03 19:20:55: http://десертсити.рф: торт на заказ спб
+Максим: 23969778: news: druzhba-lux.com.ua: 2018-06-03 09:45:06: https://icbcom.ru/ru/product-category/uchet-resursov/schetchiki-elektroenergii/: счетчики электроэнергии с
+Нанопласт: 23972743: link: linq.kiev.ua: 2018-06-04 13:57:33: http://furshetnedorogo.ru/katalog/category/view/103.html: канапе доставка
+Нанопласт: 23972739: link: mip-stroy.com.ua: 2018-06-04 13:57:31: http://furshetnedorogo.ru/katalog/category/view/103.html: канапе заказ
+Нанопласт: 23971234: link: tellall.kiev.ua: 2018-06-04 03:25:04: https://winningbydesign.com/: Software as a Service
+Нанопласт: 23971233: link: telopa.com.ua: 2018-06-04 03:23:34: https://winningbydesign.com/: SaaS sales team
+Нанопласт: 23971206: link: tellall.kiev.ua: 2018-06-04 02:43:52: https://watchmydiamonds.com/men-s-customized-rolex-watch-36mm-datejust-ss-baby-blue-mop-mother-of-pearl-8-2-diamond-dial.html: rolex diamond dial
+Нанопласт: 23971205: link: telopa.com.ua: 2018-06-04 02:43:04: https://watchmydiamonds.com/men-s-customized-rolex-watch-36mm-datejust-ss-baby-blue-mop-mother-of-pearl-8-2-diamond-dial.html: rolex watch
+Нанопласт: 23970462: link: linq.kiev.ua: 2018-06-03 19:19:53: http://десертсити.рф/torty-na-zakaz.html: торт на заказ на день рождения
+
+Function load_isue_rota: 2018.06.04 22:36:00
+Курко: 28689935: Post: medical-beauty.org.ua: 2018-05-23T14:40:22: None: None
+Курко: 28691295: Post: freya.kiev.ua: 2018-05-24T19:31:20: None: None
+Курко: 28696517: Post: xn--90afsemmyc.com.ua: 2018-05-30T16:46:10: None: None
+Курко: 28698774: Postovoi: medical-beauty.org.ua: 2018-06-01T19:12:56: http://kiev.permanent-make-ap.com.ua/services/%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%B9%D0%B4%D0%B8%D0%BD%D0%B3/: микроблейдинг
+Курко: 28698775: Postovoi: medical-beauty.org.ua: 2018-06-01T19:12:56: http://salon-alexandrit.km.ua/services-and-prices/vosstanovlenie-resnic/: ресницы
+Курко: 28698276: Postovoi: medical-beauty.org.ua: 2018-06-01T12:33:05: http://emet.in.ua/: http://emet.in.ua/
+Курко: 28699995: Postovoi: medical-beauty.org.ua: 2018-06-03T13:07:59: http://www.nikator.com.ua/catalog/medicinskiy-instrument: МЕДИЦИНСКИЙ ИНСТРУМЕНТ
+Курко: 28700395: Postovoi: patriarh.in.ua: 2018-06-03T20:47:37: https://www.worldtravel.kiev.ua/c27-ispanija/: Тенерифе
+Курко: 28700452: Postovoi: medical-beauty.org.ua: 2018-06-03T23:16:56: http://permanent-make-ap.com.ua/: здесь
+Курко: 28700844: Postovoi: lightdesign.od.ua: 2018-06-04T14:17:03: http://www.elektrik-home.kiev.ua/%D0%B2%D1%8B%D0%B7%D0%BE%D0%B2-%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D0%BA%D0%B0/: электрик срочно
+Максим: 28691789: Postovoi: nanoplast.com.ua: 2018-05-25T11:47:39: http://novbud.com.ua/vyibrat-kvartiru/: http://novbud.com.ua
+Максим: 28695310: Post: 4da.org.ua: 2018-05-29T17:25:50: None: None
+Максим: 28695204: Postovoi: nanoplast.com.ua: 2018-05-29T16:15:01: http://krkv.com.ua/tipy-kvartir/: krkv.com.ua
+Максим: 28695796: Postovoi: nanoplast.com.ua: 2018-05-30T09:39:46: http://novyeteremki.com.ua/rtypes_tax/1-komnatnye-kvartiry/: novyeteremki.com.ua
+Максим: 28697202: Postovoi: nanoplast.com.ua: 2018-05-31T10:48:28: https://intergal-bud.com.ua/ua/projects/: https://intergal-bud.com.ua/ua/projects/
+Максим: 28697236: Postovoi: nanoplast.com.ua: 2018-05-31T11:03:32: http://malahyt.com.ua/ua/: http://malahyt.com.ua/ua/
+Максим: 28697289: Postovoi: nanoplast.com.ua: 2018-05-31T11:47:52: http://tradicia.kiev.ua/ru/conditions/actions/: tradicia.kiev.ua/ru/conditions/actions/
+Максим: 28698393: Postovoi: nanoplast.com.ua: 2018-06-01T15:34:05: http://ozernyi-gatne.com.ua/press/shares/: http://ozernyi-gatne.com.ua/press/shares/
+Максим: 28698711: Postovoi: nanoplast.com.ua: 2018-06-01T17:56:12: https://teremki-bud.com.ua/events: квартиры на теремках
+Максим: 28698689: Postovoi: nanoplast.com.ua: 2018-06-01T17:49:38: http://vidradnyi.com.ua/: http://vidradnyi.com.ua
+Максим: 28698646: Postovoi: nanoplast.com.ua: 2018-06-01T17:42:17: https://syretski-sady.com.ua/: syretski-sady.com.ua/
+Максим: 28698620: Postovoi: nanoplast.com.ua: 2018-06-01T17:34:28: https://volodymyrskyy.com.ua/ru/: "Владимирский"
+Максим: 28698521: Postovoi: nanoplast.com.ua: 2018-06-01T16:49:28: http://www.yaskraviy.com/kvartyry/: квартиры Киев
+Максим: 28698773: Postovoi: dveroman.kiev.ua: 2018-06-01T19:09:10: https://www.ecoalt.km.ua/product-category/vyrobnyky/neoclima/: Кондиціонери Neoclima
+Максим: 28694828: Postovoi: fledur.org.ua: 2018-05-29T12:47:33: https://diplomat.com.ua/cardholders: к примеру в Дипломат
+Максим: 28699533: Postovoi: fledur.org.ua: 2018-06-02T15:46:05: http://vsego.net/obman/globalnoe-poteplenie-pogodnye-usloviya-katastrofa: причина глобального потепления
+Максим: 28699177: Postovoi: download.openlib.org.ua: 2018-06-02T01:43:42: https://immi.com.ua/: immi.com.ua
+Максим: 28699686: Postovoi: fledur.org.ua: 2018-06-02T18:18:04: https://svetilnikof.com.ua/hrustalnye-liustry: сайт
+Максим: 28699534: Postovoi: fledur.org.ua: 2018-06-02T15:47:24: http://stupeni.org/2016/10/28/centr-lecheniya-narkomanii-v-odesse/: Центр лечения наркомании в Одессе
+Максим: 28699897: Postovoi: www.topcatalog.com.ua: 2018-06-03T06:28:03: https://golovko.com.ua/restrukturizatsiya-kredita-v-ukraine-vygodno-ili-opasno: каталог советует
+Максим: 28697094: Postovoi: seooptimus.ru: 2018-05-31T08:13:58: https://vk.com/kontekstnaya_moskva: Яндекс Директ и Google Adwords в Москве
+Максим: 28697095: Postovoi: apples-web.org.ua: 2018-05-31T08:14:01: https://vk.com/kontekstnaya_moskva: Контекстная реклама в Москве
+Максим: 28697097: Postovoi: www.topcatalog.com.ua: 2018-05-31T08:14:06: https://vk.com/kontekstnaya_moskva: Настройка контекстной рекламы
+Максим: 28697464: Postovoi: seoclan.ru: 2018-05-31T15:05:33: https://vk.com/kontekstnaya_moskva: Яндекс Директ и Google Adwords в Москве
+Максим: 28693769: Postovoi: seovin.ru: 2018-05-28T10:00:02: https://vk.com/kontekstnaya_moskva: Контекстная реклама в Москве
+Нанопласт: 28694593: Post: salfetki.org.ua: 2018-05-29T08:31:34: None: None
+Нанопласт: 28696497: Post: komitet.kiev.ua: 2018-05-30T16:38:46: None: None
+Нанопласт: 28699994: Postovoi: da100let.dn.ua: 2018-06-03T13:07:59: http://nikator.com.ua/catalog/mebel-medicinskaya: Мебель медицинская
+Нанопласт: 28697667: Post: electrodom-l.com.ua: 2018-05-31T17:19:00: None: None
+Нанопласт: 28698634: Postovoi: browncat.net.ua: 2018-06-01T17:34:29: https://volodymyrskyy.com.ua/ru/filter/total_area-from-188/: элитная квартира
+Нанопласт: 28698669: Postovoi: browncat.net.ua: 2018-06-01T17:42:20: https://syretski-sady.com.ua/: syretski-sady.com.ua
+Нанопласт: 28698704: Postovoi: browncat.net.ua: 2018-06-01T17:49:43: http://vidradnyi.com.ua/apartments/: обрати квартири
+Нанопласт: 28698770: Postovoi: mip-stroy.com.ua: 2018-06-01T19:09:10: https://www.ecoalt.km.ua/product-category/vyrobnyky/carrier/: кондиціонери carrier
+Нанопласт: 28699353: Postovoi: ekobil.com.ua: 2018-06-02T13:19:19: http://www.edelweiss-comfort.com.ua/: строительная фирма
+Нанопласт: 28700406: Postovoi: web-city.org.ua: 2018-06-03T20:47:38: https://www.worldtravel.kiev.ua/c27-ispanija/: Тенерифе
+Нанопласт: 28700407: Postovoi: zenit2.com.ua: 2018-06-03T20:47:38: https://www.worldtravel.kiev.ua/c27-ispanija/: горящие туры в Испанию
+Нанопласт: 28700387: Postovoi: e-putivka.com.ua: 2018-06-03T20:47:37: https://www.worldtravel.kiev.ua/c27-ispanija/: Испания 2019
+Нанопласт: 28700388: Postovoi: fbk.org.ua: 2018-06-03T20:47:37: https://www.worldtravel.kiev.ua/c27-ispanija/: Испания 2019
+Нанопласт: 28700389: Postovoi: hodos.kharkov.ua: 2018-06-03T20:47:37: https://www.worldtravel.kiev.ua/c27-ispanija/: Испания
+Нанопласт: 28700391: Postovoi: mip-stroy.com.ua: 2018-06-03T20:47:37: https://www.worldtravel.kiev.ua/c27-ispanija/: Тенерифе
+Нанопласт: 28700392: Postovoi: orangecat.net.ua: 2018-06-03T20:47:37: https://www.worldtravel.kiev.ua/c27-ispanija/: Испания
+Нанопласт: 28700393: Postovoi: oscar.donetsk.ua: 2018-06-03T20:47:37: https://www.worldtravel.kiev.ua/c27-ispanija/: туры в Испанию
+Нанопласт: 28700384: Postovoi: blackmetal.kiev.ua: 2018-06-03T20:47:36: https://www.worldtravel.kiev.ua/c27-ispanija/: Тенерифе
+Нанопласт: 28700404: Postovoi: turtrans.net.ua: 2018-06-03T20:47:38: https://www.worldtravel.kiev.ua/c27-ispanija/: поехать в Испанию
+Нанопласт: 28700403: Postovoi: tren.com.ua: 2018-06-03T20:47:38: https://www.worldtravel.kiev.ua/c27-ispanija/: отдых в Испании
+Нанопласт: 28700402: Postovoi: softik.net.ua: 2018-06-03T20:47:38: https://www.worldtravel.kiev.ua/c27-ispanija/: туры в Испанию
+Нанопласт: 28700401: Postovoi: slonoff.net.ua: 2018-06-03T20:47:38: https://www.worldtravel.kiev.ua/c27-ispanija/: Испания 2019
+Нанопласт: 28700400: Postovoi: slaidik.com.ua: 2018-06-03T20:47:38: https://www.worldtravel.kiev.ua/c27-ispanija/: туры в Испанию
+Нанопласт: 28700399: Postovoi: shiva.net.ua: 2018-06-03T20:47:38: https://www.worldtravel.kiev.ua/c27-ispanija/: горящие туры в Испанию
+Нанопласт: 28700418: Postovoi: umapalata.zp.ua: 2018-06-03T20:52:05: http://www.canis.in.ua/: дрессировка овчарок
+Нанопласт: 28700422: Postovoi: zvonkov.net.ua: 2018-06-03T20:52:06: http://www.canis.in.ua/: дрессировка собак
+Нанопласт: 28700465: Postovoi: tropic.od.ua: 2018-06-04T00:01:44: https://tsvetniki.ru/catalog/654-opilki/: опилки купить в Москве
+Нанопласт: 28700766: Postovoi: ndua.org.ua: 2018-06-04T12:21:26: https://damvb.org/categ_255/: https://damvb.org/categ_255/
+Нанопласт: 28700867: Postovoi: zvonkov.net.ua: 2018-06-04T14:17:07: http://www.elektrik-home.kiev.ua/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BC%D0%BE%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D1%8B%D0%B5-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B/: Электромонтажные услуги Киев
+Нанопласт: 28700857: Postovoi: hodos.kharkov.ua: 2018-06-04T14:17:06: http://www.elektrik-home.kiev.ua/%D0%B2%D1%8B%D0%B7%D0%BE%D0%B2-%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D0%BA%D0%B0/: вызов электрика киев недорого
+Нанопласт: 28700858: Postovoi: mip-stroy.com.ua: 2018-06-04T14:17:06: http://www.elektrik-home.kiev.ua/: электрик Киев
+Нанопласт: 28700859: Postovoi: oscar.donetsk.ua: 2018-06-04T14:17:06: http://www.elektrik-home.kiev.ua/цены/: электромонтаж цены
+Нанопласт: 28700860: Postovoi: seoma.com.ua: 2018-06-04T14:17:06: http://www.elektrik-home.kiev.ua/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BC%D0%BE%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D1%8B%D0%B5-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B/: Электромонтажные услуги Киев
+Нанопласт: 28700853: Postovoi: zenit2.com.ua: 2018-06-04T14:17:05: http://www.elektrik-home.kiev.ua/%D0%B2%D1%8B%D0%B7%D0%BE%D0%B2-%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D0%BA%D0%B0/: вызов электрика киев недорого
+Нанопласт: 28700856: Postovoi: gyrus.org.ua: 2018-06-04T14:17:05: http://www.elektrik-home.kiev.ua/: электрик Киев недорого
+Нанопласт: 28700848: Postovoi: turtrans.net.ua: 2018-06-04T14:17:04: http://www.elektrik-home.kiev.ua/услуги-электрика/: услуги электрика в Киеве
+Нанопласт: 28700842: Postovoi: dlemoduli.org.ua: 2018-06-04T14:17:03: http://www.elektrik-home.kiev.ua/: электрик Киев срочно
+Нанопласт: 28700866: Postovoi: umapalata.zp.ua: 2018-06-04T14:17:07: http://www.elektrik-home.kiev.ua/: электрик Киев срочно
+Нанопласт: 28700865: Postovoi: slonoff.net.ua: 2018-06-04T14:17:07: http://www.elektrik-home.kiev.ua/прокладка-силового-кабеля/: замена проводки
+Нанопласт: 28700864: Postovoi: linkomania.com.ua: 2018-06-04T14:17:07: http://www.elektrik-home.kiev.ua/цены/: электромонтаж цены
+Нанопласт: 28701011: Postovoi: euro-m.kharkov.ua: 2018-06-04T16:28:04: http://www.edelweiss-comfort.com.ua/: www.edelweiss-comfort.com.ua
+Нанопласт: 28701036: Postovoi: mip-stroy.com.ua: 2018-06-04T16:51:03: http://lestnitsy.com.ua/ru/shodi-na-gorishche/: чердачный люк купить
+Нанопласт: 28701041: Postovoi: savelink.org.ua: 2018-06-04T16:56:08: http://profyparty.kiev.ua/master-klass.html: взрослым мастер классы в Киеве
+Нанопласт: 28701048: Postovoi: ndua.org.ua: 2018-06-04T16:56:10: http://profyparty.kiev.ua/master-klass.html: мастер классы для взрослых в Киеве
+Нанопласт: 28699535: Postovoi: zenit2.com.ua: 2018-06-02T16:00:06: https://evro-apteka.com/lekarstvo/mozobail: Мозобаил
+Нанопласт: 28700367: Postovoi: catalog-security.com.ua: 2018-06-03T20:40:25: http://десертсити.рф: торты на заказ спб
+Нанопласт: 28700368: Postovoi: tren.com.ua: 2018-06-03T20:40:32: http://десертсити.рф: торты на заказ недорого
+Нанопласт: 28700372: Postovoi: programer.org.ua: 2018-06-03T20:40:51: http://десертсити.рф: заказать торт
+Нанопласт: 28700373: Postovoi: yavtanke.org.ua: 2018-06-03T20:40:58: http://десертсити.рф: торты на заказ
+Нанопласт: 28700912: Postovoi: tren.com.ua: 2018-06-04T15:01:37: http://furshetnedorogo.ru/katalog/category/view/103.html: канапе фуршет
+Нанопласт: 28700915: Postovoi: yavtanke.org.ua: 2018-06-04T15:01:49: http://furshetnedorogo.ru/katalog/category/view/103.html: канапе на заказ с доставкой спб
+Нанопласт: 28700914: Postovoi: programer.org.ua: 2018-06-04T15:02:21: http://furshetnedorogo.ru/katalog/category/view/103.html: канапе в спб заказать
+Нанопласт: 28700917: Postovoi: catalog-security.com.ua: 2018-06-04T15:02:33: http://furshetnedorogo.ru/katalog/category/view/103.html: канапе в офис
+Йотобайк: 28698029: Post: farman.kiev.ua: 2018-06-01T02:27:05: None: None
+Йотобайк: 28700385: Postovoi: darkbluecat.net.ua: 2018-06-03T20:47:36: https://www.worldtravel.kiev.ua/c27-ispanija/: Испания 2019
+Йотобайк: 28700397: Postovoi: pravdu.com.ua: 2018-06-03T20:47:37: https://www.worldtravel.kiev.ua/c27-ispanija/: Тенерифе
+Йотобайк: 28700466: Postovoi: estdomain.com.ua: 2018-06-04T00:01:58: https://tsvetniki.ru/catalog/674-dlya-landshaftnogo-dizayna/: купить кору для ландшафтного дизайна
+Йотобайк: 28700854: Postovoi: 3das.com.ua: 2018-06-04T14:17:05: http://www.elektrik-home.kiev.ua/: ремонт электрики
+Йотобайк: 28700863: Postovoi: feyhoa.org.ua: 2018-06-04T14:17:07: http://www.elektrik-home.kiev.ua/: электрик Киев
+Йотобайк: 28700862: Postovoi: 24zp.org.ua: 2018-06-04T14:17:07: http://www.elektrik-home.kiev.ua/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BC%D0%BE%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D1%8B%D0%B5-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B/: электромонтажные работы
+Йотобайк: 28700921: Post: pravdu.com.ua: 2018-06-04T15:15:30: None: None
+Йотобайк: 28701044: Postovoi: feyhoa.org.ua: 2018-06-04T16:56:09: http://profyparty.kiev.ua/master-klass.html: мастер классы на дом Киев
+Йотобайк: 28701043: Postovoi: kolizey.net.ua: 2018-06-04T16:56:09: http://profyparty.kiev.ua/foto/fotograf-dla-detei.html: фотограф на день рождения Киев
+Йотобайк: 28701042: Postovoi: 24zp.org.ua: 2018-06-04T16:56:09: http://profyparty.kiev.ua/animator/fokusnik-na-prazdnik.html: фокусник на праздник в Киеве
+Йотобайк: 28701046: Postovoi: hopka.org.ua: 2018-06-04T16:56:10: http://profyparty.kiev.ua/master-klass.html: мастер классы от Профи Пати в Киеве
+Йотобайк: 28699537: Postovoi: elites-montage.com.ua: 2018-06-02T16:00:10: https://evro-apteka.com/lekarstvo/multak: Мультак
+Йотобайк: 28700370: Postovoi: feyhoa.org.ua: 2018-06-03T20:40:38: http://десертсити.рф: торт заказать
+Йотобайк: 28700910: Postovoi: feyhoa.org.ua: 2018-06-04T15:01:58: http://furshetnedorogo.ru/katalog/category/view/103.html: канапе спб заказать
+
