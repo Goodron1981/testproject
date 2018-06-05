@@ -17,8 +17,11 @@ def format_cut_content(textcont, lencont, serchurl):
         for word in word_list:
             serchword = word.ex_state + '\w*\\b\s*'
             validresult = re.search(r'\b' + serchword, peace.lower())
+            validenglish = re.findall(r'[a-z]', peace.lower())
+            validrush = re.findall(r'[а-я]', peace.lower())
+
     # 3 варифицированнные предложения склеиваем и подсчитываем чтобы были не меньше lencont и не больше maxlen
-            if validresult:
+            if validresult or validrush <= validenglish:
                 break
         else:
             for but in butarr:

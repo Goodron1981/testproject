@@ -2475,3 +2475,8 @@ Function load_isue_rota: 2018.06.04 22:36:00
 Йотобайк: 28700370: Postovoi: feyhoa.org.ua: 2018-06-03T20:40:38: http://десертсити.рф: торт заказать
 Йотобайк: 28700910: Postovoi: feyhoa.org.ua: 2018-06-04T15:01:58: http://furshetnedorogo.ru/katalog/category/view/103.html: канапе спб заказать
 
+Function autorizen: 2018.06.05 13:04:13
+Курко: 1425070: PR=6b8bcbd17e40792459921e1328e6dac9:56e09fdd4c38296cc15f4116a3ed9651f92ad6ce; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=7e1eb2b553f7e5ad24c0ab9830911345:3271fecd7e3dcb654d165b25d6fae1cfcfeb9d03; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=2627254d310d474ba9bfefcc7ab1473e:7a715709f346166b4367bb54bdcadd0b796682c1; path=/; domain=api.pr.sape.ru
+
