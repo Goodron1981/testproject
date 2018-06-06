@@ -39,15 +39,15 @@ def parser_attr():
             mytext = "Bad request"
         else:
             mytext = response.text
+        goop = response.encoding
         if "Ð" in mytext:
             mytext = mytext.encode('iso8859-1').decode('utf-8')
-        goop = response.encoding
+        elif goop and goop.lower() != 'utf-8':
         # response = requests.post(url=url, data=payload, headers=headers)
         # print('Текст ответа: ', response.text)
-        if goop and goop.lower() != 'utf-8':
             try:
                 mytext = mytext.encode(goop).decode('windows-1251')
-            except UnicodeDecodeError:
+            except UnicodeDecodeError or UnicodeEncodeError:
                 mytext = response.text
         trace = BeautifulSoup(mytext, "html5lib")
         ''''

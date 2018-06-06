@@ -2480,3 +2480,51 @@ Function autorizen: 2018.06.05 13:04:13
 Максим: 1063824: PR=7e1eb2b553f7e5ad24c0ab9830911345:3271fecd7e3dcb654d165b25d6fae1cfcfeb9d03; path=/; domain=api.pr.sape.ru
 Нанопласт: 1464824: PR=2627254d310d474ba9bfefcc7ab1473e:7a715709f346166b4367bb54bdcadd0b796682c1; path=/; domain=api.pr.sape.ru
 
+Function autorizen: 2018.06.06 17:13:01
+Курко: 1425070: PR=b5a10639f626a405b435e252518c4f7e:1e175f2307486beef170726290721f6f876d0fa2; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=c089d1c2253e3bb392efc2acd14ab088:e4e1900e9837c2f8725fa8016b89d829e8b5a0d5; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=e41770b9bc494b63f31441cd4eeedb1d:125ba269344d4176cb8c9aef355fca42d1a06e02; path=/; domain=api.pr.sape.ru
+
+Function load_isue: 2018.06.06 17:13:00
+Курко: 23979962: link: buyheavenlyspot.com.ua: 2018-06-06 14:36:32: http://ohrana.net.ua/uslugi/ustanovka-signalizacii/signalizaciya-dlya-ofisa: в любом офисе
+Курко: 23975703: archive: odissey.net.ua: 2018-06-05 12:37:02: http://berryland.com.ua/: ягодная страна
+Максим: 23979014: link: fledur.org.ua: 2018-06-06 10:13:42: http://salongracia.kz/uslugi/parikmakherskaya-studiya: парикмахерская студия
+Максим: 23977234: link: druzhba-lux.com.ua: 2018-06-05 18:02:16: https://www.pnevmomash.com/: запчасти для камазов
+Максим: 23977223: link: smartx.kiev.ua: 2018-06-05 18:00:46: https://www.pnevmomash.com/: https://www.pnevmomash.com/
+Максим: 23976651: link: fledur.org.ua: 2018-06-05 15:53:15: http://iso.biz.ua/article/vvedenie-trebovanii-sertifikata-iso-9001.html: iso 9001 требования
+Максим: 23975714: link: smartx.kiev.ua: 2018-06-05 12:38:31: http://xn--80ahcfkhbiaevdch3g.xn--p1ai/menedzher-po-prodazham: колледж коммерции и бизнеса
+Максим: 23975711: link: elit-a-a.com.ua: 2018-06-05 12:38:07: http://xn--80ahcfkhbiaevdch3g.xn--p1ai/buhgalter: Колледж экономики в Москве
+Максим: 23975679: archive: betar.org.ua: 2018-06-05 12:31:30: http://berryland.com.ua/dni-rozhdeniya/provedenie-dnya-rozhdeniya-na-prirode-more-emotsij-i-vpechatlenij.html: празднование дня рождения
+Максим: 23954892: link: animan.kiev.ua: 2018-05-29 10:33:17: https://www.otpusk.com/search/turkey/: сколько стоит отдых в турции
+Максим: 23948889: link: biscont.com.ua: 2018-05-25 19:18:07: https://www.otpusk.com/info/mayday/: майские праздники
+Нанопласт: 23978836: link: tellall.kiev.ua: 2018-06-06 08:56:50: https://regery.com/ru/domains/search: поиск доменов
+Нанопласт: 23978533: link: sharabt.com.ua: 2018-06-06 04:42:09: https://regery.com/: доменное имя
+Нанопласт: 23977894: link: ppsls.org.ua: 2018-06-05 21:37:05: https://moskony.site: Адвокаты Краснодарский край
+Нанопласт: 23948893: link: softik.net.ua: 2018-05-25 19:18:09: https://www.otpusk.com/info/mayday/: украина на майские праздники
+
+Function load_isue_rota: 2018.06.06 17:13:07
+Максим: 28701610: Postovoi: adonaidenver.org: 2018-06-05T15:30:18: https://tovaroff.in.ua/: купить очки солнцезащитные
+Максим: 28702115: Postovoi: opalkova.com.ua: 2018-06-06T09:20:03: https://smartmobis.net.ua/catalog/smartfony: тут купить
+Максим: 28702250: Postovoi: dveroman.kiev.ua: 2018-06-06T10:28:03: https://golovko.com.ua/sud-po-kreditu-bez-vashego-uchastiya-chto-delat: проблемы с приватбанком из-за дверей
+Максим: 28702419: Postovoi: dveroman.kiev.ua: 2018-06-06T13:31:06: http://extrasport.com.ua/mountain: http://extrasport.com.ua/mountain
+Максим: 28693769: Postovoi: seovin.ru: 2018-05-28T10:00:02: https://vk.com/kontekstnaya_moskva: Контекстная реклама в Москве
+Максим: 28697094: Postovoi: seooptimus.ru: 2018-05-31T08:13:58: https://vk.com/kontekstnaya_moskva: Яндекс Директ и Google Adwords в Москве
+Максим: 28697095: Postovoi: apples-web.org.ua: 2018-05-31T08:14:01: https://vk.com/kontekstnaya_moskva: Контекстная реклама в Москве
+Максим: 28697464: Postovoi: seoclan.ru: 2018-05-31T15:05:33: https://vk.com/kontekstnaya_moskva: Яндекс Директ и Google Adwords в Москве
+Максим: 28697097: Postovoi: www.topcatalog.com.ua: 2018-05-31T08:14:06: https://vk.com/kontekstnaya_moskva: Настройка контекстной рекламы
+Нанопласт: 28702147: Postovoi: browncat.net.ua: 2018-06-06T09:25:39: http://semycvit.com/: Семицвіт
+Нанопласт: 28702184: Postovoi: browncat.net.ua: 2018-06-06T09:39:23: https://demeevka.com/ru/flats/: выбрать квартиру Демеевка
+Нанопласт: 28702242: Postovoi: browncat.net.ua: 2018-06-06T10:16:37: http://parkovyozera.com.ua: parkovyozera.com.ua
+Йотобайк: 28698029: Post: farman.kiev.ua: 2018-06-01T02:27:05: None: None
+Йотобайк: 28700921: Post: pravdu.com.ua: 2018-06-04T15:15:30: None: None
+Йотобайк: 28702421: Postovoi: pravdu.com.ua: 2018-06-06T13:31:06: http://extrasport.com.ua/mountain: бу гірські велосипеди
+Йотобайк: 28702590: Postovoi: farman.kiev.ua: 2018-06-06T15:19:29: http://forbaby.org.ua/health/8788-gomeopatiya-vosstanovitelnaya-terapiya-dlya-vsego-organizma.html: gomeopat-kiev
+
+Function load_isue: 2018.06.06 17:19:00
+
+Function load_isue_rota: 2018.06.06 17:19:04
+
+Function load_isue: 2018.06.06 17:27:55
+
+Function load_isue_rota: 2018.06.06 17:28:00
+

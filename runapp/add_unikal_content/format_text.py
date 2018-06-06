@@ -15,13 +15,19 @@ def format_cut_content(textcont, lencont, serchurl):
     # 2 проверить каждое предложение на наличие исключающих слов
     for peace in arrspend:
         for word in word_list:
-            serchword = word.ex_state + '\w*\\b\s*'
+            mytext = word.ex_state
+            if mytext.endswith('.'):
+                serchword = word.ex_state + '\\b\s*'
+            else:
+                serchword = word.ex_state + '\w*\\b\s*'
+
             validresult = re.search(r'\b' + serchword, peace.lower())
             validenglish = re.findall(r'[a-z]', peace.lower())
             validrush = re.findall(r'[а-я]', peace.lower())
+            validdigit = re.findall(r'\d', peace.lower())
 
     # 3 варифицированнные предложения склеиваем и подсчитываем чтобы были не меньше lencont и не больше maxlen
-            if validresult or validrush <= validenglish:
+            if validresult or len(validrush) <= len(validenglish) or len(validrush) <= len(validdigit):
                 break
         else:
             for but in butarr:
