@@ -1,16 +1,16 @@
 import traceback
-
-from django.shortcuts import render
 from datetime import datetime
-from django.http import HttpResponseRedirect
-from django.urls import reverse
-from testpage.models import Urls
-from  django.http import HttpResponse
-import time
-from runapp.mainapp.starter import startfirst
-from runapp.mainapp.finisher import finish
-from runapp.mainapp.compliter import complete
+
+from django.http import HttpResponse
+from django.shortcuts import render
+
 from runapp.add_isue_attribute.search_keys import add_keys_img
+from runapp.mainapp.compliter import complete
+from runapp.mainapp.finisher import finish
+from runapp.mainapp.starter import startfirst
+from testpage.models import Urls
+from runapp.add_isue_attribute.list_admin import add_last_key
+
 
 # Create your views here.
 
@@ -82,6 +82,36 @@ def startinfo(request):
                 elif method == 'Close':
                     finish()
                 response = HttpResponse("<h3>2.Окончание " + method + " </h3>")
+            except BaseException as error:
+                response = HttpResponse("<h3>2.Ошибка " + method + " </h3>")
+                full_traceback = traceback.format_exc()
+                print(full_traceback)
+            # response = render(request,'runapp/phone-filter.html', {'phonenumbers':queryset})
+    return response
+
+def addkeys(request):
+    if request.method == 'GET':
+        res = request.GET.get('status')
+        method = request.GET.get('name')
+        root = request.GET.get('root')
+        img = request.GET.get('img')
+        keyword = request.GET.get('keyword')
+        exroot = request.GET.get('exroot')
+        eximg = request.GET.get('eximg')
+        exkeyword = request.GET.get('exkeyword')
+        if exroot == '' or eximg == '' or exkeyword == '':
+            exroot = eximg = exkeyword = None
+        if res == 'start':
+            # complete()
+            response =  HttpResponse("<h3>1. Начало " + method + " !</h3>")
+
+        else:
+            try:
+                snop = add_last_key(root, img, keyword, exroot, eximg, exkeyword)
+                if snop:
+                    response = HttpResponse("<h3>2.Ключ '" + root + "' добавлен!</h3>")
+                else:
+                    response = HttpResponse("<h3>2.Ключ  '" + root + "'  уже существует!</h3>")
             except BaseException as error:
                 response = HttpResponse("<h3>2.Ошибка " + method + " </h3>")
                 full_traceback = traceback.format_exc()

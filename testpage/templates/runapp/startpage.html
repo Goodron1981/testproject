@@ -16,14 +16,43 @@ if (param == 'start') {sape('finish',name)}
      }
 });
 }
+function addkey(param,name){
+root = $("input[name='Root']")[0].value
+img = $("input[name='Image']")[0].value
+keyword = $("input[name='Keyword']")[0].value
+exroot = $("input[name='ExtraRoot']")[0].value
+eximg = $("input[name='ExtraImage']")[0].value
+exkeyword = $("input[name='ExtraKeyword']")[0].value
+$.ajax({ type: "GET",
+     url: "addkeys/?status=" + param + "&name=" + name + "&root=" + root + "&img=" + img + "&keyword=" + keyword + "&exroot=" + exroot + "&eximg=" + eximg + "&exkeyword=" + exkeyword,
+     async: true,
+     success : function(text)
+     {
+         $('.result-block').append('<div>'+text+'</div>');
+if (param == 'start') {addkey('finish',name)}
+else {
+$("input[name='Root']")[0].value = $("input[name='Image']")[0].value = $("input[name='Image']")[0].value = $("input[name='Keyword']")[0].value = $("input[name='ExtraRoot']")[0].value = $("input[name='ExtraImage']")[0].value = $("input[name='ExtraKeyword']")[0].value = ''
+     }
+     }
+});
+}
     </script>
 </head>
 <body>
-    <div></div>
+    <div>
         <button onclick="sape('start','Load')">Загрузить заявки</button>
          <button onclick="sape('start','Key')">Подгрузить ключи</button>
         <button onclick="sape('start','Add')">Найти контент</button>
         <button onclick="sape('start','Close')">Закрыть заявки</button>
+    </div>
+    <div>
+        <input type="text" placeholder="Ключ поиска" name="Root">
+        <input type="text" placeholder="Картинка поиска" name="Image">
+        <input type="text" placeholder="Ключевая фраза" name="Keyword">
+        <input type="text" placeholder="Второй ключ" name="ExtraRoot">
+        <input type="text" placeholder="Вторая картинка" name="ExtraImage">
+        <input type="text" placeholder="Вторая фраза" name="ExtraKeyword">
+        <button onclick="addkey('start','AddKey')">Добавить ключ</button>
     </div>
 
     <div class="result-block">

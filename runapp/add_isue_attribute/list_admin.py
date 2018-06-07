@@ -3,6 +3,10 @@ import xlrd
 import re
 
 def add_last_key(root, image_text, keyword, extraword, extraimage, extrakeyword):
+    my_test = Keys_List.objects.filter(root_word=root)
+    if my_test:
+        print("Ключ '" + root + "' уже используется!")
+        return False
     c = Keys_List.objects.count()
     if not extraword:
         extraword = extraimage = extrakeyword = 'None'
@@ -17,6 +21,8 @@ def add_last_key(root, image_text, keyword, extraword, extraimage, extrakeyword)
         number = number + 1
         key.num = number
         key.save()
+    print("Ключ '" + root + "' добавлен!")
+    return True
 
 def add_index_key(index, root, image_text, keyword, extraword, extraimage, extrakeyword):
     c = Keys_List.objects.count()
