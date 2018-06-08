@@ -6,6 +6,7 @@ from runapp.add_unikal_content.format_text import format_cut_content
 from runapp.add_unikal_content.translate import translatecont
 from runapp.add_unikal_content.unikal_test import getunikal
 from runapp.publication.public_content import publilconent
+import re
 
 def complete():
     isue_list = Isue.objects.filter(status_isue='AddKey')
@@ -32,7 +33,8 @@ def complete():
                     firstcontent = getcontent(gurl)
                     if len(firstcontent) >= charlength:
                         secondcontent = format_cut_content(firstcontent,charlength,gurl)
-                        if len(secondcontent) >= charlength:
+                        validlength = re.findall(r'\S', secondcontent.lower())
+                        if len(validlength) >= charlength:
                             firdcontent = translatecont(secondcontent)
                             unikalresult = getunikal(firdcontent)
                             if unikalresult > 70:

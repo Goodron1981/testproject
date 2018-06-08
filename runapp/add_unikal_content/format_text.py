@@ -27,7 +27,7 @@ def format_cut_content(textcont, lencont, serchurl):
             validdigit = re.findall(r'\d', peace.lower())
 
     # 3 варифицированнные предложения склеиваем и подсчитываем чтобы были не меньше lencont и не больше maxlen
-            if validresult or len(validrush) <= len(validenglish) or len(validrush) <= len(validdigit):
+            if validresult or len(validrush) <= len(validenglish) or len(validdigit) > 3:
                 break
         else:
             for but in butarr:
@@ -37,14 +37,14 @@ def format_cut_content(textcont, lencont, serchurl):
                     if secondvalid:
                         break
             else: resulttext = resulttext + peace + '. '
-        if len(resulttext) >= maxlen:
+        validlength = re.findall(r'\S', resulttext.lower())
+        if len(validlength) >= maxlen:
             break
     # 4 возвращаем варифицированый кусок
-    # print(len(resulttext))
+    print(len(validlength))
     finaltext = re.sub('\s*["«][А-ЯA-Z]\w+["»]', '', resulttext)
     foop = finaltext.endswith('.')
     foop2 = finaltext.endswith('. ')
-    print(len(finaltext))
     if not foop and not foop2:
         finaltext = finaltext + '.'
     return finaltext

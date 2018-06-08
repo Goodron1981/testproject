@@ -2533,3 +2533,62 @@ Function autorizen: 2018.06.08 00:01:30
 Максим: 1063824: PR=7edb708a407af302d9adadae65795498:8375557bda00a70eec0e9d4ffed2b4625d27d09a; path=/; domain=api.pr.sape.ru
 Нанопласт: 1464824: PR=703d6f6970ef371c8958e07211980b4b:b307f4d3e5328ce2de9bf1be6ff5662dc76631e5; path=/; domain=api.pr.sape.ru
 
+Function autorizen: 2018.06.08 11:46:29
+Курко: 1425070: PR=f692c55a6349669c5b7b87b70806fe0c:3f37225e1a7f362e383d8927e8184b029298da0f; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=dd8182e920a2944d677ac4d08c37c28e:abb3a571f785331fc3ccbfe695ce8f512587daf3; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=0ef515763c39e0142415c02314b13b02:cb2dab21f590fee68651f1ee87ccd27f90faff98; path=/; domain=api.pr.sape.ru
+
+Function load_isue: 2018.06.08 12:21:22
+Курко: 23985632: link: euro-m.kharkov.ua: 2018-06-08 11:09:16: https://decostar.in.ua/: балки Decostar
+Курко: 23981740: link: ukravtomobil.if.ua: 2018-06-07 01:05:32: http://varios.pw/index.php?/topic/729-подбор-кредитного-донора-для-вас/: кредитный донор предложения
+Курко: 23981696: link: ukravtomobil.if.ua: 2018-06-07 01:05:12: http://varios.pw/index.php?/topic/38-продам-военный-билет-с-проводкой/page__st__20: купленный военный билет
+Курко: 23981657: link: ukravtomobil.if.ua: 2018-06-07 01:04:46: http://varios.pw/index.php?/topic/600-продам-фальшивые-купюры-высокого-качества/page__p__2650#entry2650: купить фальшивые купюры
+Курко: 23981463: link: buyheavenlyspot.com.ua: 2018-06-06 23:27:42: https://mobilcase.com.ua/xiaomi/chehly-dlya-telefonov-xiaomi/: чехлы xiaomi
+Максим: 23983616: link: kpln.com.ua: 2018-06-07 16:22:10: https://moskony.site: Поиск решений Краснодарских Судов
+Максим: 23982714: link: druzhba-lux.com.ua: 2018-06-07 12:03:33: https://triatek.com.ua/tovary/konditsionery/cooper-hunter: кондиционеры Cooper&amp;Hunter Киев
+Максим: 23981897: link: fledur.org.ua: 2018-06-07 03:43:10: http://fotka.kiev.ua/contacts.html: фотограф киев
+Нанопласт: 23983933: link: linq.kiev.ua: 2018-06-07 17:47:40: https://regery.com/: купить домен для сайта
+Нанопласт: 23982073: link: fuck-hack.com: 2018-06-07 05:36:44: http://procompany-garant.ru/stati/osparivaniie_akta_o_nieuchtiennom_potrieblienii: акт неучтенного потребления
+
+Function load_isue_rota: 2018.06.08 12:21:24
+Курко: 28700395: Postovoi: patriarh.in.ua: 2018-06-03T20:47:37: https://www.worldtravel.kiev.ua/c27-ispanija/: Тенерифе
+Курко: 28702855: Post: freya.kiev.ua: 2018-06-06T21:07:12: None: None
+Курко: 28703521: Postovoi: seocoding.ru: 2018-06-07T14:04:19: https://www.studiosputnik.ru/: сайт создание
+Курко: 28703746: Postovoi: freya.kiev.ua: 2018-06-07T16:27:33: http://sublata.com/tabletki-sialis-priliv-sil-i-zhelaniya-byt-na-vysote/: для мужской силы
+Максим: 28698393: Postovoi: nanoplast.com.ua: 2018-06-01T15:34:05: http://ozernyi-gatne.com.ua/press/shares/: http://ozernyi-gatne.com.ua/press/shares/
+Максим: 28698711: Postovoi: nanoplast.com.ua: 2018-06-01T17:56:12: https://teremki-bud.com.ua/events: квартиры на теремках
+Максим: 28698689: Postovoi: nanoplast.com.ua: 2018-06-01T17:49:38: http://vidradnyi.com.ua/: http://vidradnyi.com.ua
+Максим: 28698646: Postovoi: nanoplast.com.ua: 2018-06-01T17:42:17: https://syretski-sady.com.ua/: syretski-sady.com.ua/
+Максим: 28698620: Postovoi: nanoplast.com.ua: 2018-06-01T17:34:28: https://volodymyrskyy.com.ua/ru/: "Владимирский"
+Максим: 28698521: Postovoi: nanoplast.com.ua: 2018-06-01T16:49:28: http://www.yaskraviy.com/kvartyry/: квартиры Киев
+Максим: 28697464: Postovoi: seoclan.ru: 2018-05-31T15:05:33: https://vk.com/kontekstnaya_moskva: Яндекс Директ и Google Adwords в Москве
+Максим: 28703236: Postovoi: openlib.org.ua: 2018-06-07T10:28:03: https://www.youtube.com/watch?v=c8CV5wFuNoA: продвижение сайтов в Чехии
+Максим: 28703436: Postovoi: nanoplast.com.ua: 2018-06-07T12:34:11: http://nivki-park.com.ua/: купить квартиру Нивки
+Максим: 28703662: Postovoi: seoclan.ru: 2018-06-07T16:01:47: https://www.studiosputnik.ru/: разработка сайтов
+Максим: 28701610: Postovoi: adonaidenver.org: 2018-06-05T15:30:18: https://tovaroff.in.ua/: купить очки солнцезащитные
+Нанопласт: 28703260: Postovoi: browncat.net.ua: 2018-06-07T10:49:09: http://svitlopark.com.ua/#benefits: svitlopark.com.ua
+Нанопласт: 28700402: Postovoi: softik.net.ua: 2018-06-03T20:47:38: https://www.worldtravel.kiev.ua/c27-ispanija/: туры в Испанию
+Нанопласт: 28700403: Postovoi: tren.com.ua: 2018-06-03T20:47:38: https://www.worldtravel.kiev.ua/c27-ispanija/: отдых в Испании
+Нанопласт: 28703227: Postovoi: browncat.net.ua: 2018-06-07T10:02:52: https://www.cityhouse.com.ua/: cityhouse.com.ua/
+Нанопласт: 28703800: Postovoi: tropic.od.ua: 2018-06-07T17:29:55: http://mramor-transit.ru: гранитная крошка в Москве
+Нанопласт: 28704265: Postovoi: bf3.com.ua: 2018-06-08T09:17:33: http://promarket.kiev.ua/goods/list-goracekatanyi: Лист ст. 09Г2С киев
+Нанопласт: 28704266: Postovoi: blackmetal.kiev.ua: 2018-06-08T09:17:36: http://promarket.kiev.ua/goods/list-goracekatanyi: Лист горячекатанный с доставкой
+Йотобайк: 28698029: Post: farman.kiev.ua: 2018-06-01T02:27:05: None: None
+Йотобайк: 28700921: Post: pravdu.com.ua: 2018-06-04T15:15:30: None: None
+Йотобайк: 28702762: Post: farman.kiev.ua: 2018-06-06T18:45:07: None: None
+Йотобайк: 28703833: Postovoi: estdomain.com.ua: 2018-06-07T17:32:07: http://mramor-transit.ru/galka-i-kroshka: купить мраморную крошку
+Йотобайк: 28702590: Postovoi: farman.kiev.ua: 2018-06-06T15:19:29: http://forbaby.org.ua/health/8788-gomeopatiya-vosstanovitelnaya-terapiya-dlya-vsego-organizma.html: gomeopat-kiev
+Йотобайк: 28702969: Postovoi: pifagor.kiev.ua: 2018-06-07T00:40:29: https://mobilcase.com.ua/apple/chehly-dlya-telefonov-apple/: чехлы apple iphone
+
+Function load_isue: 2018.06.08 12:47:45
+
+Function load_isue_rota: 2018.06.08 12:47:47
+
+Function load_isue: 2018.06.08 12:49:30
+
+Function load_isue_rota: 2018.06.08 12:49:33
+
+Function load_isue: 2018.06.08 14:22:11
+
+Function load_isue_rota: 2018.06.08 14:22:13
+
