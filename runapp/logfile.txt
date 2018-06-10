@@ -2592,3 +2592,40 @@ Function load_isue: 2018.06.08 14:22:11
 
 Function load_isue_rota: 2018.06.08 14:22:13
 
+Function autorizen: 2018.06.09 22:50:39
+Курко: 1425070: PR=55fad421e83501a5e6fbdef211ad610c:34cea547641e668ed67355453568e19dd58f8d68; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=dec85d3deb682761c25d241d71fc1686:68c47fc070703cbdd45d5c7a3093f0c0745dda38; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=8db81014fc79f5fa4ad0c48611f3bb9b:3e771aa786ced46a4fe315c85f54aa4be81b4a44; path=/; domain=api.pr.sape.ru
+
+Function load_isue: 2018.06.09 22:52:52
+Курко: 23988950: archive: patriarh.in.ua: 2018-06-09 15:07:01: http://www.spark-interfax.ru/moskva-akademicheski/ooo-manalot-geimz-inn-7727326022-ogrn-1177746854174-591525e944c35bb9e0531c9aa8c084ba: Компания ООО Маналот Геймз
+Курко: 23988940: archive: lightdesign.od.ua: 2018-06-09 15:06:57: https://www.fl.ru/users/Manalot_Games/: Маналот Геймз отзывы
+Курко: 23986567: archive: cugp.com.ua: 2018-06-08 15:29:14: https://elster.com.ua/index.php?route=product/category&path=59: Газовый счетчик купить
+Курко: 23986529: archive: ypag.com.ua: 2018-06-08 15:19:35: https://elster.com.ua/index.php?route=product/category&path=59: Газовый счетчик elster
+Максим: 23988971: archive: browncat.net.ua: 2018-06-09 15:07:08: http://www.spark-interfax.ru/moskva-akademicheski/ooo-manalot-geimz-inn-7727326022-ogrn-1177746854174-591525e944c35bb9e0531c9aa8c084ba: Компания ООО Маналот Геймз
+Максим: 23986761: link: fledur.org.ua: 2018-06-08 16:35:05: https://ironglassadapters.com/product/2-8-135mm-lens-pl-mount-tair-11a-cinema-35mm-4k-red-arri-movie-camera-bmpcc-ursa/: tair
+Максим: 23986525: archive: druzhba-lux.com.ua: 2018-06-08 15:17:36: https://www.elster.com.ua: Купить газовый счетчик
+Максим: 23986070: link: druzhba-lux.com.ua: 2018-06-08 13:38:07: https://strelka.ua/naruchnye-chasy/adriatica/: https://strelka.ua/naruchnye-chasy/adriatica/
+Нанопласт: 23989347: news: salfetki.org.ua: 2018-06-09 18:04:36: https://linzcontact.com/3-rastvory-dlya-linz: покупать растворы для линз
+Нанопласт: 23988980: archive: it-shop.donetsk.ua: 2018-06-09 15:07:11: http://manalot-games.ru.seo-analys.ru/: Маналот Геймз отзывы
+
+Function load_isue_rota: 2018.06.09 22:52:57
+Курко: 28700395: Postovoi: patriarh.in.ua: 2018-06-03T20:47:37: https://www.worldtravel.kiev.ua/c27-ispanija/: Тенерифе
+Курко: 28702855: Post: freya.kiev.ua: 2018-06-06T21:07:12: None: None
+Максим: 28698711: Postovoi: nanoplast.com.ua: 2018-06-01T17:56:12: https://teremki-bud.com.ua/events: квартиры на теремках
+Максим: 28698689: Postovoi: nanoplast.com.ua: 2018-06-01T17:49:38: http://vidradnyi.com.ua/: http://vidradnyi.com.ua
+Максим: 28703436: Postovoi: nanoplast.com.ua: 2018-06-07T12:34:11: http://nivki-park.com.ua/: купить квартиру Нивки
+Максим: 28697464: Postovoi: seoclan.ru: 2018-05-31T15:05:33: https://vk.com/kontekstnaya_moskva: Яндекс Директ и Google Adwords в Москве
+Максим: 28697097: Postovoi: www.topcatalog.com.ua: 2018-05-31T08:14:06: https://vk.com/kontekstnaya_moskva: Настройка контекстной рекламы
+Максим: 28697095: Postovoi: apples-web.org.ua: 2018-05-31T08:14:01: https://vk.com/kontekstnaya_moskva: Контекстная реклама в Москве
+Максим: 28697094: Postovoi: seooptimus.ru: 2018-05-31T08:13:58: https://vk.com/kontekstnaya_moskva: Яндекс Директ и Google Adwords в Москве
+Максим: 28701610: Postovoi: adonaidenver.org: 2018-06-05T15:30:18: https://tovaroff.in.ua/: купить очки солнцезащитные
+Максим: 28705645: Postovoi: openlib.org.ua: 2018-06-09T18:33:58: https://top-cosmetologist.info/kosmetolog_odessa_tsentr: косметологи в Одессе Центр
+Нанопласт: 28700402: Postovoi: softik.net.ua: 2018-06-03T20:47:38: https://www.worldtravel.kiev.ua/c27-ispanija/: туры в Испанию
+Нанопласт: 28700403: Postovoi: tren.com.ua: 2018-06-03T20:47:38: https://www.worldtravel.kiev.ua/c27-ispanija/: отдых в Испании
+Нанопласт: 28705648: Postovoi: telopa.com.ua: 2018-06-09T18:33:59: https://top-cosmetologist.info/kosmetolog_odessa_tairovo: косметологи в Одессе Таирово
+Йотобайк: 28698029: Post: farman.kiev.ua: 2018-06-01T02:27:05: None: None
+Йотобайк: 28700921: Post: pravdu.com.ua: 2018-06-04T15:15:30: None: None
+Йотобайк: 28702762: Post: farman.kiev.ua: 2018-06-06T18:45:07: None: None
+Йотобайк: 28702590: Postovoi: farman.kiev.ua: 2018-06-06T15:19:29: http://forbaby.org.ua/health/8788-gomeopatiya-vosstanovitelnaya-terapiya-dlya-vsego-organizma.html: gomeopat-kiev
+
