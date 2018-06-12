@@ -2676,3 +2676,8 @@ Function load_isue_rota: 2018.06.11 17:00:22
 Йотобайк: 28706165: Postovoi: estdomain.com.ua: 2018-06-10T22:20:15: http://veotab.ru/mangaly.html: купить металлический мангал
 Йотобайк: 28706166: Postovoi: chvv.com.ua: 2018-06-10T22:20:19: http://veotab.ru/kozyrki-i-navesy.html: кованый козырек
 
+Function autorizen: 2018.06.12 16:56:42
+Курко: 1425070: PR=f01b18d12d336e97f05451c98eacc50c:59d97475192adedb4978eb9dde82090acab5e6d6; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=70203865a7a897458f3cea2d282c008b:0f7b528222524bf6479283404caf249375aae531; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=fb85a0c588a812d5c74b1f2d59611994:6dca8ce2828940dc5ab4af0855c0886f3e0b7733; path=/; domain=api.pr.sape.ru
+
