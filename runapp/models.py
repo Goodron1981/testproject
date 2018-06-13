@@ -43,6 +43,13 @@ class Isue(models.Model):
 class IsueAdmin(admin.ModelAdmin):
     list_display = ('num', 'id_isue', 'site_platform', 'user_platform', 'platform_name', 'public_url', 'ubdate_date', 'status_isue','key_words')
     ordering = ('num',)
+    actions = ['make_new']
+
+    def make_new(self, request, queryset):
+        queryset.update(status_isue='New',key_words = 'None',img_url = 'None')
+
+
+    make_new.short_description = "Cler keyword and image"
 
 class Keys_List(models.Model):
     num = models.IntegerField(default=1, verbose_name='№')

@@ -2681,3 +2681,107 @@ Function autorizen: 2018.06.12 16:56:42
 Максим: 1063824: PR=70203865a7a897458f3cea2d282c008b:0f7b528222524bf6479283404caf249375aae531; path=/; domain=api.pr.sape.ru
 Нанопласт: 1464824: PR=fb85a0c588a812d5c74b1f2d59611994:6dca8ce2828940dc5ab4af0855c0886f3e0b7733; path=/; domain=api.pr.sape.ru
 
+Function load_isue: 2018.06.13 10:31:22
+Курко: 23995640: link: odissey.net.ua: 2018-06-12 14:49:44: https://viasat.ua/ua: цифрове супутникове телебачення
+Курко: 23993058: link: ukravtomobil.if.ua: 2018-06-11 16:16:58: http://bezpeka.zp.ua/gsm-signalizatsiya: GSM сигнализация купить
+Максим: 23996176: link: smartx.kiev.ua: 2018-06-12 17:06:01: https://buy-diplom.com: Купить диплом о высшем образовании
+Максим: 23995692: link: betar.org.ua: 2018-06-12 15:02:16: https://viasat.ua/ua/partners/sputnikovoe-tv-ivano-frankivsk: супутникове ТБ Івано Франківськ
+Максим: 23994414: link: druzhba-lux.com.ua: 2018-06-12 08:44:36: https://www.usbstar.com.ua/product-category/usb-slep-braslet/: флешка браслет оптом
+Максим: 23993790: link: fledur.org.ua: 2018-06-11 23:56:04: https://all-atop.com/myPriceR: куфар подать объявление
+Нанопласт: 23994653: archive: komitet.kiev.ua: 2018-06-12 10:28:15: http://toolsauto.com.ua/vin/: Запчасти по ВИН
+Нанопласт: 23994402: link: bf3.com.ua: 2018-06-12 08:38:49: https://www.flash-market.com.ua/usb-bracelets/: флешка браслет оптом
+
+Function load_isue_rota: 2018.06.13 10:31:25
+Курко: 28700395: Postovoi: patriarh.in.ua: 2018-06-03T20:47:37: https://www.worldtravel.kiev.ua/c27-ispanija/: Тенерифе
+Курко: 28702855: Post: freya.kiev.ua: 2018-06-06T21:07:12: None: None
+Курко: 28706764: Postovoi: e-knigka.org.ua: 2018-06-11T17:06:36: https://proizd.ua/: купить жд билеты укрзалізниця
+Курко: 28706696: Postovoi: lightdesign.od.ua: 2018-06-11T16:27:23: https://proizd.ua/: билет на поезд
+Курко: 28707438: Postovoi: buyheavenlyspot.com.ua: 2018-06-12T14:04:48: http://dzpo.com.ua/ven.html: промышленные вентиляторы
+Максим: 28703436: Postovoi: nanoplast.com.ua: 2018-06-07T12:34:11: http://nivki-park.com.ua/: купить квартиру Нивки
+Максим: 28701610: Postovoi: adonaidenver.org: 2018-06-05T15:30:18: https://tovaroff.in.ua/: купить очки солнцезащитные
+Максим: 28706401: Postovoi: amidi.com.ua: 2018-06-11T10:40:52: http://sharik-kiev.com.ua/воздушные-шары-на-день-рождения: шарики на день рождения
+Максим: 28706427: Postovoi: amidi.com.ua: 2018-06-11T10:54:39: https://wonderpack.com.ua/231153-lenta-atlasnaya-12-mm: атласные ленты недорого
+Максим: 28707173: Postovoi: kpln.com.ua: 2018-06-12T08:58:50: http://blog.drugstore.org.ua/samorazvitie/pomnit-vse: blog.drugstore.org.ua
+Нанопласт: 28700402: Postovoi: softik.net.ua: 2018-06-03T20:47:38: https://www.worldtravel.kiev.ua/c27-ispanija/: туры в Испанию
+Нанопласт: 28700403: Postovoi: tren.com.ua: 2018-06-03T20:47:38: https://www.worldtravel.kiev.ua/c27-ispanija/: отдых в Испании
+Нанопласт: 28706697: Postovoi: mip-stroy.com.ua: 2018-06-11T16:27:24: https://proizd.ua/: PROIZD
+Нанопласт: 28706700: Postovoi: slaidik.com.ua: 2018-06-11T16:27:24: https://proizd.ua/: жд
+Нанопласт: 28706702: Postovoi: tren.com.ua: 2018-06-11T16:27:24: https://proizd.ua/: билеты на поезд
+Нанопласт: 28706703: Postovoi: turtrans.net.ua: 2018-06-11T16:27:24: https://proizd.ua/: заказать билет на поезд онлайн
+Нанопласт: 28706708: Postovoi: e-putivka.com.ua: 2018-06-11T16:27:25: https://proizd.ua/: https://proizd.ua/ жд билеты
+Нанопласт: 28706709: Postovoi: hodos.kharkov.ua: 2018-06-11T16:27:25: https://proizd.ua/: купить билеты на поезд
+Нанопласт: 28706711: Postovoi: programer.org.ua: 2018-06-11T16:27:25: https://proizd.ua/: купить билеты на поезд
+Нанопласт: 28706712: Postovoi: tropic.od.ua: 2018-06-11T16:27:25: https://proizd.ua/: билеты на поезд купить онлайн
+Нанопласт: 28706713: Postovoi: zvonkov.net.ua: 2018-06-11T16:27:25: https://proizd.ua/: ж/д
+Нанопласт: 28706773: Postovoi: yoip.com.ua: 2018-06-11T17:06:38: https://proizd.ua/: билеты на поезд
+Нанопласт: 28706704: Postovoi: web-city.org.ua: 2018-06-11T16:27:24: https://proizd.ua/: купить билет на поезд онлайн
+Нанопласт: 28706694: Postovoi: fbk.org.ua: 2018-06-11T16:27:23: https://proizd.ua/: proizd
+Нанопласт: 28706705: Postovoi: zenit2.com.ua: 2018-06-11T16:27:24: https://proizd.ua/: купить билеты на поезд
+Нанопласт: 28707890: Postovoi: da100let.dn.ua: 2018-06-12T22:07:28: https://ukrteaco.com/ru/tea/pu-er.html: Пуэр
+Нанопласт: 28707428: Postovoi: programer.org.ua: 2018-06-12T14:00:09: https://evro-apteka.com/lekarstvo/lonsurf: Лонсурф
+Нанопласт: 28707429: Postovoi: tren.com.ua: 2018-06-12T14:00:11: https://evro-apteka.com/lekarstvo/ibrans: Ибранс
+Йотобайк: 28702762: Post: farman.kiev.ua: 2018-06-06T18:45:07: None: None
+Йотобайк: 28702590: Postovoi: farman.kiev.ua: 2018-06-06T15:19:29: http://forbaby.org.ua/health/8788-gomeopatiya-vosstanovitelnaya-terapiya-dlya-vsego-organizma.html: gomeopat-kiev
+Йотобайк: 28706729: Postovoi: estdomain.com.ua: 2018-06-11T16:42:25: https://proizd.ua/: жд билеты УкрЗализныця
+Йотобайк: 28706706: Postovoi: 24zp.org.ua: 2018-06-11T16:27:25: https://proizd.ua/: PROIZD™
+Йотобайк: 28706698: Postovoi: pravdu.com.ua: 2018-06-11T16:27:24: https://proizd.ua/: купить билеты жд
+Йотобайк: 28706691: Postovoi: 3das.com.ua: 2018-06-11T16:27:23: https://proizd.ua/: ж/д
+Йотобайк: 28706693: Postovoi: darkbluecat.net.ua: 2018-06-11T16:27:23: https://proizd.ua/: PROIZD
+Йотобайк: 28706758: Postovoi: foxtrot-auto.com.ua: 2018-06-11T17:06:35: https://proizd.ua/: УкрЗалізниця
+Йотобайк: 28706734: Postovoi: pifagor.kiev.ua: 2018-06-11T16:42:25: https://proizd.ua/station/kyiv-pasazhyrsky: купить ж/д билеты Киев
+
+Function load_isue: 2018.06.13 12:17:03
+
+Function load_isue_rota: 2018.06.13 12:17:06
+Курко: 28703746: Postovoi: freya.kiev.ua: 2018-06-07T16:27:33: http://sublata.com/tabletki-sialis-priliv-sil-i-zhelaniya-byt-na-vysote/: для мужской силы
+
+Function load_isue: 2018.06.13 12:21:19
+
+Function load_isue_rota: 2018.06.13 12:21:21
+
+Function load_isue: 2018.06.13 12:24:22
+
+Function load_isue_rota: 2018.06.13 12:24:24
+
+Function load_isue: 2018.06.13 12:27:02
+
+Function load_isue_rota: 2018.06.13 12:27:04
+
+Function load_isue: 2018.06.13 12:29:58
+
+Function load_isue_rota: 2018.06.13 12:30:00
+
+Function load_isue: 2018.06.13 12:36:36
+Максим: 23998151: link: druzhba-lux.com.ua: 2018-06-13 11:36:23: http://stanki-import.ru/catalog/new/valkov_Gidrav_list/Stanok_turzia: 4-х валковые листогибочные пресса купить
+
+Function load_isue_rota: 2018.06.13 12:36:38
+
+Function load_isue: 2018.06.13 12:39:04
+
+Function load_isue_rota: 2018.06.13 12:39:06
+
+Function load_isue: 2018.06.13 12:53:32
+
+Function load_isue_rota: 2018.06.13 12:53:34
+Курко: 28706764: Postovoi: e-knigka.org.ua: 2018-06-11T17:06:36: https://proizd.ua/: купить жд билеты укрзалізниця
+Курко: 28706696: Postovoi: lightdesign.od.ua: 2018-06-11T16:27:23: https://proizd.ua/: билет на поезд
+Нанопласт: 28706697: Postovoi: mip-stroy.com.ua: 2018-06-11T16:27:24: https://proizd.ua/: PROIZD
+Нанопласт: 28706700: Postovoi: slaidik.com.ua: 2018-06-11T16:27:24: https://proizd.ua/: жд
+Нанопласт: 28706702: Postovoi: tren.com.ua: 2018-06-11T16:27:24: https://proizd.ua/: билеты на поезд
+Нанопласт: 28706703: Postovoi: turtrans.net.ua: 2018-06-11T16:27:24: https://proizd.ua/: заказать билет на поезд онлайн
+Нанопласт: 28706708: Postovoi: e-putivka.com.ua: 2018-06-11T16:27:25: https://proizd.ua/: https://proizd.ua/ жд билеты
+Нанопласт: 28706709: Postovoi: hodos.kharkov.ua: 2018-06-11T16:27:25: https://proizd.ua/: купить билеты на поезд
+Нанопласт: 28706711: Postovoi: programer.org.ua: 2018-06-11T16:27:25: https://proizd.ua/: купить билеты на поезд
+Нанопласт: 28706712: Postovoi: tropic.od.ua: 2018-06-11T16:27:25: https://proizd.ua/: билеты на поезд купить онлайн
+Нанопласт: 28706713: Postovoi: zvonkov.net.ua: 2018-06-11T16:27:25: https://proizd.ua/: ж/д
+Нанопласт: 28706773: Postovoi: yoip.com.ua: 2018-06-11T17:06:38: https://proizd.ua/: билеты на поезд
+Нанопласт: 28706704: Postovoi: web-city.org.ua: 2018-06-11T16:27:24: https://proizd.ua/: купить билет на поезд онлайн
+Нанопласт: 28706694: Postovoi: fbk.org.ua: 2018-06-11T16:27:23: https://proizd.ua/: proizd
+Нанопласт: 28706705: Postovoi: zenit2.com.ua: 2018-06-11T16:27:24: https://proizd.ua/: купить билеты на поезд
+Йотобайк: 28706729: Postovoi: estdomain.com.ua: 2018-06-11T16:42:25: https://proizd.ua/: жд билеты УкрЗализныця
+Йотобайк: 28706706: Postovoi: 24zp.org.ua: 2018-06-11T16:27:25: https://proizd.ua/: PROIZD™
+Йотобайк: 28706698: Postovoi: pravdu.com.ua: 2018-06-11T16:27:24: https://proizd.ua/: купить билеты жд
+Йотобайк: 28706691: Postovoi: 3das.com.ua: 2018-06-11T16:27:23: https://proizd.ua/: ж/д
+Йотобайк: 28706693: Postovoi: darkbluecat.net.ua: 2018-06-11T16:27:23: https://proizd.ua/: PROIZD
+Йотобайк: 28706758: Postovoi: foxtrot-auto.com.ua: 2018-06-11T17:06:35: https://proizd.ua/: УкрЗалізниця
+

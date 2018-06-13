@@ -41,7 +41,7 @@ def parser_attr():
             mytext = response.text
         goop = response.encoding
         if "Ð" in mytext:
-            mytext = mytext.encode('iso8859-1').decode('utf-8')
+            mytext = mytext.encode('iso8859-1').decode('utf-8','ignore')
         elif goop and goop.lower() != 'utf-8':
         # response = requests.post(url=url, data=payload, headers=headers)
         # print('Текст ответа: ', response.text)
