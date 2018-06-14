@@ -2785,3 +2785,52 @@ Function load_isue_rota: 2018.06.13 12:53:34
 Йотобайк: 28706693: Postovoi: darkbluecat.net.ua: 2018-06-11T16:27:23: https://proizd.ua/: PROIZD
 Йотобайк: 28706758: Postovoi: foxtrot-auto.com.ua: 2018-06-11T17:06:35: https://proizd.ua/: УкрЗалізниця
 
+Function autorizen: 2018.06.14 11:13:00
+Курко: 1425070: PR=4415fb021eaeb80b572b852853268518:f26424d025b8f56f55b5382c2e3a0ead97b40c24; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=15b250391876887f559e4e5bb44d92cf:5235b80772c85e3e36661f2eeaa978d93e9d854d; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=60303e21f411cb60da546aa8eff94176:010d4c6199295a05e2f50bd7c977874f94ec7b97; path=/; domain=api.pr.sape.ru
+
+Function load_isue: 2018.06.14 12:59:59
+Курко: 23999491: review: lightdesign.od.ua: 2018-06-13 18:30:20: http://regeneraciya.com.ua/: http://regeneraciya.com.ua/
+Максим: 24001736: link: smartx.kiev.ua: 2018-06-14 11:30:53: https://www.puregreenexpress.ca/blue-nuken.html: buy blue nuken online
+Максим: 23999492: review: upu.org.ua: 2018-06-13 18:30:21: http://regeneraciya.com.ua/services/lechenie-cyrroza-pecheni/: вылечить цирроз
+Нанопласт: 23998289: link: linq.kiev.ua: 2018-06-13 11:58:38: https://vrachiha.ru/: https://vrachiha.ru/
+
+Function load_isue_rota: 2018.06.14 13:00:01
+Курко: 28700395: Postovoi: patriarh.in.ua: 2018-06-03T20:47:37: https://www.worldtravel.kiev.ua/c27-ispanija/: Тенерифе
+Курко: 28702855: Post: freya.kiev.ua: 2018-06-06T21:07:12: None: None
+Курко: 28706764: Postovoi: e-knigka.org.ua: 2018-06-11T17:06:36: https://proizd.ua/: купить жд билеты укрзалізниця
+Курко: 28706696: Postovoi: lightdesign.od.ua: 2018-06-11T16:27:23: https://proizd.ua/: билет на поезд
+Курко: 28703746: Postovoi: freya.kiev.ua: 2018-06-07T16:27:33: http://sublata.com/tabletki-sialis-priliv-sil-i-zhelaniya-byt-na-vysote/: для мужской силы
+Курко: 28708254: Postovoi: freya.kiev.ua: 2018-06-13T09:49:21: http://daily.com.ua/publications/Dekorirovanie-spalni-i-detskoy-komnaty-rimskimi-shtorami: http://daily.com.ua/publications/Dekorirovanie-spalni-i-detskoy-komnaty-rimskimi-shtorami
+Курко: 28708357: Postovoi: smolianoy.com.ua: 2018-06-13T12:32:23: https://proizd.ua/: произд
+Курко: 28708360: Postovoi: seocoding.ru: 2018-06-13T12:33:25: https://proizd.ua/: https://proizd.ua
+Курко: 28708366: Postovoi: frontier.net.ua: 2018-06-13T12:36:52: https://proizd.ua/: билеты жд купить онлайн
+Курко: 28708367: Postovoi: ahumor.org.ua: 2018-06-13T12:37:12: https://proizd.ua/: ж/д
+Курко: 28708517: Postovoi: quickest.com.ua: 2018-06-13T13:59:44: http://strop.com.ua/stropy-tekstilnye: стропы текстильные
+Максим: 28703436: Postovoi: nanoplast.com.ua: 2018-06-07T12:34:11: http://nivki-park.com.ua/: купить квартиру Нивки
+Максим: 28701610: Postovoi: adonaidenver.org: 2018-06-05T15:30:18: https://tovaroff.in.ua/: купить очки солнцезащитные
+Максим: 28708392: Post: dveroman.kiev.ua: 2018-06-13T12:40:15: None: None
+Максим: 28708504: Postovoi: animan.kiev.ua: 2018-06-13T13:59:41: http://strop.com.ua/stropy-tsepnye: стропы цепные цена
+Максим: 28708510: Postovoi: fledur.org.ua: 2018-06-13T13:59:42: http://strop.com.ua/stropy-kanatnye: строп канатный
+Максим: 28708878: Postovoi: webcapitalist.ru: 2018-06-13T17:46:00: http://seo-saitov.ru: продвижение сайтов Казань
+Максим: 28708879: Postovoi: seovin.ru: 2018-06-13T17:46:01: http://seo-saitov.ru: продвижение сайтов Казань
+Максим: 28709013: Postovoi: nutscn.com: 2018-06-13T20:31:29: https://lumberjack.style/: здесь https://lumberjack.style/
+Максим: 28709063: Post: dveroman.kiev.ua: 2018-06-13T22:19:56: None: None
+Нанопласт: 28700402: Postovoi: softik.net.ua: 2018-06-03T20:47:38: https://www.worldtravel.kiev.ua/c27-ispanija/: туры в Испанию
+Нанопласт: 28700403: Postovoi: tren.com.ua: 2018-06-03T20:47:38: https://www.worldtravel.kiev.ua/c27-ispanija/: отдых в Испании
+Нанопласт: 28708518: Postovoi: slonoff.net.ua: 2018-06-13T13:59:44: http://strop.com.ua/stropy-kanatnye/chetyrekhvetvevoj-strop-kanatnyj-4sk: строп 4ск
+Нанопласт: 28706697: Postovoi: mip-stroy.com.ua: 2018-06-11T16:27:24: https://proizd.ua/: PROIZD
+Нанопласт: 28706700: Postovoi: slaidik.com.ua: 2018-06-11T16:27:24: https://proizd.ua/: жд
+Нанопласт: 28706702: Postovoi: tren.com.ua: 2018-06-11T16:27:24: https://proizd.ua/: билеты на поезд
+Нанопласт: 28706703: Postovoi: turtrans.net.ua: 2018-06-11T16:27:24: https://proizd.ua/: заказать билет на поезд онлайн
+Нанопласт: 28708355: Postovoi: thetech.com.ua: 2018-06-13T12:31:45: https://proizd.ua/: PROIZD.UA
+Нанопласт: 28708356: Postovoi: bigmoney.kiev.ua: 2018-06-13T12:32:08: https://proizd.ua/: https://proizd.ua
+Нанопласт: 28708401: Postovoi: valiza-tour.kiev.ua: 2018-06-13T12:41:34: https://proizd.ua/: ж/д
+Нанопласт: 28709005: Postovoi: da100let.dn.ua: 2018-06-13T20:31:28: https://lumberjack.style/: тут
+Нанопласт: 28709019: Postovoi: tropic.od.ua: 2018-06-13T20:43:12: https://moris.dp.ua/ru/ekskursii-po-ukraine: туры по украине из днепра
+Йотобайк: 28702762: Post: farman.kiev.ua: 2018-06-06T18:45:07: None: None
+Йотобайк: 28702590: Postovoi: farman.kiev.ua: 2018-06-06T15:19:29: http://forbaby.org.ua/health/8788-gomeopatiya-vosstanovitelnaya-terapiya-dlya-vsego-organizma.html: gomeopat-kiev
+Йотобайк: 28708381: Postovoi: elites-montage.com.ua: 2018-06-13T12:38:51: https://proizd.ua/: онлайн жд билеты
+Йотобайк: 28708507: Postovoi: chvv.com.ua: 2018-06-13T13:59:41: http://strop.com.ua/stropy-tekstilnye/strop-tekstilnyj-petlevoj-stp: http://strop.com.ua/stropy-tekstilnye/strop-tekstilnyj-petlevoj-stp
+

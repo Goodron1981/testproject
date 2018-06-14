@@ -7,7 +7,7 @@ from runapp.add_unikal_content.translate import translatecont
 import json
 
 
-def publilconent(content, isue_num):
+def publikcontent(content, isue_num):
     isproxy = Fromproxy.objects.get(pk=1).proxy_val
     isue = Isue.objects.get(num=isue_num)
     # print(isue.num)

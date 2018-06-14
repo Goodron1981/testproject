@@ -5,7 +5,7 @@ from runapp.add_unikal_content.parse_page import getcontent
 from runapp.add_unikal_content.format_text import format_cut_content
 from runapp.add_unikal_content.translate import translatecont
 from runapp.add_unikal_content.unikal_test import getunikal
-from runapp.publication.public_content import publilconent
+from runapp.publication.public_content import publikcontent
 import re
 
 def complete():
@@ -22,7 +22,7 @@ def complete():
             charlength = 1000
         else: charlength = 2000
         page = 2
-        while page < 5:
+        while page < 6:
             arrurls = geturls(key_isue, page)
             for gurl in arrurls:
                 # Если найденый урл уже есть то его пропускаем, иначе записываем в список
@@ -38,7 +38,7 @@ def complete():
                             firdcontent = translatecont(secondcontent)
                             unikalresult = getunikal(firdcontent)
                             if unikalresult > 70:
-                                publikresult = publilconent(firdcontent, isue_num)
+                                publikresult = publikcontent(firdcontent, isue_num)
                                 isue.public_url = publikresult
                                 isue.public_content = firdcontent
                                 isue.status_isue = "AddUnikal"

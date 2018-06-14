@@ -71,7 +71,7 @@ class GUrl_List(models.Model):
     create_date = models.DateTimeField(auto_now_add=True, verbose_name='Создано')
 
 class GUrl_ListAdmin(admin.ModelAdmin):
-    list_display = ('href_url', 'create_date')
+    list_display = ('id', 'create_date')
     ordering = ('id',)
 
 class Excludespage(models.Model):
