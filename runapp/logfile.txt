@@ -2834,3 +2834,8 @@ Function load_isue_rota: 2018.06.14 13:00:01
 Йотобайк: 28708381: Postovoi: elites-montage.com.ua: 2018-06-13T12:38:51: https://proizd.ua/: онлайн жд билеты
 Йотобайк: 28708507: Postovoi: chvv.com.ua: 2018-06-13T13:59:41: http://strop.com.ua/stropy-tekstilnye/strop-tekstilnyj-petlevoj-stp: http://strop.com.ua/stropy-tekstilnye/strop-tekstilnyj-petlevoj-stp
 
+Function autorizen: 2018.06.15 11:52:28
+Курко: 1425070: PR=63b92e88308afff59a1f3f304ab6f650:1a7f3b95e535b276a271a61ccb0c512ab8353354; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=73295efd12c2ad35c656739bf92cf0a4:1a9ccc09e5c143f745fd9a7e8994bfaedd1250ab; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=fcb448f5be8d9db856e793e102603eb9:0bc778fb37cca98524d544bee30f4e3e6ade3022; path=/; domain=api.pr.sape.ru
+
