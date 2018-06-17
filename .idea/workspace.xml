@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e93f24d8-c976-4977-badb-fae0dfdd6ebc" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/testpage/forscript.py" beforeDir="false" afterPath="$PROJECT_DIR$/testpage/forscript.py" afterDir="false" />
-    </list>
+    <list default="true" id="e93f24d8-c976-4977-badb-fae0dfdd6ebc" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,8 +26,8 @@
       <file leaf-file-name="forscript.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/testpage/forscript.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="7" column="82" selection-start-line="7" selection-start-column="82" selection-end-line="7" selection-end-column="82" />
+            <state>
+              <caret line="9" column="67" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="67" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -206,6 +204,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Changed Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="testproject" type="cbb8eebc:String" user="testproject" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="testproject" type="cbb8eebc:String" user="testproject" />
+              <item name="runapp" type="cbb8eebc:String" user="runapp" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -227,22 +241,6 @@
               <item name="testproject" type="b2602c69:ProjectViewProjectNode" />
               <item name="testproject" type="462c0819:PsiDirectoryNode" />
               <item name="testproject" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Changed Files">
-          <expand>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="testproject" type="cbb8eebc:String" user="testproject" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="testproject" type="cbb8eebc:String" user="testproject" />
-              <item name="runapp" type="cbb8eebc:String" user="runapp" />
             </path>
           </expand>
           <select />
@@ -768,8 +766,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/testpage/forscript.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="82" selection-start-line="7" selection-start-column="82" selection-end-line="7" selection-end-column="82" />
+        <state>
+          <caret line="9" column="67" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="67" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
