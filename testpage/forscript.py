@@ -4,8 +4,8 @@ import requests
 
 
 
-def speech():
-    url = "https://texttospeech.googleapis.com/v1beta1/text:synthesize?key=AIzaSyA3pUu1l9rLzOnNtFaszrIB9weEq1Za3Ws"
+def speech(key):
+    url = "https://texttospeech.googleapis.com/v1beta1/text:synthesize?key=" + key
 
     # querystring = {"key":"AIzaSyA3pUu1l9rLzOnNtFaszrIB9weEq1Za3Ws"}
     '''
