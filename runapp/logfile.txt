@@ -2839,3 +2839,59 @@ Function autorizen: 2018.06.15 11:52:28
 Максим: 1063824: PR=73295efd12c2ad35c656739bf92cf0a4:1a9ccc09e5c143f745fd9a7e8994bfaedd1250ab; path=/; domain=api.pr.sape.ru
 Нанопласт: 1464824: PR=fcb448f5be8d9db856e793e102603eb9:0bc778fb37cca98524d544bee30f4e3e6ade3022; path=/; domain=api.pr.sape.ru
 
+Function autorizen: 2018.06.18 12:12:05
+Курко: 1425070: PR=4b4206970cbd067f2da91a4c91f82047:2a37ee7cb2c27979e11da08c17e2f92c740ea39f; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=2cb77a7eb0a2a31e1655d54d141746b5:7c1a71a80e20b168f4e61d6849b092bc7cd4c9c9; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=ee80a15d0f488e67d917d057bec8aa83:6ade09e3f7bd214e2c74caf56ce503cb402312cd; path=/; domain=api.pr.sape.ru
+
+Function load_isue: 2018.06.18 12:12:05
+Курко: 24007046: link: tropic.od.ua: 2018-06-16 21:37:38: https://cqmi.com.ua/ru/acquaintance/melitopol: мелитополь знакомства
+Курко: 24006603: link: tropic.od.ua: 2018-06-16 15:01:28: http://siso.com.ua/ctcat/dizajn-radiatory.html: радиаторы декоративные
+Курко: 24006363: link: ypag.com.ua: 2018-06-16 12:04:22: https://rautagroup.com/products/facades: вентилируемый фасад
+Курко: 24002684: archive: ukravtomobil.if.ua: 2018-06-14 16:13:07: https://virage.club: https://www.virage.club
+Максим: 24006894: news: smartx.kiev.ua: 2018-06-16 19:17:12: https://pim-pim.com.ua/korporativnye-podarki-na-8-marta: https://pim-pim.com.ua/korporativnye-podarki-na-8-marta
+Максим: 24006309: link: druzhba-lux.com.ua: 2018-06-16 10:53:46: http://www.zaoreductor.ru/: Купить редуктор
+Максим: 24004974: link: druzhba-lux.com.ua: 2018-06-15 20:47:58: https://skidkatur.com/: подбор туров
+Нанопласт: 24006222: link: sharabt.com.ua: 2018-06-16 09:03:21: https://gazoni.uz/index.php?action_skin_change=yes&skin_name=uz: landshaft
+Нанопласт: 24002978: link: salfetki.org.ua: 2018-06-14 17:45:57: https://printme.kiev.ua: Printme
+Нанопласт: 24001733: link: sharabt.com.ua: 2018-06-14 11:26:01: http://salongracia.kz/uslugi/studiya-makiyazha: студия макияжа
+Нанопласт: 24000423: link: openlib.org.ua: 2018-06-14 00:06:13: https://w-master.kz/: заказать сайт
+
+Function load_isue_rota: 2018.06.18 12:12:10
+Курко: 28703746: Postovoi: freya.kiev.ua: 2018-06-07T16:27:33: http://sublata.com/tabletki-sialis-priliv-sil-i-zhelaniya-byt-na-vysote/: для мужской силы
+Курко: 28709455: Postovoi: buyheavenlyspot.com.ua: 2018-06-14T12:08:02: http://filtronsetka.com.ua/: купить сетку
+Курко: 28708366: Postovoi: frontier.net.ua: 2018-06-13T12:36:52: https://proizd.ua/: билеты жд купить онлайн
+Курко: 28708360: Postovoi: seocoding.ru: 2018-06-13T12:33:25: https://proizd.ua/: https://proizd.ua
+Курко: 28708357: Postovoi: smolianoy.com.ua: 2018-06-13T12:32:23: https://proizd.ua/: произд
+Курко: 28706696: Postovoi: lightdesign.od.ua: 2018-06-11T16:27:23: https://proizd.ua/: билет на поезд
+Курко: 28708254: Postovoi: freya.kiev.ua: 2018-06-13T09:49:21: http://daily.com.ua/publications/Dekorirovanie-spalni-i-detskoy-komnaty-rimskimi-shtorami: http://daily.com.ua/publications/Dekorirovanie-spalni-i-detskoy-komnaty-rimskimi-shtorami
+Курко: 28706764: Postovoi: e-knigka.org.ua: 2018-06-11T17:06:36: https://proizd.ua/: купить жд билеты укрзалізниця
+Максим: 28701610: Postovoi: adonaidenver.org: 2018-06-05T15:30:18: https://tovaroff.in.ua/: купить очки солнцезащитные
+Максим: 28708392: Post: dveroman.kiev.ua: 2018-06-13T12:40:15: None: None
+Максим: 28709063: Post: dveroman.kiev.ua: 2018-06-13T22:19:56: None: None
+Максим: 28709863: Postovoi: 4da.org.ua: 2018-06-14T18:09:04: https://www.ecoalt.km.ua/: https://www.ecoalt.km.ua/
+Максим: 28709882: Postovoi: adonaidenver.org: 2018-06-14T18:28:03: http://imaginetravel.com.ua/azerbaydjan/tours/?sities=baku: сюда
+Максим: 28708878: Postovoi: webcapitalist.ru: 2018-06-13T17:46:00: http://seo-saitov.ru: продвижение сайтов Казань
+Максим: 28708879: Postovoi: seovin.ru: 2018-06-13T17:46:01: http://seo-saitov.ru: продвижение сайтов Казань
+Максим: 28711589: Postovoi: fledur.org.ua: 2018-06-16T13:44:17: https://avaloninvest.com.ua/pokraska-mk/poroshkovaya-pokraska: Порошковая покраска
+Нанопласт: 28710476: Postovoi: mip-stroy.com.ua: 2018-06-15T13:52:09: https://elit-dental.com/lechenie-kariesa/: Лечение кариеса
+Нанопласт: 28706713: Postovoi: zvonkov.net.ua: 2018-06-11T16:27:25: https://proizd.ua/: ж/д
+Нанопласт: 28709771: Postovoi: redcat.net.ua: 2018-06-14T17:17:38: http://gelena-tour.com/tury-v-odessu: Тур в Одессу
+Нанопласт: 28712310: Postovoi: yavtanke.org.ua: 2018-06-17T17:46:30: http://rt.netki.org: Девченки рунетки
+Нанопласт: 28706702: Postovoi: tren.com.ua: 2018-06-11T16:27:24: https://proizd.ua/: билеты на поезд
+Нанопласт: 28710615: Postovoi: europarfum.net.ua: 2018-06-15T14:23:19: https://proizd.ua/: заказать билет на поезд онлайн
+Нанопласт: 28710630: Postovoi: da100let.dn.ua: 2018-06-15T14:24:13: https://proizd.ua/: жд білети
+Нанопласт: 28711035: Postovoi: mip-stroy.com.ua: 2018-06-15T18:07:25: https://evroauto.com.ua/bloki-rozzhiga-ksenona: блок розжига ксенон цена
+Нанопласт: 28711037: Postovoi: mylink.org.ua: 2018-06-15T18:07:27: https://evroauto.com.ua/svetodiodnie-led-balki-fari: лед фары
+Нанопласт: 28711036: Postovoi: savelink.org.ua: 2018-06-15T18:07:27: https://evroauto.com.ua/angelskie_glazki: ангельские глазки
+Нанопласт: 28712048: Postovoi: europarfum.net.ua: 2018-06-17T02:28:04: http://imaginetravel.com.ua/england/tours/?sities=london&types=avtobusnyie-turyi: сюда
+Нанопласт: 28708401: Postovoi: valiza-tour.kiev.ua: 2018-06-13T12:41:34: https://proizd.ua/: ж/д
+Нанопласт: 28708356: Postovoi: bigmoney.kiev.ua: 2018-06-13T12:32:08: https://proizd.ua/: https://proizd.ua
+Йотобайк: 28702762: Post: farman.kiev.ua: 2018-06-06T18:45:07: None: None
+Йотобайк: 28706729: Postovoi: estdomain.com.ua: 2018-06-11T16:42:25: https://proizd.ua/: жд билеты УкрЗализныця
+Йотобайк: 28709485: Postovoi: 24zp.org.ua: 2018-06-14T12:36:22: http://setki.rodonit.ua/seti-zatenyayushchie: Сетки затеняющие
+Йотобайк: 28702590: Postovoi: farman.kiev.ua: 2018-06-06T15:19:29: http://forbaby.org.ua/health/8788-gomeopatiya-vosstanovitelnaya-terapiya-dlya-vsego-organizma.html: gomeopat-kiev
+Йотобайк: 28711034: Postovoi: feyhoa.org.ua: 2018-06-15T18:07:25: https://evroauto.com.ua/biksenonovye-lampy: купить биксенон h4
+Йотобайк: 28711033: Postovoi: 24zp.org.ua: 2018-06-15T18:07:25: https://evroauto.com.ua/ksenon: купить ксенон Киев
+Йотобайк: 28706758: Postovoi: foxtrot-auto.com.ua: 2018-06-11T17:06:35: https://proizd.ua/: УкрЗалізниця
+
