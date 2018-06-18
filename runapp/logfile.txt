@@ -2895,3 +2895,15 @@ Function load_isue_rota: 2018.06.18 12:12:10
 Йотобайк: 28711033: Postovoi: 24zp.org.ua: 2018-06-15T18:07:25: https://evroauto.com.ua/ksenon: купить ксенон Киев
 Йотобайк: 28706758: Postovoi: foxtrot-auto.com.ua: 2018-06-11T17:06:35: https://proizd.ua/: УкрЗалізниця
 
+Function autorizen: 2018.06.19 00:08:42
+Курко: 1425070: PR=8534a6d9a48085b5b15e2d7a6d0d465e:b76f914ea99f80e76ea26ed5a43e2b4f5b254328; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=d4f24dbc12dbf17cca3f00b509ed2d4b:e410afd0d3e48579aeff9101face2d5731186a32; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=349f4e133875ee660d5ba043c1490a23:a83c9f44cdcd4921a89599612d93c27cd66f158f; path=/; domain=api.pr.sape.ru
+
+Function autorizen_rota: 2018.06.19 00:08:52
+Антон: true: 47c55b74-d178-45c8-8258-d02db6bd1ed7
+Курко: true: 776ea1a5-e4bd-4607-8af9-1dbc87177df9
+Максим: true: f1947606-c993-4696-bf55-7a740b365a5c
+Нанопласт: true: 12256841-225b-4f66-b166-1e29b69866ef
+Йотобайк: true: 4d88aa36-1bb1-4a4b-af2d-d6070512b929
+
