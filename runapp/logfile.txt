@@ -2907,3 +2907,46 @@ Function autorizen_rota: 2018.06.19 00:08:52
 Нанопласт: true: 12256841-225b-4f66-b166-1e29b69866ef
 Йотобайк: true: 4d88aa36-1bb1-4a4b-af2d-d6070512b929
 
+Function autorizen: 2018.06.19 09:29:28
+Курко: 1425070: PR=70866eebc333507e51f219e45964aab1:034e461ab7d4ac8e11aae70cc9bec7e3ed583b96; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=e36c1e423985c23f28fb9d422d396d35:2788aa3eb3d2d7bbb1396ec83c78194d72ae1150; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=4d0263a5d80c27cb372cf10abc190c92:2484ae10bd81a8296ec0e450edde38a5b655e0de; path=/; domain=api.pr.sape.ru
+
+Function load_isue: 2018.06.19 09:29:26
+Максим: 23989861: link: fledur.org.ua: 2018-06-09 23:29:52: https://www.hlb.com.ua/: аудиторская компания
+Нанопласт: 24009479: link: mip-stroy.com.ua: 2018-06-18 11:30:45: https://offerte-pvc-ramen-deuren-glazen-schuif.be/: Schuifraam
+Нанопласт: 24009478: link: ekobil.com.ua: 2018-06-18 11:30:44: https://offerte-pvc-ramen-deuren-glazen-schuif.be/: aluminium ramen
+
+Function load_isue_rota: 2018.06.19 09:29:35
+Курко: 28703746: Postovoi: freya.kiev.ua: 2018-06-07T16:27:33: http://sublata.com/tabletki-sialis-priliv-sil-i-zhelaniya-byt-na-vysote/: для мужской силы
+Курко: 28708366: Postovoi: frontier.net.ua: 2018-06-13T12:36:52: https://proizd.ua/: билеты жд купить онлайн
+Курко: 28708360: Postovoi: seocoding.ru: 2018-06-13T12:33:25: https://proizd.ua/: https://proizd.ua
+Курко: 28708357: Postovoi: smolianoy.com.ua: 2018-06-13T12:32:23: https://proizd.ua/: произд
+Курко: 28706696: Postovoi: lightdesign.od.ua: 2018-06-11T16:27:23: https://proizd.ua/: билет на поезд
+Курко: 28706764: Postovoi: e-knigka.org.ua: 2018-06-11T17:06:36: https://proizd.ua/: купить жд билеты укрзалізниця
+Курко: 28712579: Postovoi: quickest.com.ua: 2018-06-18T08:25:24: https://smartmobis.net.ua/catalog/smartfony: выбрать на сайте
+Курко: 28702855: Post: freya.kiev.ua: 2018-06-06T21:07:12: None: None
+Курко: 28712682: PressRelease: ahumor.org.ua: 2018-06-18T11:00:07: None: None
+Максим: 28701610: Postovoi: adonaidenver.org: 2018-06-05T15:30:18: https://tovaroff.in.ua/: купить очки солнцезащитные
+Максим: 28708392: Post: dveroman.kiev.ua: 2018-06-13T12:40:15: None: None
+Максим: 28709063: Post: dveroman.kiev.ua: 2018-06-13T22:19:56: None: None
+Максим: 28708878: Postovoi: webcapitalist.ru: 2018-06-13T17:46:00: http://seo-saitov.ru: продвижение сайтов Казань
+Максим: 28708879: Postovoi: seovin.ru: 2018-06-13T17:46:01: http://seo-saitov.ru: продвижение сайтов Казань
+Максим: 28712342: Postovoi: amidi.com.ua: 2018-06-17T21:19:39: https://fokssi.com.ua/dlja-zhenshhin/: купить платье
+Максим: 28712179: Postovoi: dveroman.kiev.ua: 2018-06-17T10:51:52: https://buddvir.ua/gipsokartonnye-sistemy/gipsokarton/potolochnyj-gipsokarton/: влагостойкий гипсокартон
+Максим: 28712168: Postovoi: nutscn.com: 2018-06-17T09:45:39: https://lotosk.com.ua/category/katalog-produktsii/svetolyubivye-rasteniya/: посетить сайт
+Максим: 28712343: Postovoi: marsella.com.ua: 2018-06-17T21:19:39: https://fokssi.com.ua/dlja-zhenshhin/: женские платья
+Максим: 28713132: Postovoi: nutscn.com: 2018-06-18T17:10:20: http://blog.drugstore.org.ua/otnosheniya/iz-onlayna-v-real-znakomstva-v-internete: http://blog.drugstore.org.ua/
+Максим: 28713185: Postovoi: kpln.com.ua: 2018-06-18T17:42:37: http://novyeteremki.com.ua/rtypes_tax/1-komnatnye-kvartiry/: купить однокомнатную квартиру
+Нанопласт: 28706713: Postovoi: zvonkov.net.ua: 2018-06-11T16:27:25: https://proizd.ua/: ж/д
+Нанопласт: 28706702: Postovoi: tren.com.ua: 2018-06-11T16:27:24: https://proizd.ua/: билеты на поезд
+Нанопласт: 28708401: Postovoi: valiza-tour.kiev.ua: 2018-06-13T12:41:34: https://proizd.ua/: ж/д
+Нанопласт: 28708356: Postovoi: bigmoney.kiev.ua: 2018-06-13T12:32:08: https://proizd.ua/: https://proizd.ua
+Нанопласт: 28712565: Postovoi: www.schooler.org.ua: 2018-06-18T07:16:05: http://motobloku.com.ua: запчасти на мотоблок
+Нанопласт: 28713316: Postovoi: ekobil.com.ua: 2018-06-18T22:54:42: https://vulkanenergo.com.ua/ru/parovie_kotli_serii_e.html: котлы серии Е — Е-2,5-0,9
+Йотобайк: 28702762: Post: farman.kiev.ua: 2018-06-06T18:45:07: None: None
+Йотобайк: 28706729: Postovoi: estdomain.com.ua: 2018-06-11T16:42:25: https://proizd.ua/: жд билеты УкрЗализныця
+Йотобайк: 28702590: Postovoi: farman.kiev.ua: 2018-06-06T15:19:29: http://forbaby.org.ua/health/8788-gomeopatiya-vosstanovitelnaya-terapiya-dlya-vsego-organizma.html: gomeopat-kiev
+Йотобайк: 28706758: Postovoi: foxtrot-auto.com.ua: 2018-06-11T17:06:35: https://proizd.ua/: УкрЗалізниця
+Йотобайк: 28713130: Postovoi: farman.kiev.ua: 2018-06-18T17:10:18: http://blog.drugstore.org.ua/narkotiki/mdma-ekstazi-ekstazi-ne-mdma: www.blog.drugstore.org.ua
+
