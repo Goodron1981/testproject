@@ -2950,3 +2950,8 @@ Function load_isue_rota: 2018.06.19 09:29:35
 Йотобайк: 28706758: Postovoi: foxtrot-auto.com.ua: 2018-06-11T17:06:35: https://proizd.ua/: УкрЗалізниця
 Йотобайк: 28713130: Postovoi: farman.kiev.ua: 2018-06-18T17:10:18: http://blog.drugstore.org.ua/narkotiki/mdma-ekstazi-ekstazi-ne-mdma: www.blog.drugstore.org.ua
 
+Function autorizen: 2018.06.20 15:16:38
+Курко: 1425070: PR=c08d6f6564f3728cb17b1bc605ef53a7:29730483af633664665b7aa90f46bc595ad8f23e; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=8767ddd8cb24603a7857bd61e0823ed4:1a2e11022427617acb0302b731fa9a0525f9c683; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=65ee2e098c11cf53ad4e58da1f3b9293:f84b37272149990f2798fcc122ead6b36d2794be; path=/; domain=api.pr.sape.ru
+
