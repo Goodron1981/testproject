@@ -2955,3 +2955,43 @@ Function autorizen: 2018.06.20 15:16:38
 Максим: 1063824: PR=8767ddd8cb24603a7857bd61e0823ed4:1a2e11022427617acb0302b731fa9a0525f9c683; path=/; domain=api.pr.sape.ru
 Нанопласт: 1464824: PR=65ee2e098c11cf53ad4e58da1f3b9293:f84b37272149990f2798fcc122ead6b36d2794be; path=/; domain=api.pr.sape.ru
 
+Function load_isue: 2018.06.21 09:44:39
+Курко: 24014805: link: ypag.com.ua: 2018-06-19 21:14:33: http://www.tbstandart.com/: металоконструкції
+Максим: 24016436: link: upu.org.ua: 2018-06-20 13:09:16: http://shop.alfamoto.ua/goods/plastik-obves/: пластик для скутера
+Максим: 24013430: review: smartx.kiev.ua: 2018-06-19 13:57:29: https://woodplast.com/terrasnaya-doska/: палубная доска в Украине
+
+Function load_isue_rota: 2018.06.21 09:44:40
+Курко: 28708254: Postovoi: freya.kiev.ua: 2018-06-13T09:49:21: http://daily.com.ua/publications/Dekorirovanie-spalni-i-detskoy-komnaty-rimskimi-shtorami: http://daily.com.ua/publications/Dekorirovanie-spalni-i-detskoy-komnaty-rimskimi-shtorami
+Курко: 28712579: Postovoi: quickest.com.ua: 2018-06-18T08:25:24: https://smartmobis.net.ua/catalog/smartfony: выбрать на сайте
+Курко: 28713917: Postovoi: ukravtomobil.if.ua: 2018-06-19T10:28:03: https://golovko.com.ua/advokat-i-yurist-po-dtp-kiev-pravovaya-zashhita: аврия дтп помощь юриста
+Курко: 28715225: Post: xn--90afsemmyc.com.ua: 2018-06-20T13:26:51: None: None
+Курко: 28714986: Postovoi: ahumor.org.ua: 2018-06-20T11:27:52: https://food.powerteam.md: https://food.powerteam.md
+Курко: 28715112: Postovoi: odissey.net.ua: 2018-06-20T12:36:01: https://medpravda.com.ua/: medpravda.com.ua
+Курко: 28715303: Postovoi: medical-beauty.org.ua: 2018-06-20T14:47:12: http://permanent-make-ap.com.ua/archives/services/%D0%BF%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B5%D0%BD%D1%82%D0%BD%D1%8B%D0%B9-%D0%BC%D0%B0%D0%BA%D0%B8%D1%8F%D0%B6-%D0%B3%D0%BB%D0%B0%D0%B7: перманентный макияж глаз в Хмельницком
+Максим: 28709063: Post: dveroman.kiev.ua: 2018-06-13T22:19:56: None: None
+Максим: 28713905: Postovoi: elit-a-a.com.ua: 2018-06-19T10:26:27: https://fly-eng.kz/: курсы английского языка в алматы
+Максим: 28714072: Postovoi: marsella.com.ua: 2018-06-19T12:39:45: http://www.pibu-shop.ru: www.pibu-shop.ru
+Максим: 28715110: Postovoi: gv.org.ua: 2018-06-20T12:36:00: https://medpravda.com.ua/: https://medpravda.com.ua/
+Максим: 28714939: Postovoi: adonaidenver.org: 2018-06-20T11:08:00: http://seo-saitov.ru: продвижение сайтов в Яндексе
+Максим: 28715373: Postovoi: nanoplast.com.ua: 2018-06-20T15:08:37: https://newsbel.by/05/18/ustanovka-trotuarnyx-i-dorozhnyx-bordyurov-metody-i-texnologii/: как установить бордюр дорожный
+Максим: 28712168: Postovoi: nutscn.com: 2018-06-17T09:45:39: https://lotosk.com.ua/category/katalog-produktsii/svetolyubivye-rasteniya/: посетить сайт
+Максим: 28708878: Postovoi: webcapitalist.ru: 2018-06-13T17:46:00: http://seo-saitov.ru: продвижение сайтов Казань
+Нанопласт: 28714989: Postovoi: valiza-tour.kiev.ua: 2018-06-20T11:28:05: https://food.powerteam.md/sportivnoe-pitanie/aminokisloty: аминокислоты купить
+Нанопласт: 28714997: Postovoi: turtrans.net.ua: 2018-06-20T11:29:55: https://food.powerteam.md: https://food.powerteam.md
+Нанопласт: 28714998: Postovoi: bigmoney.kiev.ua: 2018-06-20T11:30:00: https://food.powerteam.md/sportivnoe-pitanie/aminokisloty: аминокислоты купить
+Нанопласт: 28715017: Postovoi: web-city.org.ua: 2018-06-20T11:46:02: https://evroauto.com.ua/svetodiodnie_lampi: купить светодиодную лампу для авто
+Нанопласт: 28715063: Postovoi: sharabt.com.ua: 2018-06-20T12:08:29: https://spparts.com.ua/categories/zapchasti-dlya-blenderov-i-mikserov-braun: сайт
+Нанопласт: 28715018: Postovoi: tren.com.ua: 2018-06-20T11:46:03: https://evroauto.com.ua/svetodiodnie_lampi: купить светодиодную лампу для авто
+Нанопласт: 28715019: Postovoi: blackmetal.kiev.ua: 2018-06-20T11:46:03: https://evroauto.com.ua/svetodiodnie-led-balki-fari: лед фары
+Нанопласт: 28715020: Postovoi: turtrans.net.ua: 2018-06-20T11:46:03: https://evroauto.com.ua/ksenon: ксенон купить Киев
+Нанопласт: 28715027: Postovoi: linkomania.com.ua: 2018-06-20T11:46:06: https://evroauto.com.ua/ksenon: ксенон лампы купить
+Нанопласт: 28715021: Postovoi: fbk.org.ua: 2018-06-20T11:46:03: https://evroauto.com.ua/angelskie_glazki: ангельские глазки
+Нанопласт: 28715022: Postovoi: dlemoduli.org.ua: 2018-06-20T11:46:04: https://evroauto.com.ua/biksenonovye-lampy: биксенон Харьков
+Нанопласт: 28715026: Postovoi: catalog-security.com.ua: 2018-06-20T11:46:06: https://evroauto.com.ua/biksenonovye-lampy: лампа биксенон
+Нанопласт: 28715023: Postovoi: zvonkov.net.ua: 2018-06-20T11:46:04: https://evroauto.com.ua/svetodiodnie_lenti: светодиодная лента для авто
+Нанопласт: 28715024: Postovoi: orangecat.net.ua: 2018-06-20T11:46:04: https://evroauto.com.ua/biksenonovye-lampy: биксенон Харьков
+Нанопласт: 28715025: Postovoi: shiva.net.ua: 2018-06-20T11:46:05: https://evroauto.com.ua/biksenonovye-lampy: лампа биксенон
+Нанопласт: 28715540: Postovoi: sortis.com.ua: 2018-06-20T17:09:40: https://proizd.ua/: онлайн жд билеты
+Йотобайк: 28702762: Post: farman.kiev.ua: 2018-06-06T18:45:07: None: None
+Йотобайк: 28702590: Postovoi: farman.kiev.ua: 2018-06-06T15:19:29: http://forbaby.org.ua/health/8788-gomeopatiya-vosstanovitelnaya-terapiya-dlya-vsego-organizma.html: gomeopat-kiev
+
