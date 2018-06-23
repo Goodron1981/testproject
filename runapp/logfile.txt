@@ -2995,3 +2995,34 @@ Function load_isue_rota: 2018.06.21 09:44:40
 Йотобайк: 28702762: Post: farman.kiev.ua: 2018-06-06T18:45:07: None: None
 Йотобайк: 28702590: Postovoi: farman.kiev.ua: 2018-06-06T15:19:29: http://forbaby.org.ua/health/8788-gomeopatiya-vosstanovitelnaya-terapiya-dlya-vsego-organizma.html: gomeopat-kiev
 
+Function autorizen: 2018.06.23 12:55:15
+Курко: 1425070: PR=b98779662055fb929284e8647657f4f0:7f4d8d9fa8ab0b3d86bc7e31ea8212384c5bcdcb; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=aec29848f8ac5b1d61060f72e2b8ba65:08fe9ef164ff1bfcfa7857502c39a7724cb21a3c; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=066ae8a3184b33b172bf9aa4f20d4f1f:3a016dfe6b5733feda1c8d6475bc02769738a249; path=/; domain=api.pr.sape.ru
+
+Function load_isue: 2018.06.23 12:55:15
+Курко: 24019181: link: linuxsam.org.ua: 2018-06-21 12:01:14: http://sionclinic.com.ua/lechenie-alkogolizma/: лечение алкоголизма
+Курко: 24019101: link: patriarh.in.ua: 2018-06-21 11:47:36: http://sionclinic.com.ua/lechenie-alkogolizma/: http://sionclinic.com.ua/lechenie-alkogolizma/
+Курко: 24019061: link: lightdesign.od.ua: 2018-06-21 11:40:06: http://sionclinic.com.ua/: http://sionclinic.com.ua/
+Максим: 24021444: link: fledur.org.ua: 2018-06-22 06:22:55: https://www.elektriknadom.com/: электрик харьков
+Максим: 24002292: link: infoweb.org.ua: 2018-06-14 14:14:58: http://vidpochynok.net/ru/index.php?oblast=&cat=7: отдых в эллингах
+Нанопласт: 24022477: review: mip-stroy.com.ua: 2018-06-22 14:13:25: http://www.mahouse.ru: дом из сип панелей цена
+Нанопласт: 24018954: link: avtocentr.sumy.ua: 2018-06-21 11:10:10: https://www.prodajavto.com/golovna: автовикуп в Києві
+
+Function load_isue_rota: 2018.06.23 12:55:19
+Курко: 28716150: Postovoi: xn--90afsemmyc.com.ua: 2018-06-21T12:00:58: https://www.avtorazborka.org.ua/toyota/prado-2002-2009/: https://www.avtorazborka.org.ua/toyota/prado-2002-2009/
+Курко: 28712579: Postovoi: quickest.com.ua: 2018-06-18T08:25:24: https://smartmobis.net.ua/catalog/smartfony: выбрать на сайте
+Максим: 28715373: Postovoi: nanoplast.com.ua: 2018-06-20T15:08:37: https://newsbel.by/05/18/ustanovka-trotuarnyx-i-dorozhnyx-bordyurov-metody-i-texnologii/: как установить бордюр дорожный
+Максим: 28708878: Postovoi: webcapitalist.ru: 2018-06-13T17:46:00: http://seo-saitov.ru: продвижение сайтов Казань
+Максим: 28716631: Postovoi: druzhba-lux.com.ua: 2018-06-21T16:36:43: http://visas.kz/visas/60: http://visas.kz/visas/60
+Максим: 28709063: Post: dveroman.kiev.ua: 2018-06-13T22:19:56: None: None
+Максим: 28716896: Post: betar.org.ua: 2018-06-21T19:08:37: None: None
+Максим: 28716884: Postovoi: gv.org.ua: 2018-06-21T18:28:03: http://imaginetravel.com.ua/france/tours/?sities=parij&types=avtobusnyie-turyi: здесь
+Максим: 28714939: Postovoi: adonaidenver.org: 2018-06-20T11:08:00: http://seo-saitov.ru: продвижение сайтов в Яндексе
+Нанопласт: 28717278: Postovoi: tellall.kiev.ua: 2018-06-22T10:44:49: http://modnasprava.com.ua/catalog/zhenskie_platya/: платья оптом
+Нанопласт: 28716137: Postovoi: ekobil.com.ua: 2018-06-21T11:59:12: http://okna-info.by/: okna-info.by
+Нанопласт: 28715063: Postovoi: sharabt.com.ua: 2018-06-20T12:08:29: https://spparts.com.ua/categories/zapchasti-dlya-blenderov-i-mikserov-braun: сайт
+Йотобайк: 28702590: Postovoi: farman.kiev.ua: 2018-06-06T15:19:29: http://forbaby.org.ua/health/8788-gomeopatiya-vosstanovitelnaya-terapiya-dlya-vsego-organizma.html: gomeopat-kiev
+Йотобайк: 28716019: Post: pravdu.com.ua: 2018-06-21T10:06:57: None: None
+Йотобайк: 28717395: Postovoi: feyhoa.org.ua: 2018-06-22T14:21:25: http://gelena-tour.com/tury-v-odessu/hotel-akademiya-v-zatoke: Отдых в Затоке
+
