@@ -27,7 +27,7 @@ class Isue(models.Model):
     title_parse = models.TextField(default = 'None', verbose_name= 'Title')
     keywords_parse = models.TextField(default = 'None', verbose_name= 'Keywords')
     key_words = models.CharField(max_length=100, default = 'None', verbose_name= 'Ключевая фраза')
-    img_url = models.CharField(max_length=300, default = 'None', verbose_name= 'Урл картинки')
+    img_url = models.CharField(max_length=350, default = 'None', verbose_name= 'Урл картинки')
     user_platform = models.CharField(max_length=40, default = 'None', verbose_name= 'Пользователь')
     platform_name = models.CharField(max_length=40, default = 'None', verbose_name= 'Платформа')
     ubdate_date = models.DateTimeField(auto_now=True, verbose_name='Обновлено')

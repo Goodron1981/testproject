@@ -3026,3 +3026,8 @@ Function load_isue_rota: 2018.06.23 12:55:19
 Йотобайк: 28716019: Post: pravdu.com.ua: 2018-06-21T10:06:57: None: None
 Йотобайк: 28717395: Postovoi: feyhoa.org.ua: 2018-06-22T14:21:25: http://gelena-tour.com/tury-v-odessu/hotel-akademiya-v-zatoke: Отдых в Затоке
 
+Function autorizen: 2018.06.25 11:55:33
+Курко: 1425070: PR=ef17ea38f6011068bbd89e46d5471e36:2ce5dc1d978d1d2432e2f3454f53edecb83edc3d; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=728815a8803e5885663b97e627aed4cd:9d6a6ba2b2748f6a5ea6b01de67d3eb7a8a090f1; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=66014b667c2c8458241f4d445d7fed59:7cf53855a2c7068cf757096fa0c36f519dec659c; path=/; domain=api.pr.sape.ru
+
