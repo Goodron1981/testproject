@@ -40,11 +40,11 @@ def getcontent(searchurl):
         if exvalid:
             bebots = "Bad text."
             break
-        else:
-            partens = trace.find_all('p')
-            for block in partens:
-                if len(block.get_text()) > 99:
-                    bebots = bebots + " " + block.get_text()
+    else:
+        partens = trace.find_all('p')
+        for block in partens:
+            if len(block.get_text()) > 99:
+                bebots = bebots + " " + block.get_text()
 
     # 1 Изымаем параграфы
 

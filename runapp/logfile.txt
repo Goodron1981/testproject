@@ -3149,3 +3149,8 @@ Function load_isue_rota: 2018.06.26 12:58:51
 Йотобайк: 28719812: Postovoi: pravdu.com.ua: 2018-06-25T16:07:03: https://evroauto.com.ua/bloki-rozzhiga-ksenona: блок розжига ксенон цена
 Йотобайк: 28719454: Postovoi: estdomain.com.ua: 2018-06-25T12:40:33: http://tortnedorogo.ru/menyu/prikolnye-torty-na-den-rozhdeniya.html: торт на день рождения недорого
 
+Function autorizen: 2018.06.26 23:34:41
+Курко: 1425070: PR=497f5a0b5dfe4411b2d3abce8c32f228:82dbd7a5b4865422a256281496ab66ad3bd153a6; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=44d3998f9869b689645d1009906080ba:93e3a3b7b8c68b69190e3b0ce394d5adbe7c8904; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=f5d3ceca9c413d9f289e57525414c2d0:ebeade5fafe8363a0eb18941bbf990d2636cf60f; path=/; domain=api.pr.sape.ru
+
