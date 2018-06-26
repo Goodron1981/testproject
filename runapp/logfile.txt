@@ -3036,3 +3036,116 @@ Function autorizen: 2018.06.26 00:18:17
 Максим: 1063824: PR=a3b539e4eeb6d5c54ba84d5c05979277:4b9e656b4cfc36c37e5f4edd1db29363cae3d5e3; path=/; domain=api.pr.sape.ru
 Нанопласт: 1464824: PR=16f1d625272050a1ddab9e9898174212:15364313bc43bda0243c8617cc0d8af1dac0453c; path=/; domain=api.pr.sape.ru
 
+Function autorizen: 2018.06.26 12:58:45
+Курко: 1425070: PR=bf695a1cba050d2bab3cdc916a2a8302:c54af42b6e21e3fd9b8e697e1016f169529936c6; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=abe5872cf27e89828de56431ab1f7f1d:d26a76ae43c70a8e46102147be1a2478e2261215; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=23453b8e5f41f3aec20938a963d83c79:a68bcb00dcd563991309db0ac5040a83a47c4905; path=/; domain=api.pr.sape.ru
+
+Function load_isue: 2018.06.26 12:58:45
+Максим: 24028098: link: hdtv.net.ua: 2018-06-25 14:09:33: http://el-un.ru/products/kontaktnye-uzly: контактные узлы
+Нанопласт: 24027641: link: telopa.com.ua: 2018-06-25 11:30:57: http://tortnedorogo.ru/menyu/prikolnye-torty-na-den-rozhdeniya.html: торт на день рождения спб
+Нанопласт: 24027633: link: mip-stroy.com.ua: 2018-06-25 11:30:50: http://tortnedorogo.ru/menyu/prikolnye-torty-na-den-rozhdeniya.html: купить торт на день рождения недорого
+Нанопласт: 24027626: link: e-putivka.com.ua: 2018-06-25 11:30:47: http://tortnedorogo.ru/menyu/prikolnye-torty-na-den-rozhdeniya.html: заказать торт на день рождения ребенку недорого в спб
+Нанопласт: 24027621: link: telopa.com.ua: 2018-06-25 11:30:31: http://tortnedorogo.ru/menyu/prikolnye-torty-na-den-rozhdeniya.html: торт на день рождения спб
+Нанопласт: 24027613: link: mip-stroy.com.ua: 2018-06-25 11:30:22: http://tortnedorogo.ru/menyu/prikolnye-torty-na-den-rozhdeniya.html: купить торт на день рождения недорого
+Нанопласт: 24027606: link: e-putivka.com.ua: 2018-06-25 11:30:19: http://tortnedorogo.ru/menyu/prikolnye-torty-na-den-rozhdeniya.html: заказать торт на день рождения ребенку недорого в спб
+
+Function autorizen_rota: 2018.06.26 12:58:52
+Антон: true: 79d044ac-afe7-494b-a0ef-d4ff6b4184ce
+Курко: true: b7366017-dd69-48ce-b8b7-a958f4c3c3bd
+Максим: true: a5421106-855a-4fb7-a51d-f3dedd7e53a5
+Нанопласт: true: 943f3bce-1a36-4f1b-a9c1-308c7cfe2218
+Йотобайк: true: a857821e-5479-4bed-9bf1-d6124e172704
+
+Function load_isue_rota: 2018.06.26 12:58:51
+Курко: 28712579: Postovoi: quickest.com.ua: 2018-06-18T08:25:24: https://smartmobis.net.ua/catalog/smartfony: выбрать на сайте
+Курко: 28718455: Post: cugp.com.ua: 2018-06-23T20:28:01: None: None
+Курко: 28718679: Postovoi: ypag.com.ua: 2018-06-24T07:36:37: https://buddvir.ua/strojmaterialy-optom: стройматериалы оптом
+Курко: 28718719: PressRelease: nublog.ru: 2018-06-24T11:00:16: None: None
+Курко: 28718760: Postovoi: lightdesign.od.ua: 2018-06-24T12:21:36: http://sun.zt.ua/sonyachna-stanciya-gotovi-objekty: сонячний клуб Житомир
+Курко: 28718776: Postovoi: quickest.com.ua: 2018-06-24T12:21:39: http://sun.zt.ua/: сонячні батареї для будинку ціна
+Курко: 28718864: Postovoi: ypag.com.ua: 2018-06-24T15:21:03: https://videnflora.com/shop/avtomaticheskij-poliv/rotornie-orositeli-bolshoj-dalnosti/: роторные оросители большой дальности
+Курко: 28719200: Post: cugp.com.ua: 2018-06-25T02:28:00: None: None
+Курко: 28719422: Postovoi: cugp.com.ua: 2018-06-25T12:27:57: http://kaskaddnepr.com.ua/nedvizhimost/yuriy-mavrodiev-kratko-o-novostroykah-v-brovarah/1651: Эксперт рынка недвижимости Юрий Мавродиев кратко о новостройках в Броварах
+Курко: 28719542: Postovoi: ypag.com.ua: 2018-06-25T13:27:32: https://rixton.com.ua/catalog/ruchki-dlja-kotlov: https://rixton.com.ua/catalog/ruchki-dlja-kotlov
+Курко: 28719807: Postovoi: buyheavenlyspot.com.ua: 2018-06-25T16:04:23: https://evroauto.com.ua/angelskie_glazki: ангельские глазки купить в украине
+Курко: 28719994: Postovoi: ypag.com.ua: 2018-06-25T18:39:19: http://orion-trans.com.ua/trotuarnaya-plitka-avenyu/dvoynoye-t/: http://orion-trans.com.ua/trotuarnaya-plitka-avenyu/dvoynoye-t/
+Максим: 28715373: Postovoi: nanoplast.com.ua: 2018-06-20T15:08:37: https://newsbel.by/05/18/ustanovka-trotuarnyx-i-dorozhnyx-bordyurov-metody-i-texnologii/: как установить бордюр дорожный
+Максим: 28708878: Postovoi: webcapitalist.ru: 2018-06-13T17:46:00: http://seo-saitov.ru: продвижение сайтов Казань
+Максим: 28709063: Post: dveroman.kiev.ua: 2018-06-13T22:19:56: None: None
+Максим: 28716896: Post: betar.org.ua: 2018-06-21T19:08:37: None: None
+Максим: 28717647: Postovoi: betar.org.ua: 2018-06-23T00:00:55: http://gelena-tour.com: gelena-tour.com
+Максим: 28718474: Postovoi: seoclan.ru: 2018-06-23T22:45:58: https://marketing.dp.ua/seo-spetsialist/: seo курсы
+Максим: 28718475: Postovoi: seovin.ru: 2018-06-23T22:45:58: https://marketing.dp.ua/seo-spetsialist/: seo курсы
+Максим: 28718476: Postovoi: seooptimus.ru: 2018-06-23T22:45:58: https://marketing.dp.ua/seo-spetsialist/: курсы по seo
+Максим: 28718778: Postovoi: linq.kiev.ua: 2018-06-24T12:21:39: http://sun.zt.ua/zelenyj-taryf-na-elektroenergiyu-v-ukrajini: зелений тариф на електроенергію в україні
+Максим: 28718871: Postovoi: 4da.org.ua: 2018-06-24T15:42:53: https://videnflora.com/shop/semena/semena-gazonnoj-travy/: семена газонной травы
+Максим: 28714072: Postovoi: marsella.com.ua: 2018-06-19T12:39:45: http://www.pibu-shop.ru: www.pibu-shop.ru
+Максим: 28719438: Postovoi: kpln.com.ua: 2018-06-25T12:30:26: https://medpravda.com.ua/: medpravda.com.ua
+Максим: 28719995: Postovoi: dveroman.kiev.ua: 2018-06-25T18:41:35: http://orion-trans.com.ua/zbi-zhelezobetonnyye-izdeliya/svai-zabivnyye/: сваи забивные
+Максим: 28720386: Postovoi: gv.org.ua: 2018-06-26T04:35:24: https://elit-dental.com/lechenie-kariesa/: Лечение кариеса
+Максим: 28720429: Postovoi: druzhba-lux.com.ua: 2018-06-26T08:28:47: https://topsexshop.com.ua/masturbatory-i-vaginy/: https://topsexshop.com.ua/masturbatory-i-vaginy/
+Максим: 28714939: Postovoi: adonaidenver.org: 2018-06-20T11:08:00: http://seo-saitov.ru: продвижение сайтов в Яндексе
+Нанопласт: 28715063: Postovoi: sharabt.com.ua: 2018-06-20T12:08:29: https://spparts.com.ua/categories/zapchasti-dlya-blenderov-i-mikserov-braun: сайт
+Нанопласт: 28719541: Postovoi: electrodom-l.com.ua: 2018-06-25T13:27:32: https://rixton.com.ua/: отопительное оборудование Rixton
+Нанопласт: 28719544: Postovoi: euro-m.kharkov.ua: 2018-06-25T13:27:33: https://rixton.com.ua/catalog/avtomatika-dlja-otopitelnogo-oborudovanija: https://rixton.com.ua/catalog/avtomatika-dlja-otopitelnogo-oborudovanija
+Нанопласт: 28719549: Postovoi: electrodom-l.com.ua: 2018-06-25T13:29:00: http://s-tool.com.ua/ru/nabory-klyuchey: Наборы ключей
+Нанопласт: 28719887: Postovoi: mip-stroy.com.ua: 2018-06-25T17:37:57: http://orion-trans.com.ua/zbi-zhelezobetonnyye-izdeliya/plitu-perekrituya/: бетонные плиты перекрытия размеры
+Нанопласт: 28719990: Postovoi: ekobil.com.ua: 2018-06-25T18:35:50: http://orion-trans.com.ua/posts/beton-m200-m250-dlya-fundament-v-kieve: бетон для фундамента
+Нанопласт: 28718755: Postovoi: oscar.donetsk.ua: 2018-06-24T12:21:35: http://sun.zt.ua/zelenyj-taryf-na-elektroenergiyu-v-ukrajini: зелений тариф на електроенергію в україні
+Нанопласт: 28718739: Postovoi: e-putivka.com.ua: 2018-06-24T12:21:33: http://sun.zt.ua/sonyachni-paneli-kupyty-komplekt-dlya-domu: сонячні панелі комплект для дому ціна
+Нанопласт: 28718740: Postovoi: mip-stroy.com.ua: 2018-06-24T12:21:33: http://sun.zt.ua/zelenyj-taryf-na-elektroenergiyu-v-ukrajini: сонячні електростанції під ключ зелений тариф
+Нанопласт: 28718741: Postovoi: tren.com.ua: 2018-06-24T12:21:33: http://sun.zt.ua/zelenyj-taryf-na-elektroenergiyu-v-ukrajini: сонячні електростанції під ключ зелений тариф
+Нанопласт: 28718743: Postovoi: yavtanke.org.ua: 2018-06-24T12:21:33: http://sun.zt.ua/sonyachni-paneli-kupyty-komplekt-dlya-domu: ціна на сонячні панелі
+Нанопласт: 28718737: Postovoi: catalog-security.com.ua: 2018-06-24T12:21:32: http://sun.zt.ua/sonyachni-paneli-kupyty-komplekt-dlya-domu: сонячні панелі купити
+Нанопласт: 28718718: Postovoi: savelink.org.ua: 2018-06-24T10:58:50: http://dahovi-vikna.com.ua/mancardni-vikna: вартість встановлення мансардного вікна
+Нанопласт: 28718717: Postovoi: mylink.org.ua: 2018-06-24T10:57:18: http://dahovi-vikna.com.ua/mancardni-vikna: вікно мансардне ціна
+Нанопласт: 28718677: Postovoi: electrodom-l.com.ua: 2018-06-24T07:36:37: https://buddvir.ua/: Buddvir
+Нанопласт: 28718678: Postovoi: ekobil.com.ua: 2018-06-24T07:36:37: https://buddvir.ua/strojmaterialy-optom: buddvir.ua
+Нанопласт: 28718753: Postovoi: zvonkov.net.ua: 2018-06-24T12:21:35: http://sun.zt.ua/vstanovlennya-sonyachnyx-elektrostancij: купити сонячну електростанцію
+Нанопласт: 28718752: Postovoi: softik.net.ua: 2018-06-24T12:21:35: http://sun.zt.ua/vstanovlennya-sonyachnyx-elektrostancij: купити сонячну електростанцію
+Нанопласт: 28718751: Postovoi: orangecat.net.ua: 2018-06-24T12:21:35: http://sun.zt.ua/vstanovlennya-sonyachnyx-elektrostancij: сонячна електростанція в Україні Житомир
+Нанопласт: 28718750: Postovoi: hodos.kharkov.ua: 2018-06-24T12:21:35: http://sun.zt.ua/vstanovlennya-sonyachnyx-elektrostancij: сонячні електростанції під ключ
+Нанопласт: 28718757: Postovoi: turtrans.net.ua: 2018-06-24T12:21:36: http://sun.zt.ua/zelenyj-taryf-na-elektroenergiyu-v-ukrajini: сонячні батареї зелений тариф
+Нанопласт: 28718763: Postovoi: bf3.com.ua: 2018-06-24T12:21:37: http://sun.zt.ua/: сонячні батареї для будинку ціна
+Нанопласт: 28718761: Postovoi: slaidik.com.ua: 2018-06-24T12:21:37: http://sun.zt.ua/: сонячні батареї в Україні Житомир
+Нанопласт: 28718775: Postovoi: electrodom-l.com.ua: 2018-06-24T12:21:39: http://sun.zt.ua/sonyachna-stanciya-gotovi-objekty: встановлення сонячних батарей Житомир
+Нанопласт: 28718780: Postovoi: ekobil.com.ua: 2018-06-24T12:21:40: http://sun.zt.ua/sonyachni-paneli-kupyty-komplekt-dlya-domu: сонячні панелі комплект для дому ціна
+Нанопласт: 28718872: Postovoi: electrodom-l.com.ua: 2018-06-24T15:45:17: https://videnflora.com/shop/udobrenija/udobrenie-dlja-roz/: удобрение для роз
+Нанопласт: 28718866: Postovoi: ekobil.com.ua: 2018-06-24T15:24:16: https://videnflora.com/shop/udobrenija/: https://videnflora.com/shop/udobrenija/
+Нанопласт: 28718870: Postovoi: euro-m.kharkov.ua: 2018-06-24T15:31:24: https://videnflora.com/shop/sadovij-instrument/nozhnici-dlja-zhivoj-izgorodi/: ножницы для живой изгороди
+Нанопласт: 28718808: Postovoi: mip-stroy.com.ua: 2018-06-24T14:07:22: https://e-d-s.com.ua/: Дизайн офиса
+Нанопласт: 28718821: Postovoi: mip-stroy.com.ua: 2018-06-24T14:46:45: https://videnflora.com/shop/udobrenija/: удобрения
+Нанопласт: 28718909: Postovoi: slaidik.com.ua: 2018-06-24T16:46:19: http://ukr.memento-mori.com.ua/atributika-dlya-zaxoron.html: ритуальна атрибутика
+Нанопласт: 28718908: Postovoi: slaidik.com.ua: 2018-06-24T16:46:19: https://plastic.km.ua/: https://plastic.km.ua/
+Нанопласт: 28718910: Postovoi: slaidik.com.ua: 2018-06-24T16:46:20: https://www.ecoalt.km.ua/product-category/vyrobnyky/panasonic/: Panasonic
+Нанопласт: 28719013: Post: ekobil.com.ua: 2018-06-24T22:28:18: None: None
+Нанопласт: 28716137: Postovoi: ekobil.com.ua: 2018-06-21T11:59:12: http://okna-info.by/: okna-info.by
+Нанопласт: 28719767: Postovoi: umapalata.zp.ua: 2018-06-25T15:49:23: https://evroauto.com.ua/angelskie_glazki: ангельские глазки купить в украине
+Нанопласт: 28719799: Postovoi: playman.com.ua: 2018-06-25T16:02:16: https://evroauto.com.ua/biksenonovye-lampy: биксенон h4
+Нанопласт: 28719768: Postovoi: zenit2.com.ua: 2018-06-25T15:49:24: https://evroauto.com.ua/bloki-rozzhiga-ksenona: блок розжига ксенон цена
+Нанопласт: 28719766: Postovoi: slaidik.com.ua: 2018-06-25T15:49:23: https://evroauto.com.ua/biksenonovye-lampy: лампа биксенон
+Нанопласт: 28719802: Postovoi: yavtanke.org.ua: 2018-06-25T16:02:20: https://evroauto.com.ua/ksenon: ксенон лампы купить
+Нанопласт: 28719803: Postovoi: gyrus.org.ua: 2018-06-25T16:02:20: https://evroauto.com.ua/svetodiodnie_lampi: купить светодиодные лампы для авто
+Нанопласт: 28719804: Postovoi: slonoff.net.ua: 2018-06-25T16:02:20: https://evroauto.com.ua/ksenon: купить ксенон Киев
+Нанопласт: 28719801: Postovoi: tropic.od.ua: 2018-06-25T16:02:19: https://evroauto.com.ua/ksenon: ксенон Харьков
+Нанопласт: 28719800: Postovoi: e-putivka.com.ua: 2018-06-25T16:02:17: https://evroauto.com.ua/ksenon: ксенон купить Киев
+Нанопласт: 28719805: Postovoi: softik.net.ua: 2018-06-25T16:02:22: https://evroauto.com.ua/svetodiodnie_lampi: купить светодиодную лампу для авто
+Нанопласт: 28720439: Postovoi: umapalata.zp.ua: 2018-06-26T09:15:56: https://etool.com.ua/g5563107-elektrolobziki: электролобзик
+Нанопласт: 28720442: Postovoi: mip-stroy.com.ua: 2018-06-26T09:15:58: https://etool.com.ua/g5563107-elektrolobziki: профессиональный электролобзик
+Нанопласт: 28719450: Postovoi: tren.com.ua: 2018-06-25T12:40:25: http://tortnedorogo.ru/menyu/prikolnye-torty-na-den-rozhdeniya.html: торт день рождения
+Нанопласт: 28719451: Postovoi: catalog-security.com.ua: 2018-06-25T12:40:28: http://tortnedorogo.ru/menyu/prikolnye-torty-na-den-rozhdeniya.html: торт на заказ на день рождения недорого
+Нанопласт: 28719452: Postovoi: turtrans.net.ua: 2018-06-25T12:40:30: http://tortnedorogo.ru/menyu/prikolnye-torty-na-den-rozhdeniya.html: заказать торт на день рождения ребенку недорого в спб
+Нанопласт: 28719455: Postovoi: programer.org.ua: 2018-06-25T12:40:38: http://tortnedorogo.ru/menyu/prikolnye-torty-na-den-rozhdeniya.html: торт на день рождения спб
+Йотобайк: 28702590: Postovoi: farman.kiev.ua: 2018-06-06T15:19:29: http://forbaby.org.ua/health/8788-gomeopatiya-vosstanovitelnaya-terapiya-dlya-vsego-organizma.html: gomeopat-kiev
+Йотобайк: 28716019: Post: pravdu.com.ua: 2018-06-21T10:06:57: None: None
+Йотобайк: 28718748: Postovoi: estdomain.com.ua: 2018-06-24T12:21:34: http://sun.zt.ua/vstanovlennya-sonyachnyx-elektrostancij: сонячні електростанції під ключ
+Йотобайк: 28718745: Postovoi: 24zp.org.ua: 2018-06-24T12:21:34: http://sun.zt.ua/vstanovlennya-sonyachnyx-elektrostancij: сонячна електростанція в Україні Житомир
+Йотобайк: 28718759: Postovoi: feyhoa.org.ua: 2018-06-24T12:21:36: http://sun.zt.ua/vstanovlennya-sonyachnyx-elektrostancij: обладнання електростанції Житомир
+Йотобайк: 28718758: Postovoi: 3das.com.ua: 2018-06-24T12:21:36: http://sun.zt.ua/: сонячні батареї в Україні Житомир
+Йотобайк: 28719348: Postovoi: farman.kiev.ua: 2018-06-25T11:18:48: http://helpo-hemor.com.ua/ru: www.helpo-hemor.com.ua
+Йотобайк: 28719440: Postovoi: farman.kiev.ua: 2018-06-25T12:30:26: https://medpravda.com.ua/: https://medpravda.com.ua/
+Йотобайк: 28719543: Postovoi: elites-montage.com.ua: 2018-06-25T13:27:32: https://rixton.com.ua/catalog/uplotnitelnye-termostojkie-shnury: уплотнительные термостойкие шнуры
+Йотобайк: 28719812: Postovoi: pravdu.com.ua: 2018-06-25T16:07:03: https://evroauto.com.ua/bloki-rozzhiga-ksenona: блок розжига ксенон цена
+Йотобайк: 28719454: Postovoi: estdomain.com.ua: 2018-06-25T12:40:33: http://tortnedorogo.ru/menyu/prikolnye-torty-na-den-rozhdeniya.html: торт на день рождения недорого
+

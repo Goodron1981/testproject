@@ -1,7 +1,7 @@
 # Будет запускать вторую часть: подборка уникального текста и ее публикация
 from runapp.models import Isue, GUrl_List
 from runapp.add_unikal_content.search_url_google import geturls
-from runapp.add_unikal_content.parse_page import getcontent
+from runapp.Fortest.parsetest import getcontent
 from runapp.add_unikal_content.format_text import format_cut_content
 from runapp.add_unikal_content.translate import translatecont
 from runapp.add_unikal_content.unikal_test import getunikal
