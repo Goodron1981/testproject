@@ -3159,3 +3159,8 @@ Function autorizen: 2018.06.27 13:46:40
 Максим: 1063824: PR=5ea7ef136fa1a61cc84d47dbcb4647ca:d790570ca64d7d6eeb4550f7057ea585f1f11661; path=/; domain=api.pr.sape.ru
 Нанопласт: 1464824: PR=3b3dcf225a559a9cabed2d59780852e0:2303788940a051e7e000e188b7b73644111a23c4; path=/; domain=api.pr.sape.ru
 
+Function autorizen: 2018.06.27 23:33:56
+Курко: 1425070: PR=490e9920328d974e6da4199dad9d721b:1a7a459a53cdf851e2d037aeb909b31c97468c5d; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=4088065ba269b7474aeb8ded3709a549:6ef0a7282809c13862fd1a7ee7be50be069360b3; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=a9b02609c1479911b76c8f16b600da53:13d2fc9fc018753f197fa38f341d4a41166884be; path=/; domain=api.pr.sape.ru
+
