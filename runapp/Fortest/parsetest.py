@@ -41,10 +41,12 @@ def getcontent(searchurl):
             bebots = "Bad text."
             break
     else:
-        partens = trace.find_all('p')
-        for block in partens:
-            if len(block.get_text()) > 99:
-                bebots = bebots + " " + block.get_text()
+        if not "Bad" in bebots:
+            partens = trace.find_all('p')
+            bebots = ""
+            for block in partens:
+                if len(block.get_text()) > 99:
+                    bebots = bebots + " " + block.get_text()
 
     # 1 Изымаем параграфы
 
