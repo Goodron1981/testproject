@@ -51,6 +51,7 @@ class IsueAdmin(admin.ModelAdmin):
 
     make_new.short_description = "Cler keyword and image"
 
+
 class Keys_List(models.Model):
     num = models.IntegerField(default=1, verbose_name='№')
     root_word = models.TextField(max_length=100, default = 'None', verbose_name= 'Корневое слово')

@@ -3474,3 +3474,22 @@ Function load_isue_rota: 2018.07.02 17:23:03
 Йотобайк: 28724833: Postovoi: pravdu.com.ua: 2018-07-01T19:37:25: https://www.stroy-dom.kiev.ua/: https://www.stroy-dom.kiev.ua/
 Йотобайк: 28724981: Postovoi: darkbluecat.net.ua: 2018-07-01T22:34:31: http://servise-okon.com.ua/remont-okonnoj-furnitury-rehau/: http://servise-okon.com.ua/remont-okonnoj-furnitury-rehau/
 
+Function autorizen: 2018.07.03 23:07:28
+Курко: 1425070: PR=bc86b17a129466ad1b791da0f8d8b957:e3f5af10c2998e96530a98bf176a33bbb57da267; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=98e2cc9e2fd6575fd265a96e03dea68e:867ef32200b9a0ca0d68cdf73502080b7d2defe7; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=9a71266cdaf14e60df609475909e17ae:807aa159a03809be7096cd67e93bd5537ac67c84; path=/; domain=api.pr.sape.ru
+
+Function autorizen_rota: 2018.07.03 23:09:08
+Антон: true: 05575333-b21d-42e2-b247-131113008fba
+Курко: true: c6e72d13-0aa8-442a-a05a-cd522eca7f9c
+Максим: true: b36fe931-7f34-4dfb-9205-4faf3178fdda
+Нанопласт: true: 5f925061-38f7-4171-bea1-5676184d1b9f
+Йотобайк: true: db806930-ae4d-4a53-b15d-f6d6017f3235
+
+Function autorizen_rota: 2018.07.03 23:10:24
+Антон: true: 05575333-b21d-42e2-b247-131113008fba
+Курко: true: c6e72d13-0aa8-442a-a05a-cd522eca7f9c
+Максим: true: b36fe931-7f34-4dfb-9205-4faf3178fdda
+Нанопласт: true: 5f925061-38f7-4171-bea1-5676184d1b9f
+Йотобайк: true: db806930-ae4d-4a53-b15d-f6d6017f3235
+
