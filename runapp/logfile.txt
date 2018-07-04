@@ -3493,3 +3493,15 @@ Function autorizen_rota: 2018.07.03 23:10:24
 Нанопласт: true: 5f925061-38f7-4171-bea1-5676184d1b9f
 Йотобайк: true: db806930-ae4d-4a53-b15d-f6d6017f3235
 
+Function autorizen_rota: 2018.07.04 09:49:47
+Антон: true: 05575333-b21d-42e2-b247-131113008fba
+Курко: true: c6e72d13-0aa8-442a-a05a-cd522eca7f9c
+Максим: true: b36fe931-7f34-4dfb-9205-4faf3178fdda
+Нанопласт: true: 5f925061-38f7-4171-bea1-5676184d1b9f
+Йотобайк: true: db806930-ae4d-4a53-b15d-f6d6017f3235
+
+Function autorizen: 2018.07.04 15:03:14
+Курко: 1425070: PR=79696d1a7a0f2802dc08313fa611dfcc:60a73de87e8ab2ca550b2fd695e3cdf9ac1e4b51; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=3fd71a65ab968cecc708b8d9f534b46a:a891956ac7b7af0416c47ad622bce5d0705ed5cd; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=90b0ede6cae9639ac3a300840459214e:7c90d06221429f1b6200a090d95f9059ea3148a3; path=/; domain=api.pr.sape.ru
+
