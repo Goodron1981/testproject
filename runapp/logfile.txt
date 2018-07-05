@@ -3510,3 +3510,69 @@ Function autorizen: 2018.07.05 00:07:38
 Максим: 1063824: PR=858739d5abbb2bd678ba40ff31543783:4d5fec0b4b0b571552ed3b750f031efb6d151e18; path=/; domain=api.pr.sape.ru
 Нанопласт: 1464824: PR=f63cbdd2532b5fdbbaf11ba8d07becd8:7c256669299cd75de9cbd60918f1835bcf7d8ebd; path=/; domain=api.pr.sape.ru
 
+Function autorizen: 2018.07.05 12:20:07
+Курко: 1425070: PR=383701b92ab8f9d11b1a000f1be82d36:d8138edd638a701bb4c6f68926366a458c619779; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=e8a7a21e9246a131401f3ba6e89edc48:72aeb1f768a83beeba38cd1025b6f2688363e45c; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=11751c3e18721c8692a1387691310ce9:1a603884f8acdb71608eb5e85e5972fe47c24285; path=/; domain=api.pr.sape.ru
+
+Function load_isue: 2018.07.05 12:20:07
+Курко: 24047915: review: linuxsam.org.ua: 2018-07-03 16:16:58: http://azino-games.xyz/: http://azino-games.xyz/
+Максим: 24047519: review: upu.org.ua: 2018-07-03 14:35:06: http://vipcatering.com.ua: кейтеринг в Киеве
+Максим: 24047486: review: upu.org.ua: 2018-07-03 14:29:05: http://amyshop.com.ua: купить кальян
+Максим: 24045702: link: druzhba-lux.com.ua: 2018-07-02 22:02:24: http://salongracia.kz/uslugi/studiya-makiyazha: студия макияжа
+Максим: 24025846: link: smartx.kiev.ua: 2018-06-24 04:34:20: http://www.treelog.ru/products/vagony-dlya-avtonomnogo-prozhivaniya: бытовки цена спб
+Нанопласт: 24047028: link: tellall.kiev.ua: 2018-07-03 12:22:33: http://cryptodiagnoz.com/estonia/: Cryptocurrencies Estonia
+Нанопласт: 24046533: link: openlib.org.ua: 2018-07-03 10:09:48: http://siso.com.ua/ctcat/dizajn-radiatory.html: радиаторы декоративные
+Нанопласт: 24045150: link: openlib.org.ua: 2018-07-02 17:46:07: https://tapro.com.ua/catalog/klejkaa-dvuhstoronnaa-lenta/: скотч двухсторонний
+
+Function load_isue_rota: 2018.07.05 12:20:10
+Курко: 28725394: Post: ypag.com.ua: 2018-07-02T13:53:28: None: None
+Курко: 28725650: Postovoi: lightdesign.od.ua: 2018-07-02T17:52:33: http://www.po4em-bilet.ru/tag/волгоград/: жд билеты волгоград екатеринбург
+Курко: 28726000: Postovoi: ukravtomobil.if.ua: 2018-07-03T00:46:24: https://t-don.com/catalog/zapchasti-k-selhoztehnike: купить запчасти для сельскохозяйственной техники
+Курко: 28720441: Postovoi: lightdesign.od.ua: 2018-06-26T09:15:57: https://etool.com.ua/g5563107-elektrolobziki: купить электролобзик в Украине
+Курко: 28726434: Postovoi: smolianoy.com.ua: 2018-07-03T13:53:09: http://web-vp.com/ru/uslugi/razrabotka-sajtov: Создание сайта
+Курко: 28726682: Postovoi: medical-beauty.org.ua: 2018-07-03T17:59:38: http://lestnitsy.com.ua/ru/shodi-na-gorishche/: лестница чердачная дешево
+Курко: 28724295: Postovoi: xn--90afsemmyc.com.ua: 2018-06-30T15:32:28: http://autovinyl.net/: Виниловые наклейки на авто
+Курко: 28727119: Post: seocoding.ru: 2018-07-04T11:27:08: None: None
+Максим: 28722359: PressRelease: 4da.org.ua: 2018-06-28T09:16:22: None: None
+Максим: 28722733: Post: fledur.org.ua: 2018-06-28T14:09:46: None: None
+Максим: 28725618: Postovoi: adonaidenver.org: 2018-07-02T17:26:59: http://www.penza-press.ru/znakomimsy_s_porodoy_meyn_kyn.dhtm: порода мейн кун
+Максим: 28725704: Postovoi: msmirnova.ru: 2018-07-02T18:27:06: https://topsexshop.com.ua/seks-igrushki.html: здесь
+Максим: 28726447: Postovoi: apples-web.org.ua: 2018-07-03T14:01:18: http://web-vp.com/ru/uslugi/razrabotka-sajtov: Разработка и создание сайтов в Харькове
+Максим: 28726441: Postovoi: www.topcatalog.com.ua: 2018-07-03T13:58:00: http://web-vp.com/ru/uslugi/razrabotka-sajtov: Создание сайта
+Максим: 28726439: Postovoi: openlib.org.ua: 2018-07-03T13:57:16: http://web-vp.com/ru/uslugi/razrabotka-sajtov: Создание сайтов в Харькове
+Максим: 28726436: Postovoi: infoweb.org.ua: 2018-07-03T13:54:41: http://web-vp.com/ru/uslugi/razrabotka-sajtov: Разработка сайта
+Максим: 28726483: PressRelease: fledur.org.ua: 2018-07-03T15:09:05: None: None
+Максим: 28727184: Postovoi: dveroman.kiev.ua: 2018-07-04T12:29:21: http://print-media-group.com.ua/: широкоформатная печать недорого
+Нанопласт: 28725575: Postovoi: ekobil.com.ua: 2018-07-02T17:04:04: http://print-media-group.com.ua/: широкоформатная печать недорого
+Нанопласт: 28725648: Postovoi: oscar.donetsk.ua: 2018-07-02T17:52:01: http://www.po4em-bilet.ru/tag/бронирование-билетов-ржд/: бронировать билеты на поезд ржд через интернет
+Нанопласт: 28725647: Postovoi: shiva.net.ua: 2018-07-02T17:52:01: http://www.po4em-bilet.ru/tag/бронирование-билетов-ржд/: бронь билетов ржд
+Нанопласт: 28725651: Postovoi: blackmetal.kiev.ua: 2018-07-02T17:52:33: http://www.po4em-bilet.ru/tag/волгоград/: билет на поезд волгоград краснодар
+Нанопласт: 28726001: Postovoi: avtocentr.sumy.ua: 2018-07-03T00:46:24: https://t-don.com/catalog/zapchasti-k-selhoztehnike: купить запчасти для сельскохозяйственной техники
+Нанопласт: 28726172: Post: valiza-tour.kiev.ua: 2018-07-03T08:23:47: None: None
+Нанопласт: 28726435: Postovoi: myiphone.net.ua: 2018-07-03T13:53:56: http://web-vp.com/ru/uslugi/razrabotka-sajtov: Создание сайта
+Нанопласт: 28726388: Postovoi: catalog-security.com.ua: 2018-07-03T12:51:42: http://www.ktservice.kiev.ua/info/matrac.html: химчистка матрасов в Киеве
+Нанопласт: 28726448: Postovoi: linkomania.com.ua: 2018-07-03T14:03:03: http://web-vp.com/ru/uslugi/razrabotka-sajtov: создание сайта компании Харьков
+Нанопласт: 28726444: Postovoi: miranda.org.ua: 2018-07-03T13:59:55: http://web-vp.com/ru/uslugi/razrabotka-sajtov: Разработка сайта
+Нанопласт: 28726443: Postovoi: web-city.org.ua: 2018-07-03T13:58:14: http://www.po4em-bilet.ru/tag/волгоград/: билеты ржд волгоград сочи
+Нанопласт: 28726440: Postovoi: linkomania.com.ua: 2018-07-03T13:57:28: http://dahovi-vikna.com.ua/ru/mancardnie-okna: купить мансардное окно
+Нанопласт: 28726437: Postovoi: ua-games.com.ua: 2018-07-03T13:56:14: http://web-vp.com/ru/uslugi/razrabotka-sajtov: Разработка интернет-магазина
+Нанопласт: 28724297: Postovoi: fbk.org.ua: 2018-06-30T15:32:29: http://autovinyl.net/: Виниловые наклейки на авто
+Нанопласт: 28727628: Postovoi: myiphone.net.ua: 2018-07-04T22:01:19: https://iglaz.com.ua/smartfony/meizu/: meizu
+Нанопласт: 28727922: Postovoi: slonoff.net.ua: 2018-07-05T08:57:49: https://www.stroy-dom.kiev.ua/laminat-i-parket/laminate/manufacturer/krono-original: https://www.stroy-dom.kiev.ua/laminat-i-parket/laminate/manufacturer/krono-original
+Нанопласт: 28725219: Postovoi: e-putivka.com.ua: 2018-07-02T08:28:46: http://www.po4em-bilet.ru/tag/красноярск/: жд билеты красноярск самара
+Йотобайк: 28722264: Postovoi: feyhoa.org.ua: 2018-06-28T02:33:57: http://www.po4em-bilet.ru/tag/волгоград/: жд билеты волгоград новороссийск
+Йотобайк: 28722266: Postovoi: chvv.com.ua: 2018-06-28T02:34:00: http://www.po4em-bilet.ru/tag/волгоград/: авиабилеты волгоград санкт-петербург
+Йотобайк: 28725564: Postovoi: 24zp.org.ua: 2018-07-02T16:46:00: http://web-vp.com/ru/uslugi/razrabotka-sajtov: создание сайта компании Харьков
+Йотобайк: 28725569: Postovoi: 3das.com.ua: 2018-07-02T16:48:34: http://web-vp.com/ru/uslugi/razrabotka-sajtov: Профессиональная разработка сайта
+Йотобайк: 28725649: Postovoi: 24zp.org.ua: 2018-07-02T17:52:32: http://www.po4em-bilet.ru/tag/волгоград/: цена билета волгоград москва
+Йотобайк: 28726433: Postovoi: estdomain.com.ua: 2018-07-03T13:53:08: http://web-vp.com/ru/uslugi/razrabotka-sajtov: Создание сайта
+Йотобайк: 28726442: Postovoi: hopka.org.ua: 2018-07-03T13:58:13: http://www.po4em-bilet.ru/tag/бронирование-билетов-ржд/: забронировать билеты ржд
+Йотобайк: 28723587: Postovoi: 3das.com.ua: 2018-06-29T14:33:23: http://www.po4em-bilet.ru/tag/волгоград/: жд билеты волгоград новосибирск
+
+Function load_isue: 2018.07.05 14:25:13
+Курко: 24052426: link: patriarh.in.ua: 2018-07-05 11:43:16: http://dental-service.net.ua/about_us.html: Дентал сервис Киев
+Курко: 24052425: link: lightdesign.od.ua: 2018-07-05 11:43:16: http://dental-service.net.ua/sistema-mis/: Импланты mis
+
+Function load_isue_rota: 2018.07.05 14:25:15
+
