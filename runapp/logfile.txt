@@ -3581,3 +3581,48 @@ Function autorizen: 2018.07.05 23:27:50
 Максим: 1063824: PR=19d4088eee1228be7686d4973df3189f:b865d3d023c2ead16f8ef4f9b8655b3ededba0b3; path=/; domain=api.pr.sape.ru
 Нанопласт: 1464824: PR=a6c453c84f0c224397280c04f21372c6:11c2e162dc05742d51e24ca6215aa2c9bf8be6a0; path=/; domain=api.pr.sape.ru
 
+Function autorizen: 2018.07.07 22:49:51
+Курко: 1425070: PR=156e5aa84661b953276ba479d879ba91:a9d8fc61a598eaa67a21c3373ebbf39ca7c3e41d; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=4f20c97c55d740186a0b51caff659e1e:ccebc045fd265ffa7961c8378e9cd662fc22e212; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=20f90a1d72af581f09a2299a7d6f94b6:ff385d3ed3a0837b7cf156878bbf479c41379d98; path=/; domain=api.pr.sape.ru
+
+Function load_isue: 2018.07.07 22:49:51
+Курко: 24057782: link: nublog.ru: 2018-07-07 10:13:42: https://hookers.brussels/: hookers
+Курко: 24055786: link: cugp.com.ua: 2018-07-06 14:17:21: http://tovrami.com.ua/produkcija/kostnij-material-osteoplast/: Остеопласт
+Максим: 24058081: link: marsella.com.ua: 2018-07-07 14:30:56: https://starkbud.com.ua/catalog/keramikahttps://starkbud.com.ua/catalog/plitka-dlja-pola: рекомендуем купить плитку для пола
+Максим: 24057638: link: fledur.org.ua: 2018-07-07 08:23:24: http://betonn.kiev.ua/: бетон купить
+Максим: 24057634: link: fledur.org.ua: 2018-07-07 08:19:56: https://massage-manhattan.com/: massage manhattan
+Максим: 24057524: link: hdtv.net.ua: 2018-07-07 05:03:01: http://omnibus-auto.ru/: аренда микроавтобуса
+Максим: 24057287: link: fledur.org.ua: 2018-07-07 01:32:16: https://atlanticschool.org/ru/: начальная школа
+Максим: 24055984: link: marsella.com.ua: 2018-07-06 15:39:29: https://sticker.com.ua/primenenie/etiketki-na-bytovuyu-khimiyu: печать этикеток
+Максим: 24055971: review: druzhba-lux.com.ua: 2018-07-06 15:31:29: https://searchup.pro/services/seo: продвижение сайта в Украине
+Максим: 24054931: link: druzhba-lux.com.ua: 2018-07-06 08:19:37: http://техноинжениринг.рф: &quot;ТехноИнжениринг.РФ&quot;
+Нанопласт: 24057889: link: tellall.kiev.ua: 2018-07-07 11:46:26: https://globalmovingllc.com/wrap-furniture-moving/: furniture wrap
+Нанопласт: 24053308: link: linq.kiev.ua: 2018-07-05 16:19:31: https://hookers.brussels/: hookers
+
+Function load_isue_rota: 2018.07.07 22:50:01
+Курко: 28727983: Postovoi: ypag.com.ua: 2018-07-05T11:12:12: http://ekaterinburg.mobiprof.ru/category/profilirovochnoe-oborudovanie/: производства профилей
+Курко: 28728635: Postovoi: nublog.ru: 2018-07-05T19:50:56: https://vinste.ru/article/professionalynoe-prodvighenie-v-instagram-instagram-moskva: на этом сайте
+Курко: 28728016: Postovoi: ypag.com.ua: 2018-07-05T11:38:24: http://nizhniynovgorod.mobiprof.ru/category/krovelnyj-instrument-stubai/: Для закрытия фальцев при установке используется #a#инструмент для кровельных#a# работ.
+Курко: 28727993: Postovoi: ypag.com.ua: 2018-07-05T11:22:18: http://novosibirsk.mobiprof.ru/category/profilirovochnoe-oborudovanie/: Комплектация рабочих элементов для #a#гибки профиля#a# изменяется в зависимости от модели профилировочного станка.
+Курко: 28725650: Postovoi: lightdesign.od.ua: 2018-07-02T17:52:33: http://www.po4em-bilet.ru/tag/волгоград/: жд билеты волгоград екатеринбург
+Максим: 28729092: Postovoi: nutscn.com: 2018-07-06T10:07:45: https://etool.com.ua/g5563107-elektrolobziki: https://etool.com.ua/g5563107-elektrolobziki
+Максим: 28729190: Post: druzhba-lux.com.ua: 2018-07-06T10:32:49: None: None
+Максим: 28729244: Postovoi: seoclan.ru: 2018-07-06T11:21:10: http://novicam66.ru/: Комплект видеонаблюдения
+Максим: 28729462: Post: gv.org.ua: 2018-07-06T13:08:06: None: None
+Максим: 28729577: Postovoi: fledur.org.ua: 2018-07-06T14:55:57: https://akvarel-n.com.ua/catalog/shkolnye-tetradi/: купить тетради для школы
+Максим: 28729952: Postovoi: elit-a-a.com.ua: 2018-07-06T19:21:29: https://otvetstvennoye-khraneniye.blogspot.com/2018/05/blog-post.html: https://otvetstvennoye-khraneniye.blogspot.com/2018/05/blog-post.html
+Нанопласт: 28728255: Postovoi: fbk.org.ua: 2018-07-05T15:25:47: http://agentgai.ru/uslugi/dogovor-kupli-prodazhi: Скачать договор купли продажи автомобиля
+Нанопласт: 28728695: Postovoi: sortis.com.ua: 2018-07-05T22:52:09: https://vulkanenergo.com.ua/ru/parovie_kotli_serii_e.html: vulkanenergo.com.ua/ru/parovie_kotli_serii_e
+Нанопласт: 28728691: Postovoi: mip-stroy.com.ua: 2018-07-05T22:41:04: https://vulkanenergo.com.ua/: https://vulkanenergo.com.ua/
+Нанопласт: 28729467: Postovoi: gyrus.org.ua: 2018-07-06T13:19:36: http://www.epos.ua/view.php/service_remont_noytbykov: ремонт и чистка ноутбуков
+Нанопласт: 28729469: Postovoi: tren.com.ua: 2018-07-06T13:23:31: http://www.epos.ua/view.php/service_remont_planshetov: http://www.epos.ua/view.php/service_remont_planshetov
+Нанопласт: 28729612: Postovoi: euro-m.kharkov.ua: 2018-07-06T15:31:17: https://dom4m.com.ua/proekty-domov-s-mansardoj/: проект дома с мансардой
+Нанопласт: 28729704: Postovoi: hodos.kharkov.ua: 2018-07-06T16:48:32: https://moris.dp.ua/ru/kirillovka: днепр кирилловка маршрутка
+Нанопласт: 28730500: Postovoi: yavtanke.org.ua: 2018-07-07T04:30:49: http://dahovi-vikna.com.ua/ru/fakro: установка мансардных окон факро цена
+Нанопласт: 28728892: Postovoi: catalog-security.com.ua: 2018-07-06T06:20:23: http://yourwater.ru/: доставка воды в офис
+Йотобайк: 28728038: Postovoi: elites-montage.com.ua: 2018-07-05T12:21:42: https://g-shop.com.ua/poliv/nasosy-i-stancii/drenazhnye-nasosy/: G-shop.com.ua
+Йотобайк: 28729468: Postovoi: 3das.com.ua: 2018-07-06T13:23:31: http://www.epos.ua/view.php/remont-monitorov: http://www.epos.ua
+Йотобайк: 28730499: Postovoi: chvv.com.ua: 2018-07-07T04:30:32: http://dahovi-vikna.com.ua/ru/fakro: монтаж окна fakro
+Йотобайк: 28730501: Postovoi: estdomain.com.ua: 2018-07-07T04:31:04: http://dahovi-vikna.com.ua/ru/fakro: окно мансардное fakro
+
