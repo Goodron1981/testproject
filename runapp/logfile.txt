@@ -3626,3 +3626,8 @@ Function load_isue_rota: 2018.07.07 22:50:01
 Йотобайк: 28730499: Postovoi: chvv.com.ua: 2018-07-07T04:30:32: http://dahovi-vikna.com.ua/ru/fakro: монтаж окна fakro
 Йотобайк: 28730501: Postovoi: estdomain.com.ua: 2018-07-07T04:31:04: http://dahovi-vikna.com.ua/ru/fakro: окно мансардное fakro
 
+Function autorizen: 2018.07.09 23:40:27
+Курко: 1425070: PR=c4257a691277ae232463156319c1dd6c:8feea9d61c084551501c7241b685113d72143d64; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=7480a73ec510f365a490dcc98ea3e62a:75402ddc5c2f30ad5da6ab2e5cfc505624c3639b; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=02b7116d0f882bd5e45325fa2b733556:202b149f9ef1d028bca606f4a7bdadc14dee2ae2; path=/; domain=api.pr.sape.ru
+
