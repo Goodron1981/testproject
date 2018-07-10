@@ -3631,3 +3631,18 @@ Function autorizen: 2018.07.09 23:40:27
 Максим: 1063824: PR=7480a73ec510f365a490dcc98ea3e62a:75402ddc5c2f30ad5da6ab2e5cfc505624c3639b; path=/; domain=api.pr.sape.ru
 Нанопласт: 1464824: PR=02b7116d0f882bd5e45325fa2b733556:202b149f9ef1d028bca606f4a7bdadc14dee2ae2; path=/; domain=api.pr.sape.ru
 
+Function autorizen: 2018.07.10 12:05:33
+Курко: 1425070: PR=86e6b183883fd8882b39ef389bbf2be5:ae97fba41df68dd72f40ca6cc93632ede067633c; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=14e17b715639e7d69747671fcbdde67a:8b3362bf4586319d91883ad2edf9b86c2328aca8; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=2276ee87036d4e9fc6372a9a81a5f9a6:9652482200e1d8295310425ea4eeafd5bc0d1068; path=/; domain=api.pr.sape.ru
+
+Function load_isue: 2018.07.10 12:05:32
+Курко: 24062039: review: cugp.com.ua: 2018-07-09 17:36:25: https://sevenmart.com.ua/: интернет-магазин товаров для дома
+Курко: 24059319: link: odissey.net.ua: 2018-07-08 11:57:20: https://starkbud.com.ua/catalog/keramika: плитка керамическая купить
+Курко: 24059185: link: ypag.com.ua: 2018-07-08 08:40:45: https://billinsan.com/: грузоперевозки с китая
+Максим: 24063497: link: smartx.kiev.ua: 2018-07-10 10:11:03: http://www.zaoreductor.ru/index/kupit_shesternju_reduktora/0-190: Купить шестерни для редуктора
+Максим: 24062008: link: fledur.org.ua: 2018-07-09 17:23:47: https://detskaya-posuda.com.ua/: yookidoo посуда
+Максим: 24059395: link: infoweb.org.ua: 2018-07-08 12:38:34: https://zrada.org/history/1-dati-podiyi-fakti/1861-referat-na-temu-kultura-ukrajini-u-1960-1980-kh-rokakh.html: реферат на тему
+Нанопласт: 24062028: link: avtocentr.sumy.ua: 2018-07-09 17:32:02: http://baget-sharm.com.ua/: Багетная мастерская в Киеве
+Нанопласт: 24059186: link: ekobil.com.ua: 2018-07-08 08:40:45: https://billinsan.com/: грузоперевозки с китая
+
