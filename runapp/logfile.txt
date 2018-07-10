@@ -3646,3 +3646,8 @@ Function load_isue: 2018.07.10 12:05:32
 Нанопласт: 24062028: link: avtocentr.sumy.ua: 2018-07-09 17:32:02: http://baget-sharm.com.ua/: Багетная мастерская в Киеве
 Нанопласт: 24059186: link: ekobil.com.ua: 2018-07-08 08:40:45: https://billinsan.com/: грузоперевозки с китая
 
+Function autorizen: 2018.07.10 23:15:57
+Курко: 1425070: PR=d985a66943cd25eded78f253e0c7abc3:3792b6cb52588cd2c203362d44d0affba8d98892; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=1b2f64fa12100544ddc47667f7f627b5:42d868a61154def39fb08ac416a32d2da6b7c696; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=5b8e3388b5e52b1e9798cf670690970d:cd991587b0e1dfcdb9d01d45ff6736d0a3075d3d; path=/; domain=api.pr.sape.ru
+
