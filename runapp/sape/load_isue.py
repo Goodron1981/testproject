@@ -75,7 +75,6 @@ def load_isue_sape():
                         b.status_isue = 'Reword'
                     # b.currently = "shift"
                     b.save()
-                    f.write(
-                        user_name + ': ' + isuenum + ': ' + isuetype + ': ' + site_link + ': ' + createdate + ': ' + ancor_href + ': ' + ancor_text + '\n')
+                    # f.write(user_name + ': ' + isuenum + ': ' + isuetype + ': ' + site_link + ': ' + createdate + ': ' + ancor_href + ': ' + ancor_text + '\n')
     f.write('\n')
     f.close()
