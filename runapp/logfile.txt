@@ -3701,3 +3701,8 @@ Function load_isue_rota: 2018.07.11 10:08:41
 Йотобайк: 28729461: Post: farman.kiev.ua: 2018-07-06T13:08:06: None: None
 Йотобайк: 28731522: Postovoi: chvv.com.ua: 2018-07-09T12:27:42: http://www.epos.ua/view.php/service_remont_printer: ремонт принтеров
 
+Function autorizen: 2018.07.12 23:14:40
+Курко: 1425070: PR=7ee66e8cc486a531579bf9d251971583:3931b5c729b2e076ec1b9ce1f5899c70fd53836f; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=42172fb2977686cddb279707503bde8f:1081a00c2f676d10e613c4d2fa86320b4d3fc9ce; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=8cf78986b36928e0f9334a6d3a50e6b4:32f281089c6afe0d634555955fe95b686d934106; path=/; domain=api.pr.sape.ru
+
