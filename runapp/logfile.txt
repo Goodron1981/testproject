@@ -3706,3 +3706,72 @@ Function autorizen: 2018.07.12 23:14:40
 Максим: 1063824: PR=42172fb2977686cddb279707503bde8f:1081a00c2f676d10e613c4d2fa86320b4d3fc9ce; path=/; domain=api.pr.sape.ru
 Нанопласт: 1464824: PR=8cf78986b36928e0f9334a6d3a50e6b4:32f281089c6afe0d634555955fe95b686d934106; path=/; domain=api.pr.sape.ru
 
+Function autorizen: 2018.07.16 10:27:35
+Курко: 1425070: PR=409f00c9096fb346eaa424869e7e0cc9:c238fdbc70afc5bf912d5165bae48d853e7d7e6d; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=4d11824c6cffe7d2f308ed904f5f2a52:e8fa6b5c17df1d92ff075f1805165a6ff334e6ac; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=ef034a8fccc64b363e9eb34b47eb3def:48d4af26e13344d882f236dcd5f948095043e180; path=/; domain=api.pr.sape.ru
+
+Function load_isue: 2018.07.16 10:27:35
+
+Function load_isue_rota: 2018.07.16 10:27:49
+Курко: 28725650: Postovoi: lightdesign.od.ua: 2018-07-02T17:52:33: http://www.po4em-bilet.ru/tag/волгоград/: жд билеты волгоград екатеринбург
+Курко: 28727993: Postovoi: ypag.com.ua: 2018-07-05T11:22:18: http://novosibirsk.mobiprof.ru/category/profilirovochnoe-oborudovanie/: Комплектация рабочих элементов для #a#гибки профиля#a# изменяется в зависимости от модели профилировочного станка.
+Курко: 28728016: Postovoi: ypag.com.ua: 2018-07-05T11:38:24: http://nizhniynovgorod.mobiprof.ru/category/krovelnyj-instrument-stubai/: Для закрытия фальцев при установке используется #a#инструмент для кровельных#a# работ.
+Курко: 28727983: Postovoi: ypag.com.ua: 2018-07-05T11:12:12: http://ekaterinburg.mobiprof.ru/category/profilirovochnoe-oborudovanie/: производства профилей
+Курко: 28733142: Postovoi: lightdesign.od.ua: 2018-07-11T08:36:43: http://dahovi-vikna.com.ua/ru/fakro: факро окна установка
+Курко: 28732404: Postovoi: ypag.com.ua: 2018-07-10T13:27:30: http://tov-amarant.com.ua/fasadnye-paneli-tsokol.html: http://tov-amarant.com.ua/fasadnye-paneli-tsokol.html
+Курко: 28734073: Postovoi: ahumor.org.ua: 2018-07-12T01:03:57: https://ua.stimma.com.ua/: інтернет магазин жіночого одягу
+Курко: 28732640: Postovoi: cugp.com.ua: 2018-07-10T16:32:33: https://sunny-store.com.ua/rimskie-shtory.html: https://sunny-store.com.ua
+Курко: 28734445: Post: ukravtomobil.if.ua: 2018-07-12T13:06:10: None: None
+Курко: 28734882: Postovoi: freya.kiev.ua: 2018-07-12T19:06:23: http://permanent-make-ap.com.ua/archives/services/перманентный-макияж-ресниц: Ботокс ресниц
+Курко: 28734757: Postovoi: web-stroy.kharkov.ua: 2018-07-12T17:37:02: http://070.com.ua/category/fonari-ultrafioletovye/: ультрафиолет фонарь
+Курко: 28735274: Post: freya.kiev.ua: 2018-07-13T11:06:29: None: None
+Максим: 28734801: Postovoi: fledur.org.ua: 2018-07-12T18:14:47: https://plastic.km.ua/: дивитися тут
+Максим: 28734802: Postovoi: fledur.org.ua: 2018-07-12T18:14:47: http://ukr.memento-mori.com.ua/: ритуальні послуги
+Максим: 28734803: Postovoi: fledur.org.ua: 2018-07-12T18:14:47: http://permanent-make-ap.com.ua/archives/services/%D0%BF%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B5%D0%BD%D1%82%D0%BD%D1%8B%D0%B9-%D0%BC%D0%B0%D0%BA%D0%B8%D1%8F%D0%B6-%D0%B3%D1%83%D0%B1: здесь
+Максим: 28734804: Postovoi: fledur.org.ua: 2018-07-12T18:14:47: http://www.memento-mori.com.ua/: ритуальные услуги
+Максим: 28735577: Postovoi: fledur.org.ua: 2018-07-13T14:33:50: http://pavone.com.ua/farforovye-vazy/: купить вазу Киев
+Максим: 28735561: Postovoi: linq.kiev.ua: 2018-07-13T14:28:00: https://golovko.com.ua/dolg-banku-chto-delat-i-kak-sebya-vesti: борги в банку
+Максим: 28735261: Postovoi: betar.org.ua: 2018-07-13T10:35:36: https://intergal-bud.com.ua/projects/filter/town-is-lviv/: жк Львова
+Максим: 28737178: Post: dveroman.kiev.ua: 2018-07-16T09:43:47: None: None
+Нанопласт: 28729465: Post: da100let.dn.ua: 2018-07-06T13:08:06: None: None
+Нанопласт: 28734119: Postovoi: tren.com.ua: 2018-07-12T08:22:05: http://www.po4em-bilet.ru/tag/волгоград/: поезд волгоград тюмень
+Нанопласт: 28734118: Postovoi: gyrus.org.ua: 2018-07-12T08:22:02: http://www.po4em-bilet.ru/tag/волгоград/: волгоград кемерово поезд
+Нанопласт: 28733306: Postovoi: slonoff.net.ua: 2018-07-11T13:40:22: https://franyk.city/ua/fullnews/234428: franyk.city
+Нанопласт: 28733445: Postovoi: slonoff.net.ua: 2018-07-11T14:20:27: https://khmelnytsky.com.ua/ru/fullnews/234627: khmelnytsky.com.ua
+Нанопласт: 28733449: Postovoi: turtrans.net.ua: 2018-07-11T14:20:32: https://khmelnytsky.com.ua/ru/fullnews/234337: khmelnytsky.com.ua
+Нанопласт: 28733455: Postovoi: slonoff.net.ua: 2018-07-11T14:20:43: https://ulvovi.info/ua/fullnews/234633: ulvovi.info
+Нанопласт: 28733459: Postovoi: turtrans.net.ua: 2018-07-11T14:20:48: https://ulvovi.info/ua/fullnews/234237: ulvovi.info
+Нанопласт: 28733464: Postovoi: turtrans.net.ua: 2018-07-11T14:20:56: https://franyk.city/ua/fullnews/234263: franyk.city
+Нанопласт: 28733466: Postovoi: zvonkov.net.ua: 2018-07-11T14:21:07: https://franyk.city/ru/fullnews/234745: franyk.city
+Нанопласт: 28733863: Postovoi: catalog-security.com.ua: 2018-07-11T22:40:20: https://evro-apteka.com/lekarstvo/onkaspar: Онкаспар
+Нанопласт: 28733864: Postovoi: turtrans.net.ua: 2018-07-11T22:40:24: https://evro-apteka.com/lekarstvo/kstandi: Кстанди
+Нанопласт: 28734640: Postovoi: slonoff.net.ua: 2018-07-12T16:00:29: http://chernigiv-city.com/ua/fullnews/142994: chernigiv-city.com
+Нанопласт: 28734643: Postovoi: turtrans.net.ua: 2018-07-12T16:00:35: http://chernigiv-city.com/ua/fullnews/140031: chernigiv-city.com
+Нанопласт: 28734662: Postovoi: slonoff.net.ua: 2018-07-12T16:20:18: https://chernivtsi-city.com/ua/fullnews/234683: chernivtsi-city.com
+Нанопласт: 28734665: Postovoi: turtrans.net.ua: 2018-07-12T16:20:26: https://chernivtsi-city.com/ua/fullnews/233757: chernivtsi-city.com
+Нанопласт: 28734667: Postovoi: zvonkov.net.ua: 2018-07-12T16:20:29: https://chernivtsi-city.com/ua/fullnews/232687: chernivtsi-city.com
+Нанопласт: 28735258: Postovoi: euro-m.kharkov.ua: 2018-07-13T10:35:33: https://intergal-bud.com.ua/ua/projects/filter/town-is-lviv/: intergal-bud.com.ua/ua/projects/filter/town-is-lviv
+Нанопласт: 28736726: Postovoi: zenit2.com.ua: 2018-07-15T05:30:40: https://zoolove.com.ua: подробнее
+Нанопласт: 28736724: Postovoi: blackmetal.kiev.ua: 2018-07-15T05:30:16: https://zoolove.com.ua: больше информации
+Нанопласт: 28735729: Post: avtocentr.sumy.ua: 2018-07-13T16:01:08: None: None
+Нанопласт: 28732678: Postovoi: mip-stroy.com.ua: 2018-07-10T17:13:23: https://bsvenergy.com.ua/vozdushnye-teplovye-nasosy.html: https://bsvenergy.com.ua/vozdushnye-teplovye-nasosy.html
+Нанопласт: 28735583: Postovoi: slonoff.net.ua: 2018-07-13T14:40:21: https://kyiv-city.com/ua/fullnews/233548: kyiv-city.com
+Нанопласт: 28735586: Postovoi: turtrans.net.ua: 2018-07-13T14:40:29: https://kyiv-city.com/ru/fullnews/234122: kyiv-city.com
+Йотобайк: 28733216: Postovoi: farman.kiev.ua: 2018-07-11T11:40:30: http://pk.kiev.ua/technology/medicina/5760-zhenskaya-viagra-shirokie-vozmozhnosti-dlya-raskrytiya-seksualnosti-zhenschiny.html: http://pk.kiev.ua
+Йотобайк: 28731934: Postovoi: pifagor.kiev.ua: 2018-07-09T19:00:44: https://reklamnoe-agentstvo.push-k.ua/: Лучшее Рекламное Агентство
+Йотобайк: 28735036: Postovoi: darkbluecat.net.ua: 2018-07-13T00:32:12: http://dahovi-vikna.com.ua/ru/fakro: мансардное окно факро цена
+Йотобайк: 28734115: Postovoi: pravdu.com.ua: 2018-07-12T08:21:36: http://dahovi-vikna.com.ua/ru/fakro: установка окон факро
+Йотобайк: 28733447: Postovoi: estdomain.com.ua: 2018-07-11T14:20:31: https://khmelnytsky.com.ua/ru/fullnews/233220: khmelnytsky.com.ua
+Йотобайк: 28733458: Postovoi: estdomain.com.ua: 2018-07-11T14:20:47: https://ulvovi.info/ua/fullnews/234357: ulvovi.info
+Йотобайк: 28733463: Postovoi: estdomain.com.ua: 2018-07-11T14:20:55: https://franyk.city/ua/fullnews/234316: franyk.city
+Йотобайк: 28734642: Postovoi: estdomain.com.ua: 2018-07-12T16:00:33: http://chernigiv-city.com/ua/fullnews/141479: chernigiv-city.com
+Йотобайк: 28734664: Postovoi: estdomain.com.ua: 2018-07-12T16:20:24: https://chernivtsi-city.com/ua/fullnews/234319: chernivtsi-city.com
+Йотобайк: 28736424: Postovoi: kolizey.net.ua: 2018-07-14T15:47:44: http://servise-okon.com.ua/odnokamernyj-steklopaket-s-argonom/: http://servise-okon.com.ua/odnokamernyj-steklopaket-s-argonom/
+Йотобайк: 28735585: Postovoi: estdomain.com.ua: 2018-07-13T14:40:25: https://kyiv-city.com/ru/fullnews/234395: kyiv-city.com
+Йотобайк: 28736410: Postovoi: feyhoa.org.ua: 2018-07-14T14:00:09: https://evro-apteka.com/lekarstvo/kadsila: Кадсила
+
+Function load_isue: 2018.07.16 11:22:09
+
+Function load_isue_rota: 2018.07.16 11:22:20
+
