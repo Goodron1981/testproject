@@ -3785,3 +3785,70 @@ Function autorizen: 2018.07.18 00:03:11
 Максим: 1063824: PR=92da75bcf97e44e0f75f6c501c98063c:e10ecff01deea3462c97575c466e81469b84c09a; path=/; domain=api.pr.sape.ru
 Нанопласт: 1464824: PR=0420cdfb2639584d5dc74f5bf1a6e75d:ff03e2ecd634a5d71987b83bf4ea85ca88334fd7; path=/; domain=api.pr.sape.ru
 
+Function autorizen: 2018.07.18 17:39:59
+Курко: 1425070: PR=d42c8966c977b961fc4e71f1451e7c15:c5537c946655a8b8ac40a1ad89aa7193f95689ed; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=c267eda9b443472f8c733caaeffa841a:f02de0d664168c896f0fafca06a6971f0cc61949; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=f86ae68e311d37ef12217e051cfeac65:9ced79b59e16c02e7277a17a275540d0855a80fc; path=/; domain=api.pr.sape.ru
+
+Function autorizen_rota: 2018.07.18 17:41:33
+Антон: true: d3aa1f74-4493-426e-9a18-5972f7885e7c
+Курко: true: ccb87a0f-018d-4f3a-89d4-02e31c15f038
+Максим: true: 55e94b39-b334-4e6b-bdd1-5e7d8b86d9bd
+Нанопласт: true: 72f22c61-6a9f-4513-a865-32aea0ef20ef
+Йотобайк: true: 7e68145d-41c8-42b4-b595-9b8cb2a0377f
+
+Function load_isue: 2018.07.18 17:52:02
+
+Function load_isue_rota: 2018.07.18 17:52:19
+Курко: 28737207: Postovoi: ypag.com.ua: 2018-07-16T10:32:13: https://lustralux.com.ua/potolochnye_svetylnyky/: потолочные светильники
+Курко: 28738235: Post: freya.kiev.ua: 2018-07-17T08:29:02: None: None
+Курко: 28737938: Postovoi: web-stroy.kharkov.ua: 2018-07-16T20:22:00: https://proizd.ua/: ж/д билеты
+Курко: 28739334: Postovoi: ypag.com.ua: 2018-07-18T10:17:15: http://nizhniynovgorod.mobiprof.ru/category/krovelnyj-instrument-stubai/: Для закрытия фальцев при установке используется #a#инструмент для кровельных#a# работ.
+Курко: 28739335: Postovoi: ypag.com.ua: 2018-07-18T10:17:18: http://nizhniynovgorod.mobiprof.ru/category/krovelnyj-instrument-stubai/: Для закрытия фальцев при установке используется #a#инструмент для кровельных#a# работ.
+Курко: 28739336: Postovoi: ypag.com.ua: 2018-07-18T10:17:26: http://novosibirsk.mobiprof.ru/category/profilirovochnoe-oborudovanie/: Комплектация рабочих элементов для #a#гибки профиля#a# изменяется в зависимости от модели профилировочного станка.
+Курко: 28739337: Postovoi: ypag.com.ua: 2018-07-18T10:17:28: http://ekaterinburg.mobiprof.ru/category/profilirovochnoe-oborudovanie/: производства профилей
+Курко: 28737784: Postovoi: ypag.com.ua: 2018-07-16T17:00:24: http://novosibirsk.mobiprof.ru/category/krovelnyj-instrument-stubai/: В труднодоступных местах обработки фальцевой крыши применяется #a#кровельный инструмент#a#, например, при обработке оконных элементов.
+Курко: 28739265: Postovoi: e-knigka.org.ua: 2018-07-18T04:45:55: https://zoolove.com.ua: больше информации
+Курко: 28739374: Postovoi: freya.kiev.ua: 2018-07-18T10:29:13: https://medlabtest.ua/: анализы в Медлаб
+Курко: 28739264: Postovoi: buyheavenlyspot.com.ua: 2018-07-18T04:45:55: https://zoolove.com.ua: zoolove.com.ua
+Курко: 28739602: Post: ukravtomobil.if.ua: 2018-07-18T13:34:03: None: None
+Максим: 28737212: Postovoi: dril.com.ua: 2018-07-16T10:32:13: https://lustralux.com.ua/potolochnye_svetylnyky/: купить потолочные светильники в Украине
+Максим: 28737797: Postovoi: fledur.org.ua: 2018-07-16T17:24:36: http://uanews.kharkiv.ua/other/2018/04/27/186208.html: http://uanews.kharkiv.ua/other/2018/04/27/186208.html
+Максим: 28738320: Postovoi: poser.kiev.ua: 2018-07-17T11:19:03: http://070.com.ua/termosy-stanley: термос stanley
+Максим: 28737985: Post: smartx.kiev.ua: 2018-07-16T23:02:39: None: None
+Максим: 28734487: Post: elit-a-a.com.ua: 2018-07-12T13:57:26: None: None
+Максим: 28738708: Postovoi: dveroman.kiev.ua: 2018-07-17T15:19:05: http://kuhni-nazakaz-ivanovo.ru/: заказать кухню в Иваново
+Максим: 28739366: Post: books.openlib.org.ua: 2018-07-18T10:28:12: None: None
+Максим: 28739550: Post: 4da.org.ua: 2018-07-18T12:17:25: None: None
+Максим: 28739410: Postovoi: upu.org.ua: 2018-07-18T10:52:32: http://sharik-kiev.com.ua/цифры-из-воздушных-шаров: шарики с цифрами
+Нанопласт: 28737930: Postovoi: gyrus.org.ua: 2018-07-16T20:14:46: https://proizd.ua/: билеты купить на поезд
+Нанопласт: 28737932: Postovoi: catalog-security.com.ua: 2018-07-16T20:15:22: https://proizd.ua/: PROIZD
+Нанопласт: 28737750: Postovoi: it-shop.donetsk.ua: 2018-07-16T16:33:42: http://fankyshop.net/c857-zimnie_muzhskie_krossovki: Зимние кроссовки
+Нанопласт: 28737931: Postovoi: yavtanke.org.ua: 2018-07-16T20:15:01: https://proizd.ua/: жд билеты УкрЗалізниця
+Нанопласт: 28737933: Postovoi: umapalata.zp.ua: 2018-07-16T20:18:57: https://proizd.ua/: купить билет на поезд онлайн
+Нанопласт: 28737934: Postovoi: linkomania.com.ua: 2018-07-16T20:19:25: https://proizd.ua/: купить на поезд билет онлайн
+Нанопласт: 28737936: Postovoi: playman.com.ua: 2018-07-16T20:20:34: https://proizd.ua/: билеты на поезд купить онлайн
+Нанопласт: 28737935: Postovoi: slonoff.net.ua: 2018-07-16T20:20:02: https://proizd.ua/: билеты на поезд
+Нанопласт: 28737209: Postovoi: euro-m.kharkov.ua: 2018-07-16T10:32:13: https://lustralux.com.ua/potolochnye_svetylnyky/: http://lustralux.com.ua/potolochnye_svetylnyky/
+Нанопласт: 28737213: Postovoi: europarfum.net.ua: 2018-07-16T10:32:14: https://lustralux.com.ua/potolochnye_svetylnyky/: https://lustralux.com.ua/potolochnye_svetylnyky/
+Нанопласт: 28738254: Post: europarfum.net.ua: 2018-07-17T09:28:48: None: None
+Нанопласт: 28738262: Post: salfetki.org.ua: 2018-07-17T09:28:52: None: None
+Нанопласт: 28738928: Postovoi: blackmetal.kiev.ua: 2018-07-17T17:46:43: https://takinado.com.ua/: доска бесплатных объявлений
+Нанопласт: 28739195: Post: gyrus.org.ua: 2018-07-18T00:34:45: None: None
+Нанопласт: 28739194: Post: savelink.org.ua: 2018-07-18T00:34:45: None: None
+Нанопласт: 28739193: Post: mylink.org.ua: 2018-07-18T00:34:45: None: None
+Нанопласт: 28739191: Post: thetech.com.ua: 2018-07-18T00:34:45: None: None
+Нанопласт: 28739190: Post: linkomania.com.ua: 2018-07-18T00:34:45: None: None
+Нанопласт: 28739197: Post: seoma.com.ua: 2018-07-18T00:34:46: None: None
+Нанопласт: 28739196: Post: programer.org.ua: 2018-07-18T00:34:46: None: None
+Нанопласт: 28739267: Postovoi: telopa.com.ua: 2018-07-18T04:45:55: https://zoolove.com.ua: больше информации
+Нанопласт: 28739530: Post: valiza-tour.kiev.ua: 2018-07-18T12:06:57: None: None
+Нанопласт: 28739543: Post: ndua.org.ua: 2018-07-18T12:11:51: None: None
+Нанопласт: 28739542: Post: browncat.net.ua: 2018-07-18T12:11:51: None: None
+Нанопласт: 28739541: Post: bigmoney.kiev.ua: 2018-07-18T12:11:51: None: None
+Нанопласт: 28739600: Post: avtocentr.sumy.ua: 2018-07-18T13:34:03: None: None
+Йотобайк: 28737537: Postovoi: pravdu.com.ua: 2018-07-16T13:48:28: http://ph-party.com.ua/: Философия праздника
+Йотобайк: 28737929: Postovoi: chvv.com.ua: 2018-07-16T20:14:00: https://proizd.ua/: УкрЗалізниця
+Йотобайк: 28737928: Postovoi: feyhoa.org.ua: 2018-07-16T20:13:24: https://proizd.ua/: жд билет купить Украина
+Йотобайк: 28739222: Postovoi: estdomain.com.ua: 2018-07-18T02:00:22: https://evro-apteka.com/lekarstvo/zhavlor: Жавлор
+
