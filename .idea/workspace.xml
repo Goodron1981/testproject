@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e93f24d8-c976-4977-badb-fae0dfdd6ebc" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/runapp/logfile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/runapp/logfile.txt" afterDir="false" />
     </list>
@@ -81,10 +80,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/runapp/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="-119">
               <caret line="40" selection-start-line="40" selection-end-line="40" />
             </state>
           </provider>
@@ -102,11 +101,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="public_isue.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="public_isue.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/runapp/publication/public_isue.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="4" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -232,22 +231,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Changed Files">
-          <expand>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="testproject" type="cbb8eebc:String" user="testproject" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="testproject" type="cbb8eebc:String" user="testproject" />
-              <item name="runapp" type="cbb8eebc:String" user="runapp" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -277,6 +260,22 @@
               <item name="testproject" type="462c0819:PsiDirectoryNode" />
               <item name="runapp" type="462c0819:PsiDirectoryNode" />
               <item name="publication" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Changed Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="testproject" type="cbb8eebc:String" user="testproject" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="testproject" type="cbb8eebc:String" user="testproject" />
+              <item name="runapp" type="cbb8eebc:String" user="runapp" />
             </path>
           </expand>
           <select />
@@ -426,9 +425,9 @@
       <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.4875727" weight="0.32343236" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.28298888" />
       <window_info id="Structure" order="1" sideWeight="0.5062344" side_tool="true" weight="0.203125" />
-      <window_info anchor="bottom" x="350" y="261" width="666" height="205" id="Terminal" order="9" sideWeight="0.41145834" weight="0.3019802" />
+      <window_info active="true" anchor="bottom" x="350" y="261" width="666" height="205" id="Terminal" order="9" sideWeight="0.4107143" visible="true" weight="0.3019802" />
       <window_info id="Favorites" order="2" sideWeight="0.50359714" side_tool="true" weight="0.203125" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.5885417" side_tool="true" weight="0.3019802" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.58928573" side_tool="true" weight="0.3019802" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -808,16 +807,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/runapp/publication/public_isue.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/testpage/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -830,8 +819,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/runapp/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
+        <state relative-caret-position="-119">
           <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runapp/publication/public_isue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
