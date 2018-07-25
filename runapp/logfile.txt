@@ -4032,3 +4032,19 @@ Function load_isue: 2018.07.25 13:02:29
 
 Function load_isue_rota: 2018.07.25 13:02:40
 
+Function autorizen: 2018.07.25 23:29:21
+Курко: 1425070: PR=bc382d609f06a618a302421e1c186384:6c768f4fb14517ef4cb33ca2385a7efb9c7c2170; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=5c2d184f5c3c7c89cc2048b7b3466d43:57269a923472b2bc67e792a7f7933865e900d621; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=5abdcc705e253b5ab2bbe9a207af4f2e:577f63b8dacd8e1c94ac151ddbbcf994fe20a83d; path=/; domain=api.pr.sape.ru
+
+Function load_isue: 2018.07.25 23:29:21
+
+Function load_isue_rota: 2018.07.25 23:29:36
+Курко: 28745534: Postovoi: cugp.com.ua: 2018-07-25T10:02:55: https://bsvenergy.com.ua/protochnye-vodonagrevateli.html: https://bsvenergy.com.ua/protochnye-vodonagrevateli.html
+Курко: 28745812: Postovoi: ypag.com.ua: 2018-07-25T13:29:04: http://www.chuyanovart.com: http://chuyanovart.com
+Курко: 28746278: Postovoi: freya.kiev.ua: 2018-07-25T19:54:53: http://max-polyakov.one/: http://max-polyakov.one/
+Курко: 28746045: Post: lightdesign.od.ua: 2018-07-25T16:17:05: None: None
+Нанопласт: 28746281: Postovoi: telopa.com.ua: 2018-07-25T19:54:54: http://lenta.kharkiv.ua/other/2018/04/26/209302.html: http://lenta.kharkiv.ua/other/2018/04/26/209302.html
+Нанопласт: 28729465: Post: da100let.dn.ua: 2018-07-06T13:08:06: None: None
+Нанопласт: 28746318: Postovoi: tren.com.ua: 2018-07-25T21:31:07: https://kontur-sb.com.ua/security_alarm/security-panel/ppk-lun/: Лунь охранная сигнализация
+
