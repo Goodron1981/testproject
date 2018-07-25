@@ -3947,3 +3947,88 @@ Function autorizen: 2018.07.22 23:06:07
 Максим: 1063824: PR=8151595d5bfb215e3a6cda719bcf6109:179fe0283d19358773e4531225cc0670d606a1df; path=/; domain=api.pr.sape.ru
 Нанопласт: 1464824: PR=62cbe5b579e4933fb7baad1aa0551e28:a08941927f73723d7b7857efe70fc15536a3f0f9; path=/; domain=api.pr.sape.ru
 
+Function autorizen: 2018.07.25 11:55:15
+Курко: 1425070: PR=bf38847229c5a5759fba6a70635b50ba:9d4356a8e7975cd4757c7608e29e4fe07c578468; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=9d596fccde3f447f60565d83dd75c748:0f60199168e1b615a618c41d560143d1164e1bd6; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=45e175534a2a51987605245dcff34651:9cdc06f9658393e4c26cdf6e1b87f3eb2aff0eed; path=/; domain=api.pr.sape.ru
+
+Function load_isue: 2018.07.25 11:55:15
+
+Function load_isue_rota: 2018.07.25 11:55:30
+Курко: 28734882: Postovoi: freya.kiev.ua: 2018-07-12T19:06:23: http://permanent-make-ap.com.ua/archives/services/перманентный-макияж-ресниц: Ботокс ресниц
+Курко: 28740111: Postovoi: odissey.net.ua: 2018-07-18T18:27:06: https://sovzond.ru/press-center/news/gis/4108/: https://sovzond.ru/press-center/news/gis/4108/
+Курко: 28740264: Postovoi: ukravtomobil.if.ua: 2018-07-18T20:08:55: http://diagnost71.ru/uslugi/chip-tyuning/: чип тюнинг в Туле
+Курко: 28740112: Postovoi: ahumor.org.ua: 2018-07-18T18:27:06: http://scholar.google.com.ua/citations?user=_ippPMAAAAAJ&hl=en: http://scholar.google.com.ua/citations?user=_ippPMAAAAAJ&hl=en
+Курко: 28737784: Postovoi: ypag.com.ua: 2018-07-16T17:00:24: http://novosibirsk.mobiprof.ru/category/krovelnyj-instrument-stubai/: В труднодоступных местах обработки фальцевой крыши применяется #a#кровельный инструмент#a#, например, при обработке оконных элементов.
+Курко: 28739335: Postovoi: ypag.com.ua: 2018-07-18T10:17:18: http://nizhniynovgorod.mobiprof.ru/category/krovelnyj-instrument-stubai/: Для закрытия фальцев при установке используется #a#инструмент для кровельных#a# работ.
+Курко: 28739336: Postovoi: ypag.com.ua: 2018-07-18T10:17:26: http://novosibirsk.mobiprof.ru/category/profilirovochnoe-oborudovanie/: Комплектация рабочих элементов для #a#гибки профиля#a# изменяется в зависимости от модели профилировочного станка.
+Курко: 28739334: Postovoi: ypag.com.ua: 2018-07-18T10:17:15: http://nizhniynovgorod.mobiprof.ru/category/krovelnyj-instrument-stubai/: Для закрытия фальцев при установке используется #a#инструмент для кровельных#a# работ.
+Курко: 28741010: Postovoi: medical-beauty.org.ua: 2018-07-19T16:17:19: http://www.vsluh.ru/news/society/330297: сюда
+Курко: 28740838: Post: linuxsam.org.ua: 2018-07-19T13:30:45: None: None
+Курко: 28742256: Postovoi: linuxsam.org.ua: 2018-07-20T18:17:43: http://www.obzh.ru/mix/servernoe-oborudovanie-dlya-onlajn-kazino.html: http://www.obzh.ru/mix/servernoe-oborudovanie-dlya-onlajn-kazino.html
+Курко: 28742651: Postovoi: buyheavenlyspot.com.ua: 2018-07-21T16:44:29: http://раздвижные-системы.рф/раздвижные-перегородки: раздвижные перегородки для зонирования пространства в комнате
+Курко: 28743176: Postovoi: ypag.com.ua: 2018-07-22T18:07:53: http://stop-hlam.ru: Вывоз старой мебели в Москве
+Курко: 28744122: Postovoi: xn--90afsemmyc.com.ua: 2018-07-23T17:37:34: https://www.grandinstrument.ua/stend-razval-shozhdenie/: стенд развал схождения купить
+Курко: 28743768: Post: quickest.com.ua: 2018-07-23T13:16:30: None: None
+Курко: 28744768: Postovoi: medical-beauty.org.ua: 2018-07-24T11:27:25: http://nikator.com.ua/catalog/mebel-medicinskaya: Медицинская мебель
+Курко: 28744601: Postovoi: medical-beauty.org.ua: 2018-07-24T09:07:24: https://medpravda.com.ua/preparat/atsts-long: Ацц Лонг
+Курко: 28744593: Post: freya.kiev.ua: 2018-07-24T08:39:01: None: None
+Курко: 28739602: Post: ukravtomobil.if.ua: 2018-07-18T13:34:03: None: None
+Максим: 28737797: Postovoi: fledur.org.ua: 2018-07-16T17:24:36: http://uanews.kharkiv.ua/other/2018/04/27/186208.html: http://uanews.kharkiv.ua/other/2018/04/27/186208.html
+Максим: 28738320: Postovoi: poser.kiev.ua: 2018-07-17T11:19:03: http://070.com.ua/termosy-stanley: термос stanley
+Максим: 28739550: Post: 4da.org.ua: 2018-07-18T12:17:25: None: None
+Максим: 28740113: Postovoi: betar.org.ua: 2018-07-18T18:27:06: https://ain.ua/tag/maksim-polyakov: https://ain.ua/tag/maksim-polyakov
+Максим: 28740126: Postovoi: animan.kiev.ua: 2018-07-18T18:27:08: http://uprom.info/ru/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE/ukrayinets-maksim-polyakov-ta-firefly-aerospace-vzhe-proyshli-polovinu-shlyahu-do-privatnogo-kosmosu/: на сайте
+Максим: 28740572: Postovoi: amidi.com.ua: 2018-07-19T05:31:06: https://zoolove.com.ua: подробнее
+Максим: 28738708: Postovoi: dveroman.kiev.ua: 2018-07-17T15:19:05: http://kuhni-nazakaz-ivanovo.ru/: заказать кухню в Иваново
+Максим: 28740824: Postovoi: gv.org.ua: 2018-07-19T13:30:17: https://noosphereglobal.com/who-we-are/noothinkers/max-polyakov/: https://noosphereglobal.com/who-we-are/noothinkers/max-polyakov/
+Максим: 28740828: Postovoi: www.topcatalog.com.ua: 2018-07-19T13:30:20: http://scholar.google.com.ua/citations?user=_ippPMAAAAAJ&hl=en: http://scholar.google.com.ua/citations?user=_ippPMAAAAAJ&hl=en
+Максим: 28740977: Postovoi: 4da.org.ua: 2018-07-19T15:55:17: https://www.epochtimes.ru/kak-poluchit-vid-na-zhitelstvo-v-evrope-99045767/: получить второе гражданство
+Максим: 28741259: Postovoi: 4da.org.ua: 2018-07-19T18:28:02: http://www.ktservice.kiev.ua/info/matrac.html: чистка матрасов
+Максим: 28743122: Postovoi: openlib.org.ua: 2018-07-22T15:34:43: http://xlamanet.ru: Вывоз старой мебели в москве на газели
+Максим: 28743249: Postovoi: fledur.org.ua: 2018-07-22T23:29:01: https://www.islamnews.ru/release-5607154066.html: крафт пакеты
+Максим: 28737178: Post: dveroman.kiev.ua: 2018-07-16T09:43:47: None: None
+Максим: 28744918: Postovoi: fledur.org.ua: 2018-07-24T13:46:15: http://ua.kinogoclub-hd.com: kinogoclub-hd.com
+Максим: 28744767: Postovoi: interline.net.ua: 2018-07-24T11:27:25: http://nikator.com.ua/catalog/gibkaya-endoskopiya: Эндоскопическое оборудование
+Максим: 28744766: Postovoi: gv.org.ua: 2018-07-24T11:27:24: http://nikator.com.ua/: Медицинское оборудование на Украине
+Максим: 28744712: Postovoi: msmirnova.ru: 2018-07-24T11:00:17: https://dostup1.ru/russia/Grazhdanstvo-Dominiki--prostoy-i-proverennyy-variant-evropeyskogo-rezidentstva_105687.html: https://dostup1.ru/russia/Grazhdanstvo-Dominiki--prostoy-i-proverennyy-variant-evropeyskogo-rezidentstva_105687.html
+Максим: 28744630: Postovoi: 4da.org.ua: 2018-07-24T10:00:45: https://buddvir.ua/kleevye-smesi/klej-dlya-teplogo-pola/: клей для теплого пола
+Максим: 28744821: Postovoi: interline.net.ua: 2018-07-24T12:18:23: https://nikator.com.ua/catalog/uzi-apparaty-sonoscape: УЗИ АППАРАТ SONOSCAPE
+Максим: 28744713: Postovoi: seooptimus.ru: 2018-07-24T11:00:18: https://dostup1.ru/russia/Grazhdanstvo-Dominiki--prostoy-i-proverennyy-variant-evropeyskogo-rezidentstva_105687.html: https://dostup1.ru/russia/Grazhdanstvo-Dominiki--prostoy-i-proverennyy-variant-evropeyskogo-rezidentstva_105687.html
+Максим: 28744769: Postovoi: nutscn.com: 2018-07-24T11:27:25: http://nikator.com.ua/catalog/mebel-medicinskaya: медичні меблі
+Максим: 28741612: Post: biscont.com.ua: 2018-07-20T10:33:59: None: None
+Максим: 28739366: Post: books.openlib.org.ua: 2018-07-18T10:28:12: None: None
+Максим: 28745221: Post: gv.org.ua: 2018-07-24T19:29:55: None: None
+Максим: 28745172: Postovoi: fledur.org.ua: 2018-07-24T18:11:39: http://www.olahola.ua/: агентство услуг
+Максим: 28745740: Post: elit-a-a.com.ua: 2018-07-25T11:49:17: None: None
+Нанопласт: 28740825: Postovoi: miranda.org.ua: 2018-07-19T13:30:17: http://uprom.info/news/space/ukrayinets-maksim-polyakov-ta-firefly-aerospace-vzhe-proyshli-polovinu-shlyahu-do-privatnogo-kosmosu/: тут
+Нанопласт: 28740831: Postovoi: yavtanke.org.ua: 2018-07-19T13:30:25: http://scholar.google.com.ua/citations?user=_ippPMAAAAAJ&hl=en: http://scholar.google.com.ua/citations?user=_ippPMAAAAAJ&hl=en
+Нанопласт: 28740830: Postovoi: salfetki.org.ua: 2018-07-19T13:30:24: http://uprom.info/news/space/ukrayinets-maksim-polyakov-ta-firefly-aerospace-vzhe-proyshli-polovinu-shlyahu-do-privatnogo-kosmosu/: тут
+Нанопласт: 28740829: Postovoi: komitet.kiev.ua: 2018-07-19T13:30:22: http://scholar.google.com.ua/citations?user=_ippPMAAAAAJ&hl=en: http://scholar.google.com.ua/citations?user=_ippPMAAAAAJ&hl=en
+Нанопласт: 28743921: Postovoi: browncat.net.ua: 2018-07-23T15:26:26: http://www.cn.ru/terka/post/73310745/: http://www.cn.ru/terka/post/73310745/
+Нанопласт: 28743975: Postovoi: komitet.kiev.ua: 2018-07-23T16:07:55: https://www.avtorazborka.org.ua/toyota/land-cruiser-100/: https://www.avtorazborka.org.ua/toyota/land-cruiser-100/
+Нанопласт: 28744718: Postovoi: fbk.org.ua: 2018-07-24T11:01:01: http://pdd-new.ru: ПДД 2018
+Нанопласт: 28744763: Postovoi: da100let.dn.ua: 2018-07-24T11:27:24: http://nikator.com.ua/: Медичне обладнання
+Нанопласт: 28742734: Post: hodos.kharkov.ua: 2018-07-22T00:17:11: None: None
+Нанопласт: 28745656: Postovoi: fuck-hack.com: 2018-07-25T11:25:47: https://acomp.com.ua/category/monitory/: https://www.acomp.com.ua/category/monitory
+Нанопласт: 28741547: Postovoi: zvonkov.net.ua: 2018-07-20T04:20:08: https://evro-apteka.com/lekarstvo/evolokumab: Эволокумаб
+Нанопласт: 28743561: Postovoi: euro-m.kharkov.ua: 2018-07-23T09:36:48: https://buddvir.ua/stroitelnye-smesi/shtukaturka/: магазин Будівельний Двір
+Нанопласт: 28745214: Postovoi: playman.com.ua: 2018-07-24T19:28:35: http://www.canis.in.ua/: дрессировка овчарок
+Нанопласт: 28745215: Postovoi: seoma.com.ua: 2018-07-24T19:28:35: http://www.canis.in.ua/: дрессировка
+Нанопласт: 28745219: Postovoi: yavtanke.org.ua: 2018-07-24T19:28:35: http://www.canis.in.ua/: дрессировка собак в Киеве
+Нанопласт: 28745224: Post: bigmoney.kiev.ua: 2018-07-24T19:29:55: None: None
+Нанопласт: 28745208: Postovoi: dlemoduli.org.ua: 2018-07-24T19:28:34: http://www.canis.in.ua/: дрессировка собак
+Йотобайк: 28734664: Postovoi: estdomain.com.ua: 2018-07-12T16:20:24: https://chernivtsi-city.com/ua/fullnews/234319: chernivtsi-city.com
+Йотобайк: 28742478: Postovoi: farman.kiev.ua: 2018-07-21T02:28:02: http://www.aqua-chistka.kiev.ua/info/matras.html: чистка матрасів
+Йотобайк: 28741124: Postovoi: farman.kiev.ua: 2018-07-19T17:20:15: http://titangel.su: http://titangel.su
+Йотобайк: 28743560: Postovoi: elites-montage.com.ua: 2018-07-23T09:36:48: https://buddvir.ua/stroitelnye-smesi/shtukaturka/: штукатурка цена
+Йотобайк: 28743932: Postovoi: farman.kiev.ua: 2018-07-23T15:26:29: http://lenta.kharkiv.ua/other/2018/04/26/209302.html: http://lenta.kharkiv.ua/other/2018/04/26/209302.html
+Йотобайк: 28743976: Postovoi: pifagor.kiev.ua: 2018-07-23T16:07:56: https://www.avtorazborka.org.ua/toyota/prado-2002-2009/: https://www.avtorazborka.org.ua/toyota/prado-2002-2009/
+Йотобайк: 28744719: Postovoi: foxtrot-auto.com.ua: 2018-07-24T11:01:01: http://pdd-new.ru: билеты пдд 2018
+Йотобайк: 28744765: Postovoi: farman.kiev.ua: 2018-07-24T11:27:24: http://nikator.com.ua/: купить медицинское оборудование
+Йотобайк: 28741607: Post: farman.kiev.ua: 2018-07-20T10:33:58: None: None
+
+Function load_isue: 2018.07.25 13:02:29
+
+Function load_isue_rota: 2018.07.25 13:02:40
+
