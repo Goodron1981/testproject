@@ -4048,3 +4048,120 @@ Function load_isue_rota: 2018.07.25 23:29:36
 Нанопласт: 28729465: Post: da100let.dn.ua: 2018-07-06T13:08:06: None: None
 Нанопласт: 28746318: Postovoi: tren.com.ua: 2018-07-25T21:31:07: https://kontur-sb.com.ua/security_alarm/security-panel/ppk-lun/: Лунь охранная сигнализация
 
+Function autorizen: 2018.07.27 23:42:01
+Курко: 1425070: PR=356081585855d1237225480f2346e82c:e9bf0669fbbd0860a91985172d22670ad1ffc567; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=e53061cf34db5a203f19f35cf5822b18:18af7957d05af36bd7197fdb24fc8c7e27d664b2; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=7e64dbc8264e7be93ad60ba3d43bbb95:46f306fcc9b7d7e5646b11e71b4f46104a0f6e1f; path=/; domain=api.pr.sape.ru
+
+Function autorizen: 2018.07.27 23:42:19
+Курко: 1425070: PR=d2644f2b36d6ac4a7244c82837da164f:988c83d9cecd1b61fe7d9eeb04447660b56c4160; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=8e764e6754179d4b3bbb41fc56c67253:a76501bfeeb9bd610335b104b09aac8393318dbb; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=ea66c74c4d781827fef72d4f0082a9d2:2f1a6830609aa114e13a21e72fe96e6048cb8f0f; path=/; domain=api.pr.sape.ru
+
+Function autorizen: 2018.07.27 23:44:41
+Курко: 1425070: PR=8221b3ee8f7f7395962e96dff99e4535:17ad4cd084306228079fa37d401b37cce10997b6; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=ea7e6eae3a9a42d2e2a3bfc0cea2bf20:f40d28c050a8e8e06fa47f960e7214f3ec879a3e; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=c4880ab7e482dee80101f1a5287156e3:a0e84bc732232f3f29334ba3d467451f9d53efd4; path=/; domain=api.pr.sape.ru
+
+Function autorizen: 2018.07.28 22:28:40
+Курко: 1425070: PR=591b96283f7580675103f53d86962c52:d529d388fb8664a72903745874532c2457d2837e; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=355fcbd7a7accb458eb0be0650117c95:2aa1894e69bc558d36435b2ae3c868aee16acb2d; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=b60c15276f91750f1e5466ce950e2dcc:e9b36052a1da7a1d0d61d03b6afe9ca864bb74bb; path=/; domain=api.pr.sape.ru
+
+Function autorizen_rota: 2018.07.28 22:28:50
+Антон: true: d3aa1f74-4493-426e-9a18-5972f7885e7c
+Курко: true: ccb87a0f-018d-4f3a-89d4-02e31c15f038
+Максим: true: 55e94b39-b334-4e6b-bdd1-5e7d8b86d9bd
+Нанопласт: true: 72f22c61-6a9f-4513-a865-32aea0ef20ef
+Йотобайк: true: 7e68145d-41c8-42b4-b595-9b8cb2a0377f
+
+Function autorizen_rota: 2018.07.28 22:29:49
+Антон: true: d3aa1f74-4493-426e-9a18-5972f7885e7c
+Курко: true: ccb87a0f-018d-4f3a-89d4-02e31c15f038
+Максим: true: 55e94b39-b334-4e6b-bdd1-5e7d8b86d9bd
+Нанопласт: true: 72f22c61-6a9f-4513-a865-32aea0ef20ef
+Йотобайк: true: 7e68145d-41c8-42b4-b595-9b8cb2a0377f
+
+Function autorizen_rota: 2018.07.28 22:31:09
+Антон: true: d3aa1f74-4493-426e-9a18-5972f7885e7c
+Курко: true: ccb87a0f-018d-4f3a-89d4-02e31c15f038
+Максим: true: 55e94b39-b334-4e6b-bdd1-5e7d8b86d9bd
+Нанопласт: true: 72f22c61-6a9f-4513-a865-32aea0ef20ef
+Йотобайк: true: 7e68145d-41c8-42b4-b595-9b8cb2a0377f
+
+Function autorizen_rota: 2018.07.28 22:32:24
+Антон: true: d3aa1f74-4493-426e-9a18-5972f7885e7c
+Курко: true: ccb87a0f-018d-4f3a-89d4-02e31c15f038
+Максим: true: 55e94b39-b334-4e6b-bdd1-5e7d8b86d9bd
+Нанопласт: true: 72f22c61-6a9f-4513-a865-32aea0ef20ef
+Йотобайк: true: 7e68145d-41c8-42b4-b595-9b8cb2a0377f
+
+Function load_isue: 2018.07.28 22:48:18
+
+Function load_isue_rota: 2018.07.28 22:48:41
+Курко: 28734882: Postovoi: freya.kiev.ua: 2018-07-12T19:06:23: http://permanent-make-ap.com.ua/archives/services/перманентный-макияж-ресниц: Ботокс ресниц
+Курко: 28740264: Postovoi: ukravtomobil.if.ua: 2018-07-18T20:08:55: http://diagnost71.ru/uslugi/chip-tyuning/: чип тюнинг в Туле
+Курко: 28740112: Postovoi: ahumor.org.ua: 2018-07-18T18:27:06: http://scholar.google.com.ua/citations?user=_ippPMAAAAAJ&hl=en: http://scholar.google.com.ua/citations?user=_ippPMAAAAAJ&hl=en
+Курко: 28740838: Post: linuxsam.org.ua: 2018-07-19T13:30:45: None: None
+Курко: 28745534: Postovoi: cugp.com.ua: 2018-07-25T10:02:55: https://bsvenergy.com.ua/protochnye-vodonagrevateli.html: https://bsvenergy.com.ua/protochnye-vodonagrevateli.html
+Курко: 28744122: Postovoi: фордклуб.com.ua: 2018-07-23T17:37:34: https://www.grandinstrument.ua/stend-razval-shozhdenie/: стенд развал схождения купить
+Курко: 28743768: Post: quickest.com.ua: 2018-07-23T13:16:30: None: None
+Курко: 28744601: Postovoi: medical-beauty.org.ua: 2018-07-24T09:07:24: https://medpravda.com.ua/preparat/atsts-long: Ацц Лонг
+Курко: 28744593: Post: freya.kiev.ua: 2018-07-24T08:39:01: None: None
+Курко: 28739602: Post: ukravtomobil.if.ua: 2018-07-18T13:34:03: None: None
+Курко: 28746278: Postovoi: freya.kiev.ua: 2018-07-25T19:54:53: http://max-polyakov.one/: http://max-polyakov.one/
+Курко: 28746045: Post: lightdesign.od.ua: 2018-07-25T16:17:05: None: None
+Курко: 28744768: Postovoi: medical-beauty.org.ua: 2018-07-24T11:27:25: http://nikator.com.ua/catalog/mebel-medicinskaya: Медицинская мебель
+Курко: 28742651: Postovoi: buyheavenlyspot.com.ua: 2018-07-21T16:44:29: http://раздвижные-системы.рф/раздвижные-перегородки: раздвижные перегородки для зонирования пространства в комнате
+Максим: 28737797: Postovoi: fledur.org.ua: 2018-07-16T17:24:36: http://uanews.kharkiv.ua/other/2018/04/27/186208.html: http://uanews.kharkiv.ua/other/2018/04/27/186208.html
+Максим: 28738320: Postovoi: poser.kiev.ua: 2018-07-17T11:19:03: http://070.com.ua/termosy-stanley: термос stanley
+Максим: 28739550: Post: 4da.org.ua: 2018-07-18T12:17:25: None: None
+Максим: 28740113: Postovoi: betar.org.ua: 2018-07-18T18:27:06: https://ain.ua/tag/maksim-polyakov: https://ain.ua/tag/maksim-polyakov
+Максим: 28740572: Postovoi: amidi.com.ua: 2018-07-19T05:31:06: https://zoolove.com.ua: подробнее
+Максим: 28738708: Postovoi: dveroman.kiev.ua: 2018-07-17T15:19:05: http://kuhni-nazakaz-ivanovo.ru/: заказать кухню в Иваново
+Максим: 28740824: Postovoi: gv.org.ua: 2018-07-19T13:30:17: https://noosphereglobal.com/who-we-are/noothinkers/max-polyakov/: https://noosphereglobal.com/who-we-are/noothinkers/max-polyakov/
+Максим: 28740828: Postovoi: www.topcatalog.com.ua: 2018-07-19T13:30:20: http://scholar.google.com.ua/citations?user=_ippPMAAAAAJ&hl=en: http://scholar.google.com.ua/citations?user=_ippPMAAAAAJ&hl=en
+Максим: 28743249: Postovoi: fledur.org.ua: 2018-07-22T23:29:01: https://www.islamnews.ru/release-5607154066.html: крафт пакеты
+Максим: 28737178: Post: dveroman.kiev.ua: 2018-07-16T09:43:47: None: None
+Максим: 28741612: Post: biscont.com.ua: 2018-07-20T10:33:59: None: None
+Максим: 28739366: Post: books.openlib.org.ua: 2018-07-18T10:28:12: None: None
+Максим: 28745221: Post: gv.org.ua: 2018-07-24T19:29:55: None: None
+Максим: 28745740: Post: elit-a-a.com.ua: 2018-07-25T11:49:17: None: None
+Максим: 28746646: Post: elit-a-a.com.ua: 2018-07-26T10:21:48: None: None
+Максим: 28747214: Post: dveroman.kiev.ua: 2018-07-26T18:02:46: None: None
+Максим: 28747238: Post: elit-a-a.com.ua: 2018-07-26T18:22:55: None: None
+Максим: 28747851: Post: linq.kiev.ua: 2018-07-27T12:25:24: None: None
+Максим: 28747989: Postovoi: betar.org.ua: 2018-07-27T14:02:07: http://ukr-china.com/uslugi/dostavka-sbornih-gruzov: доставка сборных грузов
+Максим: 28748542: Postovoi: kpln.com.ua: 2018-07-27T19:01:17: http://uprom.info/ru/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE/ukrayinets-maksim-polyakov-ta-firefly-aerospace-vzhe-proyshli-polovinu-shlyahu-do-privatnogo-kosmosu/: на сайте
+Нанопласт: 28740831: Postovoi: yavtanke.org.ua: 2018-07-19T13:30:25: http://scholar.google.com.ua/citations?user=_ippPMAAAAAJ&hl=en: http://scholar.google.com.ua/citations?user=_ippPMAAAAAJ&hl=en
+Нанопласт: 28740829: Postovoi: komitet.kiev.ua: 2018-07-19T13:30:22: http://scholar.google.com.ua/citations?user=_ippPMAAAAAJ&hl=en: http://scholar.google.com.ua/citations?user=_ippPMAAAAAJ&hl=en
+Нанопласт: 28743921: Postovoi: browncat.net.ua: 2018-07-23T15:26:26: http://www.cn.ru/terka/post/73310745/: http://www.cn.ru/terka/post/73310745/
+Нанопласт: 28742734: Post: hodos.kharkov.ua: 2018-07-22T00:17:11: None: None
+Нанопласт: 28746281: Postovoi: telopa.com.ua: 2018-07-25T19:54:54: http://lenta.kharkiv.ua/other/2018/04/26/209302.html: http://lenta.kharkiv.ua/other/2018/04/26/209302.html
+Нанопласт: 28743561: Postovoi: euro-m.kharkov.ua: 2018-07-23T09:36:48: https://buddvir.ua/stroitelnye-smesi/shtukaturka/: магазин Будівельний Двір
+Нанопласт: 28745224: Post: bigmoney.kiev.ua: 2018-07-24T19:29:55: None: None
+Нанопласт: 28729465: Post: da100let.dn.ua: 2018-07-06T13:08:06: None: None
+Нанопласт: 28746318: Postovoi: tren.com.ua: 2018-07-25T21:31:07: https://kontur-sb.com.ua/security_alarm/security-panel/ppk-lun/: Лунь охранная сигнализация
+Нанопласт: 28746695: Postovoi: turtrans.net.ua: 2018-07-26T11:50:12: http://www.q-klining.kiev.ua/: http://www.q-klining.kiev.ua/
+Нанопласт: 28746699: Postovoi: shiva.net.ua: 2018-07-26T11:58:13: http://www.ktservice.kiev.ua/info/matrac.html: www.ktservice.kiev.ua/info/matrac.html
+Нанопласт: 28746768: Postovoi: salfetki.org.ua: 2018-07-26T12:51:57: https://theacademicadvisor.com.ua/angliyskiy-yazyik-za-rubezhom/usa/: https://theacademicadvisor.com.ua/angliyskiy-yazyik-za-rubezhom/usa/
+Нанопласт: 28747986: Postovoi: sortis.com.ua: 2018-07-27T14:02:07: http://ukr-china.com/uslugi/dostavka-sbornih-gruzov: грузоперевозки сборных грузов
+Нанопласт: 28748031: Postovoi: hodos.kharkov.ua: 2018-07-27T14:09:12: http://rentflot.ua/: rentflot.ua
+Нанопласт: 28748051: Postovoi: valiza-tour.kiev.ua: 2018-07-27T14:09:15: http://rentflot.ua/motor_ships_50/7-mi-chasovaya-progulka-v-mezhigore-na-teplohode.html: rentflot.ua
+Нанопласт: 28748050: Postovoi: turtrans.net.ua: 2018-07-27T14:09:15: http://rentflot.ua/rest_walk.html: rentflot.ua
+Нанопласт: 28748049: Postovoi: tropic.od.ua: 2018-07-27T14:09:15: http://rentflot.ua/motor_ships_50/7-mi-chasovaya-progulka-v-mezhigore-na-teplohode.html: rentflot.ua
+Нанопласт: 28748639: Postovoi: e-putivka.com.ua: 2018-07-27T23:20:41: http://www.elite-concierge.ch/ru/swiss-company-ru/: бизнес в швейцарии
+Нанопласт: 28748670: Postovoi: tropic.od.ua: 2018-07-27T23:20:50: http://jets-yachts.com/ru/jets/: заказать частный перелет
+Нанопласт: 28748672: Postovoi: turtrans.net.ua: 2018-07-27T23:20:50: http://jets-yachts.com/ru/jets/: аренда самолета москва
+Нанопласт: 28748665: Postovoi: redcat.net.ua: 2018-07-27T23:20:49: http://forte-dei-marmi.org/: рестораны forte dei marmi куда стоит зайти
+Нанопласт: 28748660: Postovoi: oscar.donetsk.ua: 2018-07-27T23:20:48: http://forte-dei-marmi.org/: форте дей марми как добраться
+Нанопласт: 28748644: Postovoi: hodos.kharkov.ua: 2018-07-27T23:20:45: http://www.elite-concierge.ch/ru/real-estate-ru/: недвижимость в швейцарии
+Нанопласт: 28748640: Postovoi: europarfum.net.ua: 2018-07-27T23:20:43: http://www.elite-concierge.ch/ru/swiss-bank-account-ru/: банковское обслуживание в швейцарии
+Нанопласт: 28748675: Postovoi: valiza-tour.kiev.ua: 2018-07-27T23:20:51: http://jets-yachts.com/ru/jets/: аренда чартера
+Йотобайк: 28734664: Postovoi: estdomain.com.ua: 2018-07-12T16:20:24: https://chernivtsi-city.com/ua/fullnews/234319: chernivtsi-city.com
+Йотобайк: 28741124: Postovoi: farman.kiev.ua: 2018-07-19T17:20:15: http://titangel.su: http://titangel.su
+Йотобайк: 28743560: Postovoi: elites-montage.com.ua: 2018-07-23T09:36:48: https://buddvir.ua/stroitelnye-smesi/shtukaturka/: штукатурка цена
+Йотобайк: 28743932: Postovoi: farman.kiev.ua: 2018-07-23T15:26:29: http://lenta.kharkiv.ua/other/2018/04/26/209302.html: http://lenta.kharkiv.ua/other/2018/04/26/209302.html
+Йотобайк: 28741607: Post: farman.kiev.ua: 2018-07-20T10:33:58: None: None
+Йотобайк: 28748823: Postovoi: kolizey.net.ua: 2018-07-28T02:28:02: https://planeta-zolota.com.ua/: раздел сайта https://planeta-zolota.com.ua/
+

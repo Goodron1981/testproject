@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e93f24d8-c976-4977-badb-fae0dfdd6ebc" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/testproject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/testproject.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/runapp/logfile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/runapp/logfile.txt" afterDir="false" />
@@ -108,7 +106,7 @@
         <entry file="file://$PROJECT_DIR$/runapp/publication/public_isue.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="4" />
+              <caret line="3" column="18" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="18" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -200,8 +198,8 @@
         <option value="$PROJECT_DIR$/runapp/mainapp/compliter.py" />
         <option value="$PROJECT_DIR$/runapp/Fortest/parsetest.py" />
         <option value="$PROJECT_DIR$/runapp/sape/load_isue.py" />
-        <option value="$PROJECT_DIR$/runapp/publication/public_isue.py" />
         <option value="$PROJECT_DIR$/runapp/models.py" />
+        <option value="$PROJECT_DIR$/runapp/publication/public_isue.py" />
       </list>
     </option>
   </component>
@@ -234,6 +232,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Changed Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="testproject" type="cbb8eebc:String" user="testproject" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="testproject" type="cbb8eebc:String" user="testproject" />
+              <item name="runapp" type="cbb8eebc:String" user="runapp" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -263,22 +277,6 @@
               <item name="testproject" type="462c0819:PsiDirectoryNode" />
               <item name="runapp" type="462c0819:PsiDirectoryNode" />
               <item name="publication" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Changed Files">
-          <expand>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="testproject" type="cbb8eebc:String" user="testproject" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="testproject" type="cbb8eebc:String" user="testproject" />
-              <item name="runapp" type="cbb8eebc:String" user="runapp" />
             </path>
           </expand>
           <select />
@@ -428,8 +426,8 @@
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49709147" weight="0.3272933" />
       <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.4875727" weight="0.32343236" />
       <window_info id="Structure" order="1" sideWeight="0.5062344" side_tool="true" weight="0.203125" />
-      <window_info anchor="bottom" x="350" y="261" width="666" height="205" id="Terminal" order="9" sideWeight="0.40877843" weight="0.30033004" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.5912216" side_tool="true" weight="0.30033004" />
+      <window_info anchor="bottom" x="350" y="261" width="666" height="205" id="Terminal" order="9" sideWeight="0.40699404" visible="true" weight="0.30033004" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.59300596" side_tool="true" weight="0.30033004" />
       <window_info id="Favorites" order="2" sideWeight="0.50359714" side_tool="true" weight="0.203125" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -830,7 +828,7 @@
     <entry file="file://$PROJECT_DIR$/runapp/publication/public_isue.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="4" />
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="18" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
