@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e93f24d8-c976-4977-badb-fae0dfdd6ebc" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/runapp/logfile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/runapp/logfile.txt" afterDir="false" />
     </list>
@@ -422,13 +421,13 @@
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4937656" visible="true" weight="0.24404761" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49656266" weight="0.3272933" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5130208" side_tool="true" weight="0.3358946" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.28298888" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49709147" weight="0.3272933" />
       <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.4875727" weight="0.32343236" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28298888" />
       <window_info id="Structure" order="1" sideWeight="0.5062344" side_tool="true" weight="0.203125" />
-      <window_info anchor="bottom" x="350" y="261" width="666" height="205" id="Terminal" order="9" sideWeight="0.40699404" visible="true" weight="0.30033004" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.59300596" side_tool="true" weight="0.30033004" />
+      <window_info anchor="bottom" x="350" y="261" width="666" height="205" id="Terminal" order="9" sideWeight="0.40625" visible="true" weight="0.30033004" />
       <window_info id="Favorites" order="2" sideWeight="0.50359714" side_tool="true" weight="0.203125" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.59375" side_tool="true" weight="0.30033004" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
