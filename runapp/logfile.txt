@@ -4270,3 +4270,99 @@ Function autorizen: 2018.08.04 09:02:41
 Максим: 1063824: PR=3a1cfb3b417bb34729da5077ea354374:6b64332db09eeb1982a1f48eb4ecb4520e85ff38; path=/; domain=api.pr.sape.ru
 Нанопласт: 1464824: PR=26788b2a0f3143e2224dc1faa18261f7:ecdb2d8837e51d198420e5c04fbba33dc4034bf2; path=/; domain=api.pr.sape.ru
 
+Function autorizen: 2018.08.08 13:34:15
+Курко: 1425070: PR=d900dba8193c76f7a0662017053f5f85:c55575385eba3fa2535be278e9c6844174de2863; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=43e091118b64b9a4f5fe6f36373bfcf0:f3a6c9519c9bb88f431ba47e9d3a6cabf9ef7101; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=74788754a12ef0958c1bf8b477530c09:e7cf936e01e9826d9d3462cfe8ff73e5eb9a61af; path=/; domain=api.pr.sape.ru
+
+Function load_isue: 2018.08.08 13:34:15
+
+Function autorizen_rota: 2018.08.08 13:34:34
+Антон: true: 6d4dd5a2-5048-44f9-a70e-05e81dd49d4d
+Курко: true: da0a1793-a361-4eb9-865d-35645b2900bc
+Максим: true: 154c2649-a30b-4ff5-9138-af3d281f4485
+Нанопласт: true: e9be170c-8548-4432-b8a7-df35a6e3f465
+Йотобайк: true: ed1e58ec-6d8c-4108-b5a0-fd492d1855f6
+
+Function load_isue_rota: 2018.08.08 13:34:33
+Курко: 28740264: Postovoi: ukravtomobil.if.ua: 2018-07-18T20:08:55: http://diagnost71.ru/uslugi/chip-tyuning/: чип тюнинг в Туле
+Курко: 28740112: Postovoi: ahumor.org.ua: 2018-07-18T18:27:06: http://scholar.google.com.ua/citations?user=_ippPMAAAAAJ&hl=en: http://scholar.google.com.ua/citations?user=_ippPMAAAAAJ&hl=en
+Курко: 28744122: Postovoi: фордклуб.com.ua: 2018-07-23T17:37:34: https://www.grandinstrument.ua/stend-razval-shozhdenie/: стенд развал схождения купить
+Курко: 28744601: Postovoi: medical-beauty.org.ua: 2018-07-24T09:07:24: https://medpravda.com.ua/preparat/atsts-long: Ацц Лонг
+Курко: 28746278: Postovoi: freya.kiev.ua: 2018-07-25T19:54:53: http://max-polyakov.one/: http://max-polyakov.one/
+Курко: 28754338: Post: odissey.net.ua: 2018-08-03T14:56:28: None: None
+Курко: 28754340: Post: freya.kiev.ua: 2018-08-03T14:56:28: None: None
+Курко: 28754611: Postovoi: ypag.com.ua: 2018-08-03T18:50:27: https://kommetagroup.ru/plazmennaya_rezka: Заказать плазменную резку здесь
+Курко: 28754616: PressRelease: cugp.com.ua: 2018-08-03T18:57:17: None: None
+Курко: 28755015: Postovoi: medical-beauty.org.ua: 2018-08-04T16:28:02: http://www.q-klining.kiev.ua/himchistka/21.html: http://www.q-klining.kiev.ua/himchistka/21.html
+Курко: 28739602: Post: ukravtomobil.if.ua: 2018-07-18T13:34:03: None: None
+Курко: 28756655: Postovoi: ahumor.org.ua: 2018-08-07T01:04:15: https://tvoyagotivochka.com.ua/s-21-goda/: кредит с 21
+Максим: 28737797: Postovoi: fledur.org.ua: 2018-07-16T17:24:36: http://uanews.kharkiv.ua/other/2018/04/27/186208.html: http://uanews.kharkiv.ua/other/2018/04/27/186208.html
+Максим: 28738320: Postovoi: poser.kiev.ua: 2018-07-17T11:19:03: http://070.com.ua/termosy-stanley: термос stanley
+Максим: 28740113: Postovoi: betar.org.ua: 2018-07-18T18:27:06: https://ain.ua/tag/maksim-polyakov: https://ain.ua/tag/maksim-polyakov
+Максим: 28740572: Postovoi: amidi.com.ua: 2018-07-19T05:31:06: https://zoolove.com.ua: подробнее
+Максим: 28740824: Postovoi: gv.org.ua: 2018-07-19T13:30:17: https://noosphereglobal.com/who-we-are/noothinkers/max-polyakov/: https://noosphereglobal.com/who-we-are/noothinkers/max-polyakov/
+Максим: 28740828: Postovoi: www.topcatalog.com.ua: 2018-07-19T13:30:20: http://scholar.google.com.ua/citations?user=_ippPMAAAAAJ&hl=en: http://scholar.google.com.ua/citations?user=_ippPMAAAAAJ&hl=en
+Максим: 28743249: Postovoi: fledur.org.ua: 2018-07-22T23:29:01: https://www.islamnews.ru/release-5607154066.html: крафт пакеты
+Максим: 28748319: Postovoi: fledur.org.ua: 2018-07-27T16:55:50: http://ukrservis.com.ua/uslugi-santehnika/: сантехник Киев
+Максим: 28750169: Postovoi: betar.org.ua: 2018-07-30T14:11:07: https://medpravda.com.ua/preparat/amoksiklav: Амоксиклав
+Максим: 28750358: Postovoi: fledur.org.ua: 2018-07-30T16:10:41: http://ua.kinokrad-720.com: ua.kinokrad-720.com
+Максим: 28740126: Postovoi: animan.kiev.ua: 2018-07-18T18:27:08: http://uprom.info/ru/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE/ukrayinets-maksim-polyakov-ta-firefly-aerospace-vzhe-proyshli-polovinu-shlyahu-do-privatnogo-kosmosu/: на сайте
+Максим: 28750885: Postovoi: fledur.org.ua: 2018-07-31T00:18:28: https://uamade.top/: Зручна Підставка-органайзер
+Максим: 28752778: Postovoi: betar.org.ua: 2018-08-02T11:48:44: http://modnasprava.com.ua/catalog/yubki/: юбки опт
+Максим: 28754466: Postovoi: interline.net.ua: 2018-08-03T17:04:01: http://print-media-group.com.ua/pechat-bannerov-ili-bannera-kiev/: баннера печать
+Максим: 28754467: Postovoi: opalkova.com.ua: 2018-08-03T17:04:02: http://print-media-group.com.ua/pechat-bannerov-ili-bannera-kiev/: печать баннеров срочно
+Максим: 28756342: Postovoi: kpln.com.ua: 2018-08-06T17:28:10: https://www.cityhouse.com.ua/: купить квартиру во львове
+Максим: 28756658: Postovoi: betar.org.ua: 2018-08-07T01:04:17: https://tvoyagotivochka.com.ua/s-21-goda/: кредит от 21 года
+Максим: 28756687: Postovoi: kpln.com.ua: 2018-08-07T01:18:29: https://tvoyagotivochka.com.ua/s-20-let/: кредит 20 лет
+Максим: 28757664: Postovoi: dril.com.ua: 2018-08-07T19:04:32: https://pcbu.pro/notebook/notebook-do-5000-grn/: ноутбук до 5000 грн
+Максим: 28757666: Postovoi: opalkova.com.ua: 2018-08-07T19:04:34: https://pcbu.pro/notebook/notebook-do-5000-grn/: ноутбук до 5000 грн
+Нанопласт: 28740831: Postovoi: yavtanke.org.ua: 2018-07-19T13:30:25: http://scholar.google.com.ua/citations?user=_ippPMAAAAAJ&hl=en: http://scholar.google.com.ua/citations?user=_ippPMAAAAAJ&hl=en
+Нанопласт: 28740829: Postovoi: komitet.kiev.ua: 2018-07-19T13:30:22: http://scholar.google.com.ua/citations?user=_ippPMAAAAAJ&hl=en: http://scholar.google.com.ua/citations?user=_ippPMAAAAAJ&hl=en
+Нанопласт: 28743921: Postovoi: browncat.net.ua: 2018-07-23T15:26:26: http://www.cn.ru/terka/post/73310745/: http://www.cn.ru/terka/post/73310745/
+Нанопласт: 28746281: Postovoi: telopa.com.ua: 2018-07-25T19:54:54: http://lenta.kharkiv.ua/other/2018/04/26/209302.html: http://lenta.kharkiv.ua/other/2018/04/26/209302.html
+Нанопласт: 28746318: Postovoi: tren.com.ua: 2018-07-25T21:31:07: https://kontur-sb.com.ua/security_alarm/security-panel/ppk-lun/: Лунь охранная сигнализация
+Нанопласт: 28749259: Postovoi: programer.org.ua: 2018-07-29T08:28:00: http://070.com.ua/kak-viklyuchit-power-bank-xiaomi/: ссылку
+Нанопласт: 28753846: Postovoi: web-city.org.ua: 2018-08-03T00:56:19: https://jabra-shop.com/ru/: Гарнитуры офис и наушники
+Нанопласт: 28753866: Postovoi: telopa.com.ua: 2018-08-03T00:59:39: https://kievmas.com.ua/healing/manual: мануальная терапия в Киеве
+Нанопласт: 28753949: Postovoi: sortis.com.ua: 2018-08-03T08:27:05: https://vipmassage.kiev.ua/ru/devushki: Киев
+Нанопласт: 28754440: Postovoi: tellall.kiev.ua: 2018-08-03T16:26:54: https://lumberjack.style/: https://lumberjack.style/
+Нанопласт: 28754465: Postovoi: electrodom-l.com.ua: 2018-08-03T17:02:38: http://print-media-group.com.ua/pechat-bannerov-ili-bannera-kiev/: изготовление и печать баннеров
+Нанопласт: 28754468: Postovoi: tellall.kiev.ua: 2018-08-03T17:04:33: http://print-media-group.com.ua/pechat-bannerov-ili-bannera-kiev/: наружная реклама баннер
+Нанопласт: 28754469: Postovoi: komitet.kiev.ua: 2018-08-03T17:04:34: http://print-media-group.com.ua/pechat-bannerov-ili-bannera-kiev/: печать баннеров на ткани
+Нанопласт: 28754471: Postovoi: avtocentr.sumy.ua: 2018-08-03T17:04:36: http://print-media-group.com.ua/pechat-bannerov-ili-bannera-kiev/: заказ баннера
+Нанопласт: 28755712: Postovoi: fbk.org.ua: 2018-08-06T08:20:57: https://oilteam.com.ua/: #img#
+Нанопласт: 28751177: Postovoi: electrodom-l.com.ua: 2018-07-31T10:22:48: https://svetilnikof.com.ua/svetilniki-dlia-kuhni: https://svetilnikof.com.ua/svetilniki-dlia-kuhni
+Нанопласт: 28756659: Postovoi: blackmetal.kiev.ua: 2018-08-07T01:04:17: https://tvoyagotivochka.com.ua/s-21-goda/: кредит с 21 года без справок и поручителей
+Нанопласт: 28756667: Postovoi: orangecat.net.ua: 2018-08-07T01:04:20: https://tvoyagotivochka.com.ua/s-21-goda/: онлайн заявка на кредит с 21 года
+Нанопласт: 28756694: Postovoi: turtrans.net.ua: 2018-08-07T01:18:29: https://tvoyagotivochka.com.ua/s-20-let/: кредит 20 лет без справки о доходах
+Нанопласт: 28756684: Postovoi: browncat.net.ua: 2018-08-07T01:18:29: https://tvoyagotivochka.com.ua/s-20-let/: кредит наличными на 20 лет
+Нанопласт: 28756696: Postovoi: valiza-tour.kiev.ua: 2018-08-07T01:18:30: https://tvoyagotivochka.com.ua/s-20-let/: деньги в кредит с 20 лет
+Нанопласт: 28757667: Postovoi: tellall.kiev.ua: 2018-08-07T19:05:07: https://pcbu.pro/notebook/notebook-do-5000-grn/: ноутбуки до 5000 грн
+Нанопласт: 28757793: Postovoi: tropic.od.ua: 2018-08-07T22:10:56: http://sun.zt.ua/: сонячні батареї для будинку ціна
+Нанопласт: 28756763: Postovoi: yavtanke.org.ua: 2018-08-07T06:20:33: http://cross-way.ru/shop: детская обувь в интернет магазине
+Нанопласт: 28756765: Postovoi: valiza-tour.kiev.ua: 2018-08-07T06:20:41: https://evro-apteka.com/lekarstvo/votrient: Вотриент
+Нанопласт: 28756906: Postovoi: belosnet.dn.ua: 2018-08-07T12:20:30: https://evro-apteka.com/lekarstvo/lonsurf: Лонсурф
+Йотобайк: 28734664: Postovoi: estdomain.com.ua: 2018-07-12T16:20:24: https://chernivtsi-city.com/ua/fullnews/234319: chernivtsi-city.com
+Йотобайк: 28741124: Postovoi: farman.kiev.ua: 2018-07-19T17:20:15: http://titangel.su: http://titangel.su
+Йотобайк: 28743932: Postovoi: farman.kiev.ua: 2018-07-23T15:26:29: http://lenta.kharkiv.ua/other/2018/04/26/209302.html: http://lenta.kharkiv.ua/other/2018/04/26/209302.html
+Йотобайк: 28751180: Postovoi: darkbluecat.net.ua: 2018-07-31T10:22:49: https://svetilnikof.com.ua/nastolnye-lampy: заказать настольную лампу
+Йотобайк: 28752054: Post: farman.kiev.ua: 2018-08-01T09:40:02: None: None
+Йотобайк: 28755791: Postovoi: farman.kiev.ua: 2018-08-06T10:55:55: https://vitacell.com.ua/page6171.html: https://vitacell.com.ua/page6171.html
+Йотобайк: 28756664: Postovoi: feyhoa.org.ua: 2018-08-07T01:04:19: https://tvoyagotivochka.com.ua/s-21-goda/: кредит от 21 года без справок
+Йотобайк: 28757794: Postovoi: feyhoa.org.ua: 2018-08-07T22:12:39: http://sun.zt.ua/sonyachni-paneli-kupyty-komplekt-dlya-domu: сонячні панелі купити
+Йотобайк: 28758137: Postovoi: farman.kiev.ua: 2018-08-08T11:31:59: https://podarkina.com/professionalnye-prazdniki/podarok-vrachu/: можно купить в благодарность врачу на Подаркина.ком
+Йотобайк: 28756828: Postovoi: chvv.com.ua: 2018-08-07T11:00:10: https://www.biz-store.com.ua/magazin/folder/ruchki: ручки с логотипом
+Йотобайк: 28756905: Postovoi: farman.kiev.ua: 2018-08-07T12:20:28: https://evro-apteka.com/lekarstvo/darzaleks: Дарзалекс
+
+Function load_isue: 2018.08.08 14:23:07
+
+Function load_isue_rota: 2018.08.08 14:23:21
+
+Function load_isue: 2018.08.08 17:30:09
+
+Function load_isue_rota: 2018.08.08 17:30:26
+Максим: 28758346: Postovoi: 4da.org.ua: 2018-08-08T14:27:21: http://semycvit.com/: http://semycvit.com/
+Максим: 28758331: Postovoi: nanoplast.com.ua: 2018-08-08T14:27:19: http://semycvit.com/index.php?route=product/search: semycvit.com
+Нанопласт: 28758414: Postovoi: tellall.kiev.ua: 2018-08-08T15:29:00: http://profyparty.kiev.ua/master-klass.html: здесь (profyparty.kiev.ua/master-klass.html)
+
