@@ -4378,3 +4378,15 @@ Function load_isue_rota: 2018.08.08 23:51:38
 Максим: 28753647: Post: betar.org.ua: 2018-08-02T21:45:35: None: None
 Нанопласт: 28753648: Post: browncat.net.ua: 2018-08-02T21:45:36: None: None
 
+Function autorizen: 2018.08.10 12:20:44
+Курко: 1425070: PR=b45938656f95e6effb1893d734bf5f9a:aeadc8a6140f0302d2033ce5c21103ca94dc4a31; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=ef93c403269d9a2f1ad1cdff0ea411e0:a876ff585000abdc714ec050be42a7bdd1bd9470; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=85737d18f0c39bdfebbd64b72c039299:2780af68ad805ac0612b55b4cffe0ddecb61cb9e; path=/; domain=api.pr.sape.ru
+
+Function autorizen_rota: 2018.08.10 12:24:37
+Антон: true: 6d4dd5a2-5048-44f9-a70e-05e81dd49d4d
+Курко: true: da0a1793-a361-4eb9-865d-35645b2900bc
+Максим: true: 154c2649-a30b-4ff5-9138-af3d281f4485
+Нанопласт: true: e9be170c-8548-4432-b8a7-df35a6e3f465
+Йотобайк: true: ed1e58ec-6d8c-4108-b5a0-fd492d1855f6
+
