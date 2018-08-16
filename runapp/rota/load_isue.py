@@ -89,6 +89,6 @@ def load_isue_rota():
                     if typeisue == 'Post' or typeisue == 'PressRelease' or cuisue != 'None' or sitetisue == 'nanoplast.com.ua':
                         b.status_isue = 'Reword'
                     b.save()
-                    f.write(user_name + ': ' + idisue + ': ' + typeisue + ': ' + sitetisue + ': ' + cdisue + ': ' + ancor_href + ': ' + ancor_text + '\n')
+                   # f.write(user_name + ': ' + idisue + ': ' + typeisue + ': ' + sitetisue + ': ' + cdisue + ': ' + ancor_href + ': ' + ancor_text + '\n')
     f.write('\n')
     f.close()
