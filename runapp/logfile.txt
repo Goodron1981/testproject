@@ -4524,3 +4524,55 @@ Function load_isue: 2018.08.22 23:32:48
 
 Function load_isue_rota: 2018.08.22 23:33:00
 
+Function autorizen_rota: 2018.08.23 15:33:48
+Антон: true: 6d4dd5a2-5048-44f9-a70e-05e81dd49d4d
+Курко: true: da0a1793-a361-4eb9-865d-35645b2900bc
+Максим: true: 154c2649-a30b-4ff5-9138-af3d281f4485
+Нанопласт: true: e9be170c-8548-4432-b8a7-df35a6e3f465
+Йотобайк: true: ed1e58ec-6d8c-4108-b5a0-fd492d1855f6
+
+Function autorizen_rota: 2018.08.23 15:34:08
+Антон: true: 6d4dd5a2-5048-44f9-a70e-05e81dd49d4d
+Курко: true: da0a1793-a361-4eb9-865d-35645b2900bc
+Максим: true: 154c2649-a30b-4ff5-9138-af3d281f4485
+Нанопласт: true: e9be170c-8548-4432-b8a7-df35a6e3f465
+Йотобайк: true: ed1e58ec-6d8c-4108-b5a0-fd492d1855f6
+
+Function autorizen: 2018.08.27 12:59:55
+Курко: 1425070: PR=d21747a98e1bd250ced69a5628fc81d9:2690a453b391ce38f8e54e95c9df6035e97b37dd; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=5b26212030b0922d1682a73261bb0e14:b7ae152e817c7dcaac79414656908f10441079b0; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=7b9da37ebd24aa7de7634685cd2039f2:a1b5fca96310772e653f97c9dc604da2ea0f3d75; path=/; domain=api.pr.sape.ru
+
+Function load_isue: 2018.08.27 12:59:55
+
+Function load_isue_rota: 2018.08.27 13:00:18
+
+Function autorizen: 2018.08.29 12:25:27
+Курко: 1425070: PR=3873fafb4245cbbe78bba9e2ab5df217:6f3a024ecce814d69e0e4961f5faa0e78fa31c75; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=1a63a3437b0c6de15274cb17147aa9f9:53732691515886593e295fdce1dc9b53c3e2b301; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=bcf23878985003f184aa71ea8548a8ba:deb07f41c82a85220a9bbc22a737819911ef303b; path=/; domain=api.pr.sape.ru
+
+Function load_isue: 2018.08.29 12:25:27
+
+Function load_isue_rota: 2018.08.29 12:25:49
+
+Function load_isue: 2018.08.29 12:41:43
+
+Function load_isue_rota: 2018.08.29 12:42:08
+
+Function load_isue: 2018.08.29 12:55:12
+
+Function load_isue_rota: 2018.08.29 12:55:32
+
+Function load_isue: 2018.08.29 13:29:57
+
+Function load_isue_rota: 2018.08.29 13:30:16
+
+Function load_isue: 2018.08.29 13:38:25
+
+Function load_isue_rota: 2018.08.29 13:38:45
+
+Function load_isue: 2018.08.29 15:06:21
+
+Function load_isue_rota: 2018.08.29 15:06:44
+
