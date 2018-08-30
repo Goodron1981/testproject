@@ -4596,3 +4596,14 @@ Function load_isue: 2018.08.30 17:21:03
 
 Function load_isue_rota: 2018.08.30 17:21:15
 
+Function load_isue: 2018.08.30 20:59:36
+
+Function load_isue_rota: 2018.08.30 20:59:52
+
+Function autorizen_rota: 2018.08.30 23:00:26
+Антон: true: 6d4dd5a2-5048-44f9-a70e-05e81dd49d4d
+Курко: true: da0a1793-a361-4eb9-865d-35645b2900bc
+Максим: true: 154c2649-a30b-4ff5-9138-af3d281f4485
+Нанопласт: true: e9be170c-8548-4432-b8a7-df35a6e3f465
+Йотобайк: true: ed1e58ec-6d8c-4108-b5a0-fd492d1855f6
+
