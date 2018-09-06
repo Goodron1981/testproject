@@ -4620,3 +4620,29 @@ Function load_isue: 2018.09.03 17:17:45
 
 Function load_isue_rota: 2018.09.03 17:18:04
 
+Function load_isue: 2018.09.03 23:07:01
+
+Function load_isue_rota: 2018.09.03 23:07:17
+
+Function load_isue: 2018.09.03 23:19:04
+
+Function load_isue: 2018.09.03 23:23:34
+
+Function load_isue_rota: 2018.09.03 23:23:50
+
+Function autorizen_rota: 2018.09.04 08:44:05
+Антон: true: 6d4dd5a2-5048-44f9-a70e-05e81dd49d4d
+Курко: true: da0a1793-a361-4eb9-865d-35645b2900bc
+Максим: true: 154c2649-a30b-4ff5-9138-af3d281f4485
+Нанопласт: true: e9be170c-8548-4432-b8a7-df35a6e3f465
+Йотобайк: true: ed1e58ec-6d8c-4108-b5a0-fd492d1855f6
+
+Function autorizen: 2018.09.05 22:57:29
+Курко: 1425070: PR=e0013b342ad7b67aa8c8a9da22d5fc7e:c240d9f1c97aa71babf55909347a1145267512c8; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=6d30b0387f696a2bb34b94f1f990b0ca:d7a06d41ae0bc1ec1e34e66e502516a68b3897a9; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=0dce7453359e60ca30c6f911f758d149:46d2be77f314945663b2c4842313fdc547956dfa; path=/; domain=api.pr.sape.ru
+
+Function load_isue: 2018.09.05 22:57:29
+
+Function load_isue_rota: 2018.09.05 22:58:08
+
