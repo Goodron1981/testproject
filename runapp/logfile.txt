@@ -4693,3 +4693,164 @@ Function load_isue: 2018.09.11 14:44:18
 
 Function load_isue_rota: 2018.09.11 14:44:37
 
+Function autorizen: 2018.09.11 23:31:21
+Курко: 1425070: PR=a2ac6d159f406589e2e2bfebcfa99ec2:b5df6159a6b7e60e1e107f567ab36b45b0af1984; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=719a0a3b207f487cbc56243af4e9888f:cba6dded6bfafce2f49e36d4d287432435193d61; path=/; domain=api.pr.sape.ru
+Нанопласт: 1300200001: PR=a9b08c0d044973b524d9471b665372fd:ff592e19e768bb9b3125550b1dcf58c86b2a90f2; path=/; domain=api.pr.sape.ru
+
+Function autorizen: 2018.09.11 23:31:27
+Курко: 1425070: PR=df47a4898b60458a15f4dcb7de58b438:760d8ebf2c0d314377a0af50068886bf9c7fcbc1; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=ca83f0fc8c2046fa5256db73bfb15363:a356d7fcd9f8663bcfad22d128ee10ce682b9710; path=/; domain=api.pr.sape.ru
+Нанопласт: 1300200001: PR=3f0a95a9a93044d08cb918fc37f30a71:0595a5860c3f9eba7d4f83015d267d5f310d409c; path=/; domain=api.pr.sape.ru
+
+Function autorizen: 2018.09.11 23:31:39
+Курко: 1425070: PR=dfccb98dde57aa61d02ab90eca89016e:31c69c4246adf5d3c551c586febfcd4a75df9a20; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=93ffaee121a4a1a2c9c46fcca65994ce:2a036d8ce6190d25245f87dbd97c81e76deeb70d; path=/; domain=api.pr.sape.ru
+Нанопласт: 1300200001: PR=9f756b9389674acc8bd380aaa394b543:d8f4c0b6801bab4bb74fa7ed7c37574223dde788; path=/; domain=api.pr.sape.ru
+
+Function autorizen: 2018.09.11 23:31:45
+Курко: 1425070: PR=e8f2d7816b992023dede9752b42ce1ac:38828dd513e5e7ffcb6111c04cd5cacf3bb1a79c; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=bfb02ce76e9c2a34afa6b82141cd506c:ddbb90158396590be17b38e136d48f153edec251; path=/; domain=api.pr.sape.ru
+Нанопласт: 1300200001: PR=32be91915b7595018fe739306b118bd4:c9650051f468e0865f999bc2b8b0cdd37da33640; path=/; domain=api.pr.sape.ru
+
+Function autorizen: 2018.09.11 23:31:51
+Курко: 1425070: PR=721e53bb4de90bbd7843e781b541efe3:e26d19211c62516cf1e372b0151874e80abffcd3; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=8455b6a16907445c6058d157f7c7e117:5cfad0ef1dc5915edb3eb7d8856ec7e2d3170c1a; path=/; domain=api.pr.sape.ru
+Нанопласт: 1300200001: PR=43cef72b07d7fe13ebee2573658e3dcf:6f826ed2cacab4ad02ec2090425cdcc06a7e781b; path=/; domain=api.pr.sape.ru
+
+Function autorizen: 2018.09.11 23:31:56
+Курко: 1425070: PR=fc2b0958745ed3463f68edcae5d4565c:db573117bae72c6f84e5db54123e7a995d3abdf5; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=57b26c5c4ab34c3b5bfbb46f5589f849:22978a640b12db28b98e0c59c5c990f35368dd1c; path=/; domain=api.pr.sape.ru
+Нанопласт: 1300200001: PR=516fb1c0d1b2faaf49693939be5d2ef0:1d5da5b5614a964711399b70a6628db86a9859f1; path=/; domain=api.pr.sape.ru
+
+Function autorizen: 2018.09.11 23:32:01
+Курко: 1425070: PR=941b4c6bbf5fd8de95c888dbdca70ad1:63bfb245768b4f54e89739dd5347bbb9a93d9760; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=4f3573b78389c9143840a9df13e9edf7:67c249833d613ed1071c97e1aba2c0fdfa71b199; path=/; domain=api.pr.sape.ru
+Нанопласт: 1300200001: PR=b2eb6f0924d9c3d72e0ddd1e23e9b5eb:470c4dd91ac2c56525074bac60710d070436e4b7; path=/; domain=api.pr.sape.ru
+
+Function autorizen_rota: 2018.09.11 23:32:08
+Антон: true: 6d4dd5a2-5048-44f9-a70e-05e81dd49d4d
+Курко: true: da0a1793-a361-4eb9-865d-35645b2900bc
+Максим: true: 154c2649-a30b-4ff5-9138-af3d281f4485
+Нанопласт: true: e9be170c-8548-4432-b8a7-df35a6e3f465
+Йотобайк: true: ed1e58ec-6d8c-4108-b5a0-fd492d1855f6
+
+Function autorizen_rota: 2018.09.11 23:32:23
+Антон: true: 6d4dd5a2-5048-44f9-a70e-05e81dd49d4d
+Курко: true: da0a1793-a361-4eb9-865d-35645b2900bc
+Максим: true: 154c2649-a30b-4ff5-9138-af3d281f4485
+Нанопласт: true: e9be170c-8548-4432-b8a7-df35a6e3f465
+Йотобайк: true: ed1e58ec-6d8c-4108-b5a0-fd492d1855f6
+
+Function autorizen: 2018.09.11 23:37:05
+Курко: 1425070: PR=8334ef135373a1dc2617703f827f3f88:0a9e52dca47b64e294baf396d7b0a9e23411595f; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=8f5577d830dd08adf14fb6731dbfd339:63bf052d9b9e90a584fe32442d1be1e51e58bab7; path=/; domain=api.pr.sape.ru
+Нанопласт: 1300200001: PR=b36f63291aef16e732807eeb3748c3ef:bbc3cdd477f52db6629dd77c754b7152613ad939; path=/; domain=api.pr.sape.ru
+
+Function autorizen: 2018.09.11 23:37:11
+Курко: 1425070: PR=403d9bed3562cda390ccb1845f68a1b2:784dca1e941c1307a207f3de248893eb45ad763b; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=c102cf69363cb6c19519a9cb2b732085:7a9b4afa261524f3170be3c4cd819515807eb474; path=/; domain=api.pr.sape.ru
+Нанопласт: 1300200001: PR=04670764e1407c5a9bb0b5d1bac7f898:1cd1f2d99c7bdf5cafd1f4855bddfb690b0a6991; path=/; domain=api.pr.sape.ru
+
+Function autorizen: 2018.09.11 23:37:16
+Курко: 1425070: PR=f36a1ff52beb80b796aa07ad0342766b:7d9ca924ad3e58d509e769271f88217684bed89b; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=77fc0e8137d8a79f18918785a8b11da2:a4022905bde31a63928b1a417b5ee7962ec47385; path=/; domain=api.pr.sape.ru
+Нанопласт: 1300200001: PR=339a1f86f0f9a242ad4788bbbba861c6:67418a7292c129fb2397e832ba3389c9bcb19221; path=/; domain=api.pr.sape.ru
+
+Function autorizen: 2018.09.11 23:37:21
+Курко: 1425070: PR=cf1766a68ff1b8af2d07967e9572c899:4f478cecc8dddd8fd422400348a14c20fdacde1d; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=0a3ee28eb6b403d0bbc60daf2ff14be0:6765b0471717be04b1700718a1c92941bece9e45; path=/; domain=api.pr.sape.ru
+Нанопласт: 1300200001: PR=236ff236d4fb236e8eab1ef09d1cba01:fb5d4c682f87d70bdb7ae98c9ce922fb0dc61835; path=/; domain=api.pr.sape.ru
+
+Function autorizen: 2018.09.11 23:37:26
+Курко: 1425070: PR=e1ca244ecd5bb5efb5d5070a67617e08:4a6d4b012321d7ef6e3ff6e2f0bd346e85b57091; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=012edb08e1fceb8404cbf87d5a11c7ed:ba03c052732a6c07f03b69c7d4d5236907af8223; path=/; domain=api.pr.sape.ru
+Нанопласт: 1300200001: PR=ea6dcd3c40b1d8d1ae1fab8bcffbfabc:6cec45d84e6002b6764de0af5dc0e14a4ce791c8; path=/; domain=api.pr.sape.ru
+
+Function autorizen: 2018.09.11 23:37:31
+Курко: 1425070: PR=e2a5a16685ccf1cebdb91a55d24b4cdb:6818570e1b73ebb13392f527596b9c5900401148; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=79d07ea79053b2bacb31c82a9700d85b:310d2bf5c86b7a02080b9d6837c5912ef69e7b23; path=/; domain=api.pr.sape.ru
+Нанопласт: 1300200001: PR=776036bc01ce1dfd75849d4b1a1d367f:56d11b7c81e6de76c3cf84b8429611dd9800604d; path=/; domain=api.pr.sape.ru
+
+Function autorizen: 2018.09.11 23:37:36
+Курко: 1425070: PR=4e4d29168f540b8231a92dc2279711fd:0c7f43b57b872c0ccebddf63bcb6598bc17bf39f; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=f3b5d2a563418dbff25b7f46c2caaec4:81083de367e60a12b4836cf8ec4bca013133bd75; path=/; domain=api.pr.sape.ru
+Нанопласт: 1300200001: PR=a8e840c80a5134e49d7ce249f268adfb:533876a83dc410b00fa7731b4b09f712e3bf0c54; path=/; domain=api.pr.sape.ru
+
+Function autorizen: 2018.09.11 23:37:41
+Курко: 1425070: PR=f586e9a7fe5cf8e72de77c17eae29a89:132365ce5fe77041ea8e63ff765fd1da1a4580eb; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=74d4df57586fe7682f595bcac4fe4d35:45942e42fbcf0391890fb4b29ffd346960fd5692; path=/; domain=api.pr.sape.ru
+Нанопласт: 1300200001: PR=2b7f105d859351356400c902de5b7f08:3f8cb6205144b95a14c6bb1246f297e4ddfa6027; path=/; domain=api.pr.sape.ru
+
+Function autorizen: 2018.09.11 23:37:46
+Курко: 1425070: PR=b1fadeade362c5db9e5a9ca9a8572dad:3bc3838088f919fa67b96bb2774088c39e3fdf9a; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=d7ef7dcd720f9803c2d5a1498cad0c30:cdec7945c0bbc004c90a675b939e7ca0459b9853; path=/; domain=api.pr.sape.ru
+Нанопласт: 1300200001: PR=66225d0b1b376ae87f9d03cc41e889ab:dd594b6b8dcaf11bcdfe381cf816caae2442135a; path=/; domain=api.pr.sape.ru
+
+Function autorizen: 2018.09.11 23:37:51
+Курко: 1425070: PR=53a52b26ee749d5f27770ad00fc653e6:b61bf0302db73357256711f24aa917309af081d3; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=8b46fa6fabe7ce31f7ba5ccfd9e23291:24c71d3baa22310f9e234fbfe60417ba4643d1f1; path=/; domain=api.pr.sape.ru
+Нанопласт: 1300200001: PR=14bcbf15257371b717fc20372462e138:ce1604a1f8a960b8e5702c28974394fed276ce2d; path=/; domain=api.pr.sape.ru
+
+Function autorizen: 2018.09.11 23:37:58
+Курко: 1425070: PR=1ef946ab9ea255251e95b281e09101d0:e3e0577de124721bc758084c3347c7bce6b3d6b7; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=8081fec04c9627465af974805d6d5b52:448881f7079a53c95251a58611f71f56d07a346a; path=/; domain=api.pr.sape.ru
+Нанопласт: 1300200001: PR=bbb1c910d7e043b1a9c2f9e1c37b2bd1:e6532009498b076381f28ca0b624e8bc5abda275; path=/; domain=api.pr.sape.ru
+
+Function autorizen: 2018.09.11 23:38:03
+Курко: 1425070: PR=2a9f3450394d19bf4158217870173549:5db774272a3815f965b7b7f65d915fb8c2984a85; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=a5e00c941170576f524d088631c5e95b:aef1a8d755dbf5c51640298927d44ab108e33c5e; path=/; domain=api.pr.sape.ru
+Нанопласт: 1300200001: PR=914417c28c9d142fe06f2aed0c454212:b47a7be6dff393d3af8a14e65019e3f414ae15bc; path=/; domain=api.pr.sape.ru
+
+Function autorizen: 2018.09.11 23:38:09
+Курко: 1425070: PR=220a6a0c1c5131b5289417c9358a816f:57bc48648c5fefc1480ff24ae8c09905770414c5; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=036525377fc06e5fc68514201b03de88:ecf83a23e42b0c83b36583ad4c0d738d8c9ed6d1; path=/; domain=api.pr.sape.ru
+Нанопласт: 1300200001: PR=620a4c4f732987cc680dc70da0fdcc09:a9ecf73a4de3473231102625bbc804afab03f317; path=/; domain=api.pr.sape.ru
+
+Function autorizen: 2018.09.11 23:38:14
+Курко: 1425070: PR=460d8162f8f5124f3427d393b904442f:7d860b5dc7d535f835e177762307e551629e26f6; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=b84c1639770b20146df61d088a34c1be:768e6bc4158b11b46ec048d3571d48d4a0a2d218; path=/; domain=api.pr.sape.ru
+Нанопласт: 1300200001: PR=ac2575e43027212a15726e6b5f682766:318590204a064124e99471979743a29aa76828e6; path=/; domain=api.pr.sape.ru
+
+Function autorizen: 2018.09.11 23:38:18
+Курко: 1425070: PR=51d28c928a6bc2eeb63e296eb43d1b79:05fb5bec6cd81ce2241029aa460626a85a9ea18d; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=b5a4f6b7f7193982163b17016d0d3b63:8282a3130dfa6f394d7e84ba5e51650caf473a39; path=/; domain=api.pr.sape.ru
+Нанопласт: 1300200001: PR=263181b34f4c3d5420e5b4e442aca853:3ffa491da63be176c8205b734bea61dcc0c37bbc; path=/; domain=api.pr.sape.ru
+
+Function autorizen: 2018.09.11 23:38:23
+Курко: 1425070: PR=f3a70d7dae39911b6988da9954a5bbb8:656b355c5283c5e75d453e2ace715ef7ef90aa24; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=0ec8ca7c332e0c1437a558caad99bda7:5ba37f28afac075a23a4ce06dd428f423eedc8d9; path=/; domain=api.pr.sape.ru
+Нанопласт: 1300200001: PR=9450d7d08a660c4de773c7950f7a0ee8:65cc38a78b871a9fe7725d3a5e6fe94b22b1ba94; path=/; domain=api.pr.sape.ru
+
+Function autorizen: 2018.09.11 23:38:29
+Курко: 1425070: PR=be297a1ceb07617623ee0051aa71a76f:6012c68933c67c9a64b129894a2ebdb49260502a; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=405f68b9d75cf007afe5abf5c90b7577:94c2f60672044f4ebeace541ca32a65bfadfdfdc; path=/; domain=api.pr.sape.ru
+Нанопласт: 1300200001: PR=5b5b8d251406e970c67c7ed6c0fc7ec6:227a75916159a68912da03fcbbff3a42c8f127b6; path=/; domain=api.pr.sape.ru
+
+Function autorizen: 2018.09.11 23:38:34
+Курко: 1425070: PR=97cdbb121aa027cce47838aa12f82072:12bb0002131f233131419aab21c522dc4bca3c2c; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=d7e4413316402469042a75e7b87ae0f2:98195281f23b3c09994685d386b5714c45c3ecb0; path=/; domain=api.pr.sape.ru
+Нанопласт: 1300200001: PR=4ea00a587ac897aab2428880abfbf248:b89788812e608c7b630ad51efed90d3061443e42; path=/; domain=api.pr.sape.ru
+
+Function autorizen: 2018.09.11 23:38:39
+Курко: 1425070: PR=2ac3851f163054cc4a07237023989b7b:33b4379faa1b2df2be5c5ac578cb09807f7f8b76; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=d43387248c3e40b04317f446ee7d5f33:b7a333a24ba15009dcfb7342b68da65736d5194a; path=/; domain=api.pr.sape.ru
+Нанопласт: 1300200001: PR=e6103c828e3a5f1c809a56e574ad3667:b94b298805bb199fd986861061d3ce8840b0d9e2; path=/; domain=api.pr.sape.ru
+
+Function autorizen: 2018.09.11 23:38:45
+Курко: 1425070: PR=44ee7e3f3558f115aab936e8d35764da:6fad773bca840f648fefd72c375f2574da3d3f8f; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=85b943f4680cff158238c5d0dffe8234:4396aff6002041bb386d5ee59db82cd810e6d34d; path=/; domain=api.pr.sape.ru
+Нанопласт: 1300200001: PR=627fea6e8646dc786eebee420350338d:42f2e4b422f3e5d552a682534111242dc0ff256a; path=/; domain=api.pr.sape.ru
+
+Function autorizen_rota: 2018.09.11 23:38:51
+Антон: true: 6d4dd5a2-5048-44f9-a70e-05e81dd49d4d
+Курко: true: da0a1793-a361-4eb9-865d-35645b2900bc
+Максим: true: 154c2649-a30b-4ff5-9138-af3d281f4485
+Нанопласт: true: e9be170c-8548-4432-b8a7-df35a6e3f465
+Йотобайк: true: ed1e58ec-6d8c-4108-b5a0-fd492d1855f6
+
+Function autorizen: 2018.09.12 00:16:20
+Курко: 1425070: PR=83c82c18a64d8b252e357f9941548e3c:a08b77c8ae07eb962c32f79f54ab69a5285579c3; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=bbe451e17518d1c16dc93dd1b00d44b9:b42b14e824b0537c33929abe8b2bc89a14986048; path=/; domain=api.pr.sape.ru
+Нанопласт: 1300200001: PR=5e14fd3e6978bd5337e0c8b354666cf2:5135e4b6d0f6c8e57fc10f9bd3169ad680d61835; path=/; domain=api.pr.sape.ru
+
