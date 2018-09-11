@@ -4653,31 +4653,3 @@ Function autorizen_rota: 2018.09.06 11:49:09
 Нанопласт: true: e9be170c-8548-4432-b8a7-df35a6e3f465
 Йотобайк: true: ed1e58ec-6d8c-4108-b5a0-fd492d1855f6
 
-Function autorizen: 2018.09.10 23:46:22
-Курко: 1425070: PR=5bff223a0bf03b1ceaa87f299080e22b:a8bad21e0eee8a4dc315a56c42b904c939898c2b; path=/; domain=api.pr.sape.ru
-Максим: 1063824: PR=89bfa5d927f2ea2d0b120090b0554f61:41098299aaad7e969e4ce5bebe8bda85331bb96f; path=/; domain=api.pr.sape.ru
-Нанопласт: 1300200001: PR=71fabde9dea00d9f17f024160d8f3f52:cd81c4eeb4ddf5be47e1182a0b79aae144ec1b1f; path=/; domain=api.pr.sape.ru
-
-Function autorizen: 2018.09.10 23:46:57
-Курко: 1425070: PR=ef21d2a276299f55e8f53ed1f00f6c58:8a520da7ebbb089848a76a3155e18a716c00cb99; path=/; domain=api.pr.sape.ru
-Максим: 1063824: PR=ae3eeee1314c73638b62183ac4e6df69:623f167971f8e15acabaec9085ae3a071bdb80f1; path=/; domain=api.pr.sape.ru
-Нанопласт: 1300200001: PR=6880e89a43435faa91b3a24917001557:3cac05376465012ede8e94ea8bc944311ae65664; path=/; domain=api.pr.sape.ru
-
-Function load_isue: 2018.09.10 23:46:22
-Function autorizen: 2018.09.10 23:58:56
-Курко: 1425070: PR=7603ff4f8892b1a22263c44ddd802779:2b4c279bfcdaaf82e8391436e35a3f3eea3c21a5; path=/; domain=api.pr.sape.ru
-Максим: 1063824: PR=f851c93b6eb5f3ec8a9713babe90d7d2:5db6f61940034de470b1926c75b2b756d66b938f; path=/; domain=api.pr.sape.ru
-Нанопласт: 1300200001: PR=b7776d396fe4eb8d76c5634d9fbd70e2:3d490e67eabfe11d83cda9ee0bcc0b468b8d8e85; path=/; domain=api.pr.sape.ru
-
-Function load_isue: 2018.09.10 23:58:39
-Function autorizen: 2018.09.11 00:00:42
-Курко: 1425070: PR=2b2cbd3e75b05b133b1acb3d4fd3a9e2:de61cd638d295b069ceef8158c6b8d2db2e754e6; path=/; domain=api.pr.sape.ru
-Максим: 1063824: PR=a97afd491129747c45962b8bf4e20952:47d1949ee89c29f4d0d487a114bad5d913841256; path=/; domain=api.pr.sape.ru
-Нанопласт: 1300200001: PR=9d8e5e9e6d9b8591b54cc467dfa8b765:957b16e167518eafea33057a828deba75b61bad8; path=/; domain=api.pr.sape.ru
-
-Function load_isue: 2018.09.11 00:00:29
-Function autorizen: 2018.09.11 00:04:32
-Курко: 1425070: PR=1fbfdf99a6506adf29199f7710e083fc:22a4712fd3451167299d8749977fb362b7d85455; path=/; domain=api.pr.sape.ru
-Максим: 1063824: PR=de6febc58ad6c00abec7ac79543170f0:04585c2fe4b395909e3535efced7fc4a4d7af15e; path=/; domain=api.pr.sape.ru
-Нанопласт: 1300200001: PR=03eaa22e8ce2e7d1ddc5f4d3bc8c9acc:0ea89bfc63e86670a0d09fb79256812bca4656eb; path=/; domain=api.pr.sape.ru
-
