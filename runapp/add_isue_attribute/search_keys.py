@@ -7,6 +7,7 @@ def add_keys_img():
     isue_list = Isue.objects.filter(status_isue='New').order_by('num')
     keys_list = Keys_List.objects.order_by('num')
     for isue in isue_list:
+        print("Поиск картинки",isue.num)
         if isue.key_words != "None":
             continue
         block1 = isue.anchor1
