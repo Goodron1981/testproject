@@ -17,6 +17,7 @@ def finish():
             isue.status_isue = 'Closed'
             isue.save()
         else:
-            isue.status_isue = closeresulte
+            isue.status_isue = 'ErrorClosed'
+            isue.error_massage = closeresulte
             isue.save()
 

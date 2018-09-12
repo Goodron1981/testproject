@@ -7,6 +7,7 @@ STATUS_CHOICES = (
     ("AddUnikal", "ADDUNIKAL"),
     ("AddKey", "ADDKEY"),
     ("New", "NEW"),
+    ("ErrorClosed", "ERROR_CLOSED"),
 )
 
 # verbose_name='full name'
@@ -32,8 +33,9 @@ class Isue(models.Model):
     platform_name = models.CharField(max_length=40, default = 'None', verbose_name= 'Платформа')
     ubdate_date = models.DateTimeField(auto_now=True, verbose_name='Обновлено')
     public_content = models.TextField(default = 'None', verbose_name= 'Контент')
-    public_url = models.CharField(max_length=200, default = 'None', verbose_name='Урл результата')
+    public_url = models.CharField(max_length=250, default = 'None', verbose_name='Урл результата')
     status_isue = models.CharField(max_length=100, default = 'New', choices=STATUS_CHOICES, verbose_name='Статус заявки')
+    error_massage = models.CharField(max_length=250, default='None', verbose_name='Ошибка закрытия')
     # choices=STATUS_CHOICES
 
     def __str__(self):              # __unicode__ on Python 2
@@ -41,13 +43,13 @@ class Isue(models.Model):
 
 
 class IsueAdmin(admin.ModelAdmin):
-
+    '''
     list_display = ('num', 'id_isue', 'site_platform', 'user_platform', 'platform_name', 'public_url', 'ubdate_date', 'status_isue','key_words')
     '''
     list_display = (
     'num', 'id_isue', 'site_platform', 'user_platform', 'platform_name', 'public_url', 'ubdate_date', 'status_isue',
     'anchor1','title_parse','keywords_parse')
-    '''
+
     ordering = ('num',)
     actions = ['make_new']
 
