@@ -31,7 +31,11 @@ def closesape(isue):
         response = requests.post(url=url, data=payload, headers=headers, proxies=proxies)
         validate = response.text.find('faultCode')
         if validate > 0:
-            autorizen()
+            getint = BeautifulSoup(response.text, "lxml")
+            result_block = getint.find_all('int')
+            validate2 = result_block[0].get_text()
+            if validate2 == '403':
+                autorizen()
             acount = Accounts.objects.get(name=username)
             cookies = acount.cookies_sape
             headers['Cookie'] = cookies
