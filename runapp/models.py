@@ -43,13 +43,13 @@ class Isue(models.Model):
 
 
 class IsueAdmin(admin.ModelAdmin):
-
+    '''
     list_display = ('num', 'id_isue', 'site_platform', 'user_platform', 'platform_name', 'public_url', 'ubdate_date', 'status_isue','key_words','error_massage')
     '''
     list_display = (
     'num', 'id_isue', 'site_platform', 'user_platform', 'platform_name', 'public_url', 'ubdate_date', 'status_isue',
     'anchor1','title_parse','keywords_parse')
- '''
+
     ordering = ('num',)
     actions = ['make_new']
 
