@@ -5189,3 +5189,8 @@ Function load_isue: 2018.09.23 15:52:43
 
 Function load_isue_rota: 2018.09.23 15:52:57
 
+Function autorizen: 2018.09.26 07:13:02
+Курко: 1425070: PR=08ee699f47145e65a8348c348520a10e:17c555e42a933201de6e28745d98f96b9dc85a78; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=b3f7e5cbb85c78c7c1acba0180431c54:55b9e2c932f03e9e7f4850da3e951754fa348ed3; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=e0f9282b2831a76325810f6e5cbdccd1:c2fa0ea80705e1b676f2a3d984f4f8f752bc1ba8; path=/; domain=api.pr.sape.ru
+
