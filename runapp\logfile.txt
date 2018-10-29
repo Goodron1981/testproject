@@ -16,3 +16,26 @@ Function load_isue: 2018.10.23 22:54:21
 
 Function load_isue_rota: 2018.10.23 22:54:29
 
+Function autorizen: 2018.10.29 11:23:50
+Курко: 1425070: PR=bc53483459a40ebb6255f952fee1fe88:3f19b85cd5c4adfd8fb584dd3c4f9ca7b4da5c13; path=/; domain=api.pr.sape.ru
+Максим: 1063824: PR=7e29c494813c46e60072bb4a6fac5efd:e9f036d22dab4bc94e07b7348779c6a767e74a0a; path=/; domain=api.pr.sape.ru
+Нанопласт: 1464824: PR=8a7d7f6827a4bcaec38d2ac02db2a66b:8f573903201a1b80b726ef82dcde0e2a40242034; path=/; domain=api.pr.sape.ru
+
+Function autorizen_rota: 2018.10.29 11:25:10
+Антон: true: 9e119cb9-fe99-4928-95bd-3c7b2e96555e
+Курко: true: da0a1793-a361-4eb9-865d-35645b2900bc
+Максим: true: 154c2649-a30b-4ff5-9138-af3d281f4485
+Нанопласт: true: e9be170c-8548-4432-b8a7-df35a6e3f465
+Йотобайк: true: ed1e58ec-6d8c-4108-b5a0-fd492d1855f6
+
+Function autorizen_rota: 2018.10.29 11:26:34
+Антон: true: 9e119cb9-fe99-4928-95bd-3c7b2e96555e
+Курко: true: da0a1793-a361-4eb9-865d-35645b2900bc
+Максим: true: 154c2649-a30b-4ff5-9138-af3d281f4485
+Нанопласт: true: e9be170c-8548-4432-b8a7-df35a6e3f465
+Йотобайк: true: ed1e58ec-6d8c-4108-b5a0-fd492d1855f6
+
+Function load_isue: 2018.10.29 13:16:11
+
+Function load_isue_rota: 2018.10.29 13:16:30
+
