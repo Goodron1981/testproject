@@ -103,4 +103,13 @@ class ExcludestateAdmin(admin.ModelAdmin):
 class Fromproxy(models.Model):
     proxy_val= models.BooleanField(verbose_name= 'Использовать прокси')
 
+class Proxy_List(models.Model):
+    proxy_host = models.CharField(max_length=200, default = 'None', verbose_name= 'Адрес прокси')
+    num = models.IntegerField(default=1, verbose_name='№')
+
+class Proxy_ListAdmin(admin.ModelAdmin):
+    list_display = ('num', 'proxy_host')
+    ordering = ('num',)
+
+
 

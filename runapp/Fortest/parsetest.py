@@ -26,9 +26,13 @@ def getcontent(searchurl):
         # 1. Преобразовать responsetext в Dom структуру Html
         trace = BeautifulSoup(page.data, "html5lib")
         # 2. Отыскать тег body
-        bots = trace.find_all('body')[0]
+        botes = trace.find_all('body')
+        if len(botes)>0:
+            bots = botes[0]
         # 3. Извлечь из body весь текст
-        bebots = bots.get_text()
+            bebots = bots.get_text()
+        else:
+            bebots = "no body"
 
     # bebots = bots.get_text()
     bush = bebots.lower()

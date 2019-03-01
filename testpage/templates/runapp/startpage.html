@@ -36,6 +36,7 @@ $("input[name='Root']")[0].value = $("input[name='Image']")[0].value = $("input[
      }
 });
 }
+
     </script>
 </head>
 <body>
@@ -56,6 +57,18 @@ $("input[name='Root']")[0].value = $("input[name='Image']")[0].value = $("input[
         <input type="text" placeholder="Вторая картинка" name="ExtraImage">
         <input type="text" placeholder="Вторая фраза" name="ExtraKeyword">
         <button onclick="addkey('start','AddKey')">Добавить ключ</button>
+    </div>
+    <div>
+        <p>Пробел</p>
+    </div>
+     <div>
+        <button onclick="sape('start','PublErr')">Публикация сбойных заявок</button>
+    </div>
+    <div>
+        <p>Пробел</p>
+    </div>
+     <div>
+        <button onclick="sape('start','SaveTF')">Сохранить результат в файл</button>
     </div>
 
     <div class="result-block">

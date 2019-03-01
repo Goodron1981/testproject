@@ -4,10 +4,12 @@ from datetime import datetime
 from django.http import HttpResponse
 from django.shortcuts import render
 
+from runapp.LoadOutputData.saveresult import save_result
 from runapp.add_isue_attribute.search_keys import add_keys_img
 from runapp.mainapp.compliter import complete
 from runapp.mainapp.finisher import finish
 from runapp.mainapp.starter import startfirst
+from runapp.publication.error_publication import public_error
 from testpage.models import Urls
 from runapp.add_isue_attribute.list_admin import add_last_key
 
@@ -81,6 +83,10 @@ def startinfo(request):
                     complete()
                 elif method == 'Close':
                     finish()
+                elif method == 'PublErr':
+                    public_error()
+                elif method == 'SaveTF':
+                    save_result()
                 response = HttpResponse("<h3>2.Окончание " + method + " </h3>")
             except BaseException as error:
                 response = HttpResponse("<h3>2.Ошибка " + method + " </h3>")

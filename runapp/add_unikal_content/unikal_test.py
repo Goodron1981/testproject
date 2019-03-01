@@ -25,10 +25,16 @@ def getunikal(content):
         cutcontent = content[:1477]
         url = "http://ahumor.org.ua/textapi.php?text=" + cutcontent
         print("Снова Проверяем: " + url)
+        # todo try catch "bad getaway error"
     response = requests.get(url=url, headers=headers, proxies=proxies)
     time.sleep(2)
     trace = BeautifulSoup(response.text, "lxml")
     result_block = trace.find('p')
     tark = result_block.get_text()
-    result = int(tark.split('.')[0])
+    valid = tark.split('.')
+    if len(valid) > 1:
+        result = int(tark.split('.')[0])
+    else:
+        print(tark)
+        result = '10'
     return result
