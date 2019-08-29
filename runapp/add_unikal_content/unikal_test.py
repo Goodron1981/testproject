@@ -1,40 +1,30 @@
 # Тут будет проверка на уникальность
 import requests
-from bs4 import BeautifulSoup
-import time
-from runapp.models import Fromproxy
+import json
 
 def getunikal(content):
-    isproxy = Fromproxy.objects.get(pk=1).proxy_val
+    url = "https://content-watch.ru/public/api/"
     cutcontent = content[:1477]
-    proxies = {
-        'http': 'http://10.18.7.6:3128',
-        'https': 'http://10.18.7.6:3128',
+    payload = {
+        'action': 'CHECK_TEXT',
+        'text': cutcontent,
+        'key': 'Y1QPlbw8P4ssZ1x',
+        'test': 0,
     }
-    if not isproxy:
-        proxies = None
-    url = "http://ahumor.org.ua/textapi.php?text=" + cutcontent
-    headers = {
-        'Content-Type': "text/xml",
-        'Accept-Charset': "utf-8",
-        'Cache-Control': "no-cache",
-    }
-    # time.sleep(3)
-    if len(url)<39:
-        print("Проверяем: " + url)
-        cutcontent = content[:1477]
-        url = "http://ahumor.org.ua/textapi.php?text=" + cutcontent
-        print("Снова Проверяем: " + url)
-        # todo try catch "bad getaway error"
-    response = requests.get(url=url, headers=headers, proxies=proxies)
-    time.sleep(2)
-    trace = BeautifulSoup(response.text, "lxml")
-    result_block = trace.find('p')
-    tark = result_block.get_text()
-    valid = tark.split('.')
-    if len(valid) > 1:
+
+    # body = payload.encode('utf-8')
+    proxies = None
+
+    response = requests.post(url=url, data=payload, proxies=proxies)
+    if response.status_code == 200:
+        parselist = json.loads(response.text)
+        tark = parselist.get('percent', 'errortext')
         result = int(tark.split('.')[0])
+        errortext = parselist.get('error')
+        print(errortext)
+        if result == "errortext":
+            result = errortext
     else:
-        print(tark)
-        result = '10'
+        result = response.text
+
     return result

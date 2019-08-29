@@ -37,9 +37,10 @@ def parser_attr():
             response = requests.get(url=search_url, headers=headers, proxies=proxies, verify=False)
         except:
             mytext = "Bad request"
+            goop = None
         else:
             mytext = response.text
-        goop = response.encoding
+            goop = response.encoding
         if goop == 'cp1251_general_ci':
             print(goop)
             goop = 'windows-1251'
@@ -50,7 +51,9 @@ def parser_attr():
         # print('Текст ответа: ', response.text)
             try:
                 mytext = mytext.encode(goop).decode('windows-1251')
-            except UnicodeDecodeError or UnicodeEncodeError:
+            except UnicodeDecodeError:
+                mytext = response.text
+            except UnicodeEncodeError:
                 mytext = response.text
         trace = BeautifulSoup(mytext, "html5lib")
         ''''
